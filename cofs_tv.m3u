@@ -1,3 +1,23 @@
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/btvhd.png" group-title="Bangla",BTV
+http://live.cofs.live:8082/BTV-HD/tracks-v1a1/mono.m3u8?token=1ea13ee18dea3b33d9bd8ec671cef763c86e6501-5efb02474cc8c7cfde53526b7463f176-1707500811-1707490011
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/atnbangla.png" group-title="Bangla",ATN Bangla
+http://live.cofs.live:8082/ATN-Bangla/tracks-t1/mono.m3u8?token=29f0ac77cc63cff92982d69b71a5cb920b342ba2-2614c35a542a3799cf5a175a339d1cd1-1707500850-1707490050
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Channel%20i1664976520.png" group-title="Bangla",Channel I
+http://live.cofs.live:8082/Channel-I/tracks-v1a1/mono.m3u8?token=35b2837f41fd529159c49b7cbf8d9d14053dbb6b-80f6df7cd6f4abf30c41e30df19d1142-1707500988-1707490188
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Ntv1664826430.png" group-title="Bangla",NTV
+http://live.cofs.live:8082/NTV/tracks-v1a1/mono.m3u8?token=d1fb965f38ad73bd500f829c295a317be13ea924-dd23219c3f367cad9937fef5eb88e6f6-1707501128-1707490328
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="Bangla",Boishakhi TV
+http://live.cofs.live:8082/Boishakhi-TV/tracks-v1a1/mono.m3u8?token=11ddf0d194ebbeb1519ad91425daf19ef59369c8-bb614659714095ad3c21c5f4e7f05713-1707501332-1707490532
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="Bangla",Boishakhi TV
+http://live.cofs.live:8082/Boishakhi-TV/tracks-v1a1/mono.m3u8?token=11ddf0d194ebbeb1519ad91425daf19ef59369c8-bb614659714095ad3c21c5f4e7f05713-1707501332-1707490532
+
+
+
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Sports",Live Stream 1
 http://live.cofs.live:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=5e50f088b6ea6717b53e659f67360c597472aaf2-347e94a6b601b44dba91ae72303466e5-1707496028-1707485228
 
