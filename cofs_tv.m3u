@@ -22,9 +22,6 @@ http://live.cofs.live:8082/Independent-TV/tracks-v1a1/mono.m3u8?token=b19ee07512
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Masranga1667751530.png" group-title="Bangla",Maasranga TV
 http://live.cofs.live:8082/Maasranga-TV/tracks-v1a1/mono.m3u8?token=87c1f3f83e9cd66ed0494ddda82a986031caaf08-fef53bef90ab0e346c323b36100a8872-1707502924-1707492124
 
-#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Masranga1667751530.png" group-title="Bangla",Maasranga TV
-http://live.cofs.live:8082/Maasranga-TV/tracks-v1a1/mono.m3u8?token=87c1f3f83e9cd66ed0494ddda82a986031caaf08-fef53bef90ab0e346c323b36100a8872-1707502924-1707492124
-
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/DBC1664825292.png" group-title="Bangla",DBC News
 http://live.cofs.live:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=f5de7214071cb88b83c81e9a34f65179d256795f-5504575df51a6e37d5c1356b34e61ca1-1707503112-1707492312
 
@@ -124,3 +121,11 @@ http://live.cofs.live:8082/Star-Select-1/tracks-v1a1/mono.m3u8?token=2b66a74b182
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Star%20Sports%20Select%2021667750897.png" group-title="Sports",Star Sports Select 2 HD
 http://live.cofs.live:8082/Star-Select-2/tracks-v1a1/mono.m3u8?token=e8712b46054c865faa62e4106266f9be2a188fd3-3fa456ddd568571af279dac46926d388-1707497192-1707486392
 
+
+
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Zee%20Cinema%20HD1664974056.png" group-title="Hindi",Zee Bangla Cinema HD
+http://live.cofs.live:8082/Zee-Cinema-HD/tracks-v1a1/mono.m3u8?token=fc5e6402300377d99f1a05e7a418257900a7a72a-631d4ed27503e00797d4a049a7991d95-1707505096-1707494296
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Colors%20TV%20HD1664974042.png" group-title="Hindi",Colors TV 
+http://live.cofs.live:8082/Colors-Asia/index.m3u8?token=cae0017c3b34f28208bd59fc258103af2404d922-7fc4c67eb27c70d3a8f9ba5f726819da-1707505143-1707494343
