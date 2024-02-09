@@ -154,3 +154,24 @@ http://live.cofs.live:8082/Nicke/tracks-v1a1/mono.m3u8?token=3036f9c3cd14e0d4969
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="Kids",Cartoon Network
 http://live.cofs.live:8082/Cartoon-Network/tracks-v1a1/mono.m3u8?token=118e760e0afa9a321b885fc31893ac1c9149d55c-a10649b697225db9070afad222761010-1707505716-1707494916
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Discovery1664975007.png" group-title="Others",Discovery
+http://live.cofs.live:8082/Discovery/tracks-v1a1/mono.m3u8?token=c8300be7136cbb62575e655fbe6bcc49cd826f17-5f3c18a3fc6846ce19ba1c3ca57e4465-1707505784-1707494984
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Romedy%20Now1689427170.png" group-title="Others", Star World
+http://live.cofs.live:8082/Star-World/index.m3u8?token=0697eccd495e05dbeea690921c73c851a192cbbb-1728c75c738eb97867c2963a9ac56dcf-1707505807-1707495007
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Others",History TV
+http://live.cofs.live:8082/History-TV/tracks-v1a1/mono.m3u8?token=d37ee84028a223468e5d91708fc4caa546994ca6-fc9297356b17eb355a8a840b0ebf76ce-1707505893-1707495093
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Animal%20Planet1664974986.png" group-title="Others", Animal Planet
+http://live.cofs.live:8082/Animal-Planet/tracks-v1a1/mono.m3u8?token=a30277f257949b2d6ccb37268a4799e0119345ab-a89650f4ea9ef0307a0a2abd13302410-1707505905-1707495105
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/National%20Geography1664975151.png" group-title="Others", National Geographic
+http://live.cofs.live:8082/Nat-Geo/tracks-v1a1/mono.m3u8?token=4015a4452675d004b95a2aaf4fd8f5dd172ac7b3-ea37d74e2269d7ae295346a6731f7fe3-1707505985-1707495185
+
