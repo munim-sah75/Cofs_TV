@@ -1,0 +1,39 @@
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Sports",Live Stream 1
+http://live.cofs.live:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=5e50f088b6ea6717b53e659f67360c597472aaf2-347e94a6b601b44dba91ae72303466e5-1707496028-1707485228
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Sports",Live Stream 2
+http://live.cofs.live:8082/Live-1/tracks-v1a1/mono.m3u8?token=4307699c6cb783f3948ee7b01aed8c36c2031c81-8539673784b55546f7e37963f96e44e0-1707496066-1707485266
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/TSports%2021668953490.png" group-title="Sports",T Sports
+http://live.cofs.live:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=0af6c47d77bf96585f02a96bef4a9a04db267846-23511636d87e6d32975d8f5795a60ce3-1707496127-1707485327
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/GTV%2031670253750.png" group-title="Sports",Gazi TV
+http://live.cofs.live:8082/GTV/tracks-v1a1/mono.m3u8?token=e0c8bad8ed330f1e7c2203777b48a955c028d74c-08812b3de873d8c0acd268661c319a9e-1707496172-1707485372
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Sony%20TEN%2011667728321.png" group-title="Sports",Sony Ten 1
+http://live.cofs.live:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8?token=6767f06347e11af68ae3dfe6b16eee870aacc3e2-8d02e0eef8dfcdcde5ecc78fdf00c4a4-1707496757-1707485957
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Sony%20TEN%2021667728105.png" group-title="Sports",Sony Ten 2
+http://live.cofs.live:8082/Sony-Ten-2/tracks-v1a1/mono.m3u8?token=d9f1fa404fcaded216a1a9694a5b40601c070a68-39192025a6de2125d52949c174f63404-1707496814-1707486014
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Sony%20TEN%2031667728117.png" group-title="Sports",Sony Ten 3
+http://live.cofs.live:8082/Sony-Ten-3/tracks-v1a1/mono.m3u8?token=1ee73d282ff932fc7b0bd9499fc5b53e0782ec73-c3d6bb5ae7347e7e52b70ce81cc12e3d-1707496921-1707486121
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Sony%20TEN%2051667728306.png" group-title="Sports",Sony Ten 5
+http://live.cofs.live:8082/Sony-Ten-5/tracks-v1a1/mono.m3u8?token=abd45f5fc5d1e3f752cce4a386e41b136201bad8-0aa3f4d819de19eeff26089ad1078c1b-1707496936-1707486136
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Star%20Sports%2011667750523.png" group-title="Sports",Star Sports 1 HD
+http://live.cofs.live:8082/Star-Sports-1/tracks-v1/mono.m3u8?token=a28a3dc30ca741556ea51d9f4562a45d33fc197a-bb21d08caa8027bd24027fc2f58de785-1707497007-1707486207
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Star%20Sports%2021667750538.png" group-title="Sports",Star Sports 2 HD
+http://live.cofs.live:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=89d991a4f41edd6808670da13a735570c8be6f6c-f5b7dca427dbb91a9bce4c234bc36f08-1707497032-1707486232
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/starsports3.png" group-title="Sports",Star Sports 3
+http://live.cofs.live:8082/Star-Sports-3/index.m3u8?token=64bf4941724c4f6a989a96c3d9bafea1b5cc35cc-aae89e8893a04ca51f75cbf4696b6dc9-1707497078-1707486278
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/StarSports%20Select%20HD1667750883.png" group-title="Sports",Star Sports Select 1 HD
+http://live.cofs.live:8082/Star-Select-1/tracks-v1a1/mono.m3u8?token=2b66a74b1829903469a0b3aa3361df2034f5b509-6859eb92718add015a4d3ae7e6e256f5-1707497149-1707486349
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Star%20Sports%20Select%2021667750897.png" group-title="Sports",Star Sports Select 2 HD
+http://live.cofs.live:8082/Star-Select-2/tracks-v1a1/mono.m3u8?token=e8712b46054c865faa62e4106266f9be2a188fd3-3fa456ddd568571af279dac46926d388-1707497192-1707486392
+
