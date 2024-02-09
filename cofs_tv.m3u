@@ -144,3 +144,13 @@ http://live.cofs.live:8082/Star-Movies/tracks-v1a1/mono.m3u8?token=e8bc61a49129e
 
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Sony%20Pix%20HD1667728093.png" group-title="Hindi",Sony PIX HD
 http://live.cofs.live:8082/Sony-PIX/tracks-v1a1/mono.m3u8?token=301950fd2756e5468e797ff642677082a3d17caf-6d98408acc9e6551d0e52061e97a882e-1707505438-1707494638
+
+
+
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Nick%20HD1664976992.png" group-title="Kids",Nick 
+http://live.cofs.live:8082/Nicke/tracks-v1a1/mono.m3u8?token=3036f9c3cd14e0d49699166639ad309e9fc63b01-aca24a0279d9f9fce99692d4e00203a7-1707505598-1707494798
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="Kids",Cartoon Network
+http://live.cofs.live:8082/Cartoon-Network/tracks-v1a1/mono.m3u8?token=118e760e0afa9a321b885fc31893ac1c9149d55c-a10649b697225db9070afad222761010-1707505716-1707494916
+
