@@ -13,8 +13,6 @@ http://live.cofs.live:8082/NTV/tracks-v1a1/mono.m3u8?token=d1fb965f38ad73bd500f8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="Bangla",Boishakhi TV
 http://live.cofs.live:8082/Boishakhi-TV/tracks-v1a1/mono.m3u8?token=11ddf0d194ebbeb1519ad91425daf19ef59369c8-bb614659714095ad3c21c5f4e7f05713-1707501332-1707490532
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="Bangla",Boishakhi TV
-http://live.cofs.live:8082/Boishakhi-TV/tracks-v1a1/mono.m3u8?token=11ddf0d194ebbeb1519ad91425daf19ef59369c8-bb614659714095ad3c21c5f4e7f05713-1707501332-1707490532
 
 
 
