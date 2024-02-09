@@ -13,6 +13,74 @@ http://live.cofs.live:8082/NTV/tracks-v1a1/mono.m3u8?token=d1fb965f38ad73bd500f8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="Bangla",Boishakhi TV
 http://live.cofs.live:8082/Boishakhi-TV/tracks-v1a1/mono.m3u8?token=11ddf0d194ebbeb1519ad91425daf19ef59369c8-bb614659714095ad3c21c5f4e7f05713-1707501332-1707490532
 
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/SomoyTV1689411430.png" group-title="Bangla",Somoy TV
+http://live.cofs.live:8082/Somoy-News/index.m3u8?token=c8eb0fff69b3dc3f7d0f7c2adb4f73b337049119-36a229057e62b4caf29b820527b72ac1-1707502705-1707491905
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/independenttv.png" group-title="Bangla",Independent TV
+http://live.cofs.live:8082/Independent-TV/tracks-v1a1/mono.m3u8?token=b19ee07512dc81a2446429d9155662858d65251a-9c63136071ccd9f12815352108f8d805-1707502811-1707492011
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Masranga1667751530.png" group-title="Bangla",Maasranga TV
+http://live.cofs.live:8082/Maasranga-TV/tracks-v1a1/mono.m3u8?token=87c1f3f83e9cd66ed0494ddda82a986031caaf08-fef53bef90ab0e346c323b36100a8872-1707502924-1707492124
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Masranga1667751530.png" group-title="Bangla",Maasranga TV
+http://live.cofs.live:8082/Maasranga-TV/tracks-v1a1/mono.m3u8?token=87c1f3f83e9cd66ed0494ddda82a986031caaf08-fef53bef90ab0e346c323b36100a8872-1707502924-1707492124
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/DBC1664825292.png" group-title="Bangla",DBC News
+http://live.cofs.live:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=f5de7214071cb88b83c81e9a34f65179d256795f-5504575df51a6e37d5c1356b34e61ca1-1707503112-1707492312
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="Bangla",RTV
+http://live.cofs.live:8082/RTV/index.m3u8?token=4d58aba15adb80cb03f697153503fe893c3f9df0-c0d25507734b7a91a795122a6db2a38f-1707503172-1707492372
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Nagorik1680260468.png" group-title="Bangla",Nagorik TV
+http://live.cofs.live:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=357591326adf480fe9d9508b410d1615ed294904-d149bfe81d026023857e36340612fc21-1707503215-1707492415
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/atnnews.png" group-title="Bangla", ATN News
+http://live.cofs.live:8082/Atn-News/tracks-v1a1/mono.m3u8?token=165b65431fb9e9011ea2d91dce11e17689619f40-d77107a67a9fc2fd7f4242fe028fee91-1707503335-1707492535
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/ekattortv.png" group-title="Bangla", Ekattor TV
+http://live.cofs.live:8082/Ekattor-TV/tracks-v1a1/mono.m3u8?token=441081482804190fd0b4b45c7489d61a5d941a32-8e2a3fabdc8b0bc7b62dda41d3ba1321-1707503625-1707492825
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/SA%20Tv1664826606.png" group-title="Bangla", SA TV
+http://live.cofs.live:8082/SA-TV/tracks-v1a1/mono.m3u8?token=ef6002aa4a7cf8ca094185ebe8e3732992331eeb-4fd2118af8c325a59ca260241aae52ca-1707503761-1707492961
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Jamuna%20Tv1664825738.png" group-title="Bangla",Jamuna TV
+http://live.cofs.live:8082/Jamuna-TV/tracks-v1a1/mono.m3u8?token=88f747ea3449a61ff426fd75e5bf4b1b687625fc-a5a1f53960790976386192ce8df2fc41-1707503818-1707493018
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Channel%20241664824751.png" group-title="Bangla", Channel 24
+http://live.cofs.live:8082/Channel-24/tracks-v1a1/mono.m3u8?token=85a14079e256d547b5d7e5573a0fb0b63de19905-4e47f8f14c7e22392da7d00cf10f02eb-1707503876-1707493076
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/ekhontv.png" group-title="Bangla", Ekhon TV
+http://live.cofs.live:8082/Ekhon-TV/index.m3u8?token=e7d8677bd09a3c6c2b18b7774a28468dd74f4d54-e8c2de0dc99f5353175d6fadfcc3140a-1707503929-1707493129
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/News%20241664826177.png" group-title="Bangla", NEWS 24
+http://live.cofs.live:8082/News-24/tracks-v1a1/mono.m3u8?token=30f53783666bf1cadaa5425939aec77b0d666cc8-dce2ab31407f9c8f2efb209cf1c0de58-1707504091-1707493291
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Desh%20Tv1664825354.png" group-title="Bangla", Desh TV
+http://live.cofs.live:8082/Desh-TV/tracks-v1a1/mono.m3u8?token=018623a83cfe2c234b9391c84337a1dde6a57776-34e9dac8cdff0126fbd7c3b411dcf6e0-1707504178-1707493378
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/My%20Tv1664826055.png" group-title="Bangla", My TV
+http://live.cofs.live:8082/My-TV/index.m3u8?token=9260cdc0e759975f60c7e35f405f44cac659cd41-fba5178398f8f92e073c35fe7cd1c461-1707504234-1707493434
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Sony%20Aath1667728032.png" group-title="Bangla", Sony Aath
+http://live.cofs.live:8082/Sony-Aath/tracks-v1a1/mono.m3u8?token=92c7e6f25dead8df650f3a7afd5fbb8462a3ed44-43317c99cdf1ec32cda43f285ffa013f-1707504312-1707493512
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Zee%20Bangla1664976875.png" group-title="Bangla", Zee Bangla
+http://live.cofs.live:8082/Zee-Bangla/tracks-v1a1/mono.m3u8?token=58bec40ba9091619dbe492df19eacac3755b7f62-40e5dba08adde4a974766757e376eede-1707504392-1707493592
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Star%20Jalsha1664976894.png" group-title="Bangla", Star Jalsha
+http://live.cofs.live:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=fe2959ae237d98a64d1639fec589cb1bfc731ace-454a585198d47b40fa3023e3dac7ca4b-1707504447-1707493647
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Jalsha%20Movies1664976818.png" group-title="Bangla", Jalsha Movies HD
+http://live.cofs.live:8082/Jalsha-Movies/tracks-v1a1/mono.m3u8?token=02f6807b1a1ed7f6bc2d38f20f9269b264675ae4-39ad534d2164db4a5cbefd1451b99f02-1707504706-1707493906
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Colors%20Bangla1664976841.png" group-title="Bangla", Colors Bangla
+http://live.cofs.live:8082/Colors-Bangla/tracks-v1a1/mono.m3u8?token=f7b6b065cce871f3e1303bebe6c0fedc4e007b43-bcde99f536e0d49a0d6e86ba965170c3-1707504796-1707493996
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/sangeetbangla.png" group-title="Bangla", Sangeet Bangla
+http://live.cofs.live:8082/Sangeeet-Bangla/tracks-v1a1/mono.m3u8?token=ade86515224632cfb3faa75e920504d7b4681e1a-035b86a00995abbce89e3c2f3e95011c-1707504837-1707494037
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Zee%20Bangla%20Cinema1664976800.png" group-title="Bangla", Zee Bangla Cinema
+http://live.cofs.live:8082/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8?token=4368cad7330fbcae071a224ab1ba73c079d2e482-1438c39c754cc7d0853511b21784a9e6-1707504884-1707494084
 
 
 
