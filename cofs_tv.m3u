@@ -124,8 +124,23 @@ http://live.cofs.live:8082/Star-Select-2/tracks-v1a1/mono.m3u8?token=e8712b46054
 
 
 
-#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Zee%20Cinema%20HD1664974056.png" group-title="Hindi",Zee Bangla Cinema HD
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Zee%20Cinema%20HD1664974056.png" group-title="Hindi",Zee Cinema HD
 http://live.cofs.live:8082/Zee-Cinema-HD/tracks-v1a1/mono.m3u8?token=fc5e6402300377d99f1a05e7a418257900a7a72a-631d4ed27503e00797d4a049a7991d95-1707505096-1707494296
 
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Colors%20TV%20HD1664974042.png" group-title="Hindi",Colors TV 
 http://live.cofs.live:8082/Colors-Asia/index.m3u8?token=cae0017c3b34f28208bd59fc258103af2404d922-7fc4c67eb27c70d3a8f9ba5f726819da-1707505143-1707494343
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Sony%20Entertainment1667728144.png" group-title="Hindi",Sony Television HD
+http://live.cofs.live:8082/Sony-Hd-Live/tracks-v1a1/mono.m3u8?token=96bdaa872ecf2acb414e1312052cfd0d81405d4d-2a6b891f7d832e6927a29872e5d8d470-1707505230-1707494430
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Sony%20Max%20HD1667728133.png" group-title="Hindi",Sony Max HD
+http://live.cofs.live:8082/Sony-MAX-HD/tracks-v1a1/mono.m3u8?token=d8f8a1b29bb6da1af5f03680ebce1c6f41e6897b-81abb4ab4dd11d87c04f36855e479597-1707505248-1707494448
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Star%20Gold1667751269.png" group-title="Hindi",Star Gold Thrills
+http://live.cofs.live:8082/Star-Gold/tracks-v1a1/mono.m3u8?token=edac37e06dee46aa2d8760797e231a9450ee1c20-dc0c89083546eb1d54dec0c079def6da-1707505313-1707494513
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Star%20Movies1667751377.png" group-title="Hindi",Star Movies
+http://live.cofs.live:8082/Star-Movies/tracks-v1a1/mono.m3u8?token=e8bc61a49129eb014ba0ebeb2f50b1edce102655-b431b990ef6490e9023d1d895822aec1-1707505365-1707494565
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Sony%20Pix%20HD1667728093.png" group-title="Hindi",Sony PIX HD
+http://live.cofs.live:8082/Sony-PIX/tracks-v1a1/mono.m3u8?token=301950fd2756e5468e797ff642677082a3d17caf-6d98408acc9e6551d0e52061e97a882e-1707505438-1707494638
