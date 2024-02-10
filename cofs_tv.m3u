@@ -1,3 +1,21 @@
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 1
+http://live.cofs.live:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=91480694263da4d07839d452d75a331fe44c4e73-bd61be6e702915c3c0e1b4e0b19a1744-1707567113-1707556313
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
+http://live.cofs.live:8082/GTV/tracks-v1a1/mono.m3u8?token=d5f687ec05a00f19b2f9f3f9edf8a2d87540c232-c179adc5b2c13fa821eb9c8f9730c528-1707567145-1707556345
+
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 3
+http://live.cofs.live:8082/ATN-Bangla/tracks-v1/mono.m3u8?token=465da544fd280a6e428242ce79831a6824673660-ed7f82c79f9892638f15f0fdcda43b5a-1707502353-1707491553
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/btvhd.png" group-title="Bangla",BTV
 http://live.cofs.live:8082/BTV-HD/tracks-v1a1/mono.m3u8?token=1ea13ee18dea3b33d9bd8ec671cef763c86e6501-5efb02474cc8c7cfde53526b7463f176-1707500811-1707490011
 
