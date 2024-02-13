@@ -91,9 +91,6 @@ http://live.cofs.live:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=fe2959ae237d9
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Jalsha%20Movies1664976818.png" group-title="Bangla", Jalsha Movies HD
 http://live.cofs.live:8082/Jalsha-Movies/tracks-v1a1/mono.m3u8?token=02f6807b1a1ed7f6bc2d38f20f9269b264675ae4-39ad534d2164db4a5cbefd1451b99f02-1707504706-1707493906
 
-#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/Colors%20Bangla1664976841.png" group-title="Bangla", Colors Bangla
-http://live.cofs.live:8082/Colors-Bangla/tracks-v1a1/mono.m3u8?token=f7b6b065cce871f3e1303bebe6c0fedc4e007b43-bcde99f536e0d49a0d6e86ba965170c3-1707504796-1707493996
-
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/sangeetbangla.png" group-title="Bangla", Sangeet Bangla
 http://live.cofs.live:8082/Sangeeet-Bangla/tracks-v1a1/mono.m3u8?token=ade86515224632cfb3faa75e920504d7b4681e1a-035b86a00995abbce89e3c2f3e95011c-1707504837-1707494037
 
