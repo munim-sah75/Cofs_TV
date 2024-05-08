@@ -102,6 +102,9 @@ http://cdn01.palki.tv/live/News24-M/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png",NTV [Palki]
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
 
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png",RTV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w748417647.m3u8
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg",Somoy TV [Palki]
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 
