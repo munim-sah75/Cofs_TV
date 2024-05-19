@@ -164,10 +164,10 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLtHgwSV/Logo-Global-Television.png" group-title="Dish TV", Global TV
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="Dish TV", Nexus TV
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="Dish TV", Nexus TV
 http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png" group-title="Dish TV", Gaan Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="Dish TV", Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qTZLLY3/4imblNY.jpg" group-title="Dish TV", Mohona TV
@@ -288,7 +288,8 @@ http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
 
 
 
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/_Bangla.svg/1200pxATN_Bangla.svg.png",ATN Bangla
+https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png",Banglavision HD
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
