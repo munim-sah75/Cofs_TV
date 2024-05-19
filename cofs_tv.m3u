@@ -146,6 +146,9 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgoDYx8mJlRjXiecqwbbe5Ck75P5TY3wqqmu70xra-cg&s",Ekhon TV (yt)
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiLCO-M0O7QV4okY6QhRMhQ2FLUbT8NOGV_Bqkc8IkEN8W9A_J1ZgMg&s",Nagorik Tv
+https://bdixtv247.techpriyo.com/m3u/jadolist2.php?id=nagorik_tv
+
 #EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.postimg.cc/fLrwFw4Q/Green-TV.jpg",Green TV 
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 
@@ -167,9 +170,98 @@ http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png" group-title="TV Alike", Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qTZLLY3/4imblNY.jpg" group-title="Palki.tv", Mohona TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qTZLLY3/4imblNY.jpg" group-title="TV Alike", Mohona TV
 http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
 
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyjD9bH2qN6wkuU6KBipEF6FBN00-qyzAhA&s",Al Quran Ul Kareem
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjQgOToyMToyNSBQTSZoYXNoX3ZhbHVlPW8zRHM0ZlJwaWRvd1k0N2VPUmx0REE9PSZ2YWxpZG1pbnV0ZXM9NDA=
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV
+https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports(auto quality)
+https://humsab.xyz/GBanTv/index.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.ibb.co/kqPYFL1/IMG-20240129-071541.png",Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqXbUvecxGyt6x-KXLXtgQIC2W7xAwgn9ZZwryv4w85VdaTTop26cA4E&s",National Geography Wild
+http://xtv.ooo:8080/RiyazMPT/433833/109976
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJLYfd61hnlOlHZygvqPkNuzavH17vhclCw&s",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIbA7j7KolVe7K4RLssvjmUgkHAg7jE6Tn5eonrr7xHQ&s",Sony BBC Earth
+http://watchindia.net:8880/live/83023/62335/789.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQse8o46jzAUKwQ3LNcpwBan0crIL-J5Sbwhfhe3lJydw&s",Sony Aath(watch india)
+http://watchindia.net:8880/live/69354/82115/2286.ts
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQse8o46jzAUKwQ3LNcpwBan0crIL-J5Sbwhfhe3lJydw&s",Sony Aath(star share)
+http://starshare.live:8080/Michelle123/Michelle123/4083
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies HD (720p)
+http://starshare.live:8080/12346/12346/23304
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzql2ho7Uf6NZB1pMeW_4wMIaNiqDvzC8BA&s",Jalsha Movies HD(Auto quality)
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbG9ChD2/CjIopW5.jpg" group-title="TV Alike", Jalsha Movies HD 3
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=9592&deviceMac=00:1A:79:82:85:F0
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",Zee Bangla Cinema
+http://xtv.ooo:8080/RiyazMPT/433833/245897
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",Zee Bangla Cinema
+http://humsab.xyz/IN_ZEBC/mpegts?token=6043dc515e37b76bddc2f61351d41cd5
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqboVHNgHDgABF03Yt8RqTfU3VKqS96TJJ03_VGaFO_fNUtoNyi5Q9ASo&usqp=CAE&s",Colours Bangla Cinema
+http://starshare.live:8080/Jenny/Jenny/271038
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDGpIMsiU6FUeP9vZvUmOY7FkCjFTSM_yOzb3f6CujupjCpA7w6xjSg&s",& picture
+http://xtv.ooo:8080/live/shahz18/18usman/66181.ts
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s",Sony max
+http://103.120.172.74:1150
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4Q1jBKXS-6YeoOgfMs2KwgPlVUqgcQmq9g2WoIBhhXv3wLXY5MYgA8Q&s",Zee Cinema
+http://103.120.172.74:4100
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold
+http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5hDA3PGbVxNsB208GxMHPud5_SMp-G6uJTeUkCQqjJBEgoE1m_HXalA&usqp=CAE&s",Star Gold select
+http://xtv.ooo:8080/live/shahz18/18usman/109960.ts
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizyJWcut8jUoR1-MvlvjMeR_FdSm3ZYZ9I0VR2e0SQA&s",Colour Cineplex
+http://170.254.18.107/CINEPLEX/index.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ObRRpvGSAXRHcnEBpVGfmXGefE2r8liQEQ&s",B4U Movies
+http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTkXKNjwMTBzeEt-5U9Erf0U0lAPhDDzmkw&s",Bflix Movies
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SFqZdPm/PIX-HD-WHITE.png" group-title="TV Alike", Sony Pix HD
+http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT1bzH7G/ee32FsS.png" group-title="TV Alike", PixL TV
+https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkb5_6JeuPLEMiGTEbxrZgiaKRw6v3CejpB0nz8GBXg&s",Star Movies
+http://148.113.5.31:8106/play/a00o/index.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIcqSQsgdeBxBlsg0tU6k2rgp0FBs6b7ndZ4ur2ZK6SzsUVeVWckbqQJw&s",Star Movies Select
+http://xtv.ooo:8080/live/shahz18/18usman/66315.ts
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG-20240129-064856.jpg",DD National
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rm81zcwJA7WdOif4Z9ff14uzeXJulw7XRE3-DY9vuA&s",Peace tv Bangla
+http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
 
 
 
