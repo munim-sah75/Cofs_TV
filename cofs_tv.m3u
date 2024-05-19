@@ -68,20 +68,88 @@ http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
 #EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHKPUnaCZXeHX4OaFO4vti6K4HBe7iuq2b3OUOArzFw&s",BanglaVision HD (yt)
 https://ythls.armelin.one/channel/UCAIEufoszs1J38-pKECORRg.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNVjKxsD/Deshtv.png" group-title="TV Alike", Desh TV
+http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv
+http://starshare.live:8080/12346/12346/394
 
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
+https://myflixbd.com/0.m3u8
 
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i0.wp.com/seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png?w=640&ssl=1",Atn news
+http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg",Somoy TV 
+https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t1_r480001.m3u8
 
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRillCesJ5t8YpvS8yWJRIjviOK_H8Kx83Y1x0xUJUfWA&s",Somoy TV (yt)
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7DMYp48wGiXBdVaXTf4BxgDSnA7Es1t48aHhafqvyA&s",Independent tv (yt)
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png",Independent TV 
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdWQmcw2/Channel9.jpg" group-title="TV Alike", Channel 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="TV Alike",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="Bangla",Deepto TV
+EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-P2E4reX0kkyJEFvBBSlhuQvTRaw72dyZxtu_hq32SA&s",Channel 24 (yt)
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s900-c-k-c0x00ffffff-no-rj",Channel 24
+http://cdn01.palki.tv:80/live/Channel24-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9onPiJrCa8R-O8pKSUnmcQ0NWctrsgvQfp70tTCVjdnss51-nPAijxsk&s",Gtv(Star share)
+http://starshare.live:8080/Jenny/Jenny/767
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtDj64NVsFvXWSjHBnlgPnCbldekdqjlas5EswWPbGw&s",Ekattor TV (yt)
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png",Ekattor TV
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",SA TV
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jbY6Cg3/fxq0pV2.png" group-title="TV Alike", Asian TV
+https://mtlivestream.site/asian/ytlive/index.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.postimg.cc/W1Gyczj1/ds3aThu_2.jpg",Jamuna TV 
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZC5m49WSZvGEwikPAVlWDwFkVrS75Mg_9ruGXsx0BwQ&s",Jamuna tv (yt)
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="TV Alike",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWRguVOvSbn2q9BChvaLQwgW05dWlSgYwLTk8KA674g&s",News24 (yt)
+https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
