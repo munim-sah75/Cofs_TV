@@ -131,6 +131,47 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWRguVOvSbn2q9BChvaLQwgW05dWlSgYwLTk8KA674g&s",News24 (yt)
 https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M9LfKy2/IMG-20240126-084529.jpg" group-title="TV Alike",News 24 HD
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRIEtNvkRdFMCymQRtjQVg0E4oKEsPbt4HShSE6LzpQ&s",DBC News (yt)
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.postimg.cc/43dZL7vq/djAX8Rc.png",DBC News 
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png",Ekhon TV 
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgoDYx8mJlRjXiecqwbbe5Ck75P5TY3wqqmu70xra-cg&s",Ekhon TV (yt)
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.postimg.cc/fLrwFw4Q/Green-TV.jpg",Green TV 
+https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="TV Alike" tvg-logo="https://i.ibb.co/Gt1zkqS/IMG-20240129-063013.png",Bangla TV
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+
+#EXTINF:-1 group-title="TV Alike"tvg-logo="https://i.ibb.co/bvJByBV/IMG-20240126-112413.jpg",Bijoy TV
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg" group-title="TV Alike", Ananda TV
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLtHgwSV/Logo-Global-Television.png" group-title="TV Alike", Global TV
+http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="TV Alike", Nexus TV
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png" group-title="TV Alike", Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qTZLLY3/4imblNY.jpg" group-title="Palki.tv", Mohona TV
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+
+
+
 
 
 
