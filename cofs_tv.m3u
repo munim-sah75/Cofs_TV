@@ -39,8 +39,11 @@ http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.postimg.cc/1tx4Nqw8/Ekushey-TV.jpg",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="Dish TV", NTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="Dish TV", NTV [Palki]
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
+
+#EXTINF:-4 tvg-logo="https://i.ibb.co/xD1kRkg/20240508-132703.png"group-title="Dish TV",NTV
+https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/jfcMK4H/image-search-1713977726315.png",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w748417647.m3u8
