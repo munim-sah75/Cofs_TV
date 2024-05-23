@@ -220,6 +220,9 @@ http://xtv.ooo:8080/RiyazMPT/433833/245897
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",Zee Bangla Cinema
 http://humsab.xyz/IN_ZEBC/mpegts?token=6043dc515e37b76bddc2f61351d41cd5
 
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",Zee Bangla Cinema
+http://tv.cloudcdn.me/live.ts?channelId=119&uid=12693&deviceMac=00:1A:79:2C:7A:34
+
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqboVHNgHDgABF03Yt8RqTfU3VKqS96TJJ03_VGaFO_fNUtoNyi5Q9ASo&usqp=CAE&s",Colours Bangla Cinema
 http://starshare.live:8080/Jenny/Jenny/271038
 
