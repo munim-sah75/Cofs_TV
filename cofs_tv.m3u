@@ -1,8 +1,7 @@
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 1
 http://113.212.111.246:8080/hls/col12.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
-https://fightprofleague.akamaized.net/hls/live/2111367/pfl2024/master.m3u8
+
 
 
 
