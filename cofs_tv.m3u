@@ -45,9 +45,6 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="Dish TV", NTV [Palki]
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="Dish TV", NTV
-http://tv.cloudcdn.me/live.ts?channelId=109&uid=12693&deviceMac=00:1A:79:2C:7A:34
-
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/jfcMK4H/image-search-1713977726315.png",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w748417647.m3u8
 
@@ -66,8 +63,8 @@ https://ythls.armelin.one/channel/UCAIEufoszs1J38-pKECORRg.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s" group-title="Dish TV", Desh TV
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv
-http://starshare.live:8080/12346/12346/394
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv(yt)
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
 https://myflixbd.com/0.m3u8
@@ -234,23 +231,11 @@ http://195.26.87.217/live.ts?channelId=139&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s",Sony max
 http://xtv.ooo:8080/adnankb2006/86057314/66179
 
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s",Sony max FHD
-http://tv.cloudcdn.me/live.ts?channelId=184&uid=12693&deviceMac=00:1A:79:2C:7A:34
-
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4Q1jBKXS-6YeoOgfMs2KwgPlVUqgcQmq9g2WoIBhhXv3wLXY5MYgA8Q&s",Zee Cinema
-http://103.120.172.74:4100
-
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4Q1jBKXS-6YeoOgfMs2KwgPlVUqgcQmq9g2WoIBhhXv3wLXY5MYgA8Q&s",Zee Cinema
-http://tv.cloudcdn.me/live.ts?channelId=12359&uid=12693&deviceMac=00:1A:79:2C:7A:34
+http://humsab.xyz/IN_ZeeCinemaHD/index.m3u8?token=32612bc231846c5791d9cea7c6e52f34
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold
 http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold
-http://tv.cloudcdn.me/live.ts?channelId=196&uid=12693&deviceMac=00:1A:79:2C:7A:34
-
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold 2
-http://tv.cloudcdn.me/live.ts?channelId=33165&uid=12693&deviceMac=00:1A:79:2C:7A:34
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5hDA3PGbVxNsB208GxMHPud5_SMp-G6uJTeUkCQqjJBEgoE1m_HXalA&usqp=CAE&s",Star Gold select
 http://xtv.ooo:8080/live/shahz18/18usman/109960.ts
@@ -278,9 +263,6 @@ http://xtv.ooo:8080/live/shahz18/18usman/66315.ts
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG-20240129-064856.jpg",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG-20240129-064856.jpg",DD Bangla
-http://tv.cloudcdn.me/live.ts?channelId=36290&uid=12693&deviceMac=00:1A:79:2C:7A:34
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rm81zcwJA7WdOif4Z9ff14uzeXJulw7XRE3-DY9vuA&s",Peace tv Bangla
 http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
