@@ -246,6 +246,12 @@ http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5hDA3PGbVxNsB208GxMHPud5_SMp-G6uJTeUkCQqjJBEgoE1m_HXalA&usqp=CAE&s",Star Gold select
 http://xtv.ooo:8080/live/shahz18/18usman/109960.ts
 
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILqELjs1VxbIHeGHKrmXxQXE7MSFLsTIRiobUE2M5_cAwO8OmYTfNJyg&s",Star Gold Thrills
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=155996&extension=ts&play_token=uuRCjwbhZb
+
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxPbPrzR-sKzubBTs_s8JQHN7A3LL5PECS0mbynEknw&s",Star Gold Romance
+http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=156033&extension=ts&play_token=iDtXmdOCH2
+
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizyJWcut8jUoR1-MvlvjMeR_FdSm3ZYZ9I0VR2e0SQA&s",Colour Cineplex
 http://170.254.18.107/CINEPLEX/index.m3u8
 
