@@ -21,6 +21,9 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s" group-title="Dish TV", BTV [Palki]
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s" group-title="Dish TV", BTV
+http://filex.tv:8080/live/mndr111/mndr111/288255.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg" group-title="Dish TV", BTV World [Palki]
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 
@@ -73,10 +76,10 @@ https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 https://myflixbd.com/0.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i0.wp.com/seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png?w=640&ssl=1",Atn news
-http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
+http://starshare.live:8080/live/Michelle123/Michelle123/427.ts
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg",Somoy TV 
-https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t1_r480001.m3u8
+http://homeip.biz/BD_SOMOYNEWSTV/index.m3u8?token=8b79924c3d3acc7f7e64e077887fa31d
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRillCesJ5t8YpvS8yWJRIjviOK_H8Kx83Y1x0xUJUfWA&s",Somoy TV (yt)
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
@@ -88,7 +91,7 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdWQmcw2/Channel9.jpg" group-title="Dish TV", Channel 9
-http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Dish TV",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
