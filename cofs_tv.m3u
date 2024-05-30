@@ -33,7 +33,7 @@ http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3KgmRJn/Bangladesh-Television-Chittagong-Logo.png" group-title="Dish TV", BTV Chattogram [Palki]
 http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png",ATN Bangla 
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png",ATN Bangla [JagoBD]
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png" group-title="Dish TV", ATN Bangla [Palki]
@@ -41,6 +41,9 @@ http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png",Channel i HD
 https://stream.rockstreamer.com/live/121212.m3u8
+
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png",Channel i HD [JagoBD]
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QyXD8yp/p0I5dr0.png" group-title="Dish TV", Channel I [Palki]
 http://cdn01.palki.tv/live/Channeli-M/index.m3u8
@@ -54,8 +57,11 @@ http://cdn01.palki.tv/live/NTV-M/index.m3u8
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/jfcMK4H/image-search-1713977726315.png",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w748417647.m3u8
 
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/264px-Boishakhi_TV_logo.svg.png",Boishakhi TV [JagoBD]
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/264px-Boishakhi_TV_logo.svg.png",Boishakhi TV
-https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjQgNDo1MzoyOCBQTSZoYXNoX3ZhbHVlPWc3TzEzajl4TDl2dVNDWGUzT0o2R3c9PSZ2YWxpZG1pbnV0ZXM9NDA=
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png",Banglavision HD
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
