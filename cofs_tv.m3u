@@ -2,7 +2,7 @@
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
-http://113.212.111.246:8080/hls/col12.m3u8
+http://live.cofs.live:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=79ac3d4f7068161272a5c43b1df46be4d48bfdfd-56c797cf707812f43954649942735e38-1717268484-1717257684
 
 
 
@@ -151,7 +151,7 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiLCO-M0O7QV4okY6QhRMhQ2FLUbT8NOGV_Bqkc8IkEN8W9A_J1ZgMg&s",Nagorik Tv
-https://bdixtv247.techpriyo.com/m3u/jadolist2.php?id=nagorik_tv
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.postimg.cc/fLrwFw4Q/Green-TV.jpg",Green TV 
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
