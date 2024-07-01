@@ -4,6 +4,9 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
 https://jio.dinesh29.com.np/live/jio-universal/sony-ten-5-hd-bengali/index.ts
 
+#EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
+https://jio.dinesh29.com.np/live/jio-universal/sony-ten-5-hd-bengali/index.ts
+
 
 
 
