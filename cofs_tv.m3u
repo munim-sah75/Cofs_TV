@@ -60,7 +60,10 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="Dish TV", NTV [Palki]
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="Dish TV", NTV
+#EXTINF:-1 tvg-id=""tvg-group="Dish TV"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV BD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="Dish TV", NTV(yt)
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/jfcMK4H/image-search-1713977726315.png",RTV
@@ -182,6 +185,9 @@ http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="Dish TV", Nexus TV
 http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-group="Dish TV"tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",Nexus Tv
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NexusTelevisionLive
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="Dish TV", Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
