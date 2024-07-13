@@ -443,3 +443,7 @@ http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/PfS61dd3/fraEjzm.png",SATV [Palki]
 http://cdn01.palki.tv/live/SATV-M/index.m3u8
+
+
+#EXTINF:-1 xui-id="3058" tvg-id="Jalsha Movies" tvg-name="JALSHA MOVIES SD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFhy6JK9EpfEJoPykiAWA-Y-qk6DyJMZHoycbZQnugb1DQbUPMIx1__yK3kNGNuJac.png" group-title="IND | Bangla",JALSHA MOVIES SD
+https://s.id/Ferdos-Live-Tv-Jalsha-movies-sd-m3u8
