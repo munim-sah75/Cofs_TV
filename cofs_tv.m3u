@@ -369,6 +369,9 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Cricket Gold",Cricket gold TV
+https://jmp2.uk/SamsungTVPlus/IN1300001NN.m3u8
+
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/mZ8jzvVN/BTV.png",BTV [Palki]
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
