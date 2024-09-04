@@ -46,7 +46,7 @@ http://xtv.ooo:8080/live/Behraam223/8237588/245909.ts
 http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png",Channel i HD
-https://channel-i-tv.rockstreamer.com/chlive/121212/playlist.m3u8
+https://bitrate.rockstreamer.com:30443/chlive/121212/playlist.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png",Channel i HD [JagoBD]
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
