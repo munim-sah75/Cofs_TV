@@ -25,7 +25,7 @@ https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8?expires=1721451135&m
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s" group-title="Dish TV", BTV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/live-orgin/Btv-g.stream/chunks.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8?nimblesessionid=371051450
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg" group-title="Dish TV", BTV World [Palki]
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
@@ -220,7 +220,7 @@ https://ythls-v3.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports(auto quality)
-https://humsab.xyz/GBanTv/index.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1727805161&md5=NSz_yReTUhZmUJdyhN_HvA&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 http://flbl16.112421.net:8082/333392/index.m3u8?token=YCLJ8ENQ8D
@@ -265,7 +265,7 @@ http://tv.cloudcdn.me/live.ts?channelId=117&uid=9592&deviceMac=00:1A:79:82:85:F0
 http://xtv.ooo:8080/RiyazMPT/433833/245897
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",Zee Bangla Cinema
-http://humsab.xyz/IN_ZEBC/mpegts?token=6043dc515e37b76bddc2f61351d41cd5
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema1-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",Zee Bangla Cinema
 http://tv.cloudcdn.me/live.ts?channelId=119&uid=12693&deviceMac=00:1A:79:2C:7A:34
@@ -283,7 +283,7 @@ http://195.26.87.217/live.ts?channelId=139&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://xtv.ooo:8080/adnankb2006/86057314/66179
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4Q1jBKXS-6YeoOgfMs2KwgPlVUqgcQmq9g2WoIBhhXv3wLXY5MYgA8Q&s",Zee Cinema
-http://humsab.xyz/IN_ZeeCinemaHD/index.m3u8?token=32612bc231846c5791d9cea7c6e52f34
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema1-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold
 http://103.191.241.10/stargold2/index.fmp4.m3u8
@@ -324,6 +324,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rm81zcwJA7WdOif4Z9ff14uzeXJulw7XRE3-DY9vuA&s",Peace tv Bangla
 http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
 
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG-20240129-064856.jpg",Star Sports
+https://stream.imotv.online/sports/m3u8.php/star1in.m3u8
 
 
 
