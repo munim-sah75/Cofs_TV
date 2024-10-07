@@ -264,8 +264,8 @@ http://tv.cloudcdn.me/live.ts?channelId=117&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",Zee Bangla Cinema
 http://xtv.ooo:8080/RiyazMPT/433833/245897
 
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema1-audio_208482_und=208000-video=1087600.m3u8
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",Zee Bangla Cinema Auto
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglacinema1.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEfe_Y8wD20ImQyMeJncHsSvpkBVwI98zZ_EVctkeOQ&s",Zee Bangla Cinema
 http://tv.cloudcdn.me/live.ts?channelId=119&uid=12693&deviceMac=00:1A:79:2C:7A:34
@@ -277,13 +277,16 @@ http://starshare.live:8080/Jenny/Jenny/271038
 http://xtv.ooo:8080/live/shahz18/18usman/66181.ts
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDGpIMsiU6FUeP9vZvUmOY7FkCjFTSM_yOzb3f6CujupjCpA7w6xjSg&s",& picture HD
-http://195.26.87.217/live.ts?channelId=139&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s",Sony max
 http://xtv.ooo:8080/adnankb2006/86057314/66179
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4Q1jBKXS-6YeoOgfMs2KwgPlVUqgcQmq9g2WoIBhhXv3wLXY5MYgA8Q&s",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema1-audio_208482_und=208000-video=1087600.m3u8
+
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4Q1jBKXS-6YeoOgfMs2KwgPlVUqgcQmq9g2WoIBhhXv3wLXY5MYgA8Q&s",Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFDrjkd0GKx9dujNtAaFXzAQSdUrrkhotcHmloJ04PlsrzM-k24K3Xo&s",Star Gold
 http://103.191.241.10/stargold2/index.fmp4.m3u8
