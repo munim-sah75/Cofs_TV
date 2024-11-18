@@ -303,6 +303,9 @@ http://proxym3u.watchtv.best:80/play/live.php?mac=00:1A:79:55:A7:EA&stream=15603
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizyJWcut8jUoR1-MvlvjMeR_FdSm3ZYZ9I0VR2e0SQA&s",Colour Cineplex
 http://170.254.18.107/CINEPLEX/index.m3u8
 
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizyJWcut8jUoR1-MvlvjMeR_FdSm3ZYZ9I0VR2e0SQA&s", Colours Cineplex HD
+http://xtv.ooo:8080/15155419/16175512/104191
+
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ObRRpvGSAXRHcnEBpVGfmXGefE2r8liQEQ&s",B4U Movies
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
@@ -324,15 +327,17 @@ http://xtv.ooo:8080/live/shahz18/18usman/66315.ts
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG-20240129-064856.jpg",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s",National Geographic Hindi
+http://xtv.ooo:8080/15155419/16175512/206285
+
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rm81zcwJA7WdOif4Z9ff14uzeXJulw7XRE3-DY9vuA&s",Peace tv Bangla
 http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/RhLLQ7V/IMG-20240129-064856.jpg",Star Sports
 https://stream.imotv.online/sports/m3u8.php/star1in.m3u8
 
-
-
-
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLYlCcM7zqZ_vdplyR-H8hsHJ26UVoTw_c27fPRJlig&s",Sky Sports cricket
+http://xtv.ooo:8080/malik625538/digitalstore1year/167594
 
 
 
