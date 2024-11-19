@@ -43,7 +43,7 @@ https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7DMYp48wGiXBdVaXTf4BxgDSnA7Es1t48aHhafqvyA&s",Independent tv ME (yt)
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Dish TV",Maasranga TV ME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Dish TV",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-P2E4reX0kkyJEFvBBSlhuQvTRaw72dyZxtu_hq32SA&s",Channel 24 ME (yt)
@@ -58,7 +58,7 @@ E
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZC5m49WSZvGEwikPAVlWDwFkVrS75Mg_9ruGXsx0BwQ&s",Jamuna tv ME (yt)
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="Dish TV",Deepto TV ME
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="Dish TV",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWRguVOvSbn2q9BChvaLQwgW05dWlSgYwLTk8KA674g&s",News24 ME (yt)
@@ -80,8 +80,7 @@ https://ythls-v3.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV [JagoBD]
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/kqPYFL1/IMG-20240129-071541.png",Discovery Bangla ME
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://i.ibb.co/kqPYFL1/IMG-20240129-071541.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmkS3pU6nLT-Me6aUkVW7L6o6-W5_RFXf4NzXyFbfZkZ77ZBbm2zHv6Y&s",Animal planet
@@ -102,7 +101,7 @@ http://watchindia.net:8880/live/83023/62335/789.m3u8
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rm81zcwJA7WdOif4Z9ff14uzeXJulw7XRE3-DY9vuA&s",Peace tv Bangla ME
 http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
 
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLYlCcM7zqZ_vdplyR-H8hsHJ26UVoTw_c27fPRJlig&s",Sky Sports cricket ME
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLYlCcM7zqZ_vdplyR-H8hsHJ26UVoTw_c27fPRJlig&s",Sky Sports cricket
 http://xtv.ooo:8080/malik625538/digitalstore1year/167594
 
 
