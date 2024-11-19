@@ -37,7 +37,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w748
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/264px-Boishakhi_TV_logo.svg.png",Boishakhi TV ME
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRillCesJ5t8YpvS8yWJRIjviOK_H8Kx83Y1x0xUJUfWA&s",Somoy TV ME (yt)
+#EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRillCesJ5t8YpvS8yWJRIjviOK_H8Kx83Y1x0xUJUfWA&s",Somoy TV (yt)
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7DMYp48wGiXBdVaXTf4BxgDSnA7Es1t48aHhafqvyA&s",Independent tv ME (yt)
