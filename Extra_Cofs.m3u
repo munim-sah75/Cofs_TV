@@ -559,5 +559,8 @@ https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=9JBU02-g8u8NIQd5C
 https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=_HlO3hLBUd1-6FLHv-pSUA&expires=1732848126&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1,tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",T SPORTS
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=TZ4wB7QybJIcZ4oDrlTC4g&expires=1732848139&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-1,tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",T SPORTS
+https://ayna-ott.iptvbd.xyz/restream/BTV%20World.m3u8
 #EXTINF:-1,tvg-logo="https://i.ibb.co/xHxHgND/Zee-Bangla-logo.png",ZEE BANGLA
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=_u8TgaQHIwNT0SstjWvzww&expires=1732848156&user=811838a63b224e85b02b925b31d0fece
