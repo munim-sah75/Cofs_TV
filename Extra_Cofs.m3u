@@ -747,5 +747,3 @@ https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=hfW7VGnr8C-nKF
 
 #EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" tvg-id="<built-in function id>" group-title="Emergency",Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=mUfm9VvFo-aGLDKocjQyjg&expires=1733506697&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee TV
-https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=KMh0Uon49_ATJ4KOdCvyPA&expires=1733506705&user=d477246e9e724f81a011b847457e71c4
