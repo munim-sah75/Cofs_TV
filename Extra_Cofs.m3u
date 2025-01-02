@@ -2,10 +2,10 @@
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
-http://10.247.249.12:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=dc63d78acb95e6d28f35aab90883ef1cd007baac-9ca2b0ff4fd0a296e1476f143aa1d27c-1729446587-1729435787
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1736040530&md5=RxIntw87fAZUrrAZM98ZbA&user=7e48d7e5f01d439f8a06d1e1dd00dded
 
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
-https://www.btvlive.gov.bd/streams/a05d1d23-fc2b-404e-91f7-80f3ce3cbb83/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 
 
