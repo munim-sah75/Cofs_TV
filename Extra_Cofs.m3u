@@ -5,7 +5,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 http://10.247.249.12:8082/GTV/tracks-v1a1/mono.m3u8?token=dbbb472c88d27059837714f0704b0a8ee78b8a83-a40c10127426ebbd2c5457f794b850a7-1735837042-1735826242
 
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
-http://10.247.249.12:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=22f62c59f93a88c38020829b47f8165d4fb35bf1-9e670a2e32b16c208416d374436772d0-1735837005-1735826205
+http://10.247.249.12:8082/GTV/tracks-v1a1/mono.m3u8?token=e0ea25a44a497bd633e83c9bc4a85a0a4d986576-3b7a491d9950bbf542e1d20b8e193a81-1738598335-1738587535
 
 
 
