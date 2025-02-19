@@ -2,7 +2,7 @@
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
-http://10.247.249.12:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=558150122698921bca7c004898ad846ef283d60f-54e08f3c063280864358291240e27f53-1738091980-1738081180
+https://aba5sdmaaaaaaaamdgp3ryzabcel7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd?|drmScheme=clearkey&drmLicense=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
 
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8?expires=1721451135&md5=9TMY57DgzjgNOzCOh4uEPw&user=d477246e9e724f81a011b847457e71c4
