@@ -13,6 +13,27 @@ https://pv68.dlolcast.pro:7058/hls/tenspk.m3u8?md6=dAmVSbYJe1lMvvAXjfZscg&expire
 
 
 
+#EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://noobmaster.xyz/logos/noobmaster.jpg" group-title="testtv", Channel I
+https://tvs2.aynaott.com/channeli/index.m3u8?token=0b9dbaae02e158decaf0a94c6ea1bee191508815-f59532fb79192273176db05daa480fde-1743521519-1743520619&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://noobmaster.xyz/logos/noobmaster.jpg" group-title="testtv", NTV
+https://tvs2.aynaott.com/ntv/index.m3u8?token=256d92c602475a021c24f9a7d6635a5183b93f41-3def2d26168194d0a17b45e42ade4510-1743521518-1743520618&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://noobmaster.xyz/logos/noobmaster.jpg" group-title="testtv", Bangla Vision
+https://tvs2.aynaott.com/banglavision/index.m3u8?token=045a71cacf40d1937fa47bd2cedf5f160805368f-b630e89ed8a11d1fa4be77bcc57bcfa4-1743521519-1743520619&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://noobmaster.xyz/logos/noobmaster.jpg" group-title="testtv", RTV
+https://tvs1.aynaott.com/rtv/index.m3u8?token=dec408cd4aed8e0e308a91386b66bb89daf28cf9-4cb809c5c358f60f9152b545aaa166a9-1743521519-1743520619&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://noobmaster.xyz/logos/noobmaster.jpg" group-title="testtv", ATN Bangla
+https://tvs2.aynaott.com/atnbangla/index.m3u8?token=d2c0525f972416f4c957eff6042e663b01d4d1f1-c6718656d166dc225f963ea178a9f2a1-1743521519-1743520619&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://noobmaster.xyz/logos/noobmaster.jpg" group-title="testtv", Maasranga TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://noobmaster.xyz/logos/noobmaster.jpg" group-title="testtv", Deepto TV
+https://tvs2.aynaott.com/deeptotv/index.m3u8?token=a9e4a96d57453ca242e68073b379b5d95a841790-b7af9b58875182b186f43223677e99c6-1743521519-1743520619&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-name="Boishakhi TV" tvg-logo="https://noobmaster.xyz/logos/noobmaster.jpg" group-title="testtv", Boishakhi TV
+https://tvs1.aynaott.com/boishakhitv/index.m3u8?token=716ab730d98088ed3f4c0d8c1f4fb4d4c832485e-b013b61160af9435c2b66bbff8df46e4-1743521519-1743520619&amp;remote=no_check_ip
+
+
+
+
+
 
 
 
