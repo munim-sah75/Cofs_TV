@@ -2,7 +2,7 @@
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 2
-https://pv68.dlolcast.pro:7058/hls/tenspk.m3u8?md6=dAmVSbYJe1lMvvAXjfZscg&expires=1740738774
+http://172.31.100.100:8081/TSports/tracks-v1a1/mono.m3u8?token=7d1397d0507b7206e5b77b75b164276618dbc150-ee85a6852d8a936f09eb026e8e679cf2-1748458611-1748447811
 
 #EXTINF:-1 tvg-logo="http://live.cofs.live/we/assets/images/live.png" group-title="Regular Updation", Live Sports 3
 https://pv68.dlolcast.pro:7058/hls/tenspk.m3u8?md6=dAmVSbYJe1lMvvAXjfZscg&expires=1740738774
