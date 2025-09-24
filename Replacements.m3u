@@ -9,3 +9,6 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8#EXTINF:-1 t
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/SonyLIV#/media/File%3ASonyLIV_2020.png" group-title="",Sony LIV
+https://sonymtpristinenew.akamaized.net/hls/live/2119931/cricacc12409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758766313~acl=/*~id=87795466119465564496649231917159~hmac=2733db3ddc896f8c56d951ffbf6a5bd05e054c364f2427f5ef59d5354d9d77f9
