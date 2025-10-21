@@ -2,11 +2,11 @@ name: Update M3U File Every 30 Minutes
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Every 30 minutes
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
   workflow_dispatch:         # Allow manual trigger
 
 permissions:
-  contents: write            # Needed for push access
+  contents: write            # Allow push access
 
 jobs:
   update-m3u:
@@ -20,8 +20,14 @@ jobs:
 
       - name: Download and modify M3U
         run: |
+          # Download your file
           curl -s -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u" -o fancode.m3u
+          
+          # Replace https://in- → https://bd-
           sed -i 's|https://in-|https://bd-|g' fancode.m3u
+
+          # Replace all group-title="..." → group-title="Fancode"
+          sed -i 's|group-title="[^"]*"|group-title="Fancode"|g' fancode.m3u
 
       - name: Commit and push changes
         env:
@@ -33,7 +39,7 @@ jobs:
           git add fancode.m3u
 
           if ! git diff --cached --quiet; then
-            git commit -m "Auto-update fancode.m3u (replaced in- with bd-)"
+            git commit -m "Auto-update fancode.m3u (URL + group-title fixes)"
             git push origin HEAD:${{ github.ref_name }}
           else
             echo "No changes detected, skipping commit."
