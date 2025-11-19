@@ -2,7 +2,7 @@ name: Update M3U File Every 30 Minutes
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # Runs every 30 minutes
+    - cron: "*/5 * * * *"   # Runs every 5 minutes
   workflow_dispatch:         # Allow manual trigger
 
 permissions:
