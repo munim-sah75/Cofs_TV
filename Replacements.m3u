@@ -18,3 +18,42 @@ http://tv.bdiptv.store/live/restreauuX58y/refstream88/218.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/SonyLIV#/media/File%3ASonyLIV_2020.png" group-title="",SRK TV Plus
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DeeptoTV.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Deepto_TV_logo.svg",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-id="Banglavision.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Banglavision_logo.svg",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Television_logo.svg",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="HumTV.pk" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Hum_TV_logo.svg",HUM TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/NTV_logo.svg",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ATN_Bangla_logo.svg",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelI.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Channel_i_logo.svg",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Jamuna_Television_logo.svg",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNNews.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ATN_News_logo.svg",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Channel_24_Logo.svg",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Ekattor_TV_Logo.svg",Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Independent_Television_logo.svg",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTV.bd" group-title="" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Somoy_TV_logo.svg",Somoy
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
