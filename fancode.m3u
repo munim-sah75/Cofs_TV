@@ -11,9 +11,6 @@ https://bd-mc-fblive.fancode.com/mumbai/141657_english_hls_6d4105e50287899_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode", Court des Princes vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141656_english_hls_a449fc64e546046_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode", Court EA de Massy vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141658_english_hls_9f801c270499763_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode", World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141655_english_hls_a5434b197963342_1ta-di_h264/index.m3u8
 
@@ -29,6 +26,6 @@ https://bd-mc-fblive.fancode.com/mumbai/141793_english_hls_f3d16cfd167759_1ta-di
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Fancode", Main Feed - Day 4 vs San Antonio, Texas (Valero Texas Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131120_5427_VAL_CEV_FC-Web.png" group-title="Fancode", Valencia CF vs RC Celta (LALIGA 2025-26)
-https://dai-partner.fancode.com/primary/131120_english_hls_d1e73b1c0d60450_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="Fancode", World Feed - Day 4 vs San Antonio, Texas (Valero Texas Open 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/index.m3u8
 
