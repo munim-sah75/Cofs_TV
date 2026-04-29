@@ -5,6 +5,25 @@ https://bd-mc-fblive.fancode.com/mumbai/141955_english_hls_8a68800a2b31544_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode", Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (West Indies Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141953_english_hls_b2b8a92e1682826_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-FC-vs-Al-Ittihad_fc-web.jpg" group-title="Fancode", Al-Taawoun FC vs Al-Ittihad (Roshn Saudi League 2025-2026)
+https://bd-mc-fblive.fancode.com/mumbai/142142_english_hls_6d19e1988577298_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sinner-vs-Jodar-old-player-vs-player.png" group-title="Fancode", Sinner vs Jodar vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141866_english_hls_232025400413287_1ta-di_h264/index.m3u8
+
+
+#EXTM3U
+# Playlist Name: Tapmad bd
+# Last Update: 10:10 PM 29-04-2026
+# Telegram: https://t.me/livesportsplay
+# Owner: Md Sohanur Rahman Hady
+# Special thanks to Shuvo vai for contributing his premium Tapmad account.
+
+#EXTINF:-1 tvg-id="tapmad-11983" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17772776041020x576.jpg" group-title="Cricket", Multan Sultans vs Hyderabad Kingsmen Live | PSL 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-E1-World_Feed/master.m3u8
+#EXTM3U
+#name: SonyLiv Full Playlist
+#telegram: https://t.me/livesportsplay
+#owner: Md Sohanur Rahman Hady
+#last update: 10:00:29 PM 29-04-2026
 
