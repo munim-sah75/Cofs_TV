@@ -8,10 +8,16 @@ https://bd-mc-fblive.fancode.com/mumbai/141953_english_hls_b2b8a92e1682826_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-FC-vs-Al-Ittihad_fc-web.jpg" group-title="Fancode", Al-Taawoun FC vs Al-Ittihad (Roshn Saudi League 2025-2026)
 https://bd-mc-fblive.fancode.com/mumbai/142142_english_hls_6d19e1988577298_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142169_5826_ARS-W_LEI-W_FC-Web.jpg" group-title="Fancode", Arsenal Women vs Leicester City Women (Women's Super League 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142169_english_hls_ed2290941726106_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Ahli-Saudi-FC_fc-web.jpg" group-title="Fancode", Al-Nassr FC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)
+https://bd-mc-fblive.fancode.com/mumbai/142143_english_hls_1f19150fc831981_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:30 PM 29-04-2026
+# Last Update: 12:00 AM 30-04-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -22,5 +28,8 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-E1-World_Feed/maste
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 10:30:27 PM 29-04-2026
+#last update: 12:00:25 AM 30-04-2026
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017522/1777278019242507_UCL_Semi_Final_Leg1_Champions_Ki_Charcha_Atletico_vs_Arsenal_landscape_thumb.jpg" group-title="Fancode", Atletico vs Arsenal - Semi-Final - Leg 1 - 30 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
