@@ -20,24 +20,28 @@ jobs:
 
       - name: Download, modify, and merge M3U files
         run: |
-          # Download main file
+          # Download files
           curl -s -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u" -o fancode.m3u
-
-          # Download second file
           curl -s -L "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u" -o tapmad_bd.m3u
-
-          # Download third file
           curl -s -L "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u" -o sonyliv_playlist.m3u
 
-          # Edit first file
-          sed -i 's|https://in-|https://bd-|g' fancode.m3u
-          sed -i 's|group-title="[^"]*"|group-title="Fancode"|g' fancode.m3u
+          # Process all files:
+          # 1. Replace https://in- → https://bd-
+          # 2. Change all group-title to Fancode
+          for file in fancode.m3u tapmad_bd.m3u sonyliv_playlist.m3u; do
+            sed -i 's|https://in-|https://bd-|g' "$file"
+            sed -i 's|group-title="[^"]*"|group-title="Fancode"|g' "$file"
+          done
 
-          # Merge all files into final file
-          echo "" >> fancode.m3u
-          cat tapmad_bd.m3u >> fancode.m3u
-          echo "" >> fancode.m3u
-          cat sonyliv_playlist.m3u >> fancode.m3u
+          # Merge into final file
+          cat fancode.m3u > merged.m3u
+          echo "" >> merged.m3u
+          cat tapmad_bd.m3u >> merged.m3u
+          echo "" >> merged.m3u
+          cat sonyliv_playlist.m3u >> merged.m3u
+
+          # Replace original output file
+          mv merged.m3u fancode.m3u
 
       - name: Commit and push changes
         run: |
