@@ -1,12 +1,12 @@
-name: Update M3U File Every 30 Minutes
+name: Update M3U File Every 5 Minutes
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # Runs every 5 minutes
-  workflow_dispatch:         # Allow manual trigger
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write            # Allow push access
+  contents: write
 
 jobs:
   update-m3u:
@@ -18,20 +18,28 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Download and modify M3U
+      - name: Download, modify, and merge M3U files
         run: |
-          # Download your file
+          # Download main file
           curl -s -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u" -o fancode.m3u
-          
-          # Replace https://in- → https://bd-
-          sed -i 's|https://in-|https://bd-|g' fancode.m3u
 
-          # Replace all group-title="..." → group-title="Fancode"
+          # Download second file
+          curl -s -L "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u" -o tapmad_bd.m3u
+
+          # Download third file
+          curl -s -L "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u" -o sonyliv_playlist.m3u
+
+          # Edit first file
+          sed -i 's|https://in-|https://bd-|g' fancode.m3u
           sed -i 's|group-title="[^"]*"|group-title="Fancode"|g' fancode.m3u
 
+          # Merge all files into final file
+          echo "" >> fancode.m3u
+          cat tapmad_bd.m3u >> fancode.m3u
+          echo "" >> fancode.m3u
+          cat sonyliv_playlist.m3u >> fancode.m3u
+
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -39,7 +47,7 @@ jobs:
           git add fancode.m3u
 
           if ! git diff --cached --quiet; then
-            git commit -m "Auto-update fancode.m3u (URL + group-title fixes)"
+            git commit -m "Auto-update merged M3U playlists"
             git push origin HEAD:${{ github.ref_name }}
           else
             echo "No changes detected, skipping commit."
