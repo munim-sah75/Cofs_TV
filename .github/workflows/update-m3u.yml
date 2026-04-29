@@ -1,8 +1,8 @@
-name: Update M3U File Every 5 Minutes
+name: Update Fancode Playlist Every 5 Minutes
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "1,6,11,16,21,26,31,36,41,46,51,56 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,16 +18,14 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Download, modify, and merge M3U files
+      - name: Download, modify, and merge playlists
         run: |
           # Download files
           curl -s -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u" -o fancode.m3u
           curl -s -L "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u" -o tapmad_bd.m3u
           curl -s -L "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u" -o sonyliv_playlist.m3u
 
-          # Process all files:
-          # 1. Replace https://in- → https://bd-
-          # 2. Change all group-title to Fancode
+          # Process all files
           for file in fancode.m3u tapmad_bd.m3u sonyliv_playlist.m3u; do
             sed -i 's|https://in-|https://bd-|g' "$file"
             sed -i 's|group-title="[^"]*"|group-title="Fancode"|g' "$file"
@@ -40,7 +38,6 @@ jobs:
           echo "" >> merged.m3u
           cat sonyliv_playlist.m3u >> merged.m3u
 
-          # Replace original output file
           mv merged.m3u fancode.m3u
 
       - name: Commit and push changes
@@ -51,8 +48,8 @@ jobs:
           git add fancode.m3u
 
           if ! git diff --cached --quiet; then
-            git commit -m "Auto-update merged M3U playlists"
+            git commit -m "Auto-update Fancode playlist"
             git push origin HEAD:${{ github.ref_name }}
           else
-            echo "No changes detected, skipping commit."
+            echo "No changes detected."
           fi
