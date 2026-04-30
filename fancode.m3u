@@ -1,17 +1,20 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142063_6045_NP-W_VANW_fc-web.jpg" group-title="Fancode", Nepal Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142063_english_hls_580b85b9de30155_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Alexander-Blockx-old-player-vs-player.png" group-title="Fancode", QF: Ruud vs Blockx vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141869_english_hls_f9c4bdb83868276_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Fancode", Day 9 - Men's Doubles QF's vs Madrid (ATP Masters Mutua Madrid Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142424_english_hls_404d1a862f53373_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Main Feed - Day 1 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142019_english_hls_3453bc1ab779536_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Featured Groups - Day 1 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142021_english_hls_38a94758f356467_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Marquee Group - Day 1 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142020_english_hls_0e43c693ae93601_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:50 PM 30-04-2026
+# Last Update: 08:50 PM 30-04-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -21,7 +24,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142424_english_hls_404d1a862f53373_1ta-d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:45:18 PM 30-04-2026
+# last_update: 08:45:20 PM 30-04-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529437" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442487663617_IFC_Real_Kashmir_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="Fancode", Star Cement Indian Football League 2025-26 | Real Kashmir FC vs Gokulam Kerala FC - 30 Apr 2026
 https://dai.google.com/ssai/event/F_H8S5gzS56WKJiNDa1z5Q/master.m3u8
