@@ -1,14 +1,17 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142062_6045_ITA-W_USA-W_fc-web.jpg" group-title="Fancode", Italy Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142062_english_hls_9c968db25d37545_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142063_6045_NP-W_VANW_fc-web.jpg" group-title="Fancode", Nepal Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142063_english_hls_580b85b9de30155_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg" group-title="Fancode", Sri Lanka Women vs Bangladesh Women (Sri Lanka Women's tour of Bangladesh, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142076_english_hls_9bcebc2c6495979_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Alexander-Blockx-old-player-vs-player.png" group-title="Fancode", QF: Ruud vs Blockx vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141869_english_hls_f9c4bdb83868276_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Fancode", Day 9 - Men's Doubles QF's vs Madrid (ATP Masters Mutua Madrid Open 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142424_english_hls_404d1a862f53373_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:20 PM 30-04-2026
+# Last Update: 05:10 PM 30-04-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -18,4 +21,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142076_english_hls_9bcebc2c6495979_1ta-d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:15:24 PM 30-04-2026
+# last_update: 05:00:25 PM 30-04-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090529435" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437579952818_DP_World_Tour_Turkish_Airlines_Open_Day1_landscape.jpg" group-title="Fancode", DP World Tour |  Turkish Airlines Open - Day 1 - 30 Apr 2026
+https://dai.google.com/ssai/event/Qj1-QMbLSuak3wfnlay8tQ/master.m3u8
