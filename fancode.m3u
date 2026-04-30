@@ -1,8 +1,11 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142157_5954_LAF_TOL_FC-Web.png" group-title="Fancode", Los Angeles FC vs Toluca (CONCACAF Champions Cup 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142157_english_hls_e363608a5d21813_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:10 AM 30-04-2026
+# Last Update: 10:40 AM 30-04-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -12,5 +15,8 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 07:15:20 AM 30-04-2026
+#last update: 10:45:23 AM 30-04-2026
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017419/1776853245018533_ASIANTOUR26_The45thGSCaltexMaekyungOpen_Day1_landscape_thumb.jpg" group-title="Fancode", GS Caltex Maekyung Open - Day 1 - 30 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8
 
