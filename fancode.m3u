@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142065_6045_ITA-W_NP-W_fc-web.jpg" group-title="Fancode", Italy Women vs Nepal Women (ICC Women's T20I Challenge Trophy, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142065_english_hls_20ea6747ea52663_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Fancode", Germany vs Austria (Austria tour of Germany, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142342_english_hls_aa4b045b8996003_1ta-di_h264/index.m3u8
 
@@ -20,16 +17,13 @@ https://bd-mc-fblive.fancode.com/mumbai/142025_english_hls_9f3ab465ee93675_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Marquee Group - Day 2 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142024_english_hls_75a14fc29883171_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg" group-title="Fancode", Free Practice vs Miami International Autodrome (F2 MIAMI 2026)
-https://dai-partner.fancode.com/primary/142083_english_hls_58323e06ac22292_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Arthur-Fils_FC-Web.png" group-title="Fancode", SF: J. Sinner vs A. Fils vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141870_english_hls_15b56ce9d374480_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:50 PM 01-05-2026
+# Last Update: 08:40 PM 01-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -40,7 +34,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-E2-W3o5r7l9d_Feed/m
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:45:15 PM 01-05-2026
+# last_update: 08:15:20 PM 01-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529545" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017546/1777361639975318_IFL26_Rajasthan-United-FC-vs-Dempo-Sports-Club_landscape_thumb.jpg" group-title="Fancode", Star Cement Indian Football League 2025-26 | Rajasthan United FC vs Dempo Sports Club - 1 May 2026
 https://dai.google.com/ssai/event/GB-SxkbkTWCj5JOrO3-E7g/master.m3u8
