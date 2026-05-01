@@ -2,19 +2,22 @@
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="Fancode", Nepal vs United Arab Emirates (ICC CWC League 2, Nepal 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141979_english_hls_4cf7cdc1e581116_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142064_6045_RWA-W_USA-W_fc-web.jpg" group-title="Fancode", USA Women vs Rwanda Women (ICC Women's T20I Challenge Trophy, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142064_english_hls_e680f7cbd551107_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Fancode", Germany vs Austria (Austria tour of Germany, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142341_english_hls_052fb6830e9061_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142065_6045_ITA-W_NP-W_fc-web.jpg" group-title="Fancode", Italy Women vs Nepal Women (ICC Women's T20I Challenge Trophy, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142065_english_hls_20ea6747ea52663_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="Fancode", Day 1 vs Constance Belle Mare Plage, Mauritius (MCB Ladies Classic 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142285_english_hls_08db330d6286191_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png" group-title="Fancode", Day 10 - Men's Doubles SF's vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142454_english_hls_1de1935d9233768_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 PM 01-05-2026
+# Last Update: 05:10 PM 01-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -24,7 +27,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142285_english_hls_08db330d6286191_1ta-d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:00:19 PM 01-05-2026
+# last_update: 05:15:16 PM 01-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529544" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437573119818_DP_World_Tour_Turkish_Airlines_Open_Day2_landscape.jpg" group-title="Fancode", DP World Tour |  Turkish Airlines Open - Day 2 - 1 May 2026
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
