@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131167_5427_GIR_MRC_FC-Web.png" group-title="Fancode", Girona FC vs RCD Mallorca (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/131167_english_hls_193d0d10d34286_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Main Feed - Day 2 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142023_english_hls_06e7dd682b13411_1ta-di_h264/index.m3u8
 
@@ -8,23 +11,23 @@ https://bd-mc-fblive.fancode.com/mumbai/142025_english_hls_9f3ab465ee93675_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Marquee Group - Day 2 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142024_english_hls_75a14fc29883171_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png" group-title="Fancode", Practice 1 vs Miami (F1 CRYPTO COM MIAMI GRAND PRIX 2026)
-https://dai-partner.fancode.com/primary/139437_english_hls_241357cee548917_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alexander-Blockx-vs-Alexander-Zverev_FC-WEB.png" group-title="Fancode", SF: Blockx vs Zverev vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141871_english_hls_29c6b1273397109_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg" group-title="Fancode", Qualifying Session vs Miami International Autodrome (F2 MIAMI 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/142084_english_hls_825289fe24170_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 01-05-2026
+# Last Update: 12:40 AM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-11984" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775377461020x576.jpg" group-title="Fancode", Islamabad United vs Hyderabad Kingsmen Live | PSL 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-E2-W3o5r7l9d_Feed/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13213" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776348631020x576.jpg" group-title="Fancode", FA Cup Final - Road To The Final - B Live | FA Cup 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:30:18 PM 01-05-2026
+# last_update: 12:30:26 AM 02-05-2026
