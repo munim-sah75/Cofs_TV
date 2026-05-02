@@ -11,16 +11,34 @@ https://bd-mc-fblive.fancode.com/mumbai/142343_english_hls_bc725c5b0824204_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Fancode", Mis-e-Ainak Region vs Amo Region (Super Cola National T20 Cup, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142404_english_hls_b561070c3354864_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142170_5826_MUN-W_BHA-W_FC-Web.jpg" group-title="Fancode", Manchester United Women vs Brighton and Hove Albion Women (Women's Super League 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142170_english_hls_6dfe82fcab70823_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wrexham-vs-Middlesbrough_fc-web.jpg" group-title="Fancode", Wrexham A.F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142335_english_hls_5fa7d8a6cd46933_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Millwall-F_1777563517854.C.-vs-Oxford-United_fc-web.jpg" group-title="Fancode", Millwall F.C. vs Oxford United (EFL Championship 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142383_english_hls_65b91789a825391_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ipswich-Town-F_1777563517815.C.vs-Queens-Park-Rangers-F.C._fc-web.jpg" group-title="Fancode", Ipswich Town F.C. vs Queens Park Rangers F.C. (EFL Championship 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142382_english_hls_cbf3d6fe6098796_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140503_5956_KSHI_NEUFC_FC-Web_1772400382947.jpg" group-title="Fancode", NorthEast United FC vs Inter Kashi (ISL 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/140503_english_hls_4b5f1e380c85873_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-Web.jpg" group-title="Fancode", Melbourne Victory vs Sydney FC (A League 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142450_english_hls_1442661eb278313_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="Fancode", Day 2 vs Constance Belle Mare Plage, Mauritius (MCB Ladies Classic 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142286_english_hls_36bcd6542c60992_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Main Feed - Day 3 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142027_english_hls_11d665f1cb3491_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:30 PM 02-05-2026
+# Last Update: 05:20 PM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -28,12 +46,12 @@ https://bd-mc-fblive.fancode.com/mumbai/142286_english_hls_36bcd6542c60992_1ta-d
 #EXTINF:-1 tvg-id="tapmad-12719" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773586091020x576.jpg" group-title="Fancode", Bangladesh vs New Zealand Live | New Zealand Tour of Bangladesh 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12990" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773622521020x576.jpg" group-title="Fancode", Della Maddalena vs Prates | UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777718706~acl=/hls/*~hmac=d81937923a53ce2bdadc6a512f38727db8057deddc6e2e52c5202d6d8f6caa41
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777721706~acl=/hls/*~hmac=54f60cff114f29e764de92c25bd118ae284374012355aacb34cf3e97d270c87e
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:30:17 PM 02-05-2026
+# last_update: 05:15:16 PM 02-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="Fancode", UFC Fight Night - Della Maddalena vs Prates | UFC Fight Night - Della Maddalena vs Prates - 2 May 2026
 https://dai.google.com/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8
