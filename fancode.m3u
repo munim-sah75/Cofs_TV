@@ -1,8 +1,11 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png" group-title="Fancode", Malaysia vs Indonesia (Indonesia tour of Malaysia, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142338_english_hls_44fcc8b57454619_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 AM 02-05-2026
+# Last Update: 09:40 AM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -12,4 +15,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:00:21 AM 02-05-2026
+# last_update: 09:45:22 AM 02-05-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090529599" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017660/1777609072657343_ASIANTOUR26_The45thGSCaltexMaekyungOpen_Day3_rev_landscape_thumb.jpg" group-title="Fancode", Asian Tour 2026 | GS Caltex Maekyung Open - Day 3 - 2 May 2026
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
