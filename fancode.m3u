@@ -1,33 +1,21 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Fancode", Amo Region vs Mis-e-Ainak Region (Super Cola National T20 Cup, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142404_english_hls_b561070c3354864_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142170_5826_MUN-W_BHA-W_FC-Web.jpg" group-title="Fancode", Manchester United Women vs Brighton and Hove Albion Women (Women's Super League 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142170_english_hls_6dfe82fcab70823_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140503_5956_KSHI_NEUFC_FC-Web_1772400382947.jpg" group-title="Fancode", NorthEast United FC vs Inter Kashi (ISL 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/140503_english_hls_4b5f1e380c85873_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wrexham-vs-Middlesbrough_fc-web.jpg" group-title="Fancode", Wrexham A.F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142335_english_hls_5fa7d8a6cd46933_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Millwall-F_1777563517854.C.-vs-Oxford-United_fc-web.jpg" group-title="Fancode", Millwall F.C. vs Oxford United (EFL Championship 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142383_english_hls_65b91789a825391_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ipswich-Town-F_1777563517815.C.vs-Queens-Park-Rangers-F.C._fc-web.jpg" group-title="Fancode", Ipswich Town F.C. vs Queens Park Rangers F.C. (EFL Championship 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142382_english_hls_cbf3d6fe6098796_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131160_5427_VIL_LE_FC-Web.png" group-title="Fancode", Villarreal CF vs Levante (LALIGA 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/131160_english_hls_1bcea7474a69214_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Fancode", Germany vs Austria (Austria tour of Germany, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142344_english_hls_90d2d43f9f97880_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Lyon_W-vs-Arsenal_W_fc-web.jpg" group-title="Fancode", Lyon Women vs Arsenal Women (UEFA Women's Champions League 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/141965_english_hls_e1a726625956930_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140504_5956_SCD_PFC_FC-Web_1772964305712.jpg" group-title="Fancode", Sporting Club Delhi vs Punjab FC (ISL 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/140504_english_hls_11913fb40518068_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131168_5427_VAL_ATL_FC-Web.png" group-title="Fancode", Valencia CF vs Atletico de Madrid (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/131168_english_hls_f4f8c0e5bd83680_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode", Exeter City vs Bradford City (League One 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/142336_english_hls_6ded1028c977552_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Main Feed - Day 3 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142027_english_hls_11d665f1cb3491_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png" group-title="Fancode", Men's Doubles Finals vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141873_english_hls_1670cdd4bc79548_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Featured Groups - Day 3 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142029_english_hls_f5be61dd2b82574_1ta-di_h264/index.m3u8
@@ -35,34 +23,43 @@ https://bd-mc-fblive.fancode.com/mumbai/142029_english_hls_f5be61dd2b82574_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Marquee Group - Day 3 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142028_english_hls_8b329a276415069_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg" group-title="Fancode", Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142071_english_hls_66f3de04538249_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg" group-title="Fancode", Sprint Race vs Miami International Autodrome (F2 MIAMI 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/142085_english_hls_3fa34ed25645831_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131160_5427_VIL_LE_FC-Web.png" group-title="Fancode", Villarreal CF vs Levante (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/131160_english_hls_1bcea7474a69214_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:40 PM 02-05-2026
+# Last Update: 08:30 PM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-12990" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773622521020x576.jpg" group-title="Fancode", Della Maddalena vs Prates | UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777730106~acl=/hls/*~hmac=4fd467f60ad40a78cfadeac3682f93b84ef44fe55e33f547abbc61392bc4a14e
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777733114~acl=/hls/*~hmac=8a67b7a69184cca0678068a4e594ed993ab57d62af180afad130b1817e9cbdb5
 #EXTINF:-1 tvg-id="tapmad-12962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775391351020x576.jpg" group-title="Fancode", Eintracht Frankfurt vs Hamburger SV | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17774607441020x576.jpg" group-title="Fancode", Hoffenheim vs VfB Stuttgart | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_Eliminator2-uRu/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12964" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17774662511020x576.jpg" group-title="Fancode", Bayern vs Heidenheim | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777730106~acl=/hls/*~hmac=4fd467f60ad40a78cfadeac3682f93b84ef44fe55e33f547abbc61392bc4a14e
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777733114~acl=/hls/*~hmac=8a67b7a69184cca0678068a4e594ed993ab57d62af180afad130b1817e9cbdb5
 #EXTINF:-1 tvg-id="tapmad-12965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775385891020x576.jpg" group-title="Fancode", Werder vs Augsburg | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775316621020x576.jpg" group-title="Fancode", Union Berlin vs Koln | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_eNg-Eliminator2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13012" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776403611020x576.jpg" group-title="Fancode", Brentford vs West Ham | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1777733114~acl=/hls/*~hmac=8e0dbce8ebbebebab454a59e68c03effe5015d4388f813b830c66239d2060c43
+#EXTINF:-1 tvg-id="tapmad-13013" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776404401020x576.jpg" group-title="Fancode", Wolves vs Sunderland | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777733114~acl=/hls/*~hmac=8e0dbce8ebbebebab454a59e68c03effe5015d4388f813b830c66239d2060c43
+#EXTINF:-1 tvg-id="tapmad-13014" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776405281020x576.jpg" group-title="Fancode", Newcastle vs Brighton | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777733114~acl=/hls/*~hmac=8e0dbce8ebbebebab454a59e68c03effe5015d4388f813b830c66239d2060c43
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:30:18 PM 02-05-2026
+# last_update: 08:15:17 PM 02-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529611" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777366525366475_Bundesliga_2025-26_MD-32_Bayern-Munich-vs-Heidenheim__landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | Bayern Munich vs Heidenheim - MD 32 - 2 May 2026
 https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8
@@ -87,6 +84,3 @@ https://dai.google.com/ssai/event/Bplrxzp6SZSY0xB1rOkzVw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529614" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777486588925406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Final_Race_Live_landscape_thumb.jpg" group-title="Fancode",  ABB FIA Formula E World Championship |  Round 7 - Berlin E - Prix - Final Race - 2 May 2026
 https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529602" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437566269818_DP_World_Tour_Turkish_Airlines_Open_Day3_landscape.jpg" group-title="Fancode", DP World Tour |  Turkish Airlines Open - Day 3 - 2 May 2026
-https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
