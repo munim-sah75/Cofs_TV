@@ -8,21 +8,27 @@ https://bd-mc-fblive.fancode.com/mumbai/142071_english_hls_66f3de04538249_1ta-di
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Fancode", Germany vs Austria (Austria tour of Germany, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142343_english_hls_bc725c5b0824204_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Fancode", Mis-e-Ainak Region vs Amo Region (Super Cola National T20 Cup, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142404_english_hls_b561070c3354864_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:40 PM 02-05-2026
+# Last Update: 03:20 PM 02-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-12719" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773586091020x576.jpg" group-title="Fancode", Bangladesh vs New Zealand Live | New Zealand Tour of Bangladesh 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1777712106~acl=/hls/*~hmac=bae82f0490ee96af50600468d5d7743bb2eb3c0ef3c1f29e6e68774d794da759
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1777714508~acl=/hls/*~hmac=6b8de87f7b1ba4f2adf03761a567d1d40b4ec7560bba3ea9c274b3e10910e519
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:45:18 PM 02-05-2026
+# last_update: 03:15:17 PM 02-05-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090529615" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777486430826406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Qualifying_Race_Live_landscape_thumb.jpg" group-title="Fancode", ABB FIA Formula E World Championship | Round 7 - Berlin E - Prix - Qualifying Race - 2 May 2026
+https://dai.google.com/ssai/event/UpH4UngGS3S6Wt3YU5PjuQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529602" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437566269818_DP_World_Tour_Turkish_Airlines_Open_Day3_landscape.jpg" group-title="Fancode", DP World Tour |  Turkish Airlines Open - Day 3 - 2 May 2026
 https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
