@@ -17,36 +17,36 @@ https://bd-mc-fblive.fancode.com/mumbai/142033_english_hls_859b0432f479723_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="Fancode", Marquee Group - Day 4 vs Trump National Doral (Blue Monster) - Miami, Flori (Cadillac Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142032_english_hls_9addfc110134329_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg" group-title="Fancode", Feature Race vs Miami International Autodrome (F2 MIAMI 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/142086_english_hls_4444175dc811084_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_FC-Web.png" group-title="Fancode", Finals: J. Sinner vs A. Zverev vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141875_english_hls_d6044950ad5380_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png" group-title="Fancode", Race vs Miami (F1 CRYPTO COM MIAMI GRAND PRIX 2026)
+https://bd-mc-fblive.fancode.com/delhi/139441_english_hls_fbec0ced4447334_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:50 PM 03-05-2026
+# Last Update: 09:30 PM 03-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13016" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17776406871020x576.jpg" group-title="Fancode", Bournemouth vs Crystal Palace | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777820706~acl=/hls/*~hmac=62af8c9a0a2533ad846c0da460cf9e28df4f60aa7ef98726c8f63503a5a57c23
 #EXTINF:-1 tvg-id="tapmad-11985" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17777393091020x576.jpg" group-title="Fancode", Peshawar Zalmi vs Hyderabad Kingsmen Live | PSL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12968" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775322661020x576.jpg" group-title="Fancode", FC St. Pauli vs Mainz | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13017" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17777997031020x576.jpg" group-title="Fancode", Man United vs Liverpool | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1777820706~acl=/hls/*~hmac=62af8c9a0a2533ad846c0da460cf9e28df4f60aa7ef98726c8f63503a5a57c23
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1777823106~acl=/hls/*~hmac=cc3bd764ae2702bf28b3dc05ab9de6039d1ae3cd40455a6d37f9bedfd7597444
+#EXTINF:-1 tvg-id="tapmad-12969" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17775318931020x576.jpg" group-title="Fancode", Monchengladbach vs Dortmund | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:45:21 PM 03-05-2026
+# last_update: 09:30:20 PM 03-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529605" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017695/1777814290883144_IFL26_Diamond-Harbour-FC-vs-Sreenidi-Deccan-FC_landscape_thumb.jpg" group-title="Fancode", Star Cement Indian Football League 2025-26 | Diamond Harbour FC vs Sreenidi Deccan FC - 3 May 2026
-https://dai.google.com/ssai/event/hLD1ztoKQDSyQ8w2fAJPrg/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090529621" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777372816364475_Bundesliga_2025-26_MD-32_Borussia-Mgladbach-vs-Dortmund_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | Borussia Monchengladbach vs Borussia Dortmund - MD 32 - 3 May 2026
+https://dai.google.com/ssai/event/X3j0O-G-QEaPSp8yNcP9Jg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529620" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777372597018475_Bundesliga_2025-26_MD-32_St-Pauli-vs-Mainz_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | FC St. Pauli vs FSV Mainz - MD 32 - 3 May 2026
 https://dai.google.com/ssai/event/zL7peAKDRq6Gzj1fKmSkPQ/master.m3u8
