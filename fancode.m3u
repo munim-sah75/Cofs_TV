@@ -1,27 +1,22 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Fancode", Speen Ghar Region vs Mis-e-Ainak Region (Super Cola National T20 Cup, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142410_english_hls_f9945aae8146494_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1777996806126/142540_CASACARDS_APP.png" group-title="Fancode", Japan vs Qatar (AFC U17 Asian Cup Saudi Arabia 2026)
+https://bd-mc-fdlive.fancode.com/s3/ef1b0003-591c-49eb-868b-7753dea39ee5/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Fancode", SSE BFC Soccer School vs Bengaluru Football Club (Dream Sports Championship Football 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/142354_english_hls_d032831f5483584_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Fancode", Football 4 Change Academy vs Minerva Academy FC (Dream Sports Championship Football 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/142353_english_hls_2a8786f6e982132_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140509_5956_MCFC_EBFC_FC-Web_1772474862467.jpg" group-title="Fancode", Mumbai City FC vs East Bengal FC (ISL 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/140509_english_hls_94d5ad4bc34402_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:50 PM 05-05-2026
+# Last Update: 10:11 PM 05-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-13073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17778963241020x576.jpg" group-title="Fancode", Japan vs Qatar Live | AFC U17 Asian Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:45:19 PM 05-05-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090529668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017736/1777958880562942_IFL26_Gokulam_Kerala_FC_vs_Aizwal_FC_landscape_thumb.jpg" group-title="Fancode", Star Cement Indian Football League 2025-26 | Gokulam Kerala FC vs Aizawl FC - 5 May 2026
-https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
+# last_update: 10:15:26 PM 05-05-2026
