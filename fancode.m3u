@@ -1,28 +1,18 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142176_5826_BHA-W_ARS-W_FC-Web.jpg" group-title="Fancode", Brighton and Hove Albion Women vs Arsenal Women (Women's Super League 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142176_english_hls_c6d77d9da057361_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 1 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142219_english_hls_f9f8fcc9e820277_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 1 - Campo Centrale vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142218_english_hls_6b3de5389617004_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:50 AM 07-05-2026
+# Last Update: 03:10 AM 07-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-12768" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17773636211020x576.jpg" group-title="Fancode", Bayern vs PSG | UEFA Champions League 2025/26
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:45:19 AM 07-05-2026
+# last_update: 03:00:29 AM 07-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529842" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090529842/thumbnail/1778060676345397_UCL26_SF_leg2_bayern_vs_PSG_6may_clean_landscape.jpg" group-title="Fancode", UEFA Champions League 2025-26 | Bayern vs PSG - Semi-Final - Leg 2 - 6 May 2026
 https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
