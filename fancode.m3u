@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 2 - Court 13 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142221_english_hls_de0b07c78614527_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 2 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142220_english_hls_499034c49b99092_1ta-di_h264/index.m3u8
 
@@ -14,13 +11,22 @@ https://bd-mc-fblive.fancode.com/mumbai/142588_english_hls_ea7d84375f99566_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 2 - BNP Paribas Arena vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142589_english_hls_c72755176f70506_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png" group-title="Fancode", World Feed - Day 1 vs Dunes Golf and Beach Club - Myrtle Beach, South Ca (ONEflight Myrtle Beach Classic 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142110_english_hls_454e8065df11453_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", Main Feed - Day 1 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142092_english_hls_0e93307f1072109_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", Featured Groups - Day 1 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142094_english_hls_ba942a271847033_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", Marquee Group - Day 1 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142093_english_hls_39a3137b2d79864_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 2 - Campo Centrale vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142590_english_hls_b4339452859097_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 PM 07-05-2026
+# Last Update: 11:00 PM 07-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -30,7 +36,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142110_english_hls_454e8065df11453_1ta-d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:00:35 PM 07-05-2026
+# last_update: 11:00:29 PM 07-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529706" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774698420139_DP_World_Estrella_Damm_Day1_landscape_thumb.jpg" group-title="Fancode", DP World Tour |  Estrella Damm Catalunya Championship - Day 1 - 7 May 2026
-https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090529717" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017789/1778069816154388_LIV_Golf_Virginia26_Day1_6may_rev_landscape_thumb.jpg" group-title="Fancode", LIV Golf | Virginia - Day 1 - 7 May 2026
+https://dai.google.com/ssai/event/kLLXpEquS0Wj3_WTm-URPw/master.m3u8
