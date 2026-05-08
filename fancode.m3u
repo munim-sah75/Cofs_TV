@@ -29,10 +29,16 @@ https://bd-mc-fblive.fancode.com/mumbai/142111_english_hls_68394d92e544640_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", World Feed - Day 2 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142095_english_hls_6bff4504c575884_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", Featured Groups - Day 2 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142098_english_hls_7767de576493279_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", Marquee Group - Day 2 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142097_english_hls_c5badbae3f54285_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:50 PM 08-05-2026
+# Last Update: 10:00 PM 08-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -42,10 +48,13 @@ https://bd-mc-fblive.fancode.com/mumbai/142095_english_hls_6bff4504c575884_1ta-d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:45:28 PM 08-05-2026
+# last_update: 10:00:23 PM 08-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529857" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777491466728532_IFL_RD12_Diamond_Harbour_FC_vs_Rajasthan_United_FC_Live_landscape_thumb.jpg" group-title="Fancode", Star Cement Indian Football League 2025-26 | Diamond Harbour FC vs Rajasthan United FC - 8 May 2026
 https://dai.google.com/ssai/event/SlkjkxwSSnGTMrPHe69cCw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529707" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774699473539_DP_World_Estrella_Damm_Day2_landscape_thumb.jpg" group-title="Fancode", DP World Tour |  Estrella Damm Catalunya Championship - Day 2 - 8 May 2026
 https://dai.google.com/ssai/event/4G_G6zLURAiPOM4qZQcSTg/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529859" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017789/1778069809954388_LIV_Golf_Virginia26_Day2_6may_rev_landscape_thumb.jpg" group-title="Fancode", LIV Golf | Virginia - Day 2 - 8 May 2026
+https://dai.google.com/ssai/event/uP_7_QWgRHehSMm82S7iLg/master.m3u8
