@@ -1,30 +1,28 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Fancode", Vanuatu vs Fiji (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )
-https://bd-mc-fblive.fancode.com/mumbai/142304_english_hls_8912373bd540172_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Fancode", Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa49394_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Fancode", Indonesia vs Philippines (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )
-https://bd-mc-fblive.fancode.com/mumbai/142303_english_hls_7355c853e212541_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Fancode", Mis-e-Ainak Region vs Amo Region (Super Cola National T20 Cup, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142413_english_hls_d6263666ed21413_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="Fancode", China Women vs Malaysia Women (CHK Women's T20I Series 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142297_english_hls_354a8ae92156576_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Fancode", South Korea vs Cook Islands (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )
+https://bd-mc-fblive.fancode.com/mumbai/142305_english_hls_5a8dfe4fd120637_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Fancode", FC Goa Junior vs Classic Football Academy (Dream Sports Championship Football 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142364_english_hls_cbcffe621d27521_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Fancode", Reliance Foundation Young Champs vs Alchemy International FA (Dream Sports Championship Football 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142363_english_hls_a39d33487f71510_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="Fancode", China Women vs Hong Kong, China Women (CHK Women's T20I Series 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142298_english_hls_72ba40a70f57872_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:40 AM 08-05-2026
+# Last Update: 11:40 AM 08-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-13219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780696481020x576.jpg" group-title="Fancode", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:45:17 AM 08-05-2026
+# last_update: 11:45:18 AM 08-05-2026
