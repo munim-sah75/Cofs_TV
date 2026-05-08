@@ -8,10 +8,10 @@ https://bd-mc-fblive.fancode.com/mumbai/131174_english_hls_2485bad521387_1ta-di_
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hull-City-vs-Millwall_fc-web.jpg" group-title="Fancode", Hull City vs Millwall F.C. (EFL Championship 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode", Cádiz vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1778266475991/142376_CASACARDS_APP.png" group-title="Fancode", Cádiz vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142376_english_hls_d75e04a0e273141_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dino-Prizmic-vs-Novak-Djokovic-fc-web.jpg" group-title="Fancode", D. Prizmic vs N. Djokovic vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 3 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 3 - Court 13 vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)
@@ -38,18 +38,18 @@ https://bd-mc-fblive.fancode.com/mumbai/142616_english_hls_3553ee5eea43286_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:50 AM 09-05-2026
+# Last Update: 02:00 AM 09-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-12971" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780575631020x576.jpg" group-title="Fancode", Dortmund vs Eintracht Frankfurt | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778267105~acl=/hls/*~hmac=2d8c717609194961172cc718bcba13ce9b8d3ac83833634b76506b2dfd85c781
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778271306~acl=/hls/*~hmac=7e1fc91c83f0c7b30f1a68e77e04c8966982cd3ccc727b7376caa775c7938c34
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:45:17 AM 09-05-2026
+# last_update: 02:00:25 AM 09-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529982" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777443453181341_Bundesliga_2025-26_MD-33_Dortmund-vs-Eintracht-Frankfurt_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | Borussia Dortmund vs Frankfurt - MD 33 - 08 May 2026
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
