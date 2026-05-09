@@ -8,9 +8,6 @@ https://bd-mc-fblive.fancode.com/mumbai/131178_english_hls_a3359185978823_1ta-di
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1778295458186/142489_CASACARDS_APP.png" group-title="Fancode", Stevenage vs Stockport County (League One 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142489_english_hls_ab2f3c60d080214_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png" group-title="Fancode", Day 2 vs Le Mans (MICHELIN® GRAND PRIX OF FRANCE 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 4 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/index.m3u8
 
@@ -38,7 +35,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142101_english_hls_b96b7778fe24018_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 PM 09-05-2026
+# Last Update: 09:30 PM 09-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -47,26 +44,17 @@ https://bd-mc-fblive.fancode.com/mumbai/142101_english_hls_b96b7778fe24018_1ta-d
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12973" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780580481020x576.jpg" group-title="Fancode", Hoffenheim vs Werder | Bundesliga 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-12974" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780582091020x576.jpg" group-title="Fancode", Augsburg vs Monchengladbach | Bundesliga 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-12975" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780584401020x576.jpg" group-title="Fancode", RB Leipzig vs FC St. Pauli | Bundesliga 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13022" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782389581020x576.jpg" group-title="Fancode", Fulham vs Bournemouth | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1778337905~acl=/hls/*~hmac=0089cd45f34f671206dfd9f8b644ca64b431cb433cb984c2efd104139a0aa7ef
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1778341505~acl=/hls/*~hmac=43e31a64baf0e920b1b0657b578d5df0999f592fbf5dcc83283f1f262c10c095
 #EXTINF:-1 tvg-id="tapmad-13023" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782390321020x576.jpg" group-title="Fancode", Sunderland vs Man United | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778337906~acl=/hls/*~hmac=74e238a5b95b807dd13ac1a0d74e560e9dfda8bd3f040124d7780650c7a622a3
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778341506~acl=/hls/*~hmac=396da33068976f9b98e31e36be445be899dffedefa0227d506d6c8b4f5639b20
 #EXTINF:-1 tvg-id="tapmad-13024" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782391341020x576.jpg" group-title="Fancode", Brighton vs Wolves | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1778337906~acl=/hls/*~hmac=74e238a5b95b807dd13ac1a0d74e560e9dfda8bd3f040124d7780650c7a622a3
-#EXTINF:-1 tvg-id="tapmad-13243" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782656581020x576.jpg" group-title="Fancode", Prime Gara (Race 1) - Kumho FIA TCR World Tour Live | Kumho FIA TCR World Tour Euro Series 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1778341506~acl=/hls/*~hmac=396da33068976f9b98e31e36be445be899dffedefa0227d506d6c8b4f5639b20
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:30:25 PM 09-05-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090529992" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777489501719532_IFL_RD12_Chanmari_FC_vs_Dempo_Sports_Club_Live_landscape_thumb.jpg" group-title="Fancode", Star Cement Indian Football League 2025-26 | Chanmari FC vs Dempo Sports Club - 9 May 2026
-https://dai.google.com/ssai/event/pDPKygd_RaSSQPzp4X14vA/master.m3u8
+# last_update: 09:30:49 PM 09-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529999" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777444852459341_Bundesliga_2025-26_MD-33_VfB-Stuttgart-vs-Bayer-Leverkusen_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | VfB Stuttgart vs Bayer Leverkusen - MD 33 - 9 May 2026
 https://dai.google.com/ssai/event/4G_G6zLURAiPOM4qZQcSTg/master.m3u8
@@ -76,9 +64,3 @@ https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090530001" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777446520931341_Bundesliga_2025-26_MD-33_Hoffenheim-vs-Werder_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | Hoffenheim vs Werder Bremen - MD 33 - 9 May 2026
 https://dai.google.com/ssai/event/uP_7_QWgRHehSMm82S7iLg/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090530000" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777445248634341_Bundesliga_2025-26_MD-33_Augsburg-vs-Borussia-Mgladbach_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | Augsburg vs Borussia Mönchengladbach - MD 33 - 9 May 2026
-https://dai.google.com/ssai/event/934pbKVOSeGwcztb05y3dg/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529991" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774700782439_DP_World_Estrella_Damm_Day3_landscape_thumb.jpg" group-title="Fancode", DP World Tour |  Estrella Damm Catalunya Championship - Day 3 - 9 May 2026
-https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
