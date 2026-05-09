@@ -1,9 +1,12 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140511_5956_JFC_BFC_FC-Web_1772475343660.jpg" group-title="Fancode", Jamshedpur FC vs Bengaluru FC (ISL 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/140511_english_hls_521f7507a930148_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131178_5427_SEV_ESL_FC-Web.png" group-title="Fancode", Sevilla FC vs RCD Espanyol (LALIGA 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/131178_english_hls_a3359185978823_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131172_5427_ATL_CEV_FC-Web.png" group-title="Fancode", Atletico de Madrid vs RC Celta (LALIGA 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/131172_english_hls_84048b82a164092_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1778266487066/142377_CASACARDS_APP.png" group-title="Fancode", Real Valladolid vs Real Zaragoza (LALIGA Hypermotion 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142377_english_hls_7b234836b826947_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1778295458186/142489_CASACARDS_APP.png" group-title="Fancode", Stevenage vs Stockport County (League One 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142489_english_hls_ab2f3c60d080214_1ta-di_h264/index.m3u8
@@ -20,9 +23,6 @@ https://bd-mc-fblive.fancode.com/mumbai/142619_english_hls_953e0e4ec870909_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 4 - BNP Paribas vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142225_english_hls_0fe7bf795451760_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 4 - Court 1 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", Main Feed - Day 3 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142100_english_hls_991728742681189_1ta-di_h264/index.m3u8
 
@@ -35,32 +35,27 @@ https://bd-mc-fblive.fancode.com/mumbai/142101_english_hls_b96b7778fe24018_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 PM 09-05-2026
+# Last Update: 10:30 PM 09-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-12972" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780577951020x576.jpg" group-title="Fancode", VfB Stuttgart vs Leverkusen | Bundesliga 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-12973" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780580481020x576.jpg" group-title="Fancode", Hoffenheim vs Werder | Bundesliga 2025/26
+#EXTINF:-1 tvg-id="tapmad-13108" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17781408611020x576.jpg" group-title="Fancode", China PR vs Japan Live | AFC U17 Asian Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13022" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782389581020x576.jpg" group-title="Fancode", Fulham vs Bournemouth | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1778341505~acl=/hls/*~hmac=43e31a64baf0e920b1b0657b578d5df0999f592fbf5dcc83283f1f262c10c095
-#EXTINF:-1 tvg-id="tapmad-13023" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782390321020x576.jpg" group-title="Fancode", Sunderland vs Man United | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778341506~acl=/hls/*~hmac=396da33068976f9b98e31e36be445be899dffedefa0227d506d6c8b4f5639b20
-#EXTINF:-1 tvg-id="tapmad-13024" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782391341020x576.jpg" group-title="Fancode", Brighton vs Wolves | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1778341506~acl=/hls/*~hmac=396da33068976f9b98e31e36be445be899dffedefa0227d506d6c8b4f5639b20
+#EXTINF:-1 tvg-id="tapmad-12976" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780585831020x576.jpg" group-title="Fancode", Wolfsburg vs Bayern | Bundesliga 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13025" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782399451020x576.jpg" group-title="Fancode", Man City vs Brentford | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778345106~acl=/hls/*~hmac=c90388f1bf51e0ba98bd40cbb330af9a531de2970382e13716d4c6e1181f887b
+#EXTINF:-1 tvg-id="tapmad-13113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17781412341020x576.jpg" group-title="Fancode", Qatar vs Indonesia Live | AFC U17 Asian Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:30:49 PM 09-05-2026
+# last_update: 10:30:26 PM 09-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529999" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777444852459341_Bundesliga_2025-26_MD-33_VfB-Stuttgart-vs-Bayer-Leverkusen_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | VfB Stuttgart vs Bayer Leverkusen - MD 33 - 9 May 2026
-https://dai.google.com/ssai/event/4G_G6zLURAiPOM4qZQcSTg/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090530002" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777445993024341_Bundesliga_2025-26_MD-33_Wolfsburg-vs-Bayern_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | Wolfsburg vs Bayern Munich - MD 33 - 9 May 2026
+https://dai.google.com/ssai/event/VuXzkRegSnKkVb_jsY-OLg/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529995" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777444681776341_Bundesliga_2025-26_MD-33_RB-Leipzig-vs-St-Pauli_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | RB Leipzig vs St Pauli - MD 33 - 9 May 2026
-https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090530001" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777446520931341_Bundesliga_2025-26_MD-33_Hoffenheim-vs-Werder_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | Hoffenheim vs Werder Bremen - MD 33 - 9 May 2026
-https://dai.google.com/ssai/event/uP_7_QWgRHehSMm82S7iLg/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090530006" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624350505752_Golf_Mexico_Day3_landscape_thumb.jpg" group-title="Fancode", LIV Golf | Virginia - Day 3 - 9 May 2026
+https://dai.google.com/ssai/event/c20vNmsHTQa9j6_SxJGUzg/master.m3u8
