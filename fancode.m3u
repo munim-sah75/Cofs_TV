@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131175_5427_MRC_VIL_FC-Web.png" group-title="Fancode", RCD Mallorca vs Villarreal CF (LALIGA 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/131175_english_hls_827ea2f5c399182_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode", Guyana Harpy Eagles vs West Indies Academy (West Indies Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb20268_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode", Trinidad & Tobago Red Force vs Barbados Pride (West Indies Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141956_english_hls_d853788a8667708_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140513_5956_NEUFC_CFC_FC-Web_1772475527378.jpg" group-title="Fancode", NorthEast United FC vs Chennaiyin FC (ISL 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/140513_english_hls_80de7c86eb42596_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-Web.png" group-title="Fancode", Athletic Club vs Valencia CF (LALIGA 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/131171_english_hls_d4f535db2676238_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1778387127054/142493_CASACARDS_APP.png" group-title="Fancode", Grimsby Town vs Salford City (League Two 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142493_english_hls_1b272ad561391_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 5 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142226_english_hls_1107196c7429776_1ta-di_h264/index.m3u8
@@ -17,27 +29,29 @@ https://bd-mc-fblive.fancode.com/mumbai/142104_english_hls_c4c6d95f0d29521_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", Featured Groups - Day 4 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142106_english_hls_c04852fe7915293_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", Marquee Group - Day 4 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142105_english_hls_63b237ec8295516_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", T. Paul vs L. Darderi vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142623_english_hls_3c66f1332159384_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 PM 10-05-2026
+# Last Update: 09:00 PM 10-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13026" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782392621020x576.jpg" group-title="Fancode", Nottm Forest vs Newcastle | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1778422506~acl=/hls/*~hmac=1557ca8953588d36e2aac61188bf85676cd18c75f6d7b9b5287e82f26a09707d
-#EXTINF:-1 tvg-id="tapmad-13027" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782393351020x576.jpg" group-title="Fancode", Crystal Palace vs Everton | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1778422506~acl=/hls/*~hmac=1557ca8953588d36e2aac61188bf85676cd18c75f6d7b9b5287e82f26a09707d
-#EXTINF:-1 tvg-id="tapmad-13028" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782394191020x576.jpg" group-title="Fancode", Burnley vs Aston Villa | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778422506~acl=/hls/*~hmac=1557ca8953588d36e2aac61188bf85676cd18c75f6d7b9b5287e82f26a09707d
 #EXTINF:-1 tvg-id="tapmad-12977" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780587621020x576.jpg" group-title="Fancode", Hamburger SV vs SC Freiburg | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778422506~acl=/hls/*~hmac=9efe4a175de9a7086254a5579bd62933b5fa7e381531d2a794dff38d1013ebbb
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778426106~acl=/hls/*~hmac=665a1929d117a2c568abe114d731b52a7d0f0aaf6b6739b3022c1d06de2b8f44
+#EXTINF:-1 tvg-id="tapmad-12978" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780589701020x576.jpg" group-title="Fancode", Koln vs Heidenheim | Bundesliga 2025/26
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778426106~acl=/hls/*~hmac=665a1929d117a2c568abe114d731b52a7d0f0aaf6b6739b3022c1d06de2b8f44
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:00:22 PM 10-05-2026
+# last_update: 08:45:17 PM 10-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090530079" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244788810296_EngW_vs_NZW_1odi_8may_landscape_thumb.jpg" group-title="Fancode", New Zealand Women's Tour of England 2026 | 1st ODI - 10 May 2026 
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
