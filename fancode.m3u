@@ -11,6 +11,9 @@ https://bd-mc-fblive.fancode.com/mumbai/140513_english_hls_80de7c86eb42596_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131171_5427_ATH_VAL_FC-Web.png" group-title="Fancode", Athletic Club vs Valencia CF (LALIGA 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/131171_english_hls_d4f535db2676238_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142545_6062_VIE_KOR_FC-WEB.jpg" group-title="Fancode", Vietnam vs Korea Republic (AFC U17 Asian Cup Saudi Arabia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142545_english_hls_af9594f87481048_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1778387127054/142493_CASACARDS_APP.png" group-title="Fancode", Grimsby Town vs Salford City (League Two 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142493_english_hls_1b272ad561391_1ta-di_h264/index.m3u8
 
@@ -38,29 +41,29 @@ https://bd-mc-fblive.fancode.com/mumbai/142623_english_hls_3c66f1332159384_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 PM 10-05-2026
+# Last Update: 10:00 PM 10-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-12977" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780587621020x576.jpg" group-title="Fancode", Hamburger SV vs SC Freiburg | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778426106~acl=/hls/*~hmac=665a1929d117a2c568abe114d731b52a7d0f0aaf6b6739b3022c1d06de2b8f44
-#EXTINF:-1 tvg-id="tapmad-12978" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780589701020x576.jpg" group-title="Fancode", Koln vs Heidenheim | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778426106~acl=/hls/*~hmac=665a1929d117a2c568abe114d731b52a7d0f0aaf6b6739b3022c1d06de2b8f44
+#EXTINF:-1 tvg-id="tapmad-13029" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17782394881020x576.jpg" group-title="Fancode", West Ham vs Arsenal | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778429706~acl=/hls/*~hmac=97084448fed42f2a98adfa3480fa700ec5fd0e4ff0fc2a2336255528761e856a
+#EXTINF:-1 tvg-id="tapmad-13128" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17783757891020x576.jpg" group-title="Fancode", Vietnam vs Korea Republic Live | AFC U17 Asian Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:45:17 PM 10-05-2026
+# last_update: 10:00:23 PM 10-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090530079" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244788810296_EngW_vs_NZW_1odi_8may_landscape_thumb.jpg" group-title="Fancode", New Zealand Women's Tour of England 2026 | 1st ODI - 10 May 2026 
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090530081" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777491940397532_IFL_RD12_Sreenidi_Deccan_FC_vs_Shillong_Lajong_FC_Live_landscape_thumb.jpg" group-title="Fancode", Star Cement Indian Football League 2025-26 | Sreenidi Deccan FC vs Shillong Lajong FC - 10 May 2026
-https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090530051" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777447009894341_Bundesliga_2025-26_MD-33_Hamburger-vs-SC-Freiburg_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | Hamburger SV vs Freiburg - MD 33 - 10 May 2026
-https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090530050" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777452284105341_Bundesliga_2025-26_MD-33_Koln-vs-Heidenheim_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | FC Koln vs Heidenheim - MD 33 - 10 May 2026
+https://dai.google.com/ssai/event/4G_G6zLURAiPOM4qZQcSTg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090530048" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774702026039_DP_World_Estrella_Damm_Day4_landscape_thumb.jpg" group-title="Fancode", DP World Tour |  Estrella Damm Catalunya Championship - Day 4 - 10 May 2026
 https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090530052" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017789/1778069795603388_LIV_Golf_Virginia26_Day4_6may_rev_landscape_thumb.jpg" group-title="Fancode", LIV Golf | Virginia - Day 4 - 10 May 2026
+https://dai.google.com/ssai/event/bdRpTNSURR6_I76sWJXssA/master.m3u8
