@@ -1,32 +1,17 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode", Guyana Harpy Eagles vs West Indies Academy (West Indies Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb20268_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode", Trinidad & Tobago Red Force vs Barbados Pride (West Indies Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141956_english_hls_d853788a8667708_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="Fancode", FC Barcelona vs Real Madrid (LALIGA 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/131173_english_hls_45a66a7a2f64087_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 5 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142226_english_hls_1107196c7429776_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", Main Feed - Day 4 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142104_english_hls_c4c6d95f0d29521_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", Featured Groups - Day 4 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142106_english_hls_c04852fe7915293_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode", World Feed - Day 4 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142103_english_hls_1e46e68b6223786_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png" group-title="Fancode", World Feed - Day 4 vs Dunes Golf and Beach Club - Myrtle Beach, South Ca (ONEflight Myrtle Beach Classic 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142113_english_hls_fdfe7ad75953974_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="Fancode", FC Barcelona vs Real Madrid (LALIGA 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/131173_english_hls_45a66a7a2f64087_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:00 AM 11-05-2026
+# Last Update: 03:50 AM 11-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -36,7 +21,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142113_english_hls_fdfe7ad75953974_1ta-d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:00:19 AM 11-05-2026
+# last_update: 03:45:14 AM 11-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090530052" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017789/1778069795603388_LIV_Golf_Virginia26_Day4_6may_rev_landscape_thumb.jpg" group-title="Fancode", LIV Golf | Virginia - Day 4 - 10 May 2026
 https://dai.google.com/ssai/event/bdRpTNSURR6_I76sWJXssA/master.m3u8
