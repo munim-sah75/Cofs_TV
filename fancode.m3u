@@ -1,19 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Fancode", Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa13695_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode", Guyana Harpy Eagles vs West Indies Academy (West Indies Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb19725_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode", Trinidad & Tobago Red Force vs Barbados Pride (West Indies Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141956_english_hls_d853788a8645704_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140496_5956_EBFC_PFC_FC-Web_1772466572779.jpg" group-title="Fancode", East Bengal FC vs Punjab FC (ISL 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/140496_english_hls_3ff2b0b3b52068_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-SINNER%C2%A0-vs-Alexei-POPYRIN_fc-web_1778507631234.jpg" group-title="Fancode", J. Sinner vs A. Popyrin vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142230_english_hls_f194df34f598159_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 6 - Pietrangeli vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142624_english_hls_1b11ce40f280770_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 6: Supertennis Arena vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142229_english_hls_7817bfb19f23164_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Day 6 - BNP Paribas Arena vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142228_english_hls_993c00ffb750041_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:40 PM 11-05-2026
+# Last Update: 08:00 PM 11-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780696481020x576.jpg" group-title="Fancode", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:30:27 PM 11-05-2026
+# last_update: 07:45:27 PM 11-05-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090530136" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777489212334532_IFL_RD12_Aizawl_FC_vs_Real_Kashmir_FC_Live_landscape_thumb.jpg" group-title="Fancode", Star Cement Indian Football League 2025-26 | Aizawl FC vs Real Kashmir FC - Relegation Stage - 11 May 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
