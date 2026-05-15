@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778855488829/142549_CASACARDS_APP.png" group-title="Fancode", Japan vs Tajikistan (AFC U17 Asian Cup Saudi Arabia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142549_english_hls_886af6db9310477_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778871628499/142631_CASACARDS_APP.png" group-title="Fancode", Castellón vs Cádiz (LALIGA Hypermotion 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142631_english_hls_9cd27d7c7e7274_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778853074112/142548_CASACARDS_APP.png" group-title="Fancode", Saudi Arabia vs China PR (AFC U17 Asian Cup Saudi Arabia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142548_english_hls_e3bf89c8522422_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778387127028/142495_CASACARDS_APP.png" group-title="Fancode", Salford City vs Grimsby Town (League Two 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142495_english_hls_4efe035b9864882_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", Men's Doubles QF vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142707_english_hls_79953af20c88877_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778387127055/142496_CASACARDS_APP.png" group-title="Fancode", Notts County vs Chesterfield (League Two 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142496_english_hls_13b4c437d678784_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Daniil-Medvedev_fc-web.jpg" group-title="Fancode", SF: J. Sinner vs D. Medvedev vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142238_english_hls_5741fc9a2a61679_1ta-di_h264/index.m3u8
@@ -17,17 +17,15 @@ https://bd-mc-fblive.fancode.com/mumbai/142628_english_hls_41f2c4c0c784448_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:50 PM 15-05-2026
+# Last Update: 01:10 AM 16-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13178" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17787633101020x576.jpg" group-title="Fancode", Japan vs Tajikistan Live | AFC U17 Asian Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13183" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17788265401020x576.jpg" group-title="Fancode", Saudi Arabia vs China PR Live | AFC U17 Asian Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13032" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17788500061020x576.jpg" group-title="Fancode", Aston Villa vs Liverpool | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778873105~acl=/hls/*~hmac=e27d0f62cd78d79d252a1c4ab4bb0752431c0808a55580a5a0931606b801b72f
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:45:17 PM 15-05-2026
+# last_update: 01:00:24 AM 16-05-2026
