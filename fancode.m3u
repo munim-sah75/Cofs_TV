@@ -2,6 +2,27 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Fancode", Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235970990_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Fancode", Chennaiyin FC vs Bengaluru FC (ISL 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/140521_english_hls_81e81e136a66605_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142177_5826_WHU-W_MCI-W_FC-Web.jpg" group-title="Fancode", West Ham United Women vs Manchester City Women (Women's Super League 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142177_english_hls_d3a9e3746196409_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142182_5826_BHA-W_TOT-W_FC-Web.jpg" group-title="Fancode", Brighton and Hove Albion Women vs Tottenham Hotspur Women (Women's Super League 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142182_english_hls_94770da34f1100_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142181_5826_CHE-W_MUN-W_FC-Web.jpg" group-title="Fancode", Chelsea F.C. Women vs Manchester United Women (Women's Super League 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142181_english_hls_989b085e8010996_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142180_5826_EVE-W_LEI-W_FC-Web.jpg" group-title="Fancode", Everton Women vs Leicester City Women (Women's Super League 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142180_english_hls_fb9e10a1e57578_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142179_5826_LIV-W_ARS-W_FC-Web.jpg" group-title="Fancode", Liverpool Women vs Arsenal Women (Women's Super League 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142179_english_hls_3e9753904d26395_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142178_5826_LCL_AST-W_FC-Web.jpg" group-title="Fancode", London City Lionesses vs Aston Villa Women (Women's Super League 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142178_english_hls_acf394a0cb49151_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Newcastle-Jets-vs-Sydney-FC_fc-web.jpg" group-title="Fancode", Newcastle Jets vs Sydney FC (A League 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142507_english_hls_7401464f2d74824_1ta-di_h264/index.m3u8
 
@@ -14,16 +35,16 @@ https://bd-mc-fblive.fancode.com/mumbai/142737_english_hls_f936ff110199210_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode", SF: Bolelli/Vavassori vs Harrison/Skupski vs Stade Roland Garros Paris, France (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142738_english_hls_4bac41947115573_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142425_6076_CYP_FRA_fc-web.jpg" group-title="Fancode", Cyprus vs France Cricket (ICC Men's T20 WC Europe Sub Regional Qualifier A)
-https://bd-mc-fblive.fancode.com/mumbai/142425_english_hls_15a855bc2241593_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Fancode", Spielberg - Day 1 vs Spielberg, Austria (Ferrari Challenge Series 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142635_english_hls_25a27b7c8d8299_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142426_6076_GSY_SWE_fc-web.jpg" group-title="Fancode", Guernsey vs Sweden (ICC Men's T20 WC Europe Sub Regional Qualifier A)
-https://bd-mc-fblive.fancode.com/mumbai/142426_english_hls_b776a9200569347_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Fancode", Day 3 vs Green Eagle Golf Course, Germany (Amundi German Masters 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142327_english_hls_ff1d493b1394682_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:10 PM 16-05-2026
+# Last Update: 06:00 PM 16-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -36,7 +57,7 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:00:22 PM 16-05-2026
+# last_update: 06:00:22 PM 16-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090530179" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244832486296_EngW_vs_NZW_3odi_8may_landscape_thumb.jpg" group-title="Fancode", New Zealand Women's Tour of England 2026 | 3rd ODI - 16 May 2026 
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
