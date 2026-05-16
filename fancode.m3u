@@ -2,41 +2,24 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142153_5655_AAS_ALK_fc-web.jpg" group-title="Fancode", Al-Ahli Saudi FC vs Al-Kholood Club (Roshn Saudi League 2025-2026)
 https://bd-mc-fblive.fancode.com/mumbai/142153_english_hls_bb15d18b8d39804_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778920548856/142633_CASACARDS_APP.png" group-title="Fancode", Racing Club vs Real Valladolid (LALIGA Hypermotion 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142633_english_hls_0130d26d2061615_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778920653029/142632_CASACARDS_APP.png" group-title="Fancode", Almería vs Las Palmas (LALIGA Hypermotion 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142632_english_hls_4c423b8b8e52972_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778953303781/142551_CASACARDS_APP.png" group-title="Fancode", Vietnam vs Australia (AFC U17 Asian Cup Saudi Arabia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142551_english_hls_d066e8053719871_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFL-Championship_Al_Nasar_vs_Gamba_Oska_FC-WEB.jpg" group-title="Fancode", Al-Nassr FC vs Gamba Osaka (AFC Champions League Two 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/140874_english_hls_ef7a6a2b9267306_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="Fancode", Day 3 vs Aronimink (PGA Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142629_english_hls_2f6f12aff710016_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142152_5655_AHS_NEOM_fc-web_1778594602210.jpg" group-title="Fancode", Al Hilal SFC vs Neom SC (Roshn Saudi League 2025-2026)
-https://bd-mc-fblive.fancode.com/mumbai/142152_english_hls_7e33c4deb912511_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:30 AM 17-05-2026
+# Last Update: 01:40 AM 17-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13314" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17786596061020x576.jpg" group-title="Fancode", Al Nassr Club vs Gamba Osaka Live | AFC Champions League Two 2025/26
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13193" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17788293591020x576.jpg" group-title="Fancode", Vietnam vs Australia Live | AFC U17 Asian Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:30:22 AM 17-05-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090530179" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244832486296_EngW_vs_NZW_3odi_8may_landscape_thumb.jpg" group-title="Fancode", New Zealand Women's Tour of England 2026 | 3rd ODI - 16 May 2026 
-https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
+# last_update: 01:30:20 AM 17-05-2026
