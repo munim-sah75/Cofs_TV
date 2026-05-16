@@ -1,31 +1,39 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142152_5655_AHS_NEOM_fc-web_1778594602210.jpg" group-title="Fancode", Al Hilal SFC vs Neom SC (Roshn Saudi League 2025-2026)
+https://bd-mc-fblive.fancode.com/mumbai/142152_english_hls_7e33c4deb912511_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode", Uzbekistan vs Korea Republic (AFC U17 Asian Cup Saudi Arabia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142550_english_hls_f74e6ede0c33357_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778920548856/142633_CASACARDS_APP.png" group-title="Fancode", Racing Club vs Real Valladolid (LALIGA Hypermotion 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142633_english_hls_0130d26d2061615_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778920653029/142632_CASACARDS_APP.png" group-title="Fancode", Almería vs Las Palmas (LALIGA Hypermotion 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142632_english_hls_4c423b8b8e52972_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Fancode", Day 3 vs Green Eagle Golf Course, Germany (Amundi German Masters 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142327_english_hls_ff1d493b1394682_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142428_6076_AUT_MAL_fc-web.jpg" group-title="Fancode", Malta vs Austria (ICC Men's T20 WC Europe Sub Regional Qualifier A)
-https://bd-mc-fblive.fancode.com/mumbai/142428_english_hls_837227617f29396_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:40 PM 16-05-2026
+# Last Update: 10:30 PM 16-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13339" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17786604051020x576.jpg" group-title="Fancode", Chelsea vs Man City Live | FA Cup 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778946906~acl=/hls/*~hmac=6178197844a96123e9eb77ac74610a6cd89bb8c80a9538f35c7684952d222cc4
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1778949906~acl=/hls/*~hmac=4423dc2f0c5c44a4ab681a2169a4e054215ec8e15809bebdc2c23f6bf1a89a87
+#EXTINF:-1 tvg-id="tapmad-13188" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17788287201020x576.jpg" group-title="Fancode", Uzbekistan vs Korea Republic Live | AFC U17 Asian Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:30:21 PM 16-05-2026
+# last_update: 10:30:18 PM 16-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090530244" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017964/1778589475638669_facup26_final_chelsea_vs_man_city_12may_eng_landscape_thumb.jpg" group-title="Fancode", The Emirates FA Cup 2025-26 | Chelsea vs Manchester City - Final - 16 May 2026
 https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090530179" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244832486296_EngW_vs_NZW_3odi_8may_landscape_thumb.jpg" group-title="Fancode", New Zealand Women's Tour of England 2026 | 3rd ODI - 16 May 2026 
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090530180" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017740/1777474110064296_Bundesliga_2025-26_MD-34_Bayern-Munich-vs-FC-Koln_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | Bayern Munich vs FC Koln - MD 34 - 16 May 2026
-https://dai.google.com/ssai/event/RyLJ_PwXTFWClUI4uHJjwA/master.m3u8
