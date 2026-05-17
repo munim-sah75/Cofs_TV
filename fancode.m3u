@@ -8,8 +8,11 @@ https://bd-mc-fblive.fancode.com/mumbai/142432_english_hls_aa47a4484f55807_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142431_6076_SLO_AUT_fc-web.jpg" group-title="Fancode", Slovenia vs Austria (ICC Men's T20 WC Europe Sub Regional Qualifier A)
 https://bd-mc-fblive.fancode.com/mumbai/142431_english_hls_53e3c8a53c53068_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Fancode", Sporting Club Delhi vs Inter Kashi (ISL 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/140514_english_hls_2f11c5d02f67335_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode", Guyana Harpy Eagles vs Trinidad & Tobago Red Force (West Indies Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140506_5956_MBSG_EBFC_FC-Web_1772473907766.jpg" group-title="Fancode", Mohun Bagan Super Giant vs East Bengal FC (ISL 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/140506_english_hls_d5c572cf1f34989_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778774608920/142256_CASACARDS_APP.png" group-title="Fancode", DPR Korea Women vs Japan Women (AFC U17 Women's Asian Cup China 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142256_english_hls_c4f89821aa61991_1ta-di_h264/index.m3u8
@@ -35,19 +38,21 @@ https://bd-mc-fblive.fancode.com/mumbai/142268_english_hls_0e7643fc8d70924_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:40 PM 17-05-2026
+# Last Update: 08:00 PM 17-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13394" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789320101020x576.jpg" group-title="Fancode", Men's Final Session - WC Pazardzhik Bulgaria Live | UIPM 2026 Pentathlon World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13033" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789243701020x576.jpg" group-title="Fancode", Man United vs Nottm Forest | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779022506~acl=/hls/*~hmac=d078da57ac20110a2de6e7719d888d414050156ae7dcf3c936d8d1c4c4e29957
-#EXTINF:-1 tvg-id="tapmad-13319" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789200681020x576.jpg" group-title="Fancode", DPR Korea vs Japan Live | AFC U17 Asian Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13034" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789252511020x576.jpg" group-title="Fancode", Brentford vs Crystal Palace | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779027312~acl=/hls/*~hmac=ccd8de88536f6b0c10d8c5a143a08b52e77a4f1d7859a6e8e3b280c066ed0ae2
+#EXTINF:-1 tvg-id="tapmad-13035" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789290821020x576.jpg" group-title="Fancode", Leeds United vs Brighton | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779027312~acl=/hls/*~hmac=ccd8de88536f6b0c10d8c5a143a08b52e77a4f1d7859a6e8e3b280c066ed0ae2
+#EXTINF:-1 tvg-id="tapmad-13036" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789293111020x576.jpg" group-title="Fancode", Wolves vs Fulham | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779027312~acl=/hls/*~hmac=ccd8de88536f6b0c10d8c5a143a08b52e77a4f1d7859a6e8e3b280c066ed0ae2
+#EXTINF:-1 tvg-id="tapmad-13037" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789294321020x576.jpg" group-title="Fancode", Everton vs Sunderland | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/liver2412pool/master.m3u8?hdnts=exp=1779027312~acl=/hls/*~hmac=ccd8de88536f6b0c10d8c5a143a08b52e77a4f1d7859a6e8e3b280c066ed0ae2
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:30:19 PM 17-05-2026
+# last_update: 08:00:18 PM 17-05-2026
