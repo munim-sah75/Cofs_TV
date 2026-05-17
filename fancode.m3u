@@ -5,21 +5,29 @@ https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg" group-title="Fancode", Band-e-Amir Region vs Mis-e-Ainak Region (Supercola Regional List A Tournament, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142739_english_hls_e4a4ed6c3495551_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Fancode", Papua New Guinea vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)
-https://bd-mc-fblive.fancode.com/mumbai/142321_english_hls_c166f73c9b35658_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142430_6076_CRO_FRA_fc-web.jpg" group-title="Fancode", France Cricket vs Croatia (ICC Men's T20 WC Europe Sub Regional Qualifier A)
+https://bd-mc-fblive.fancode.com/mumbai/142430_english_hls_b8ec86217377096_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142429_6076_MAL_GSY_fc-web.jpg" group-title="Fancode", Malta vs Guernsey (ICC Men's T20 WC Europe Sub Regional Qualifier A)
+https://bd-mc-fblive.fancode.com/mumbai/142429_english_hls_f4d9d66d1594442_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg" group-title="Fancode", Race Day vs Barcelona (MONSTER ENERGY GRAND PRIX OF CATALUNYA 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139944_english_hls_f0761ee15079793_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:20 AM 17-05-2026
+# Last Update: 01:50 PM 17-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13220" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17781400451020x576.jpg" group-title="Fancode", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13388" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789224641020x576.jpg" group-title="Fancode", Women's Final Session - WC Pazardzhik Bulgaria Live | UIPM 2026 Pentathlon World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:15:20 AM 17-05-2026
+# last_update: 01:45:15 PM 17-05-2026
