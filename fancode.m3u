@@ -2,8 +2,11 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Fancode", Band-e-Amir Region vs Mis-e-Ainak Region (Supercola Regional List A Tournament, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142739_english_hls_e4a4ed6c3495551_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Fancode", Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142432_6076_CYP_JER_fc-web.jpg" group-title="Fancode", Jersey vs Cyprus (ICC Men's T20 WC Europe Sub Regional Qualifier A)
+https://bd-mc-fblive.fancode.com/mumbai/142432_english_hls_aa47a4484f55807_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142431_6076_SLO_AUT_fc-web.jpg" group-title="Fancode", Slovenia vs Austria (ICC Men's T20 WC Europe Sub Regional Qualifier A)
+https://bd-mc-fblive.fancode.com/mumbai/142431_english_hls_53e3c8a53c53068_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Fancode", Sporting Club Delhi vs Inter Kashi (ISL 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/140514_english_hls_2f11c5d02f67335_1ta-di_h264/index.m3u8
@@ -32,21 +35,19 @@ https://bd-mc-fblive.fancode.com/mumbai/142268_english_hls_0e7643fc8d70924_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:40 PM 17-05-2026
+# Last Update: 06:40 PM 17-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13220" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17781400451020x576.jpg" group-title="Fancode", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13394" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789320101020x576.jpg" group-title="Fancode", Men's Final Session - WC Pazardzhik Bulgaria Live | UIPM 2026 Pentathlon World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13033" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789243701020x576.jpg" group-title="Fancode", Man United vs Nottm Forest | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779018907~acl=/hls/*~hmac=879f28ffea7192852218727a21d6eddcf68e7da1681a6b3d032b381e0094f290
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779022506~acl=/hls/*~hmac=d078da57ac20110a2de6e7719d888d414050156ae7dcf3c936d8d1c4c4e29957
 #EXTINF:-1 tvg-id="tapmad-13319" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789200681020x576.jpg" group-title="Fancode", DPR Korea vs Japan Live | AFC U17 Asian Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:45:21 PM 17-05-2026
+# last_update: 06:30:19 PM 17-05-2026
