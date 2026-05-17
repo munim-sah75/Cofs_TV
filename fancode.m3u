@@ -1,15 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131190_5427_ATH_CEV_FC-Web.png" group-title="Fancode", Athletic Club vs RC Celta (LALIGA 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/131190_english_hls_5be452741e86743_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode", Guyana Harpy Eagles vs Trinidad & Tobago Red Force (West Indies Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131199_5427_SEV_RM_FC-Web.png" group-title="Fancode", Sevilla FC vs Real Madrid (LALIGA 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/131199_english_hls_72f9234cd213549_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131198_5427_OSN_ESL_FC-Web.png" group-title="Fancode", CA Osasuna vs RCD Espanyol (LALIGA 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/131198_english_hls_eca5ce4e5468529_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131197_5427_RO_ALA_FC-Web.png" group-title="Fancode", Real Oviedo vs Deportivo Alaves (LALIGA 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/131197_english_hls_ea3442263172612_1ta-di_h264/index.m3u8
@@ -29,8 +20,14 @@ https://bd-mc-fblive.fancode.com/mumbai/131193_english_hls_bb81e4b92d72599_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131191_5427_ATL_GIR_FC-Web.png" group-title="Fancode", Atletico de Madrid vs Girona FC (LALIGA 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/131191_english_hls_ab8a49562f8350_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Luciano-Darderi_fc-web_1779011889906.jpg" group-title="Fancode", Finals: J. Sinner vs C. Ruud vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142757_english_hls_27101c767742_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131190_5427_ATH_CEV_FC-Web.png" group-title="Fancode", Athletic Club vs RC Celta (LALIGA 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/131190_english_hls_5be452741e86743_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode", Guyana Harpy Eagles vs Trinidad & Tobago Red Force (West Indies Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131198_5427_OSN_ESL_FC-Web.png" group-title="Fancode", CA Osasuna vs RCD Espanyol (LALIGA 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/131198_english_hls_eca5ce4e5468529_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="Fancode", Day 4 vs Aronimink (PGA Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/index.m3u8
@@ -38,15 +35,15 @@ https://bd-mc-fblive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:10 PM 17-05-2026
+# Last Update: 12:00 AM 18-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13038" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789295301020x576.jpg" group-title="Fancode", Newcastle vs West Ham | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779038706~acl=/hls/*~hmac=9c1096a2402525cde23fc755cbb7c7fee76f790558046aa12c6789a0ad7e2f8e
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779041706~acl=/hls/*~hmac=2c6464e3942ee7d1545ff87bc96cd3f7921eb57c3c98aa16e01fa7da1a10d994
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:45:16 PM 17-05-2026
+# last_update: 11:45:16 PM 17-05-2026
