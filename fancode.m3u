@@ -1,20 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779245353729/142704_CASACARDS_APP.png" group-title="Fancode", Al Khaleej FC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)
-https://bd-mc-fblive.fancode.com/mumbai/142704_english_hls_0209abb40795656_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Fancode", ATP 250 - Gonet Geneva Open 2026 vs Geneva (ATP 250 - Gonet Geneva Open 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142271_english_hls_485f697c6a30983_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Fancode", Day 4 - Main Feed vs Hamburg (ATP 500 - Bitpanda Hamburg Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142264_english_hls_ed6cddddb476090_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Fancode", Day 4 - Centre Court vs Hamburg, Germany (ATP 500 - Bitpanda Hamburg Open 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142930_english_hls_73e6a175bd74019_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 AM 21-05-2026
+# Last Update: 03:00 AM 21-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -25,10 +16,7 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:45:18 AM 21-05-2026
+# last_update: 03:00:21 AM 21-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090530479" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018114/1779102313036807_UEL_Final_With_Players_Frieburg_vs_Aston_Villa_live_landscape_thumb.jpg" group-title="Fancode", UEFA Europa League 2025-26 | Freiburg vs Aston Villa - Final - 21 May 2026
 https://dai.google.com/ssai/event/8v64bO0BSiWeXJxzHSUt7A/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090530478" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018140/1779197437070297_EngW_vs_NZW_1t20i_19may_landscape_thumb.jpg" group-title="Fancode", New Zealand Women's Tour of England 2026 | 1st T20I - 20 May 2026
-https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
