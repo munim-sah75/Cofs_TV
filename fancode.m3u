@@ -2,8 +2,11 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Fancode", Mis-e-Ainak Region vs Boost Region (Supercola Regional List A Tournament, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142742_english_hls_86d838303936747_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778470834414/141769_CASACARDS_APP.png" group-title="Fancode", Naegohyang Women's FC vs Suwon FC (AFC Women's Champions League 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/141769_english_hls_ca5ee3e06c53373_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142440_6076_CRO_JER_fc-web.jpg" group-title="Fancode", Jersey vs Croatia (ICC Men's T20 WC Europe Sub Regional Qualifier A)
+https://bd-mc-fblive.fancode.com/mumbai/142440_english_hls_d384b26fb823071_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142439_6076_SWE_MAL_fc-web.jpg" group-title="Fancode", Sweden vs Malta (ICC Men's T20 WC Europe Sub Regional Qualifier A)
+https://bd-mc-fblive.fancode.com/mumbai/142439_english_hls_efc941c91395239_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Fancode", ATP 250 - Gonet Geneva Open 2026 vs Geneva (ATP 250 - Gonet Geneva Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142271_english_hls_485f697c6a30983_1ta-di_h264/index.m3u8
@@ -17,21 +20,17 @@ https://bd-mc-fblive.fancode.com/mumbai/142929_english_hls_f3ba5d9be463682_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Fancode", Day 4 - Centre Court vs Hamburg, Germany (ATP 500 - Bitpanda Hamburg Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142930_english_hls_73e6a175bd74019_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142438_6076_CYP_SUI_fc-web.jpg" group-title="Fancode", Switzerland vs Cyprus (ICC Men's T20 WC Europe Sub Regional Qualifier A)
-https://bd-mc-fblive.fancode.com/mumbai/142438_english_hls_d0df20dbcb31861_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:10 PM 20-05-2026
+# Last Update: 07:40 PM 20-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13329" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17791773241020x576.jpg" group-title="Fancode", Naegohyang Women's FC vs Suwon FC Women | AFC Women's Champions League 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:15:20 PM 20-05-2026
+# last_update: 07:45:25 PM 20-05-2026
