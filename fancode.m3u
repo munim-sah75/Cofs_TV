@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Fayha-FC-vs-Al-Hilal-SFC_FC-web.jpg" group-title="Fancode", Al-Fayha FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)
-https://bd-mc-fblive.fancode.com/mumbai/142706_english_hls_0ce435e4565168_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Damac-FC_FC-web.jpg" group-title="Fancode", Al-Nassr FC vs Damac FC (Roshn Saudi League 2025-2026)
-https://bd-mc-fblive.fancode.com/mumbai/142705_english_hls_5daf09e1f828611_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Fancode", Day 5 - Main Feed vs Hamburg (ATP 500 - Bitpanda Hamburg Open 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142265_english_hls_5510e50a6d53669_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Fancode", Day 5 - Men's QF vs Geneva (ATP 250 - Gonet Geneva Open 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142272_english_hls_889f16b95a77197_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 1 - Main Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142115_english_hls_d9a5ff70be55201_1ta-di_h264/index.m3u8
 
@@ -23,20 +11,20 @@ https://bd-mc-fblive.fancode.com/mumbai/142116_english_hls_1f4ecc746b60518_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 1 - Featured Holes vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142117_english_hls_a77e08f11348882_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 1 - World Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142114_english_hls_db8ba3262d27884_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:40 AM 22-05-2026
+# Last Update: 03:10 AM 22-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13741" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17793489771020x576.jpg" group-title="Fancode", RG26 Gael + Friends Live | French Open 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779393307~acl=/hls/*~hmac=1e3484d3e42d557f5c7ce534c8d42921a4c868c0c5d20dd0d610d549c3d2e9a9
-#EXTINF:-1 tvg-id="tapmad-13477" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17791851161020x576.jpg" group-title="Fancode", Wolfsburg vs Paderborn | Bundesliga 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779393306~acl=/hls/*~hmac=cc871788a5df07cc320a3db7ba3a2af1371207521c7b3763748546a988d1805f
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:15:18 AM 22-05-2026
+# last_update: 03:15:17 AM 22-05-2026
