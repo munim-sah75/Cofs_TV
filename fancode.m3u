@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142444_6076_MAL_SLO_fc-web.jpg" group-title="Fancode", Slovenia vs Malta (ICC Men's T20 WC Europe Sub Regional Qualifier A)
-https://bd-mc-fblive.fancode.com/mumbai/142444_english_hls_a9cb660ceb18798_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142443_6076_CYP_CRO_fc-web.jpg" group-title="Fancode", Croatia vs Cyprus (ICC Men's T20 WC Europe Sub Regional Qualifier A)
 https://bd-mc-fblive.fancode.com/mumbai/142443_english_hls_332a1414be6043_1ta-di_h264/index.m3u8
 
@@ -20,30 +17,24 @@ https://bd-mc-fblive.fancode.com/mumbai/142121_english_hls_686c0af15485822_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 2 - Featured Holes vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142122_english_hls_efc99e5eb166998_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg" group-title="Fancode", Practice Session vs Montreal (F1 ACADEMY CANADA 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139685_english_hls_d09886ed8b2527_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Fancode", Day 6 - Men's SF's vs Hamburg, Germany (ATP 500 - Bitpanda Hamburg Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142949_english_hls_d47fd7059522290_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:50 PM 22-05-2026
+# Last Update: 10:10 PM 22-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13441" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794430971020x576.jpg" group-title="Fancode", Somerset Women vs Hampshire Women Live | Vitality Blast Women 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779458708~acl=/hls/*~hmac=4e12924152ce9139b1dc73682154d02d471ac93935b8ae9b046769a06cd345c6
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779467107~acl=/hls/*~hmac=af07b974c37569dc87afe13cc1646edb85945f55c67aaca6844cda6f9834eb02
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:51:25 PM 22-05-2026
+# last_update: 10:00:23 PM 22-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090530947" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018192/1779373815454514_VitalityBlast26_womens_Glamorgan_vs_Gloucestershire_21may_landscape_thumb.jpg" group-title="Fancode",  Vitality Blast Women 2026 | Somerset Women vs Hampshire Women - 22 May 2026
 https://dai.google.com/ssai/event/D3XQZ4yfRkyIikYO7oyk1Q/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090530588" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017615/177749334615711_IFL_RD13_Dempo_Sports_Club_vs_Sreenidi_Deccan_FC_Live_landscape_thumb.jpg" group-title="Fancode", Star Cement Indian Football League 2025-26 | Dempo Sports Club vs Sreenidi Deccan FC - 22 May 2026
-https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8
