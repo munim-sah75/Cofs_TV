@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779244278108/142554_CASACARDS_APP.png" group-title="Fancode", China PR vs Japan (AFC U17 Asian Cup Saudi Arabia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142554_english_hls_7cd85c873c21539_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 2 - Main Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142120_english_hls_27f9701cee7073_1ta-di_h264/index.m3u8
 
@@ -14,30 +11,23 @@ https://bd-mc-fblive.fancode.com/mumbai/142121_english_hls_686c0af15485822_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 2 - Featured Holes vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142122_english_hls_efc99e5eb166998_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Fancode", Day 6 - Men's SF's vs Hamburg, Germany (ATP 500 - Bitpanda Hamburg Open 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142949_english_hls_d47fd7059522290_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web.jpg" group-title="Fancode", Practice 1 vs Canada (F1 LENOVO GRAND PRIX DU CANADA 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139442_english_hls_a4be7f387232380_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg" group-title="Fancode", Qualifying Session vs Canada (F2 MONTREAL 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142088_english_hls_4596b2e4a227851_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 2 - World Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142119_english_hls_b632ba230c3253_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 AM 23-05-2026
+# Last Update: 02:00 AM 23-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13208" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792661171020x576.jpg" group-title="Fancode", China PR vs Japan Live | AFC U17 Asian Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:00:22 AM 23-05-2026
+# last_update: 02:00:20 AM 23-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090531099" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018189/1779371277419448_VitalityBlast26_Mens_Somerset_vs_Hampshire_21may_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Somerset vs Hampshire - 22 May 2026
 https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8
