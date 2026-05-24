@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Fancode", Boost Region vs Speen Ghar Region (Supercola Regional List A Tournament, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142746_english_hls_890639a95b99751_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode", Sierra Leone vs Cameroon (ICC Men's T20 WC Africa Sub Regional Qualifier)
 https://bd-mc-fblive.fancode.com/mumbai/142912_english_hls_ae8ea4872810741_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode", Mali vs Botswana (ICC Men's T20 WC Africa Sub Regional Qualifier)
-https://bd-mc-fblive.fancode.com/mumbai/142911_english_hls_9cabe811d380958_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778919948675/142735_CASACARDS_APP.png" group-title="Fancode", Bolton Wanderers vs Stockport County (League One 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142735_english_hls_da947f6bbb65364_1ta-di_h264/index.m3u8
@@ -23,19 +17,28 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Alexander-Zverev-vs-Benjamin-Bonzi_FC-WEB.jpg" group-title="Fancode", Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Alexander-Zverev-vs-Benjamin-Bonzi_FC-WEB.jpg" group-title="Fancode", Bonzi vs Zverev vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779659243~acl=/*~id=57532946422315149672391649315909~hmac=667faa720c9f4b7c27f6b84b43eaa67c5b1c8e6e10e5ff8dac52d0a41ce32407
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png" group-title="Fancode", Day 3 Race 2 - Zandvoort vs Netherlands (DTM 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142534_english_hls_e979dc8c3258897_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 4 - Main Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142130_english_hls_d2299e4d7e646_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 4 - Featured Holes vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142132_english_hls_ad865c0d3020364_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 4 - Featured Groups vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142133_english_hls_471b6b2a6324053_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png" group-title="Fancode", ADAC GT Race 2 - Zandvoort vs Netherlands (DTM 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142535_english_hls_017965aaad2371_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 4 - Marquee Group vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142131_english_hls_eb214487a576805_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:10 PM 24-05-2026
+# Last Update: 07:50 PM 24-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -48,13 +51,15 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13552" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794409121020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792630681020x576.jpg" group-title="Fancode", Muhammad Yahya vs Mehdi Saadi | PFL 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13444" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794469831020x576.jpg" group-title="Fancode", Middlesex vs Surrey Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779625506~acl=/hls/*~hmac=c3c5f29ac7bb6bf169899ee74fef91497c4c90964ec0ffc48311ae9a1317344d
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779631506~acl=/hls/*~hmac=edc317a3fff0c90b59e0a1b7cc3a48fd56fa71a8ac924c96f8b69cb586eae64c
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:00:22 PM 24-05-2026
+# last_update: 07:45:15 PM 24-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018285/1779601648000453_RG26_Bonzi_vs_Zverev_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Benjamin Bonzi vs Alexander Zverev - Round 1 - 24 May 2026
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
@@ -62,17 +67,14 @@ https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090531101" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018237/1779537026869575_VitalityBlast26_Mens_Middlesex_vs_Surrey_23may_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Middlesex vs Surrey - 24 May 2026
 https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018251/1779513304000268_RG26_Khachanov_vs_Gea_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Karen Khachanov vs Arthur Gea - Round 1 - 24 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018287/1779601640000593_RG26_Baptiste_vs_Krejcikova_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Hailey Baptiste vs Barbora Krejcikova - Women's Singles - 24 May 2026
 https://dai.google.com/ssai/event/289XpT05TqS1xkA1I_kwvg/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018257/1779552570442943_RG26_round1_Court14_23may_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Alejandro Davidovich Fokina vs Damir Dzumhur - Men's Singles - 24 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779611719316580_RG26_Round1_Court14_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Francesca Jones vs Beatriz Haddad Maia - Women's Singles - 24 May 2026
 https://dai.google.com/ssai/event/ZFnJ3ngdQD-2g-Y8iVXtaA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018257/1779552438390943_RG26_round1_Simonne_Mathieu_Court_23may_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Katie Volynets vs Clara Burel - Women's Singles - 24 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779610286818580_RG26_Round1_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Titouan Droguet vs Jakub Mensik - Men's Singles - 24 May 2026
 https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090530621" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018215/17794681141544_Hyundai_ArcheryWC26_Recurve_Finals_Live_landscape_thumb.jpg" group-title="Fancode", Hyundai Archery World Cup Final 2026 | Recurve Finals - 24 May 2026
-https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090530616" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774893987139_DP_World_Soudal_Open_Day4_landscape_thumb.jpg" group-title="Fancode", DP World Tour | Soudal Open - Day 4 - 24 May 2026
 https://dai.google.com/ssai/event/urJiNdAfTz-oUiy1vWzIhw/master.m3u8
