@@ -2,25 +2,40 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Fancode", Boost Region vs Speen Ghar Region (Supercola Regional List A Tournament, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142746_english_hls_890639a95b99751_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Suzanne-Lenglen vs France (Roland Garros 2026)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode", Sierra Leone vs Cameroon (ICC Men's T20 WC Africa Sub Regional Qualifier)
+https://bd-mc-fblive.fancode.com/mumbai/142912_english_hls_ae8ea4872810741_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode", Mali vs Botswana (ICC Men's T20 WC Africa Sub Regional Qualifier)
+https://bd-mc-fblive.fancode.com/mumbai/142911_english_hls_9cabe811d380958_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778919948675/142735_CASACARDS_APP.png" group-title="Fancode", Bolton Wanderers vs Stockport County (League One 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142735_english_hls_da947f6bbb65364_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Simonne-Mathieu vs France (Roland Garros 2026)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court 14 vs France (Roland Garros 2026)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Philippe-Chatrier vs Stade Roland Garros (Roland Garros 2026)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Alexander-Zverev-vs-Benjamin-Bonzi_FC-WEB.jpg" group-title="Fancode", Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779659243~acl=/*~id=57532946422315149672391649315909~hmac=667faa720c9f4b7c27f6b84b43eaa67c5b1c8e6e10e5ff8dac52d0a41ce32407
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png" group-title="Fancode", Day 3 Race 2 - Zandvoort vs Netherlands (DTM 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142534_english_hls_e979dc8c3258897_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 4 - Main Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142130_english_hls_d2299e4d7e646_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:20 PM 24-05-2026
+# Last Update: 06:10 PM 24-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -34,14 +49,14 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/ma
 #EXTINF:-1 tvg-id="tapmad-13552" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794409121020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13444" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794469831020x576.jpg" group-title="Fancode", Middlesex vs Surrey Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779622506~acl=/hls/*~hmac=96d04588d4cfff60fcfdbc6e9123b39a288f626541ef43d681b8271e5a5833a5
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779625506~acl=/hls/*~hmac=c3c5f29ac7bb6bf169899ee74fef91497c4c90964ec0ffc48311ae9a1317344d
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:15:17 PM 24-05-2026
+# last_update: 06:00:22 PM 24-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018253/1779513288000197_RG26_Kraus_vs_Bencic_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Sinja Kraus vs Belinda Bencic - Round 1 - 24 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018285/1779601648000453_RG26_Bonzi_vs_Zverev_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Benjamin Bonzi vs Alexander Zverev - Round 1 - 24 May 2026
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531101" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018237/1779537026869575_VitalityBlast26_Mens_Middlesex_vs_Surrey_23may_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Middlesex vs Surrey - 24 May 2026
