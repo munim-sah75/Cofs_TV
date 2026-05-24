@@ -1,15 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131207_5427_VIL_ATL_FC-Web.png" group-title="Fancode", Villarreal CF vs Atletico de Madrid (LALIGA 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/131207_english_hls_ebf0a110a614242_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779684770~acl=/*~id=80892143513824944227603378737363~hmac=b598649fcbe069599be1a6cfe32738857d08ef84bbf1efbc59dcb25564d5a4b3
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1779684770~acl=/*~id=80892143513824944227603378737363~hmac=b598649fcbe069599be1a6cfe32738857d08ef84bbf1efbc59dcb25564d5a4b3
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779684781~acl=/*~id=43287984509071718759014629479344~hmac=6c772f5a7ec96271a171b48ad4559145bd20042a19db67052ed0c79dbd4edb13
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Novak-Djokovic-vs-Giovanni-Mpetshi-Perricard_FC_WEB.jpg" group-title="Fancode", N. Djokovic vs G. Mpetshi Perricard vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779684781~acl=/*~id=43287984509071718759014629479344~hmac=6c772f5a7ec96271a171b48ad4559145bd20042a19db67052ed0c79dbd4edb13
@@ -17,17 +8,8 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779688422~acl=/*~id=08842955277723224683463733568556~hmac=8a8880c2a7d8d234ea1d8f16009f40db7b3beb927f613b425088192ec16e5819
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 4 - Main Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142130_english_hls_d2299e4d7e646_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 4 - Featured Holes vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142132_english_hls_ad865c0d3020364_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 4 - Featured Groups vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142133_english_hls_471b6b2a6324053_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 4 - Marquee Group vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142131_english_hls_eb214487a576805_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode", Day 4 - World Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142129_english_hls_288d6edf7a20445_1ta-di_h264/index.m3u8
@@ -35,10 +17,13 @@ https://bd-mc-fblive.fancode.com/mumbai/142129_english_hls_288d6edf7a20445_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg" group-title="Fancode", Race vs Canada (F1 LENOVO GRAND PRIX DU CANADA 2026)
 https://bd-mc-fblive.fancode.com/mumbai/139446_english_hls_575bbc305b90959_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131207_5427_VIL_ATL_FC-Web.png" group-title="Fancode", Villarreal CF vs Atletico de Madrid (LALIGA 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/131207_english_hls_ebf0a110a614242_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:30 AM 25-05-2026
+# Last Update: 03:30 AM 25-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -47,21 +32,16 @@ https://bd-mc-fblive.fancode.com/mumbai/139446_english_hls_575bbc305b90959_1ta-d
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13609" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795820961020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13611" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795822831020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13553" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794417191020x576.jpg" group-title="Fancode", Ladies' or Gentlemen's Singles 1 "Great" match - 1st Round | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:30:19 AM 25-05-2026
+# last_update: 03:30:19 AM 25-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018286/1779591420000941_RG26_Perricard_vs_Djokovic_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Mpetshi Perricard vs Novak Djokovic - Round 1 - 24 May 2026
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018283/1779591424000293_RG26_Efremova_vs_Cirstea_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Ksenia Efremova vs Sorana Cirstea - Women's Singles - 25 May 2026
-https://dai.google.com/ssai/event/289XpT05TqS1xkA1I_kwvg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779610286818580_RG26_Round1_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Lorenzo Sonego vs Pierre-Hugues Herbert - Men's Singles - 24 May 2026
 https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8
