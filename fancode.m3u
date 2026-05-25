@@ -1,27 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779772219~acl=/*~id=51896640704912299656958475804601~hmac=5b0e60deba30b26103a00bde8b41c6ea466b07eb8f276a795f22bd98c23df83e
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779774649~acl=/*~id=34685487369819498283829264287536~hmac=ae0c49c7f20a6c80b12d3c97d3ebd93d59dbde99042670e95f79ba97ce064353
-
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:50 AM 26-05-2026
+# Last Update: 04:40 AM 26-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13555" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796890751020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 1st Round - World Feed Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13557" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796895831020x576.jpg" group-title="Fancode", Ladies' or Gentlemen's Singles 1 "Great" match - 1st Round - Philippe Chatrier Feed Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:45:16 AM 26-05-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018313/1779615828000777_Roland_Garros_2026_Gaston_vs_Monfils_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Hugo Gaston vs Gael Monfils - Round 1 - 25 May 2026
-https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
+# last_update: 04:45:17 AM 26-05-2026
