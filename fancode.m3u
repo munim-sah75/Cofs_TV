@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode", Ivory Coast vs Mali (ICC Men's T20 WC Africa Sub Regional Qualifier)
-https://bd-mc-fblive.fancode.com/mumbai/142915_english_hls_a076519b2568546_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142936_6089_MDW_INDW_FC-Web_1779706388717.jpg" group-title="Fancode", Maldives Women vs India Women (SAFF Women's Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142936_english_hls_edd205a76331217_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778931436016/142736_CASACARDS_APP.png" group-title="Fancode", Notts County vs Salford City (League Two 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142736_english_hls_688b0bf1a326363_1ta-di_h264/index.m3u8
 
@@ -23,10 +17,13 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779745517~acl=/*~id=55083438875630320926596664126171~hmac=83ecba997433e7334160da551fad0eb8039ed781bd7988bbe9d2d95c17dfc412
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142936_6089_MDW_INDW_FC-Web_1779706388717.jpg" group-title="Fancode", Maldives Women vs India Women (SAFF Women's Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142936_english_hls_edd205a76331217_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 PM 25-05-2026
+# Last Update: 10:10 PM 25-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -39,25 +36,20 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13615" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796887401020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13556" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796892301020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 1st Round - Philippe Chatrier Feed Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:45:18 PM 25-05-2026
+# last_update: 10:00:23 PM 25-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018345/1779667459682784_Roland_Garros_2026_round1_Wawrinka_vs_Jesper_de_Jong_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Stan Wawrinka vs Jesper de Jong - Round 1 - 25 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018339/1779615782000805_Roland_Garros_2026_Ruud_vs_Safiullin_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Casper Ruud vs Roman Safiullin - Round 1 - 25 May 2026
 https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090530723" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018140/1779197455610297_EngW_vs_NZW_3t20i_19may_landscape_thumb.jpg" group-title="Fancode", New Zealand Women's Tour of England 2026 | 3rd T20I - 25 May 2026
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018340/1779615792000753_RG26_Svitolina_vs_Bondar_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Elina Svitolina vs Anna Bondar - Women's Singles - 25 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018320/177961581400058_RG26_Rajaonah_vs_Anisimova_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Tiantsoa Sarah Rakotomanga Rajaonah vs Amanda Anisimova - Women's Singles - 25 May 2026
 https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779608826534580_RG26_Round1_Philippe_Chatrier_Court_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Ugo Humbert vs Adrian Mannarino - Men's Singles - 25 May 2026
-https://dai.google.com/ssai/event/nTNP47S9Smqb0l7kFi-rbw/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779611719316580_RG26_Round1_Court14_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Kaitlin Quevedo vs Leolia Jeanjean - Women's Singles - 25 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018309/1779615806000355_RG26_Cobolli_vs_Pellegrino_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Flavio Cobolli vs Andrea Pellegrino - Men's Singles - 25 May 2026
 https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
