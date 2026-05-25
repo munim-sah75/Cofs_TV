@@ -8,7 +8,7 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:40 AM 26-05-2026
+# Last Update: 03:50 AM 26-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -17,16 +17,11 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13557" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796895831020x576.jpg" group-title="Fancode", Ladies' or Gentlemen's Singles 1 "Great" match - 1st Round - Philippe Chatrier Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13478" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17793505121020x576.jpg" group-title="Fancode", Paderborn vs Wolfsburg | Bundesliga 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779742512~acl=/hls/*~hmac=d49de0cb2ccf9d7b1f4d7b34f6d4bea9dd2f049f65e5dbb0fa62e5afe7e9245f
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:30:18 AM 26-05-2026
+# last_update: 03:45:16 AM 26-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018313/1779615828000777_Roland_Garros_2026_Gaston_vs_Monfils_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Hugo Gaston vs Gael Monfils - Round 1 - 25 May 2026
 https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090531273" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018134/1779193395912293_bliga26_Relegation_Playoffs_SC_Paderborn07_vs_VfL_Wolfsburg_19may_landscape_thumb.jpg" group-title="Fancode", Bundesliga 2025-26 | SC Paderborn 07 vs VFL Wolfsburg - Relegation Playoffs - 25 May 2026
-https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
