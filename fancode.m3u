@@ -1,15 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Fancode", Band-e-Amir Region vs Amo Region (Supercola Regional List A Tournament, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142747_english_hls_87b73054ca50393_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode", Ivory Coast vs Mali (ICC Men's T20 WC Africa Sub Regional Qualifier)
+https://bd-mc-fblive.fancode.com/mumbai/142915_english_hls_a076519b2568546_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Skywarriors_web.png" group-title="Fancode", New Territories Tigers vs Hong Kong Islanders (Skywarriors All Stars Plus Men’s T20 Series 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142767_english_hls_c8e45499186809_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142936_6089_MDW_INDW_FC-Web_1779706388717.jpg" group-title="Fancode", Maldives Women vs India Women (SAFF Women's Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142936_english_hls_edd205a76331217_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode", Botswana vs Cameroon (ICC Men's T20 WC Africa Sub Regional Qualifier)
-https://bd-mc-fblive.fancode.com/mumbai/142914_english_hls_3929352aa893962_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode", Kenya vs Rwanda (ICC Men's T20 WC Africa Sub Regional Qualifier)
-https://bd-mc-fblive.fancode.com/mumbai/142913_english_hls_7ebaddb8be36691_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778931436016/142736_CASACARDS_APP.png" group-title="Fancode", Notts County vs Salford City (League Two 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142736_english_hls_688b0bf1a326363_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779741835~acl=/*~id=55756239687963292986073685360556~hmac=85b4090909a11db8991722376dc64d2270a9110dbe4a693f24e0dcd975c28582
@@ -20,7 +17,7 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779741847~acl=/*~id=79848474144177962252161081613865~hmac=476066cdf12309c2713b9f7d9c2e263b2c82708550e0e4a733c53aaa61043dc3
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Iga-Swiatek-vs-Emerson-Jones_FC-WEB_1779704808096.jpg" group-title="Fancode", Jones vs Swiatek vs Stade Roland Garros Paris, France (Roland Garros 2026)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779743065~acl=/*~id=67616535493173795390724659894959~hmac=a511422b5b1d847e01f30ffee51cccdabda401605e1cc856069cabe4a18825b9
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)
@@ -29,7 +26,7 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:40 PM 25-05-2026
+# Last Update: 07:30 PM 25-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -48,16 +45,19 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:30:20 PM 25-05-2026
+# last_update: 07:45:18 PM 25-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018314/1779615818000843_RG26_Jones_vs_Swiatek_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Emerson Jones vs Iga Swiatek - Round 1 - 25 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018345/1779667459682784_Roland_Garros_2026_round1_Wawrinka_vs_Jesper_de_Jong_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Stan Wawrinka vs Jesper de Jong - Round 1 - 25 May 2026
 https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018317/1779615784000246_RG26_Paolini_vs_Yastremska_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Jasmine Paolini vs Dayana Yastremska - Women's Singles - 25 May 2026
-https://dai.google.com/ssai/event/Bw3t-0plSQGZbHOnERHj9Q/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090530723" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018140/1779197455610297_EngW_vs_NZW_3t20i_19may_landscape_thumb.jpg" group-title="Fancode", New Zealand Women's Tour of England 2026 | 3rd T20I - 25 May 2026
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018311/1779615790000312_Roland_Garros_2026_De_Minaur_vs_Samuel_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Alex de Minaur vs Toby Samuel - Men's Singles - 25 May 2026
-https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779610010184580_RG26_Round1_Suzanne_Lenglen_Court_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Arthur Rinderknech vs Jurij Rodionov - Men's Singles - 25 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018340/1779615792000753_RG26_Svitolina_vs_Bondar_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Elina Svitolina vs Anna Bondar - Women's Singles - 25 May 2026
 https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779608826534580_RG26_Round1_Philippe_Chatrier_Court_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Ugo Humbert vs Adrian Mannarino - Men's Singles - 25 May 2026
+https://dai.google.com/ssai/event/nTNP47S9Smqb0l7kFi-rbw/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779611719316580_RG26_Round1_Court14_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Kaitlin Quevedo vs Leolia Jeanjean - Women's Singles - 25 May 2026
+https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
