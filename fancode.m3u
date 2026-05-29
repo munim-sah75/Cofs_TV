@@ -2,16 +2,10 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780116815~acl=/*~id=05374241453762883200966251458013~hmac=307d5a2e656be030f359ff533c46f7334a2d6e5c15936594a5035ec3023c8aea
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1780116815~acl=/*~id=05374241453762883200966251458013~hmac=307d5a2e656be030f359ff533c46f7334a2d6e5c15936594a5035ec3023c8aea
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1780116815~acl=/*~id=05374241453762883200966251458013~hmac=307d5a2e656be030f359ff533c46f7334a2d6e5c15936594a5035ec3023c8aea
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780116815~acl=/*~id=05374241453762883200966251458013~hmac=307d5a2e656be030f359ff533c46f7334a2d6e5c15936594a5035ec3023c8aea
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Joao-Fonseca-vs-Novak-Djokovic_FC-WEB_1780064566311.jpg" group-title="Fancode", Fonseca vs Djokovic vs Stade Roland Garros Paris, France (Roland Garros 2026)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Quentin-Halys-vs-Alexander-Zverev_FC-WEB.jpg" group-title="Fancode", Halys vs Zverev vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1780120470~acl=/*~id=60167275335337950000258604596386~hmac=37a680138623ca3a5a5674675142c737adf8a77251a249b8d69979ead6a9dda4
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode", Day 2 - Featured Groups vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)
@@ -26,10 +20,13 @@ https://bd-mc-fblive.fancode.com/mumbai/142892_english_hls_0c9061c0ab87186_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode", Day 2 - Featured Holes vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142895_english_hls_e81ca2f1df93911_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode", Day 2 - World Feed vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142891_english_hls_81361e9ec918166_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 AM 30-05-2026
+# Last Update: 03:10 AM 30-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -38,31 +35,16 @@ https://bd-mc-fblive.fancode.com/mumbai/142895_english_hls_e81ca2f1df93911_1ta-d
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13571" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799785681020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 3rd Round - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13818" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799777371020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13448" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798633191020x576.jpg" group-title="Fancode", Worcestershire vs Warwickshire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780082106~acl=/hls/*~hmac=a4863a170657d9d7c85faa8f6b91b9e5259cc54f7976ec7a6fd3d794debf3c2f
 #EXTINF:-1 tvg-id="tapmad-13573" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799792781020x576.jpg" group-title="Fancode", Ladies' or Gentlemen's Singles1 "Great" match - 3rd Round - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13852" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799097261020x576.jpg" group-title="Fancode", Bosnia and Herzegovina vs North Macedonia | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780082106~acl=/hls/*~hmac=a4863a170657d9d7c85faa8f6b91b9e5259cc54f7976ec7a6fd3d794debf3c2f
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:00:24 AM 30-05-2026
+# last_update: 03:15:19 AM 30-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018653/1779972674000141_RG26_Fonseca_vs_Djokovic_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Joao Fonseca vs Novak Djokovic - Round 3 - 29 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018710/1780018450000596_RG26_Halys_vs_Zverev_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Quentin Halys vs Alexander Zverev - Round 3 - 29 May 2026
 https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090531305" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018615/1779969856147224_VitalityBlast26_Mens_Worcestershire_vs_Warwickshire_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Worcestershire vs Warwickshire - 29 May 2026
-https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018650/1779972696000357_RG26_Ruud_V_Paul_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Casper Ruud vs Tommy Paul - Men's Singles - 29 May 2026
 https://dai.google.com/ssai/event/Xk-CmgLpTPO9LE8jR_GDVA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018660/1779972668000437_RG26_Stearns_V_Bencic_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Peyton Stearns vs Belinda Bencic - Women's Singles - 30 May 2026
-https://dai.google.com/ssai/event/x35XkXi3SdGBXAhPlAwyUA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090531576" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018693/1780023175528370_INT_Friendlies26_Bosnia_vs_North_Macedonia_live_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Bosnia-Herzegovina vs North Macedonia - 29 May 2026
-https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8
