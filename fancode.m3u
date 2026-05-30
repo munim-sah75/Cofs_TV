@@ -32,7 +32,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142896_english_hls_c80b57ab6d25455_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:40 AM 31-05-2026
+# Last Update: 01:50 AM 31-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -47,28 +47,26 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13821" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800051941020x576.jpg" group-title="Fancode", Ladies, Gentlemen's & Mixed Doubles - 2nd Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13485" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg" group-title="Fancode", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13449" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800097061020x576.jpg" group-title="Fancode", Sussex vs Middlesex Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780167311~acl=/hls/*~hmac=efd8514f87e3215f87dd033fcfce0c8e8a84efb292a6c5dafbb6ff17b376120e
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780171507~acl=/hls/*~hmac=c451127c9751a8354cf04d601295a8654922a4928d601289ae9e9aeef27365d9
 #EXTINF:-1 tvg-id="tapmad-13577" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800091611020x576.jpg" group-title="Fancode", Ladies' or Gentlemen's Singles1 "Great" match - 3rd Round - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:45:19 AM 31-05-2026
+# last_update: 01:45:17 AM 31-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090532721" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018724/1780061881398358_UCL_Final_PSG_vs_Arsenal_live_landscape_thumb_SP.jpg" group-title="Fancode", UEFA Champions League 2025-26 | PSG vs Arsenal - Final - 30 May 2026
 https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018786/1780059450000777_RG26_Auger-Aliassime_vs_Nakashima_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Felix Auger Aliassime vs Brandon Nakashima - Round 3 - 30 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018786/1780059450000777_RG26_Auger-Aliassime_vs_Nakashima_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Felix Auger-Aliassime vs Brandon Nakashima - Men's Singles - 31 May 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018790/1780059436000334_RG26_Faria_vs_Tiafoe_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Jaime Faria vs Frances Tiafoe - Men's Singles - 30 May 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018849/1780160805430461_RG26_Mboko_V_Keys_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Victoria Mboko vs Madison Keys - Women's Singles - 30 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018849/1780160805430461_RG26_Mboko_V_Keys_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Halys/Herbert vs Harrison/Skupski - Men's Doubles - 30 May 2026
 https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018639/1779989234805690_RG26_Round3_Court14_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Court 14 - 30 May 2026
