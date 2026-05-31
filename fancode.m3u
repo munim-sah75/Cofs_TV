@@ -5,20 +5,8 @@ https://bd-mc-fblive.fancode.com/mumbai/143172_english_hls_6966768ce795850_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Casper-Ruud-vs-Joao-Fonseca_FC-WEB.jpg" group-title="Fancode", J. Fonseca vs C. Ruud vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1780289943~acl=/*~id=09251996675634348058647462123808~hmac=b6eefaf8edb6b0684304adda42db2c7a2ebeb5aa4c9fa3948bbaaa472d6a415a
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780289943~acl=/*~id=09251996675634348058647462123808~hmac=b6eefaf8edb6b0684304adda42db2c7a2ebeb5aa4c9fa3948bbaaa472d6a415a
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022317/ROLENG/master_mdh.m3u8?hdnea=exp=1780289943~acl=/*~id=09251996675634348058647462123808~hmac=b6eefaf8edb6b0684304adda42db2c7a2ebeb5aa4c9fa3948bbaaa472d6a415a
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode", Day 4 - Main Feed vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142902_english_hls_5ffd0f041397101_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode", Day 4 - Marquee Group vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142903_english_hls_5cb9a792fe51627_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode", Day 4 - Featured Groups vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142905_english_hls_40281978d075216_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode", Day 4 - World Feed vs Colonial Country Club - Fort Worth, Texas (Charles Schwab Challenge 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142901_english_hls_4b5e473c8392830_1ta-di_h264/index.m3u8
@@ -26,13 +14,11 @@ https://bd-mc-fblive.fancode.com/mumbai/142901_english_hls_4b5e473c8392830_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:50 AM 01-06-2026
+# Last Update: 03:50 AM 01-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13578" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801529671020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 4th Round - Suzanne Lenglen Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13579" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801551431020x576.jpg" group-title="Fancode", Mix Doubles & Ladies' & Gentlemen's Singles - 4th Round - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13581" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801573791020x576.jpg" group-title="Fancode", Ladies' or Gentlemen's Singles1 "Great" match - 4th Round - Philippe Chatrier Live | French Open 2026
@@ -41,10 +27,7 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:45:18 AM 01-06-2026
+# last_update: 03:45:28 AM 01-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018860/1780127854000572_RG26_Ruud_vs_Fonseca_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Casper Ruud vs Joao Fonseca - Round 4 - 31 May 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018857/1780127862000887_RG26_Mensik_vs_Rublev_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Jakub Mensik vs Andrey Rublev - Men's Singles - 31 May 2026
-https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
