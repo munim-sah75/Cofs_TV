@@ -2,20 +2,61 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Fancode", Speen Ghar Region vs Boost Region (Supercola Regional List A Tournament, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142750_english_hls_4acbc9bcd087060_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png" group-title="Fancode", Race Day vs Mugello (BREMBO GRAND PRIX OF ITALY 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139947_english_hls_4554592e3769929_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Marta-Kostyuk-vs-Iga-Swiatek_FC-WEB.jpg" group-title="Fancode", M. Kostyuk vs I. Swiatek  vs Stade Roland Garros Paris, France (Roland Garros 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1780260769~acl=/*~id=37250182555781173415072582807206~hmac=339205f0b7b653f03088eabbf14d8ff419f5358102dd354745461b565eb8748d
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780260769~acl=/*~id=37250182555781173415072582807206~hmac=339205f0b7b653f03088eabbf14d8ff419f5358102dd354745461b565eb8748d
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1780260769~acl=/*~id=37250182555781173415072582807206~hmac=339205f0b7b653f03088eabbf14d8ff419f5358102dd354745461b565eb8748d
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1780260769~acl=/*~id=37250182555781173415072582807206~hmac=339205f0b7b653f03088eabbf14d8ff419f5358102dd354745461b565eb8748d
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780260769~acl=/*~id=37250182555781173415072582807206~hmac=339205f0b7b653f03088eabbf14d8ff419f5358102dd354745461b565eb8748d
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 PM 31-05-2026
+# Last Update: 03:10 PM 31-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-13898" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801672511020x576.jpg" group-title="Fancode", GT World Challenge powered by AWS - Qualifiying Round Live | GT World Challenge EU & Asia 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13578" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801529671020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 4th Round - Suzanne Lenglen Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13579" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801551431020x576.jpg" group-title="Fancode", Mix Doubles & Ladies' & Gentlemen's Singles - 4th Round - World Feed Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13822" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801525441020x576.jpg" group-title="Fancode", Mixed Doubles - 2nd Round - Simonne Mathieu Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13823" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801527621020x576.jpg" group-title="Fancode", Juniors' Singles - 1st Round - Court 14 Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13580" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801554431020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:00:23 PM 31-05-2026
+# last_update: 03:15:18 PM 31-05-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018871/1780127830000390_RG26_Kostyuk_vs_Swiatek_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Marta Kostyuk vs Iga Swiatek - Round 4 - 31 May 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018864/178012783400038_RG26_Cirstea_V_Wang_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Sorana Cirstea vs Xiyu Wang - Women's Singles - 31 May 2026
+https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078579355296_RG26_Round4_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Pavlasek/Rikl vs Nouza/Oberleitner - Men's Doubles - 31 May 2026
+https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078623990296_RG26_Round4_Court14_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Krawietz/Puetz vs Andres/Agustin - Men's Doubles - 31 May 2026
+https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531802" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017794/1778072097682681_LIV_Golf_South_Korea_2026_DAY-4_landscape_thumb.jpg" group-title="Fancode", LIV Golf | South Korea - Day 4 - 31 May 2026
 https://dai.google.com/ssai/event/yeDoxYs3Q9uN1D6JCpyKAg/master.m3u8
