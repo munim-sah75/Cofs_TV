@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg" group-title="Fancode", West Indies Women vs Ireland Women (Women's T20I Tri-Series in Ireland 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143055_english_hls_9e0236981e28089_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Philippe-Chatrier vs Stade Roland Garros Paris, France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1780347025~acl=/*~id=07002696391200293966479194105196~hmac=3ffe02f0e2fea0aa38f5db487cdd42cf120cb66481bbea0f204ad929c1754c31
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780347025~acl=/*~id=07002696391200293966479194105196~hmac=3ffe02f0e2fea0aa38f5db487cdd42cf120cb66481bbea0f204ad929c1754c31
+https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780376221~acl=/*~id=71548708599579985698686174218105~hmac=8bdfa0991dd548c262b39a10b809fd61f1189884447392cabe3d7b86c62a13f1
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780347025~acl=/*~id=07002696391200293966479194105196~hmac=3ffe02f0e2fea0aa38f5db487cdd42cf120cb66481bbea0f204ad929c1754c31
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1780382889~acl=/*~id=19323445042149534822668663760218~hmac=ff3938da61af538e3b51b64800e276e9f9e0caf810219cd6b96207f77adc2670
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:10 PM 01-06-2026
+# Last Update: 02:30 AM 02-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -23,28 +17,21 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13583" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802989821020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's & Doubles - 3rd Round - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13584" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802991151020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - 4th Round - Philippe Chatrier Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13825" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17802983391020x576.jpg" group-title="Fancode", Juniors Doubles - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803092121020x576.jpg" group-title="Fancode", Bulgaria vs Montenegro | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780331124~acl=/hls/*~hmac=a810228f93b72e38914f8ea4ea97147a750ee1d0ae8f1e0c789b06d4501bc362
-#EXTINF:-1 tvg-id="tapmad-13927" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803094781020x576.jpg" group-title="Fancode", Slovakia vs Malta | European Qualifiers FIFA World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780331124~acl=/hls/*~hmac=a810228f93b72e38914f8ea4ea97147a750ee1d0ae8f1e0c789b06d4501bc362
+#EXTINF:-1 tvg-id="tapmad-13930" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803100361020x576.jpg" group-title="Fancode", Austria vs Tunisia | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:15:25 PM 01-06-2026
+# last_update: 02:30:30 AM 02-06-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018956/1780295178972684_RG26_Auger_Aliassime_vs_Tabilo_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Felix Auger-Aliassime vs Alejandro Tabilo - Men's Singles - 01 Jun 2026
-https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018956/1780295177433684_RG26_Tiafoe_vs_Arnaldi_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Frances Tiafoe vs Matteo Arnaldi - Men's Singles - 01 Jun 2026
+https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018994/1780328387397150_RG26_J_Cerundolo_vs_Berrettini_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Juan Manuel Cerundolo vs Matteo Berrettini - Round 4 - 1 Jun 2026
-https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078623990296_RG26_Round4_Court14_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Nys/Roger-Vasselin vs Angel/Tabilo - Men's Doubles - 02 Jun 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090533129" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780190489458918_INT_Friendlies26_Bulgaria_vs_Montenegro_31may_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Bulgaria vs Montenegro - 1 Jun 2026
-https://dai.google.com/ssai/event/ePIgSYDiQ1mrJnvwAVYJ1A/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090532931" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780173143521918_INT_Friendlies26_Slovakia_vs_Malta_31may_landscape_thumb.jpg" group-title="Fancode",  UEFA International Friendlies | Slovakia vs Malta - 1 Jun 2026
-https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090532933" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780193968835918_INT_Friendlies26_Austria_vs_Tunisia_31may_landscape_thumb.jpg" group-title="Fancode",  UEFA International Friendlies | Austria vs Tunisia - 1 Jun 2026
+https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
