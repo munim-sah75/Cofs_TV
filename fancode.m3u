@@ -1,43 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Rafael-Jodar-vs-Alexander-Zverev_FC-WEB.jpg" group-title="Fancode", Jodar vs Zverev vs Stade Roland Garros Paris, France (Roland Garros 2026)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5042.jpeg" group-title="Fancode", J. Mensik vs J. Fonseca vs Stade Roland Garros Paris, France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780462410~acl=/*~id=88358185148841055547926614670994~hmac=82cda4acd08a7be2e133ade6795a427eba29dd7c255c37ab1f019e05f1956b15
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:00 PM 02-06-2026
+# Last Update: 02:10 AM 03-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13486" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803078451020x576.jpg" group-title="Fancode", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13586" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803203731020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's & Doubles - Quarter Finals - Suzanne Lenglen Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13588" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803208791020x576.jpg" group-title="Fancode", Ladies' & Gentlemen's Singles - Quarter Finals - Philippe Chatrier Live | French Open 2026
+#EXTINF:-1 tvg-id="tapmad-13589" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803210591020x576.jpg" group-title="Fancode", Ladies' or Gentlemen's Singles1 "Great" match - Quarter Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13826" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803157271020x576.jpg" group-title="Fancode", Mixed Doubles - 3rd Round - Simonne Mathieu Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13827" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803158781020x576.jpg" group-title="Fancode", Wheelchair - 1st Round - Court 14 Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13931" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803859681020x576.jpg" group-title="Fancode", Croatia vs Belgium | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780420507~acl=/hls/*~hmac=d3b4b729e7fa5ef8eb76af157a60a290b62989122446eb248d22f590462c5ad4
-#EXTINF:-1 tvg-id="tapmad-13932" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803862351020x576.jpg" group-title="Fancode", Georgia vs Romania | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780420507~acl=/hls/*~hmac=d3b4b729e7fa5ef8eb76af157a60a290b62989122446eb248d22f590462c5ad4
+#EXTINF:-1 tvg-id="tapmad-13933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803864511020x576.jpg" group-title="Fancode", Wales vs Ghana | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780431907~acl=/hls/*~hmac=5470f442470799929a9ba3723bf3fa7a6e3c176f77da41e27fb03dec6101c01c
+#EXTINF:-1 tvg-id="tapmad-14084" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803845431020x576.jpg" group-title="Fancode", Bundesliga Periodical Monthly Special | Bundesliga 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780431907~acl=/hls/*~hmac=5470f442470799929a9ba3723bf3fa7a6e3c176f77da41e27fb03dec6101c01c
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:00:39 PM 02-06-2026
+# last_update: 02:00:34 AM 03-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090533245" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018974/1780316291693502_ENGvsIND_Womens_3rd_T20I_landscape_thumb.jpg" group-title="Fancode", India Women's Tour of England 2026 | 3rd T20I - 2 Jun 2026
 https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018980/1780319819061428_RG26_Quarter_Final_Generic_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Krawczyk/Skupski vs Roger-Vasselin/Siegemund - QF - 2 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018989/1780324935661226_RG26_Mensik-v-Fonseca_live_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Jakub Mensik vs Joao Fonseca - QF - 2 Jun 2026
 https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090533246" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194139245918_INT_Friendlies26_Croatia_vs_Belgium_31may_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Croatia vs Belgium - 2 Jun 2026
-https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533247" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194293772918_INT_Friendlies26_Georgia_Vs_Romania_31may_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Georgia vs Romania - 2 Jun 2026
-https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090533248" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194389499918_INT_Friendlies26_Wales_vs_Ghana_31may_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Wales vs Ghana - 3 Jun 2026
+https://dai.google.com/ssai/event/-6L_H7pxSSqKEWLnC4U5ng/master.m3u8
