@@ -1,33 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Main Feed - Day 1 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143106_english_hls_c914a6d6e626017_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Featured Groups - Day 1 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Marquee Feed - Day 1 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143107_english_hls_ddbf89aed084861_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", World Feed - Day 1 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143046_english_hls_9280d9755359815_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png" group-title="Fancode", Day 1 vs Riviera Golf Course (US Women's Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:50 AM 05-06-2026
+# Last Update: 05:20 AM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804715581020x576.jpg" group-title="Fancode", Somerset vs Glamorgan Live | Vitality Blast Men 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780610707~acl=/hls/*~hmac=7c77c6e7f6c14a96ff6170cacc9c2b513260751784c34d9a9d2c553070b5b016
-#EXTINF:-1 tvg-id="tapmad-14297" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805754541020x576.jpg" group-title="Fancode", Bundesliga Original Series | Bundesliga 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14166" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805808461020x576.jpg" group-title="Fancode", Czechia vs Guatemala | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780616108~acl=/hls/*~hmac=71cb6cacf932d4684d9a05db35c5e1e53746e701898ac50297b16cdd2eb218db
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:00:23 AM 05-06-2026
+# last_update: 05:15:19 AM 05-06-2026
