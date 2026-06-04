@@ -14,32 +14,25 @@ https://bd-mc-fblive.fancode.com/mumbai/143046_english_hls_9280d9755359815_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png" group-title="Fancode", Day 1 vs Riviera Golf Course (US Women's Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB_1780318028474.jpg" group-title="Fancode", Gujarat Diamonds vs Mumbai Marines (Big Cricket League Season 2)
-https://bd-mc-fblive.fancode.com/mumbai/142986_english_hls_ec74c2bfdf64749_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:30 AM 05-06-2026
+# Last Update: 02:30 AM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Fancode", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780598707~acl=/hls/*~hmac=3f47673b5066ec37e7bf4169f3676da68e24ae8d46f5e9bb45b758d43ce6f7f0
-#EXTINF:-1 tvg-id="tapmad-13487" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803079241020x576.jpg" group-title="Fancode", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14154" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805589551020x576.jpg" group-title="Fancode", Andorra vs Leichtenstein | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14155" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805590941020x576.jpg" group-title="Fancode", Sweden vs Greece | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804715581020x576.jpg" group-title="Fancode", Somerset vs Glamorgan Live | Vitality Blast Men 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780598707~acl=/hls/*~hmac=adab665d71827076bd5cfc1a8b116fc2e3bb32d760464bd30b9f34eedc28fefa
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780605908~acl=/hls/*~hmac=f79b28d23abca08f434ff034a28e72bdd787e94b44ccb3cbc912b392c244e0a9
+#EXTINF:-1 tvg-id="tapmad-14156" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805806051020x576.jpg" group-title="Fancode", Spain vs Iraq | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14157" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805807241020x576.jpg" group-title="Fancode", France vs Ivory Coast | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:30:25 AM 05-06-2026
+# last_update: 02:15:23 AM 05-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090533667" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780191604262918_INT_Friendlies26_Spain_vs_Iraq_31may_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Spain vs Iraq - 4 Jun 2026
 https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8
@@ -49,9 +42,3 @@ https://dai.google.com/ssai/event/uP_7_QWgRHehSMm82S7iLg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533649" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019101/1780454020742287_VitalityBlast26_Mens_Somerset_vs_Glamorgan_3jun_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Somerset vs Glamorgan - 4 Jun 2026
 https://dai.google.com/ssai/event/rQKSTlwXTlyPVx05Yvs1BQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533671" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780278521797461_INT_Friendlies26_Sweden_vs_Greece_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Sweden vs Greece - 4 Jun 2026
-https://dai.google.com/ssai/event/LMM9ogBmSR-25zv7f0X6Jw/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533670" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780277886899461_INT_Friendlies26_Andorra_vs_Liechtenstein_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Andorra vs Liechtenstein - 4 Jun 2026
-https://dai.google.com/ssai/event/pLM8TT6jThqxc1AI5T7UIA/master.m3u8
