@@ -1,18 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142988_6094_MPT_SS_FC-WEB_1780318028426.jpg" group-title="Fancode", MP Tigers vs Southern Spartans (Big Cricket League Season 2)
-https://bd-mc-fblive.fancode.com/mumbai/142988_english_hls_27b5a7133f11527_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022394/143062_CASACARDS_APP.png" group-title="Fancode", Ujjain Falcons vs Malwa Stallions (Madhya Pradesh League T20, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143062_english_hls_bc3bd0258c28250_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Simonne-Mathieu vs Paris (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1780696165~acl=/*~id=58394789473131942413957321183703~hmac=e4f5969fc8f327af66091fb0eea3442b6d7526e8dd57d718e6bc1b7c3e3ec54d
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Main Feed - Day 2 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143109_english_hls_300bf6ea6921533_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Alexander-Zverev-vs.-Jakub-Mensik_FC-WEB.jpg" group-title="Fancode", Mensik vs Zverev vs Paris (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780705272~acl=/*~id=63766390787110851290883007677910~hmac=5e5b27e64cfd6c8da484e82f47e0c96a5fe43d813b7d3fb4ad70f333f874a51d
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Featured Groups - Day 2 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143111_english_hls_fb4559222f5761_1ta-di_h264/index.m3u8
@@ -20,35 +11,40 @@ https://bd-mc-fblive.fancode.com/mumbai/143111_english_hls_fb4559222f5761_1ta-di
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Marquee Feed - Day 2 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143110_english_hls_3833df55be29441_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1780077657830.png" group-title="Fancode", Practice 2 vs Monaco (F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139448_english_hls_d36c53398345072_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Monte_carlo_Match_card_MRF_Old_match-card.jpg" group-title="Fancode", Qualifying Session - Monaco vs Monaco (Porsche Mobil 1 Supercup 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143234_english_hls_db3ca3ddc25677_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 PM 05-06-2026
+# Last Update: 11:20 PM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Fancode", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780674307~acl=/hls/*~hmac=9ebd86c65cbf11633173429953a21de33b5acb4278a015c7062eb9b698aa1961
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780680906~acl=/hls/*~hmac=c97f199cf6a3ab7ec7282b9f160a057724a2420505f25ae0c034c0e41c09435e
 #EXTINF:-1 tvg-id="tapmad-13599" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806468891020x576.jpg" group-title="Fancode", Juniors Singles & Doubles - Semi Finals - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13833" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806462811020x576.jpg" group-title="Fancode", Juniors Singles & Doubles - 1/2 Finals - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13832" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806460501020x576.jpg" group-title="Fancode", Ladies' Doubles - 1/2 Finals - Simonne Mathieu Live | French Open 2026
+#EXTINF:-1 tvg-id="tapmad-14167" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806401721020x576.jpg" group-title="Fancode", Belarus vs Syria | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780680907~acl=/hls/*~hmac=56148caf1d4c58d0dc50d176c7d5af1ecd13a05bc97d87f18fe3ab5f61687446
+#EXTINF:-1 tvg-id="tapmad-14168" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806403051020x576.jpg" group-title="Fancode", Georgia vs Bahrain | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780680907~acl=/hls/*~hmac=56148caf1d4c58d0dc50d176c7d5af1ecd13a05bc97d87f18fe3ab5f61687446
+#EXTINF:-1 tvg-id="tapmad-14169" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806404941020x576.jpg" group-title="Fancode", Slovakia vs Montenegro | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13600" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806483521020x576.jpg" group-title="Fancode", Gentlemen's Single - Semi Finals - Philippe Chatrier Live | French Open 2026
+#EXTINF:-1 tvg-id="tapmad-13601" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806484791020x576.jpg" group-title="Fancode", Gentlemen's Single - Semi Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14170" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806406721020x576.jpg" group-title="Fancode", San Marino vs Bangladesh | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780680933~acl=/hls/*~hmac=0315286e047c37d9a9cd32401838fdff09f38d96e022bc515970d8d817181f6b
+#EXTINF:-1 tvg-id="tapmad-14171" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806408731020x576.jpg" group-title="Fancode", Moldova vs Bulgaria | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1780680933~acl=/hls/*~hmac=0315286e047c37d9a9cd32401838fdff09f38d96e022bc515970d8d817181f6b
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:30:23 PM 05-06-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019263/1780656885195354_1780616600732872_RG26_SF_mens_Mensik_vs_Zverev_SP1_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Jakub Mensik vs Alexander Zverev - SF - 5 Jun 2026
-https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
+# last_update: 11:30:22 PM 05-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090533866" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552960718512_ENGvsNZ_1Test_day2_live_4june_landscape_thumb.jpg" group-title="Fancode", New Zealand Tour of England 2026 | 1st Test - Day 2 - 5 Jun 2026 
 https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
@@ -56,11 +52,20 @@ https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090533894" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780629829475886_CCPL26_Rajnandgaon_Panthers_vs_Bilaspur_Bulls_4jun_landscape_thumb.jpg" group-title="Fancode", Chhattisgarh Cricket Premier League 2026 | Rajnandgaon Panthers vs Bilaspur Bulls - 5 Jun 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090533989" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019232/1780609761362930_SVNS_World_Championship26_Session3_Womens_Match_4jun_landscape_thumb.jpg" group-title="Fancode", HSBC SVNS Bordeaux 2026 | Session 3 - Women's Match - 5 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090533906" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019219/1780602903056488_VITALITY_BLAST_2026_Yorkshire_vs_Lancashire_5jun_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Yorkshire vs Lancashire - 5 Jun 2026
+https://dai.google.com/ssai/event/-6L_H7pxSSqKEWLnC4U5ng/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533989" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019232/1780609738676930_SVNS_World_Championship26_Session4_mens_Match_4jun_landscape_thumb.jpg" group-title="Fancode", HSBC SVNS Bordeaux 2026 | Session 3 - Men's Match - 5 Jun 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019246/1780622234464673_RG26_SF_Simonne_Mathieu_court_landscape_thumb_SP_rev.jpg" group-title="Fancode", Roland-Garros 2026 | Aoyama/Shuo vs Danilina/Krunic - Women's Doubles - 05 Jun 2026
-https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090533829" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780280015033461_INT_Friendlies26_Hungary_vs_Finland_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Hungary vs Finland - 5 Jun 2026
+https://dai.google.com/ssai/event/rSlJ99L3TeCwzpEvIkbC5A/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533831" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780279537439461_INT_Friendlies26_Moldova_vs_Bulgaria_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Moldova vs Bulgaria - 5 Jun 2026
+https://dai.google.com/ssai/event/ePIgSYDiQ1mrJnvwAVYJ1A/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533832" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780279338738461_INT_Friendlies26_Slovakia_vs_Montenegro_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Slovakia vs Montenegro - 5 Jun 2026
+https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533833" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780193397731918_INT_Friendlies26_Belarus_vs_Syria_31may_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Belarus vs Syria - 5 Jun 2026
 https://dai.google.com/ssai/event/GGyXVa5JTri21cj0C6tpSA/master.m3u8
@@ -68,5 +73,5 @@ https://dai.google.com/ssai/event/GGyXVa5JTri21cj0C6tpSA/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090533834" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780279197533461_INT_Friendlies26_Georgia_vs_Bahrain_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Georgia vs Bahrain - 5 Jun 2026
 https://dai.google.com/ssai/event/XmqwVn_hSLSfcYpIY4_oxQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090533893" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271746291861_DP_World_Tour_KLM_Open_day2_landscape_thumb.jpg" group-title="Fancode", DP World Tour | KLM Open - Day 2 - 5 Jun 2026
-https://dai.google.com/ssai/event/OYu66B-PRtG9VX-BLWUj7w/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090533828" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780280266125461_INT_Friendlies26_Azerbaijan_vs_Malta_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Azerbaijan vs Malta - 5 Jun 2026
+https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
