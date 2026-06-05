@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Main Feed - Day 2 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143109_english_hls_300bf6ea6921533_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Featured Groups - Day 2 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143111_english_hls_fb4559222f5761_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Marquee Feed - Day 2 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143110_english_hls_3833df55be29441_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", World Feed - Day 2 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143047_english_hls_1079d2d79735979_1ta-di_h264/index.m3u8
 
@@ -17,18 +11,14 @@ https://bd-mc-fblive.fancode.com/mumbai/143230_english_hls_9e368c2d6b71674_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:50 AM 06-06-2026
+# Last Update: 04:10 AM 06-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13453" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806417811020x576.jpg" group-title="Fancode", Yorkshire vs Lancashire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780693507~acl=/hls/*~hmac=5ba4b2532b087beaba45b1a7c5b542ea49ac06d154e9f13aa1e03617151ccce4
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:45:17 AM 06-06-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090533906" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019219/1780602903056488_VITALITY_BLAST_2026_Yorkshire_vs_Lancashire_5jun_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Yorkshire vs Lancashire - 5 Jun 2026
-https://dai.google.com/ssai/event/-6L_H7pxSSqKEWLnC4U5ng/master.m3u8
+# last_update: 04:00:30 AM 06-06-2026
