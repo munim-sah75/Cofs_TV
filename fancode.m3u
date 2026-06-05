@@ -1,18 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="Fancode", Royal Nimar Eagles Women vs Chambal Ghariyals Women (Madhya Pradesh League T20 Women's 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143020_english_hls_8212eea5fc32605_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142987_6094_NC_UPBS_FC-WEB_1780318028422.jpg" group-title="Fancode", Northern Challengers vs UP Brij Stars (Big Cricket League Season 2)
+https://bd-mc-fblive.fancode.com/mumbai/142987_english_hls_46038a46e995209_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="Fancode", Bhopal Wolves Women vs Gwalior Shernis (Madhya Pradesh League T20 Women's 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143021_english_hls_1572450f0727763_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022398/143061_CASACARDS_APP.png" group-title="Fancode", Gwalior Cheetahs vs Bhopal Leopards (Madhya Pradesh League T20, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143061_english_hls_29b6b5ad0d69099_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg" group-title="Fancode", Day 1 vs Balaton (GRAND PRIX OF HUNGARY 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139948_english_hls_f8a35d06ab79402_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode", Court Simonne-Mathieu vs Paris (Roland Garros 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1780696165~acl=/*~id=58394789473131942413957321183703~hmac=e4f5969fc8f327af66091fb0eea3442b6d7526e8dd57d718e6bc1b7c3e3ec54d
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 PM 05-06-2026
+# Last Update: 04:00 PM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Fancode", England vs New Zealand | New Zealand Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780654507~acl=/hls/*~hmac=8cce8cb4002ae43065aa3690ee9a86da5aedc8153a80ea89c69c79f5ad1c8f13
+#EXTINF:-1 tvg-id="tapmad-13598" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806466431020x576.jpg" group-title="Fancode", Wheelchair - Semi Finals - Suzanne Lenglen Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13833" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806462811020x576.jpg" group-title="Fancode", Juniors Singles & Doubles - 1/2 Finals - Court 14 Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13832" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806460501020x576.jpg" group-title="Fancode", Ladies' Doubles - 1/2 Finals - Simonne Mathieu Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:00:25 PM 05-06-2026
+# last_update: 04:00:30 PM 05-06-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090533866" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552960718512_ENGvsNZ_1Test_day2_live_4june_landscape_thumb.jpg" group-title="Fancode", New Zealand Tour of England 2026 | 1st Test - Day 2 - 5 Jun 2026 
+https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533894" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780629496866886_CCPL26_Surguja_Tigers_vs_Raipur_Rhinos_4jun_landscape_thumb.jpg" group-title="Fancode", Chhattisgarh Cricket Premier League 2026 | Surguja Tigers vs Raipur Rhinos - 5 Jun 2026
+https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019246/1780622234464673_RG26_SF_Simonne_Mathieu_court_landscape_thumb_SP_rev.jpg" group-title="Fancode", Roland-Garros 2026 | Simonne Mathieu - 5 Jun 2026
+https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533989" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019232/1780609751380930_SVNS_World_Championship26_Session1_Womens_Match_4jun_landscape_thumb.jpg" group-title="Fancode", HSBC SVNS Bordeaux 2026 | Session 1 - Women's Match - 5 Jun 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
