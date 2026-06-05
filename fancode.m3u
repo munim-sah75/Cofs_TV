@@ -17,31 +17,18 @@ https://bd-mc-fblive.fancode.com/mumbai/143230_english_hls_9e368c2d6b71674_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:10 AM 06-06-2026
+# Last Update: 02:50 AM 06-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14172" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806410341020x576.jpg" group-title="Fancode", Hungary vs Finland | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13453" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806417811020x576.jpg" group-title="Fancode", Yorkshire vs Lancashire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780687507~acl=/hls/*~hmac=823be27969e6f3be9487e73b295fd56ab2c2e34eacff5ddd157869796e6f41c9
-#EXTINF:-1 tvg-id="tapmad-14173" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806579551020x576.jpg" group-title="Fancode", Azerbaijan vs Malta | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780687507~acl=/hls/*~hmac=2d6a77be3757be8fa9ae3f6c0e711d3aaeb1a2efc7e45ceb5b054dc7cfdc8bb1
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780693507~acl=/hls/*~hmac=5ba4b2532b087beaba45b1a7c5b542ea49ac06d154e9f13aa1e03617151ccce4
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:15:21 AM 06-06-2026
+# last_update: 02:45:17 AM 06-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090533906" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019219/1780602903056488_VITALITY_BLAST_2026_Yorkshire_vs_Lancashire_5jun_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Yorkshire vs Lancashire - 5 Jun 2026
 https://dai.google.com/ssai/event/-6L_H7pxSSqKEWLnC4U5ng/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533989" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019232/1780609738676930_SVNS_World_Championship26_Session4_mens_Match_4jun_landscape_thumb.jpg" group-title="Fancode", HSBC SVNS Bordeaux 2026 | Session 3 - Men's Match - 5 Jun 2026
-https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533829" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780280015033461_INT_Friendlies26_Hungary_vs_Finland_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Hungary vs Finland - 5 Jun 2026
-https://dai.google.com/ssai/event/rSlJ99L3TeCwzpEvIkbC5A/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533828" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780280266125461_INT_Friendlies26_Azerbaijan_vs_Malta_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Azerbaijan vs Malta - 5 Jun 2026
-https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
