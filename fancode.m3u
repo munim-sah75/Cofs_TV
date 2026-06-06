@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg" group-title="Fancode", Canada vs USA (ICC CWC League 2 Canada, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png" group-title="Fancode", Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142973_english_hls_44ad6699648919_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg" group-title="Fancode", Bolivia vs Scotland (International Friendlies 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Main Feed - Day 3 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143112_english_hls_1292097c1f54375_1ta-di_h264/index.m3u8
 
@@ -17,13 +23,13 @@ https://bd-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:50 AM 07-06-2026
+# Last Update: 02:00 AM 07-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13454" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806582481020x576.jpg" group-title="Fancode", Durham vs Northampton Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780772707~acl=/hls/*~hmac=f776c5ebb8612948d6fb7d38b5f6173fb9b9a18cd0f4b0bfc7f3691427e0cbec
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780776915~acl=/hls/*~hmac=a37522ef2963421780945a6540502cc9ee80b49ae8f4f677e0ac85bb13dbedad
 #EXTINF:-1 tvg-id="tapmad-14300" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806601481020x576.jpg" group-title="Fancode", Albania vs Luxembourg | European Qualifiers FIFA World Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14322" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17807692041020x576.jpg" group-title="Fancode", Switzerland vs Australia | European Qualifiers FIFA World Cup 2026
@@ -32,10 +38,13 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:45:17 AM 07-06-2026
+# last_update: 01:45:20 AM 07-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534036" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623306451941_INT_Friendlies26_Portugal_vs_Chile_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Portugal vs Chile - 6 Jun 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090534119" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780626457324941_INT_Friendlies26_England_VS_New_Zealand_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | England vs New Zealand - 7 Jun 2026
+https://dai.google.com/ssai/event/ZnD-wfL1TqCSkRAd9rcttA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534066" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780607275257719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Durham vs Northampton - 6 Jun 2026
 https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
@@ -46,11 +55,5 @@ https://dai.google.com/ssai/event/pBx_vqLkQuS62_X9rlAWrw/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534035" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623396404940_INT_Friendlies26_Romania_vs_Wales_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Romania vs Wales - 6 Jun 2026
 https://dai.google.com/ssai/event/ePIgSYDiQ1mrJnvwAVYJ1A/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090534017" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694634028309_SVNS_World_Championship26_Session4_mens_and_womens_Match_4jun_landscape_thumb.jpg" group-title="Fancode", HSBC SVNS Bordeaux 2026 | Session 4 - Men's & Women's  Match - 6 Jun 2026
-https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
-
 #EXTINF:-1 tvg-id="sonyliv-1090534034" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623504833940_INT_Friendlies26_Albania_vs_Luxembourg_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Albania vs Luxembourg - 6 Jun 2026
 https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090534037" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623035225941_INT_Friendlies26_Gibraltar_vs_Cayman_Islands_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Gibraltar vs Cayman Islands - 6 Jun 2026
-https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8
