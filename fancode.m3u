@@ -2,23 +2,14 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142990_6094_MM_NC_FC-WEB_1780318028403.jpg" group-title="Fancode", Northern Challengers vs Mumbai Marines (Big Cricket League Season 2)
 https://bd-mc-fblive.fancode.com/mumbai/142990_english_hls_bc5e7c28a633215_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg" group-title="Fancode", Canada vs USA (ICC CWC League 2 Canada, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143150_6108_LRL_GG_FC-Web.png" group-title="Fancode", Liege Red Lions vs Ghent Gladiators (EUT20 Belgium, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143150_english_hls_1cb216381c56847_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg" group-title="Fancode", Canada vs USA (ICC CWC League 2 Canada, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022397/143064_CASACARDS_APP.png" group-title="Fancode", Indore Pink Panthers vs Jabalpur Royal Lions (Madhya Pradesh League T20, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143064_english_hls_30f3d99f9a60143_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IND_web_.jpg" group-title="Fancode", Bangladesh Women vs India Women (SAFF Women's Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142943_english_hls_d6188d7e3625356_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg" group-title="Fancode", Day 2 vs Balaton (GRAND PRIX OF HUNGARY 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139949_english_hls_e3638dc20393422_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_RG_Final_FC-WEB.jpg" group-title="Fancode", Chwalinska vs Andreeva vs Paris (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780778750~acl=/*~id=72116367366038815637787781871944~hmac=dce8d33d05f9a0db0b5300cebfdbbc956e4d86b0ac02bbbcd1302296ef5be491
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Main Feed - Day 3 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143112_english_hls_1292097c1f54375_1ta-di_h264/index.m3u8
@@ -26,21 +17,22 @@ https://bd-mc-fblive.fancode.com/mumbai/143112_english_hls_1292097c1f54375_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Featured Groups - Day 3 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143114_english_hls_4a412e3fa939074_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png" group-title="Fancode", Qualifying vs Monaco (F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139450_english_hls_6df1a5676287932_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Fancode", Marquee Feed - Day 3 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143113_english_hls_64e26a4d1663220_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IND_web_.jpg" group-title="Fancode", Bangladesh Women vs India Women (SAFF Women's Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142943_english_hls_d6188d7e3625356_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:20 PM 06-06-2026
+# Last Update: 09:40 PM 06-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Fancode", England vs New Zealand | New Zealand Tour of England 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8?hdnts=exp=1780756507~acl=/hls/*~hmac=5d886bba58420df10d94efc69b4d686c9d6c5dc726b175f82dd6ee0866a5c250
-#EXTINF:-1 tvg-id="tapmad-13835" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806664481020x576.jpg" group-title="Fancode", Singles & Doubles Juniors - Finals - Court 14 Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad/master.m3u8?hdnts=exp=1780761306~acl=/hls/*~hmac=11b202ac8fed320896e1ad4af91af3a52c407673798f914ad0ad3d12bc6bacc8
 #EXTINF:-1 tvg-id="tapmad-13834" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806662291020x576.jpg" group-title="Fancode", Singles & Doubles Juniors - Finals - Simonne Mathieu Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13605" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806674561020x576.jpg" group-title="Fancode", Women's Single - Semi Finals - Philippe Chatrier Live | French Open 2026
@@ -49,21 +41,18 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/ma
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:15:21 PM 06-06-2026
+# last_update: 09:30:23 PM 06-06-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg" group-title="Fancode", Roland-Garros 2026 | Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Day 14 - 6 Jun 2026
 https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534032" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552950144512_ENGvsNZ_1Test_day3_live_4june_landscape_thumb.jpg" group-title="Fancode", New Zealand Tour of England 2026 | 1st Test - Day 3 - 6 Jun 2026 
 https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090534041" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281054137461_INT_Friendlies26_Belgium_vs_Tunisia_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Belgium vs Tunisia - 6 Jun 2026
-https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090534018" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019356/1780754570823558_CCPL26_Bastor-Bisons-vs-Raipur-Rhinos_landscape_thumb.jpg" group-title="Fancode", Chhattisgarh Cricket Premier League 2026 | Bastor Bisons vs Raipur Rhinos - 6 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090534018" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019356/1780754570823558_CCPL26_Bastor-Bisons-vs-Raipur-Rhinos_landscape_thumb.jpg" group-title="Fancode", Chhattisgarh Cricket Premier League 2026 | Bastar Bisons vs Raipur Rhinos - 6 Jun 2026
 https://dai.google.com/ssai/event/813DDHcDSWWib_FAwAwM0A/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090534017" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694573947309_SVNS_World_Championship26_Session3_mens_Match_4jun_landscape_thumb.jpg" group-title="Fancode", HSBC SVNS Bordeaux 2026 | Session 1 - Men's Match - 6 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090534017" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694634028309_SVNS_World_Championship26_Session4_mens_and_womens_Match_4jun_landscape_thumb.jpg" group-title="Fancode", HSBC SVNS Bordeaux 2026 | Session 4 - Men's & Women's  Match - 6 Jun 2026
 https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534042" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699428231373_LIV_Golf_Andalucia_Day3_landscape_thumb.jpg" group-title="Fancode", LIV Golf | Andalucia - Day 3 - 6 Jun 2026
@@ -75,5 +64,5 @@ https://dai.google.com/ssai/event/pDPKygd_RaSSQPzp4X14vA/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534038" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780622691600941_INT_Friendlies26_Armenia_vs_Kazakhstan_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Armenia vs Kazakhstan - 6 Jun 2026
 https://dai.google.com/ssai/event/j96j3V0VQNm-l1bH8TE1Lg/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090534040" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281271335461_INT_Friendlies26_Lithuania_vs_Latvia_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Lithuania vs Latvia - 6 Jun 2026
-https://dai.google.com/ssai/event/YGCXa94DRQG1U-7QJtR2SQ/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534039" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281429197461_INT_Friendlies26_Estonia_vs_Faroe_Islands_1jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Estonia vs Faroe Islands - 6 Jun 2026
+https://dai.google.com/ssai/event/dlwUN2mSRLCTP3-WcV6rGA/master.m3u8
