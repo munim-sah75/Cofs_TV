@@ -2,18 +2,27 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="Fancode", Bundelkhand Bulls Women vs Royal Nimar Eagles Women (Madhya Pradesh League T20 Women's 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143022_english_hls_e1e703a56c30074_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg" group-title="Fancode", Day 2 vs Balaton (GRAND PRIX OF HUNGARY 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139949_english_hls_e3638dc20393422_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 AM 06-06-2026
+# Last Update: 02:00 PM 06-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14078" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805559211020x576.jpg" group-title="Fancode", India vs Afghanistan | Afghanistan Tour of India 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780724723~acl=/hls/*~hmac=682e45fd9d7390df8d35e2f8245bf209f4486c6365705dd9c9042f3e215f6817
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780733707~acl=/hls/*~hmac=3ded4717991cdec9169179b8417eacca62345f2ba3a682ed074ce89d8f30e41d
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:30:21 AM 06-06-2026
+# last_update: 02:00:23 PM 06-06-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090534128" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019301/1780681940850934_Team_India_Selection_Press_Conference_landscape_thumb.jpg" group-title="Fancode", India Tour Of Ireland 2026 | Press Conference - 6 Jun 2026
+https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090534017" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694539781309_SVNS_World_Championship26_Session1_mens_Match_4jun_landscape_thumb.jpg" group-title="Fancode", HSBC SVNS Bordeaux 2026 | Session 1 - Men's Match - 6 Jun 2026
+https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
