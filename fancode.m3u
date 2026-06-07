@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143152_6108_AA_AUB_FC-Web.png" group-title="Fancode", Antwerp Anchors vs Akcel United Brussels (EUT20 Belgium, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143152_english_hls_43676f32e862565_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142992_6094_MPT_UPBS_FC-WEB_1780318028366.jpg" group-title="Fancode", MP Tigers vs UP Brij Stars (Big Cricket League Season 2)
-https://bd-mc-fblive.fancode.com/mumbai/142992_english_hls_3f933cf0a992234_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143067_6102_RW_BL_FC-WEB.jpg" group-title="Fancode", Rewa Jaguars vs Bhopal Leopards (Madhya Pradesh League T20, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143067_english_hls_ca3711684d14022_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_FC-WEB.jpg" group-title="Fancode", Cobolli vs Zverev vs Paris (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780894864~acl=/*~id=80900962035045885124692581837866~hmac=5ad4f67233e567b9cf6f7ec55e6fa5df0ea697d589fbd3a620e1283d6ab2b5f6
 
@@ -26,29 +20,29 @@ https://bd-mc-fblive.fancode.com/mumbai/143049_english_hls_2a67bde85948657_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:10 PM 07-06-2026
+# Last Update: 12:30 AM 08-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-13607" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17807852101020x576.jpg" group-title="Fancode", Gentlemen's Single - Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14324" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17807855521020x576.jpg" group-title="Fancode", Denmark vs Ukraine | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780853107~acl=/hls/*~hmac=eb8ed3f4747c58cd95b4683d3d98eeca6eb9195aa2d31e827ebf9d07fcbc4b44
+#EXTINF:-1 tvg-id="tapmad-14325" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17808450571020x576.jpg" group-title="Fancode", Kosovo vs Andorra | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:15:18 PM 07-06-2026
+# last_update: 12:30:23 AM 08-06-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="Fancode", Roland-Garros 2026 | Final - 7 Jun 2026
 https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090534121" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623779723941_INT_Friendlies26_Denmark_vs_Ukraine_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Denmark vs Ukraine - 7 Jun 2026
-https://dai.google.com/ssai/event/X3j0O-G-QEaPSp8yNcP9Jg/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534251" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623998568941_INT_Friendlies26_Greece_vs_Italy_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Greece vs Italy - 8 Jun 2026
+https://dai.google.com/ssai/event/x0hhXslBTViNCWktNoZg5A/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090534263" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019397/1780834316817980_CCPL26_Raigarh_Lions_vs_Bilaspur_Bulls_landscape_thumb.jpg" group-title="Fancode", Chhattisgarh Cricket Premier League 2026 | Raigarh Lions vs Bilaspur Bulls - 7 Jun 2026
-https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534250" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623891420941_INT_Friendlies26_Croatia_vs_Slovenia_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Croatia vs Slovenia - 8 Jun 2026
+https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090534214" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699436460373_LIV_Golf_Andalucia_Day4_landscape_thumb.jpg" group-title="Fancode", LIV Golf | Andalucia - Day 4 - 7 Jun 2026
-https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534249" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019409/1780853572297759_INT_Friendlies26_Kosovo_vs_Andorra_6jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Kosovo vs  Andorra - 7 Jun 2026
+https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
