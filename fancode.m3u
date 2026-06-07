@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg" group-title="Fancode", Canada vs USA (ICC CWC League 2 Canada, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png" group-title="Fancode", Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142973_english_hls_44ad6699648919_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg" group-title="Fancode", Brazil vs Egypt (International Friendlies 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141609_english_hls_2b2c8f45aa40424_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143342_6020_ARG_HON_FC-WEB.jpg" group-title="Fancode", Argentina vs Honduras (International Friendlies 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143342_english_hls_16aa2d5d3437141_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png" group-title="Fancode", Day 3 vs Riviera Golf Course (US Women's Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143231_english_hls_85d30d137347152_1ta-di_h264/index.m3u8
@@ -14,20 +8,18 @@ https://bd-mc-fblive.fancode.com/mumbai/143231_english_hls_85d30d137347152_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:10 AM 07-06-2026
+# Last Update: 07:30 AM 07-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14301" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806625381020x576.jpg" group-title="Fancode", Turkiye vs Venezuela | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780788322~acl=/hls/*~hmac=8b9759e46bad6f82d9283f756ed8763661139318d0dcffe76fef17a4d33ab848
 #EXTINF:-1 tvg-id="tapmad-14142" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806629351020x576.jpg" group-title="Fancode", Muhammad vs Bonfim | UFC 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:15:18 AM 07-06-2026
+# last_update: 07:30:26 AM 07-06-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090534235" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627099108940_INT_Friendlies26_Turkiye_vs_Venezuela_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Turkiye vs Venezuela - 7 Jun 2026
-https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534131" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019355/1780753069090320_UFC_Fight_Night_Muhammad_vs_Bonfim_landscape_thumb.jpg" group-title="Fancode", UFC Fight Night - Muhammad vs Bonfim | UFC Fight Night - Muhammad vs Bonfim - 6 Jun 2026
+https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
