@@ -2,20 +2,29 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143196_6110_NED_USA_fc-web.jpg" group-title="Fancode", Netherlands vs USA (ICC CWC League 2 Canada, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143196_english_hls_6c4772caf187367_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143070_6102_MWS_IPP_FC-WEB.jpg" group-title="Fancode", Malwa Stallions vs Indore Pink Panthers (Madhya Pradesh League T20, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143070_english_hls_0d0c5948dc9779_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png" group-title="Fancode", West Indies vs Sri Lanka (Sri Lanka tour of West Indies 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142974_english_hls_6589216d3e57360_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 08-06-2026
+# Last Update: 01:50 AM 09-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-14333" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809000591020x576.jpg" group-title="Fancode", Netherlands vs Uzbekistan | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780949107~acl=/hls/*~hmac=fa4b58257d1544b2ce7cb9c08c917075b1b8973ef5480daccd78776b5aad171a
+#EXTINF:-1 tvg-id="tapmad-13958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17808996221020x576.jpg" group-title="Fancode", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780949107~acl=/hls/*~hmac=14c7fa6db6cf2d6ef4c101abead3c46cbf472193819b9d7209f3d1a466947478
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:30:27 PM 08-06-2026
+# last_update: 01:45:21 AM 09-06-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090534253" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624118765941_INT_Friendlies26_France_vs_Northern_Ireland_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | France vs Northern Ireland - 9 Jun 2026
+https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090534252" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627525081941_INT_Friendlies26_Netherlands_vs_Uzbekistan_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Netherlands vs Uzbekistan - 9 Jun 2026
+https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
