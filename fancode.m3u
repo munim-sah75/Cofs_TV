@@ -1,19 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="Fancode", Bundelkhand Bulls Women vs Chambal Ghariyals Women (Madhya Pradesh League T20 Women's 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143025_english_hls_e7fa39261d84423_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143153_6108_JB_LRL_FC-Web.png" group-title="Fancode", JB Bruges vs Liege Red Lions (EUT20 Belgium, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143153_english_hls_14dc89c66f18373_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143068_6102_BBS_BL_FC-WEB.jpg" group-title="Fancode", Bundelkhand Bulls vs Bhopal Leopards (Madhya Pradesh League T20, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143068_english_hls_b1d28f2d8b19790_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143069_6102_CGS_UJF_FC-WEB.jpg" group-title="Fancode", Chambal Ghariyals vs Ujjain Falcons (Madhya Pradesh League T20, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143069_english_hls_b507bcd32057796_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Fancode", Day 1 vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143118_english_hls_b78a2ca6e612059_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Fancode", Day 1 - Court 1 vs Netherlands (ATP 250 - Libema Open)
+https://bd-mc-fblive.fancode.com/mumbai/143345_english_hls_75a1ffd2a063616_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:20 PM 08-06-2026
+# Last Update: 05:20 PM 08-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14078" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805559211020x576.jpg" group-title="Fancode", India vs Afghanistan | Afghanistan Tour of India 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780900525~acl=/hls/*~hmac=d76abe920e39d14bf7c604f1b5a0d406a6cd69e85eb7b9903a0bc2a1d24f70f0
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:15:19 PM 08-06-2026
+# last_update: 05:15:22 PM 08-06-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090534399" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086264834785_CCPL26_Raipur_Rhinos_vs_Bilaspur_Bulls_landscape_thumb.jpg" group-title="Fancode", Chhattisgarh Cricket Premier League 2026 | Raipur Rhinos vs Bilaspur Bulls - 8 Jun 2026
+https://dai.google.com/ssai/event/qe1rEfCFT2ut2JCUDoI8vg/master.m3u8
