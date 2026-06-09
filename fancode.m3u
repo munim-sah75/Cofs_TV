@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Fancode", Bangladesh vs Australia (Australia tour of Bangladesh, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142993_6094_GD_MPT_FC-WEB_1780318028395.jpg" group-title="Fancode", Gujarat Diamonds vs MP Tigers (Big Cricket League Season 2)
-https://bd-mc-fblive.fancode.com/mumbai/142993_english_hls_17a4a719f019415_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143155_6108_LRL_AUB_FC-Web.png" group-title="Fancode", Liege Red Lions vs Akcel United Brussels (EUT20 Belgium, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143155_english_hls_008f6701d368270_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142994_6094_UPBS_SS_FC-WEB_1780318028429.jpg" group-title="Fancode", UP Brij Stars vs Southern Spartans (Big Cricket League Season 2)
+https://bd-mc-fblive.fancode.com/mumbai/142994_english_hls_f304aa51ef86975_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Fancode", Day 2 vs Netherlands (ATP 250 - Libema Open)
 https://bd-mc-fblive.fancode.com/mumbai/143126_english_hls_b61605301b66122_1ta-di_h264/index.m3u8
@@ -14,10 +14,13 @@ https://bd-mc-fblive.fancode.com/mumbai/143126_english_hls_b61605301b66122_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Fancode", Day 2 vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Fancode", Day 2 - Court 1 vs Netherlands (ATP 250 - Libema Open)
+https://bd-mc-fblive.fancode.com/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:30 PM 09-06-2026
+# Last Update: 07:30 PM 09-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -28,10 +31,7 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/ma
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:30:24 PM 09-06-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090534410" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019451/1780945977230567_Talent_TV_Cup_Tri_series_Sri_Lanka_A_vs_India_A_landscape_Thumb.jpg" group-title="Fancode", Talent TV Cup | Sri Lanka A vs India A - 9 Jun 2026
-https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
+# last_update: 07:30:26 PM 09-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086291755785_CCPL26_Rajnandgaon_Panthers_vs_Bastar_Bisons_landscape_thumb.jpg" group-title="Fancode", Chhattisgarh Cricket Premier League 2026 | Rajnandgaon Panthers vs Bastar Bisons - 9 Jun 2026
 https://dai.google.com/ssai/event/5uT8FTtEQ8CSr75Rnh7fVQ/master.m3u8
