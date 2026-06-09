@@ -1,42 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142994_6094_UPBS_SS_FC-WEB_1780318028429.jpg" group-title="Fancode", Southern Spartans vs UP Brij Stars (Big Cricket League Season 2)
-https://bd-mc-fblive.fancode.com/mumbai/142994_english_hls_f304aa51ef86975_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143156_6108_JB_AA_FC-Web.png" group-title="Fancode", JB Bruges vs Antwerp Anchors (EUT20 Belgium, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143156_english_hls_7f582ebd9f475_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Fancode", Day 2 vs Netherlands (ATP 250 - Libema Open)
-https://bd-mc-fblive.fancode.com/mumbai/143126_english_hls_b61605301b66122_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Fancode", Day 2 vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Fancode", Day 2 - Court 1 vs Netherlands (ATP 250 - Libema Open)
-https://bd-mc-fblive.fancode.com/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:10 PM 09-06-2026
+# Last Update: 12:20 AM 10-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14334" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809348211020x576.jpg" group-title="Fancode", Armenia vs Moldova | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809354291020x576.jpg" group-title="Fancode", Belarus vs Burkina Faso | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809356251020x576.jpg" group-title="Fancode", Hungary vs Kazakhstan | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13455" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809219381020x576.jpg" group-title="Fancode", Essex vs Kent Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781030107~acl=/hls/*~hmac=6e351844e27a621214489792545ad41eba692141e2335324bd120c23fa263a74
+#EXTINF:-1 tvg-id="tapmad-14337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809358021020x576.jpg" group-title="Fancode", Azerbaijan vs San Marino | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:15:25 PM 09-06-2026
+# last_update: 12:15:24 AM 10-06-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090534434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086321650285_CCPL26_Raipur_Rhinos_vs_Raigarh_Lions_landscape_thumb.jpg" group-title="Fancode", Chhattisgarh Cricket Premier League 2026 | Raipur Rhinos vs Raigarh Lions - 9 Jun 2026
-https://dai.google.com/ssai/event/5uT8FTtEQ8CSr75Rnh7fVQ/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534474" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780608006324719_VITALITY_BLAST_2026_Essex_vs_Kent_5jun_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Essex vs Kent - 9 Jun 2026
+https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090534456" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624346659941_INT_Friendlies26_Armenia_vs_Moldova_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Armenia vs Moldova  - 9 Jun 2026
-https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534458" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624461373941_INT_Friendlies26_Hungary_vs_Kazakhstan_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Hungary vs Kazakhstan  - 9 Jun 2026
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534457" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627874146941_INT_Friendlies26_Belarus_vs_Burkina_Faso_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Belarus vs Burkina Faso  - 9 Jun 2026
 https://dai.google.com/ssai/event/q8r8RIRsRpS9P1T4Wq1dBA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090534459" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625329802941_INT_Friendlies26_Azerbaijan_vs_San_Marino_4jun_landscape_thumb.jpg" group-title="Fancode", UEFA International Friendlies | Azerbaijan vs San Marino - 9 Jun 2026
+https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8
