@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Fancode", Australia vs Bangladesh (Australia tour of Bangladesh, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142966_english_hls_e0fd10311f63666_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142998_6094_MPT_NC_FC-WEB_1780318028400.jpg" group-title="Fancode", MP Tigers vs Northern Challengers (Big Cricket League Season 2)
-https://bd-mc-fblive.fancode.com/mumbai/142998_english_hls_c3a9aa6fcf67456_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/web.png" group-title="Fancode", JB Bruges vs Ghent Gladiators (EUT20 Belgium, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143161_english_hls_14599cc14042887_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143076_6102_GC_CGS_FC-WEB.jpg" group-title="Fancode", Gwalior Cheetahs vs Chambal Ghariyals (Madhya Pradesh League T20, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143076_english_hls_da18bcd58679074_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Fancode", Day 4 - Center Court vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Fancode", Day 4 - Center Court vs Netherlands (ATP 250 - Libema Open)
-https://bd-mc-fblive.fancode.com/mumbai/143128_english_hls_b19388415998007_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Fancode", Day 1 - Main Feed vs TPC Toronto at Osprey Valley, Caledon, Ontario (RBC Canadian Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/index.m3u8
@@ -32,18 +20,14 @@ https://bd-mc-fblive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:40 PM 11-06-2026
+# Last Update: 11:50 PM 11-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14132" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809370811020x576.jpg" group-title="Fancode", Bangladesh vs Australia | Australia Tour of Bangladesh 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:30:32 PM 11-06-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090534576" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071041324362_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day1_6jun_landscape_thumb.jpg" group-title="Fancode", Asian Tour 2026 | International Series Morocco - Day 1 - 11 Jun 2026
-https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
+# last_update: 11:45:31 PM 11-06-2026
