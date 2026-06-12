@@ -1,16 +1,45 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142991_6094_GD_SS_FC-WEB_1780318028373.jpg" group-title="Fancode", Gujarat Diamonds vs Southern Spartans (Big Cricket League Season 2)
+https://bd-mc-fblive.fancode.com/mumbai/142999_english_hls_d0fb08cd288647_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143157_6108_GG_AUB_FC-Web.png" group-title="Fancode", Akcel United Brussels vs Ghent Gladiators (EUT20 Belgium, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143162_english_hls_9bffa5094538155_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143078_6102_BL_CGS_FC-WEB.jpg" group-title="Fancode", Bhopal Leopards vs Chambal Ghariyals (Madhya Pradesh League T20, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143078_english_hls_a37c0eb8ca56688_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143079_6102_IPP_BBS_FC-WEB.jpg" group-title="Fancode", Indore Pink Panthers vs Bundelkhand Bulls (Madhya Pradesh League T20, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143079_english_hls_b76cc99b8036798_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Fancode", Day 5 - Center Court vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143122_english_hls_66490e9bbc21672_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Fancode", Day 5 - Center Court vs Netherlands (ATP 250 - Libema Open)
+https://bd-mc-fblive.fancode.com/mumbai/143129_english_hls_24c7eea39262434_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Fancode", Day 2 - Main Feed vs TPC Toronto at Osprey Valley, Caledon, Ontario (RBC Canadian Open 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143207_english_hls_b82f7b3b7963183_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Fancode", Day 5 - Court 1 vs Netherlands (ATP 250 - Libema Open)
+https://bd-mc-fblive.fancode.com/mumbai/143395_english_hls_40aee8900370225_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 PM 12-06-2026
+# Last Update: 05:00 PM 12-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14496" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17811609061020x576.jpg" group-title="Fancode", Men's Semi Final A Session - World Cup Budapest, Hungary Live | UIPM 2026
+#EXTINF:-1 tvg-id="tapmad-14502" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17811629811020x576.jpg" group-title="Fancode", Men's Semi Final B Session - World Cup Budapest, Hungary Live | UIPM 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14342" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17811836771020x576.jpg" group-title="Fancode", Session 1 - Q1 E1 Croatia Live | E1 Series 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:00:35 PM 12-06-2026
+# last_update: 05:00:28 PM 12-06-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090534660" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019541/178118055960699_CCPL26_SF_Bilaspur_Bulls_vs_Bastar_Bisons_landscape_thumb.jpg" group-title="Fancode", Chhattisgarh Cricket Premier League 2026 | Bilaspur Bulls vs Bastar Bisons - 12 Jun 2026
+https://dai.google.com/ssai/event/7JLfkzHXQgGvUimwAKPKiw/master.m3u8
