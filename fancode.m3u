@@ -1,15 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg" group-title="Fancode", Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142976_english_hls_32abf1ee6040415_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:20 AM 14-06-2026
+# Last Update: 07:50 AM 14-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-13960" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17812720651020x576.jpg" group-title="Fancode", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:30:24 AM 14-06-2026
+# last_update: 07:45:20 AM 14-06-2026
