@@ -17,10 +17,13 @@ https://bd-mc-fblive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Fancode", Day 4 - Marquee Group vs TPC Toronto at Osprey Valley, Caledo, Ontario (RBC Canadian Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Fancode", Day 4 - World Feed vs TPC Toronto at Osprey Valley, Caledo,  Ontario (RBC Canadian Open 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:00 PM 14-06-2026
+# Last Update: 11:20 PM 14-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -30,7 +33,7 @@ https://bd-mc-fblive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:45:31 PM 14-06-2026
+# last_update: 11:15:27 PM 14-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534739" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019576/1781286858303853_CCPL26_Final_Bilaspur_Bulls_vs_Raigarh_Lions_12jun_landscape_thumb.jpg" group-title="Fancode", Chhattisgarh Cricket Premier League 2026 | Bilaspur Bulls vs Raigarh Lions - Final - 14 Jun 2026
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
