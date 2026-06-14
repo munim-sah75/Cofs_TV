@@ -2,16 +2,22 @@
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Fancode", Bangladesh vs Australia (Australia tour of Bangladesh, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143083_6102_CGS_IPP_FC-WEB.jpg" group-title="Fancode", Chambal Ghariyals vs Indore Pink Panthers (Madhya Pradesh League T20, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143083_english_hls_8f4ad2625a37220_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143084_6102_RNG_UJF_FC-WEB.jpg" group-title="Fancode", Royal Nimar Eagles vs Ujjain Falcons (Madhya Pradesh League T20, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143084_english_hls_b5622624bf9730_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg" group-title="Fancode", Race vs Barcelona (F3 BARCELONA 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139720_english_hls_de1c0af98653630_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143031_6095_AAL_LLI_fc-web.jpg" group-title="Fancode", Amritsar Alligators vs Ludhiana Lions (Punjab T10 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143031_english_hls_b24a84258753154_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-web.jpg" group-title="Fancode", Patiala Panthers vs Bathinda Bulls (Punjab T10 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Saudi_Old_match-card.jpg" group-title="Fancode", Feature Race vs Barcelona (F2 BARCELONA 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139629_english_hls_f292e1b37048068_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:30 PM 14-06-2026
+# Last Update: 04:00 PM 14-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -22,7 +28,4 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:30:28 PM 14-06-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090534746" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019550/1781198811576129_ArcheryWC26_Antalya_Turkiye_Recurve_Team_finals_landscape_thumb.jpg" group-title="Fancode", Hyundai Archery World Cup Stage 3 - Antalya, Turkiye | Recurve Team Finals - 14 Jun 2026
-https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8
+# last_update: 04:00:31 PM 14-06-2026
