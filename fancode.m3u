@@ -1,37 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143085_6102_RW_GC_FC-WEB.jpg" group-title="Fancode", Rewa Jaguars vs Gwalior Cheetahs (Madhya Pradesh League T20, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143085_english_hls_d97e4e72d625660_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143176_6109_UPP_HMU_FC-WEB.jpg" group-title="Fancode", Uppsala Tigers vs Stockholm United (Nordic Smash T20 Cup, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143176_english_hls_5fee98468520147_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Fancode", Day 1 - World Feed vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Fancode", Day 1 - Schauinsland Reisen Court vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143253_english_hls_57515cc93926116_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg" group-title="Fancode", Day 1 - World Feed vs London, Great Britain (ATP 500 - HSBC Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143132_english_hls_1d6b72cbde60936_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg" group-title="Fancode", Day 1 - Court 1 vs London, Great Britain (ATP 500 - HSBC Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143135_english_hls_a3b6f6ae5075013_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143086_6102_JRL_BL_FC-WEB.jpg" group-title="Fancode", Bhopal Leopards vs Jabalpur Royal Lions (Madhya Pradesh League T20, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143086_english_hls_abff174e0741564_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 PM 15-06-2026
+# Last Update: 12:10 AM 16-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14377" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17815107431020x576.jpg" group-title="Fancode", Stockholm United vs Uppsala Tigers | Nordic Smash 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781531106~acl=/hls/*~hmac=80915ab6342fe220faad2543bfbdf2f3c7233efe5c076ffd17daadcd4a723f97
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:30:35 PM 15-06-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090534767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019542/1781183311802152_Tri_Series26_SL_A_vs_IND_A_landscape_thumb.jpg" group-title="Fancode", Talent TV Cup | Sri Lanka A vs India A - 15 Jun 2026
-https://dai.google.com/ssai/event/LdAF3qixR7m1e_v000QMHA/master.m3u8
+# last_update: 11:30:52 PM 15-06-2026
