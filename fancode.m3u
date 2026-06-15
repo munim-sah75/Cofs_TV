@@ -1,18 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg" group-title="Fancode", Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142977_english_hls_6f073467f892321_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:50 AM 15-06-2026
+# Last Update: 08:00 AM 15-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-14144" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17811780811020x576.jpg" group-title="Fancode", Topuria vs Gaethje | UFC 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13961" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17814402971020x576.jpg" group-title="Fancode", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:45:22 AM 15-06-2026
+# last_update: 08:00:30 AM 15-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534705" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019536/1781175347180423_UFC_Freedom_250_Topuria_vs_Gaethje_landscape_thumbnail.jpg" group-title="Fancode", UFC Freedom 250 - Topuria vs Gaethje | UFC Freedom 250 - Topuria vs Gaethje - 15 Jun 2026
 https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
