@@ -1,12 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143087_6102_IPP_RNG_FC-WEB.jpg" group-title="Fancode", Indore Pink Panthers vs Royal Nimar Eagles (Madhya Pradesh League T20, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143087_english_hls_1ea1e21f5e1227_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143088_6102_RW_JRL_FC-WEB.jpg" group-title="Fancode", Rewa Jaguars vs Jabalpur Royal Lions (Madhya Pradesh League T20, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143088_english_hls_214224969853164_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143036_6095_AAL_BBU_fc-web.jpg" group-title="Fancode", Amritsar Alligators vs Bathinda Bulls (Punjab T10 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143036_english_hls_91f2f47d9816237_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143179_6109_UPP_MLM_FC-WEB.jpg" group-title="Fancode", Malmo Mavericks vs Uppsala Tigers (Nordic Smash T20 Cup, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143179_english_hls_142143dcc357177_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143180_6109_VTU_STY_FC-WEB.jpg" group-title="Fancode", Vasteras United vs Stockholm City (Nordic Smash T20 Cup, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143180_english_hls_fa7ff87c7486703_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Fancode", Day 2 - Schauinsland Reisen Court vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143256_english_hls_afa8eaf6d566469_1ta-di_h264/index.m3u8
@@ -23,15 +20,15 @@ https://bd-mc-fblive.fancode.com/mumbai/143136_english_hls_c9b1ec756f6672_1ta-di
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:10 PM 16-06-2026
+# Last Update: 11:20 PM 16-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14395" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17815968851020x576.jpg" group-title="Fancode", Malmo Mavericks vs Uppsala Tigers | Nordic Smash 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781612707~acl=/hls/*~hmac=95112d41e49c24b164eea8a149292753f5869729f358a315a107531a6bc2ee09
+#EXTINF:-1 tvg-id="tapmad-14401" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17815995411020x576.jpg" group-title="Fancode", Stockholm City vs Vasteras United | Nordic Smash 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781631307~acl=/hls/*~hmac=201d89fa5cf7512ce126e511adcbd3234b7bf6e9078d18d5385747f4b32897dd
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:15:37 PM 16-06-2026
+# last_update: 11:15:51 PM 16-06-2026
