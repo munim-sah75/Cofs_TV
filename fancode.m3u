@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143091_6102_UJF_IPP_FC-WEB.jpg" group-title="Fancode", Ujjain Falcons vs Indore Pink Panthers (Madhya Pradesh League T20, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143091_english_hls_87add3aff510944_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143314_6124_NIG_HK_FC-WEB.jpg" group-title="Fancode", Nigeria vs Hong Kong, China (Men's T20I Tri series in Namibia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143314_english_hls_0cf86887d237459_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143040_6095_JJ_MMO_fc-web.jpg" group-title="Fancode", Jalandhar Jaguars vs Moga Mongoose (Punjab T10 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143040_english_hls_0c595906b149096_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143092_6102_JRL_RNG_FC-WEB.jpg" group-title="Fancode", Jabalpur Royal Lions vs Royal Nimar Eagles (Madhya Pradesh League T20, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143092_english_hls_d606f94afb86483_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143185_6109_UPP_VTU_FC-WEB.jpg" group-title="Fancode", Uppsala Tigers vs Vasteras United (Nordic Smash T20 Cup, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143185_english_hls_63fa69d33d19697_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143186_6109_MLM_HMU_FC-WEB.jpg" group-title="Fancode", Malmo Mavericks vs Stockholm United (Nordic Smash T20 Cup, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143186_english_hls_ee2c1bf4ca89286_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Fancode", Day 4 - World Feed vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143259_english_hls_411064cd7062581_1ta-di_h264/index.m3u8
@@ -23,20 +23,20 @@ https://bd-mc-fblive.fancode.com/mumbai/143260_english_hls_19a4cc0dbf55802_1ta-d
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:10 PM 18-06-2026
+# Last Update: 08:20 PM 18-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14072" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816018801020x576.jpg" group-title="Fancode", England vs New Zealand | New Zealand Tour of England 2026
 https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14431" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17817646091020x576.jpg" group-title="Fancode", Uppsala Tigers vs Vasteras United | Nordic Smash 2026
+#EXTINF:-1 tvg-id="tapmad-14437" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17817651051020x576.jpg" group-title="Fancode", Stockholm United vs Malmo Mavericks | Nordic Smash 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:00:39 PM 18-06-2026
+# last_update: 08:00:38 PM 18-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534887" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260915712832_ENGvsNZ_2nd_test_day2_landscape_thumb.jpg" group-title="Fancode", New Zealand Tour of England 2026 | 2nd Test - Day 2 - 18 Jun 2026 
 https://dai.google.com/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8
