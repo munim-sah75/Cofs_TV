@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781927698717/143043_CASACARDS_APP.png" group-title="Fancode", Ludhiana Lions vs Jalandhar Jaguars (Punjab T10 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143043_english_hls_9b42356f1a31737_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png" group-title="Fancode", Australasia - Race 1 vs Queensland (Ferrari Challenge Series 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143406_english_hls_8e382f3ead63719_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:40 AM 20-06-2026
+# Last Update: 12:00 PM 20-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -12,4 +18,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:45:34 AM 20-06-2026
+# last_update: 12:00:33 PM 20-06-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090535044" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018954/1780272663082965_ABB_FIA_FormulaE_WC26_RD11_Sanya_EPrix_Final_Race_landscape_thumb.jpg" group-title="Fancode", ABB FIA Formula E World Championship | Round 11 - Sanya E-Prix - Final  Race - 20 Jun 2026
+https://dai.google.com/ssai/event/934pbKVOSeGwcztb05y3dg/master.m3u8
