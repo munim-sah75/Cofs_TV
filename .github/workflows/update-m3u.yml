@@ -21,7 +21,7 @@ jobs:
       - name: Download, modify, and merge playlists
         run: |
           # Download files
-          curl -s -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u" -o fancode.m3u
+          curl -s -L "https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/refs/heads/main/fancode_in.m3u" -o fancode.m3u
           curl -s -L "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u" -o tapmad_bd.m3u
           curl -s -L "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u" -o sonyliv_playlist.m3u
 
