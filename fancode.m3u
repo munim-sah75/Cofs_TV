@@ -2,29 +2,41 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 02:00:59 PM 21-06-2026 (BD Time)
-# 📺 Live Matches (IN): 2
+# 🕒 Last Updated: 04:44:50 PM 21-06-2026 (BD Time)
+# 📺 Live Matches (IN): 6
 #=================================
 
 #EXTINF:-1 tvg-name="Bangladesh Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg" group-title="Fancode",Bangladesh Vs Australia
 https://bd-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782112742~_GO=Generated~acl=/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/*~Signature=Afto3p035WZUJeFefk_TvE-mjLF5lCX0ESteWyKsr9zSdF98Qta6iUlQ08NIUcEfa6P3ftd6k4Ke9I5LaOBS9EsHIrAJ
 
+#EXTINF:-1 tvg-name="Hubli Tigers Vs Coastal Kings Mangaluru" tvg-logo="https://images.fancode.com/aig/match/v1781841438726/143417_CASACARDS_SPORTY_APP.png" group-title="Fancode",Hubli Tigers Vs Coastal Kings Mangaluru
+https://bd-mc-fblive.fancode.com/mumbai/143417_english_hls_c6a40667ad24875_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Hubli Tigers Vs Coastal Kings Mangaluru" tvg-logo="https://images.fancode.com/aig/match/v1781841438726/143417_CASACARDS_SPORTY_APP.png" group-title="Fancode",Hubli Tigers Vs Coastal Kings Mangaluru
+https://bd-mc-fblive.fancode.com/mumbai/143417_kannada_hls_ed0364c53371357_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Jabalpur Royal Lions Vs Gwalior Cheetahs" tvg-logo="https://images.fancode.com/aig/match/v1780469022414/143095_CASACARDS_SPORTY_APP.png" group-title="Fancode",Jabalpur Royal Lions Vs Gwalior Cheetahs
+https://bd-mc-fblive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/1080p.m3u8
+
 #EXTINF:-1 tvg-name="Czechia Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="Fancode",Czechia Gp
-https://bd-mc-flive.fancode.com/mumbai/139953_english_hls_48f448c1ed10475_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782110223~_GO=Generated~acl=/mumbai/139953_english_hls_48f448c1ed10475_1ta-di_h264/*~Signature=Afto3p2m1ciHhInXU09JBHIO1zGnKi_76gkdVl2PWTo9xw6gqxetGkPS7IglS7D-FMdEjvpqt81OAH3L6BzUQPQGyNkI
+https://bd-mc-flive.fancode.com/mumbai/139953_english_hls_48f448c1ed10475_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782125045~_GO=Generated~acl=/mumbai/139953_english_hls_48f448c1ed10475_1ta-di_h264/*~Signature=Afto3p3OFyXNsPqhRLqHz0ZPN4bfwMtY9GwvQT28F22L6-AFXKBTXsNe_NPEjm3hOO5uRpSDBkQVzANJuVwjIarCFG8K
+
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Fancode",Day 1
+https://bd-mc-fblive.fancode.com/mumbai/143270_english_hls_08b686d23454549_1ta-di_h264/1080p.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:00 PM 21-06-2026
+# Last Update: 05:40 PM 21-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816861971020x576.jpg" group-title="Fancode", Bangladesh vs Australia | Australia Tour of Bangladesh 2026
-https://serieAleague.akamaized.net/hls/live/2107107/PSLE_tapmad2026-Backup/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14072" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816018801020x576.jpg" group-title="Fancode", England vs New Zealand | New Zealand Tour of England 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:00:31 PM 21-06-2026
+# last_update: 05:45:20 PM 21-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090535198" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019786/1781957347670552_Tri_Series_final_SL_A_vs_IND_A_landscape_thumb.jpg" group-title="Fancode", Talent TV Cup | Sri Lanka A vs India A - Final - 21 Jun 2026
 https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
