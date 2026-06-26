@@ -19,7 +19,7 @@ https://bd-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b44320_1ta-di
 https://bd-mc-flive.fancode.com/mumbai/139954_english_hls_e25248d51c32894_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782543074~_GO=Generated~acl=/mumbai/139954_english_hls_e25248d51c32894_1ta-di_h264/*~Signature=ARZJ1WLHCmSfSJpWjCUpBgq5nED77SON-7dgewQRYIJOXcBbkVQbjE_LjDpC35L6JBpR6B2tAg7-8pCYy7KnJefCgfUC
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 PM 26-06-2026
+# Last Update: 11:20 PM 26-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -27,22 +27,14 @@ https://bd-mc-flive.fancode.com/mumbai/139954_english_hls_e25248d51c32894_1ta-di
 #EXTINF:-1 tvg-id="tapmad-14073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816020821020x576.jpg" group-title="Fancode", England vs New Zealand | New Zealand Tour of England 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Fancode", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782488707~acl=/hls/*~hmac=a4cace259041bd84785108c41ce16c60801466b687bb3d30b8719b8a6a2dd9d7
-#EXTINF:-1 tvg-id="tapmad-14757" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824754231020x576.jpg" group-title="Fancode", Ireland vs India | India Tour of Ireland 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1782488707~acl=/hls/*~hmac=a4cace259041bd84785108c41ce16c60801466b687bb3d30b8719b8a6a2dd9d7
-#EXTINF:-1 tvg-id="tapmad-14693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824286711020x576.jpg" group-title="Fancode", Lamborghini Super Trofeo - Race 1 Live | GT World Challenge EU & Asia 2026
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782495307~acl=/hls/*~hmac=0675e5caafd72f9cf7435cde494513792cf28209f4d21a724c9edf8b55838c38
+#EXTINF:-1 tvg-id="tapmad-14699" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824291831020x576.jpg" group-title="Fancode", CrowdStrike 24 Hours of Spa - GT World Challenge pwd by AWS Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:15:23 PM 26-06-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090535487" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020033/1782478110170939_IRE_vs_IND_1st_T20i_landscape_thumb.jpg" group-title="Fancode", India Tour Of Ireland 2026 | 1st T20I - 26 Jun 2026
-https://dai.google.com/ssai/event/ZFnJ3ngdQD-2g-Y8iVXtaA/master.m3u8
+# last_update: 11:00:41 PM 26-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090535522" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019939/1782323534216153_ENGvsNZ_3rd_test_day2_landscape_thumb.jpg" group-title="Fancode", New Zealand Tour of England 2026 | 3rd Test - Day 2 - 26 Jun 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090535523" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272168408972_DP_World_Tour_Open_dItalia_day2_landscape_thumb.jpg" group-title="Fancode", DP World Tour | Open d'Italia - Day 2 - 26 Jun 2026
-https://dai.google.com/ssai/event/4G_G6zLURAiPOM4qZQcSTg/master.m3u8
