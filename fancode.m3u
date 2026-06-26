@@ -2,12 +2,15 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:37:52 PM 26-06-2026 (BD Time)
-# 📺 Live Matches (IN): 3
+# 🕒 Last Updated: 04:38:56 PM 26-06-2026 (BD Time)
+# 📺 Live Matches (IN): 4
 #=================================
 
-#EXTINF:-1 tvg-name="Indonesia Vs Uzbekistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143545_6143_UZB_INA_FC-Web.png" group-title="Fancode",Indonesia Vs Uzbekistan
-https://bd-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782537544~_GO=Generated~acl=/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/*~Signature=ARZJ1WKIufOTmQrPlMK7H7IZhV40E5ctu6iMkaSfhpV9No2JOmP2NMS4UmqoUi7zEfUjvwxnGdyMhtSJtzqwMeREXVAL
+#EXTINF:-1 tvg-name="Flying Fire Delhi Chargers Vs Sonipat Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Fancode",Flying Fire Delhi Chargers Vs Sonipat Kings
+https://bd-mc-flive.fancode.com/mumbai/143555_english_hls_33ab03887046427_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782551949~_GO=Generated~acl=/mumbai/143555_english_hls_33ab03887046427_1ta-di_h264/*~Signature=ARZJ1WKG7lfCXa0UnzftxWyNX6CVhSo26hk6uYJLaIsTdDEaEZxpn0_ugmgL6q4B9Y36uKOl271p-6sjQX4MmkwGRhkL
+
+#EXTINF:-1 tvg-name="Singapore Vs Thailand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143546_6143_TL_SIN_FC-Web.png" group-title="Fancode",Singapore Vs Thailand
+https://bd-mc-flive.fancode.com/mumbai/143550_english_hls_573cb7b5b941706_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782555544~_GO=Generated~acl=/mumbai/143550_english_hls_573cb7b5b941706_1ta-di_h264/*~Signature=ARZJ1WIwZxPQLhNxoaTywdDUy2BlNgVqPal-Cb6fT9CnFmWqc_CAkoVKVBi79hM7fDndxjgCc2DN9LOukMdROi-O3X0F
 
 #EXTINF:-1 tvg-name="Rml Sports Vs Kcc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg" group-title="Fancode",Rml Sports Vs Kcc
 https://bd-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b44320_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782544330~_GO=Generated~acl=/mumbai/143522_english_hls_e0bf049e9b44320_1ta-di_h264/*~Signature=ARZJ1WII9jT6iBfDpVrOQf4jNB11YGl_2PT8RGZKxxgDLte4aJajENOSj5AvzDph7-iOwNwMjRnQtbClWauqkpzTPjgK
@@ -16,17 +19,25 @@ https://bd-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b44320_1ta-di
 https://bd-mc-flive.fancode.com/mumbai/139954_english_hls_e25248d51c32894_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782543074~_GO=Generated~acl=/mumbai/139954_english_hls_e25248d51c32894_1ta-di_h264/*~Signature=ARZJ1WLHCmSfSJpWjCUpBgq5nED77SON-7dgewQRYIJOXcBbkVQbjE_LjDpC35L6JBpR6B2tAg7-8pCYy7KnJefCgfUC
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:40 PM 26-06-2026
+# Last Update: 05:20 PM 26-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14669" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824194411020x576.jpg" group-title="Fancode", GT4 European Series - Qualifying 1 & 2 Live | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816020821020x576.jpg" group-title="Fancode", England vs New Zealand | New Zealand Tour of England 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14616" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17822113031020x576.jpg" group-title="Fancode", Women's Semi-Final A Session, Budapest, Hungary Live | UIPM 2026
 https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-14675" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824199741020x576.jpg" group-title="Fancode", McLaren Trophy Europe - Race 1 Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:30:27 PM 26-06-2026
+# last_update: 05:15:25 PM 26-06-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090535522" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019939/1782323534216153_ENGvsNZ_3rd_test_day2_landscape_thumb.jpg" group-title="Fancode", New Zealand Tour of England 2026 | 3rd Test - Day 2 - 26 Jun 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090535523" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272168408972_DP_World_Tour_Open_dItalia_day2_landscape_thumb.jpg" group-title="Fancode", DP World Tour | Open d'Italia - Day 2 - 26 Jun 2026
+https://dai.google.com/ssai/event/4G_G6zLURAiPOM4qZQcSTg/master.m3u8
