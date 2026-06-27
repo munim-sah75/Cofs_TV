@@ -2,40 +2,64 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:01:41 PM 27-06-2026 (BD Time)
-# 📺 Live Matches (IN): 5
+# 🕒 Last Updated: 08:05:54 PM 27-06-2026 (BD Time)
+# 📺 Live Matches (IN): 11
 #=================================
+
+#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode",Sri Lanka Vs West Indies
+https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782653405~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WK99VmSDvYB9sT-Ts6Kk7pZ7ecI37Q4kkx47t0GnsSGsWfqLAAzGHqPShjIoezjjcXEvuTqiwDn76vfGDxXW0oC
 
 #EXTINF:-1 tvg-name="Namibia Vs Nigeria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png" group-title="Fancode",Namibia Vs Nigeria
 https://bd-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J
 
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Kalyani Bengaluru Blasters" tvg-logo="https://images.fancode.com/aig/match/v1781841438710/143427_CASACARDS_SPORTY_APP.png" group-title="Fancode",Shivamogga Yodhas Vs Kalyani Bengaluru Blasters
-https://bd-mc-flive.fancode.com/mumbai/143427_english_hls_f0d21b9fd237474_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782636245~_GO=Generated~acl=/mumbai/143427_english_hls_f0d21b9fd237474_1ta-di_h264/*~Signature=ARZJ1WLuFKMu42yxSMwJ6baGHVzi_c5gv8ZjTgfYcZVWVm8KQ9fxGMFIrTaSOiS0JtyFt20U8pZe1wT1CEHiK3P_kn0L
+#EXTINF:-1 tvg-name="Mysore Warriors Vs Gulbarga Mystics" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143428_6134_MW_GMY_FC-WEB_1782272593056.jpg" group-title="Fancode",Mysore Warriors Vs Gulbarga Mystics
+https://bd-mc-flive.fancode.com/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652748~_GO=Generated~acl=/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/*~Signature=ARZJ1WIg7c_iEhRBTzqNp1ktMPLx-nlw6FMG2-M_PbMWk9AMaC6pzoDKYxbmqMko1DcwMLgoKGU5-6kJ8PpjKhYd7PoO
 
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Kalyani Bengaluru Blasters" tvg-logo="https://images.fancode.com/aig/match/v1781841438710/143427_CASACARDS_SPORTY_APP.png" group-title="Fancode",Shivamogga Yodhas Vs Kalyani Bengaluru Blasters
-https://bd-mc-flive.fancode.com/mumbai/143427_kannada_hls_325eb2db9513560_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782636246~_GO=Generated~acl=/mumbai/143427_kannada_hls_325eb2db9513560_1ta-di_h264/*~Signature=ARZJ1WIi4t8S6YeUMZYSqon4wYAkhbbK4IYHT6pDyp91P79HaB2VfaonJslUkwWfQako6WzUKDZlWqMyAMf2hNrmxNAB
+#EXTINF:-1 tvg-name="Mysore Warriors Vs Gulbarga Mystics" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143428_6134_MW_GMY_FC-WEB_1782272593056.jpg" group-title="Fancode",Mysore Warriors Vs Gulbarga Mystics
+https://bd-mc-flive.fancode.com/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652749~_GO=Generated~acl=/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/*~Signature=ARZJ1WKjclB7lwhFlnQ7-oBWqqrPyQpTVv10af1xxeP_0zFY6EETBC8XOMiEyqZWT0CjXg8CFMnowEzhTCFRtmON2AsF
 
-#EXTINF:-1 tvg-name="Karim Capital Chargers Vs Jayqo Panthers Faridabad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Fancode",Karim Capital Chargers Vs Jayqo Panthers Faridabad
-https://bd-mc-flive.fancode.com/mumbai/143557_english_hls_ae6fcdfae786940_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782638344~_GO=Generated~acl=/mumbai/143557_english_hls_ae6fcdfae786940_1ta-di_h264/*~Signature=ARZJ1WIBS0RFXeBGy0SYS2hH-nP-9fWHn14MCLuXxOyyBiLc5vSATXUozMT2UwpqhABZyPA6mAuezBMhOTstBr2GCzYE
+#EXTINF:-1 tvg-name="Bahamas Vs Belize" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143291_6120_BAH_BIZ_fc-App_1782198649880.jpg" group-title="Fancode",Bahamas Vs Belize
+https://bd-mc-flive.fancode.com/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652745~_GO=Generated~acl=/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/*~Signature=ARZJ1WL2kHU8NNbJloVFjvoQqn6rsBASYoP-LCSyQsk4q1timT9Ils-ODx5-_KkIMgVuDR1cHUydY4V2VNLk0MOF52wK
+
+#EXTINF:-1 tvg-name="Bahadurgarh Royals Vs Ddh Meerut Spartans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Fancode",Bahadurgarh Royals Vs Ddh Meerut Spartans
+https://bd-mc-flive.fancode.com/mumbai/143558_english_hls_98d768fa7665916_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782654664~_GO=Generated~acl=/mumbai/143558_english_hls_98d768fa7665916_1ta-di_h264/*~Signature=ARZJ1WLjWdlwofmytz8kjcAs7CMzKvwLoUXqbuVSaM9U2_tbQksWNY7ON9cb-ExQ76h7aKZ7fcN2Bcj7xvoNyXLBTKsM
 
 #EXTINF:-1 tvg-name="Netherlands Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png" group-title="Fancode",Netherlands Gp
 https://bd-mc-flive.fancode.com/mumbai/139955_english_hls_1ac25133f375303_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782643025~_GO=Generated~acl=/mumbai/139955_english_hls_1ac25133f375303_1ta-di_h264/*~Signature=ARZJ1WIrxSlI7dZfQnvpA6sfIcekmfvGw1nzNDsDJtNFsucM8_3LM1hxKwnqOGPjeQtSAwQZtqnBH7Nru0GU5Si3NecF
+
+#EXTINF:-1 tvg-name="Main Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="Fancode",Main Feed   Day 3
+https://bd-mc-flive.fancode.com/mumbai/143576_english_hls_2f9ee357a788544_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782650225~_GO=Generated~acl=/mumbai/143576_english_hls_2f9ee357a788544_1ta-di_h264/*~Signature=ARZJ1WJRaoGMMiF7LQtICL89hCBhbewnCOqQXEW5x9hdzqYguvLA3v2VH3x-aMWew2O-oCR6ZGAW31gpGJO_AM9EGgQH
+
+#EXTINF:-1 tvg-name="Men's Final" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Fancode",Men's Final
+https://bd-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782650649~_GO=Generated~acl=/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/*~Signature=ARZJ1WIBw8V9mB7kAVtwApw6Bn15qYswQ2N4p06LTfACCScnZAL4LOWFksLMKOejgPQGZ_UKW1pBOwhuWZb4UOngN7EH
+
+#EXTINF:-1 tvg-name="Men's Final" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="Fancode",Men's Final
+https://bd-mc-flive.fancode.com/mumbai/143282_english_hls_649a90300b40021_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652751~_GO=Generated~acl=/mumbai/143282_english_hls_649a90300b40021_1ta-di_h264/*~Signature=ARZJ1WJjJxoqTcbiWujtmUEfCHoLxoxH47WjfCpxBHfJSyEP1lbiS-2o1nKcfmNY_72cI_d_Y7UfzCRVznJNW1oRZxwO
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg" group-title="Fancode", Qualifying | F1 LENOVO AUSTRIAN GRAND PRIX 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c951b07000b4d23ab8078aea19241d8:4b1dae3614d4fa32ae6fd7fca3c20393
+https://bd-mc-flive.fancode.com/mumbai/139460_english_dash_7934_1drmta-di_h264/index.mpd
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:10 PM 27-06-2026
+# Last Update: 08:00 PM 27-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816020821020x576.jpg" group-title="Fancode", England vs New Zealand | New Zealand Tour of England 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14729" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825131381020x576.jpg" group-title="Fancode", GT3 Legends - Race 2 Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="Fancode", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?hdnts=exp=1782569722~acl=/hls/*~hmac=e7f59921869697d5890972104efdbc0ad2ab464ffe539a2fe2002b1f19ea84ee
+#EXTINF:-1 tvg-id="tapmad-14634" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825090231020x576.jpg" group-title="Fancode", Men's Semi-Final B Session, Budapest, Hungary Live | UIPM 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-14735" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825138051020x576.jpg" group-title="Fancode", CrowdStrike 24 Hours of Spa - Race Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:15:22 PM 27-06-2026
+# last_update: 08:00:30 PM 27-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090535664" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019939/1782323541511153_ENGvsNZ_3rd_test_day3_landscape_thumb.jpg" group-title="Fancode", New Zealand Tour of England 2026 | 3rd Test - Day 3 - 27 Jun 2026
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
