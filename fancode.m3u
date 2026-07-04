@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:00:56 PM 04-07-2026 (BD Time)
+# 🕒 Last Updated: 11:00:52 PM 04-07-2026 (BD Time)
 # 📺 Live Matches (IN): 5
 #=================================
 
@@ -13,18 +13,16 @@ https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di
 https://bd-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143580_6147_PGA_LOC_fc-web.jpg" group-title="Fancode",Day 3
-https://bd-mc-fblive.fancode.com/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/1080p.m3u8
+https://bd-mc-flive.fancode.com/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783270688~_GO=Generated~acl=/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/*~Signature=Ac2BFen9qHkzZ__MHKN94xZJCAWc28gUxg-JoUy0nSANv1UU0trBKxYdNsTzrtV9PPJ7J0KjoZc_oRpl_vDU3CWWybwF
 
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="Fancode",Day 3
 https://bd-mc-flive.fancode.com/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783259042~_GO=Generated~acl=/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/*~Signature=Ac2BFekPJk44scGM_6rsGd1kgdhpjm1Zz52FubRHEah4ICqpMonTPL_xV5-vX56d95tATNvlJzwviTH20bMHnOWXbUcD
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Fancode", Qualifying | F1 PIRELLI BRITISH GRAND PRIX 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=895cc7e35b7349b0bf6641d73e80cafd:669cf14493b2cddac22114ad8651cc74
-https://bd-mc-flive.fancode.com/mumbai/139465_english_dash_17235_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-name="Reverse Grid Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg" group-title="Fancode",Reverse Grid Race
+https://bd-mc-flive.fancode.com/mumbai/139691_english_hls_b2f79739f527535_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783270685~_GO=Generated~acl=/mumbai/139691_english_hls_b2f79739f527535_1ta-di_h264/*~Signature=Ac2BFen6oMzuloQZwdXqZDioUOvmVn_kM5lD7F8OsKcr67LiiENHv8BfHr4AbteeITZI6Mmku35spTlqwdq3eW0zdhUH
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:10 PM 04-07-2026
+# Last Update: 11:10 PM 04-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -35,15 +33,10 @@ https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14822" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830763731020x576.jpg" group-title="Fancode", Valorant Day 3 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14823" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830764271020x576.jpg" group-title="Fancode", Valorant Day 3 - Feed 2 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14797" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828358071020x576.jpg" group-title="Fancode", England vs India | India Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783182331~acl=/hls/*~hmac=17199010cf63b1b19ddebd6a390bc43cfc98098e0a027e5d4deefb5f7589d409
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783185907~acl=/hls/*~hmac=8176317240952db0b8ad772cd0f865fe8ba735695157a3d1d432bb6d4179a54f
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:00:44 PM 04-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090535808" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289927122701_DP_World_Tour_BMW_International_Open_day3_24jun_landscape_thumb.jpg" group-title="Fancode", DP World Tour | BMW International Open - Day 3 - 04 Jul 2026
-https://dai.google.com/ssai/event/4P-rGs2vR-aJ-_6DOl9ldQ/master.m3u8
+# last_update: 11:15:21 PM 04-07-2026
