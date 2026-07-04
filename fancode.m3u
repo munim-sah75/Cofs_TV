@@ -2,12 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 11:00:52 PM 04-07-2026 (BD Time)
-# 📺 Live Matches (IN): 5
+# 🕒 Last Updated: 12:00:53 AM 05-07-2026 (BD Time)
+# 📺 Live Matches (IN): 4
 #=================================
 
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode",Sri Lanka Vs West Indies
-https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783258202~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFelVKnQaKmEcXJKu-O_1XTytKC7qqB1MRjuq4NdTLgVOfNbr7OvsGs3c5wFHOB2e-V_yvE0KBR6eWH5kLmr51ikC
+https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783273022~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFeljPXo_j8sJXXH9g9dSxEEHdrNRoze72ZCHXMa1-1FwqBHEIA0fOjeEMMtvq17H-Jaji7wTxHrUmOkRii3-IjAE
 
 #EXTINF:-1 tvg-name="Day 3   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Fancode",Day 3   Main Feed
 https://bd-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/1080p.m3u8
@@ -15,14 +15,11 @@ https://bd-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-d
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143580_6147_PGA_LOC_fc-web.jpg" group-title="Fancode",Day 3
 https://bd-mc-flive.fancode.com/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783270688~_GO=Generated~acl=/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/*~Signature=Ac2BFen9qHkzZ__MHKN94xZJCAWc28gUxg-JoUy0nSANv1UU0trBKxYdNsTzrtV9PPJ7J0KjoZc_oRpl_vDU3CWWybwF
 
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="Fancode",Day 3
-https://bd-mc-flive.fancode.com/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783259042~_GO=Generated~acl=/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/*~Signature=Ac2BFekPJk44scGM_6rsGd1kgdhpjm1Zz52FubRHEah4ICqpMonTPL_xV5-vX56d95tATNvlJzwviTH20bMHnOWXbUcD
-
-#EXTINF:-1 tvg-name="Reverse Grid Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg" group-title="Fancode",Reverse Grid Race
-https://bd-mc-flive.fancode.com/mumbai/139691_english_hls_b2f79739f527535_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783270685~_GO=Generated~acl=/mumbai/139691_english_hls_b2f79739f527535_1ta-di_h264/*~Signature=Ac2BFen6oMzuloQZwdXqZDioUOvmVn_kM5lD7F8OsKcr67LiiENHv8BfHr4AbteeITZI6Mmku35spTlqwdq3eW0zdhUH
+#EXTINF:-1 tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Fancode",Day 3   World Feed
+https://bd-mc-flive.fancode.com/mumbai/143668_english_hls_49585d041e68824_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783273862~_GO=Generated~acl=/mumbai/143668_english_hls_49585d041e68824_1ta-di_h264/*~Signature=Ac2BFen1WDUmANdDZ_-MC87wiCGe2KZ8kmrm_mS64bmOQBFVOheRMfFJTCKKaQmhxqTwrnmJnoIAVTANROWkP2HDPsYC
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:10 PM 04-07-2026
+# Last Update: 12:10 AM 05-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -31,12 +28,13 @@ https://bd-mc-flive.fancode.com/mumbai/139691_english_hls_b2f79739f527535_1ta-di
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14748" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828112541020x576.jpg" group-title="Fancode", Gentlemen's & Ladies' Singles Third Round | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14822" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830763731020x576.jpg" group-title="Fancode", Valorant Day 3 - Feed 1 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14797" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828358071020x576.jpg" group-title="Fancode", England vs India | India Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783185907~acl=/hls/*~hmac=8176317240952db0b8ad772cd0f865fe8ba735695157a3d1d432bb6d4179a54f
+#EXTINF:-1 tvg-id="tapmad-13459" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828206421020x576.jpg" group-title="Fancode", Gloucestershire vs Surrey Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:15:21 PM 04-07-2026
+# last_update: 12:00:35 AM 05-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090535830" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020113/1782573308813277_VB26_mens_Gloucestershire_vs_Surrey_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Gloucestershire vs Surrey - 4 Jul 2026
+https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8
