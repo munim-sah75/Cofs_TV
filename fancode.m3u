@@ -2,18 +2,15 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 04:00:50 AM 05-07-2026 (BD Time)
-# 📺 Live Matches (IN): 2
+# 🕒 Last Updated: 05:30:52 AM 05-07-2026 (BD Time)
+# 📺 Live Matches (IN): 1
 #=================================
 
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode",Sri Lanka Vs West Indies
 https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783287843~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFemWUW0r_gmdbZ_oHynJDqCuDlwh8s-xtIEGxbVFrRueyiWbp8B4MH_N6L1ETESyfWfG7jvqq7nOScBApQcivwgM
-
-#EXTINF:-1 tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Fancode",Day 3   World Feed
-https://bd-mc-flive.fancode.com/mumbai/143668_english_hls_49585d041e68824_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783288683~_GO=Generated~acl=/mumbai/143668_english_hls_49585d041e68824_1ta-di_h264/*~Signature=Ac2BFekUfxXsOtfusf_23kn0rSK3eWN8TxZBywa4uD508EG0Kz6uMcuPAa7jlnIlLtJGWGyVxwHyvaOSeQ5CEtqBPncJ
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:20 AM 05-07-2026
+# Last Update: 05:30 AM 05-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -23,4 +20,7 @@ https://bd-mc-flive.fancode.com/mumbai/143668_english_hls_49585d041e68824_1ta-di
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:15:22 AM 05-07-2026
+# last_update: 05:30:35 AM 05-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090535834" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020217/1782816136395920_ABB_FIA_FormulaE_WC26_RD13_Shanghai_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="Fancode", ABB FIA Formula E World Championship | R13 - Shanghai E-Prix - Qualifying Race - 5 Jul 2026
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
