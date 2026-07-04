@@ -2,42 +2,57 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:00:54 PM 04-07-2026 (BD Time)
-# 📺 Live Matches (IN): 5
+# 🕒 Last Updated: 07:30:51 PM 04-07-2026 (BD Time)
+# 📺 Live Matches (IN): 8
 #=================================
 
 #EXTINF:-1 tvg-name="Namibia Vs Vidarbha" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg" group-title="Fancode",Namibia Vs Vidarbha
 https://bd-mc-flive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783251007~_GO=Generated~acl=/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/*~Signature=Ac2BFenZCY0aqmoDq4b42DsCYuepRkIGZkcVOAwxcgHyk0dg0ebPiHGr0rEDSafnlyxzhZy8_QUVPNIncAZdE_QQhhAB
 
 #EXTINF:-1 tvg-name="Mis E Ainak Knights Vs Amo Sharks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg" group-title="Fancode",Mis E Ainak Knights Vs Amo Sharks
-https://bd-mc-flive.fancode.com/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783243142~_GO=Generated~acl=/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/*~Signature=Ac2BFenl-T_tYJMXoaP3ePIXMWkoJNF8GydonoYd1UYu1s8oMOn_eGh_CH96Qwoa8rsDnPqF9rvvpoN6ly-eeq8SykII
-
-#EXTINF:-1 tvg-name="Day 3   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Fancode",Day 3   Main Feed
-https://bd-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/1080p.m3u8
+https://bd-mc-fblive.fancode.com/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Dtm Race 1   Norisring" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="Fancode",Dtm Race 1   Norisring
 https://bd-mc-fblive.fancode.com/mumbai/143623_english_hls_4d6448ffec97837_1ta-di_h264/1080p5.m3u8
 
+#EXTINF:-1 tvg-name="Day 3   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Fancode",Day 3   Main Feed
+https://bd-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg" group-title="Fancode",Sprint Race
+https://bd-mc-fblive.fancode.com/mumbai/139636_english_hls_1a50687fa267713_1ta-di_h264/1080p5.m3u8
+
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143580_6147_PGA_LOC_fc-web.jpg" group-title="Fancode",Day 3
+https://bd-mc-fblive.fancode.com/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Adac Gt Race 1   Norisring" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="Fancode",Adac Gt Race 1   Norisring
+https://bd-mc-flive.fancode.com/mumbai/143620_english_hls_017771f64f82845_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783256284~_GO=Generated~acl=/mumbai/143620_english_hls_017771f64f82845_1ta-di_h264/*~Signature=Ac2BFekokDfMCwPrSm6dYAktqeu2jfb-OPFvSvh06v0tjzwn9jkfP9v5KjCoWKtP1uIcHltQaumfldxQcuURyw78IEcJ
+
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode",Sri Lanka Vs West Indies
-https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783252268~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFelw6YLCFhoOZizHt7bgUtQXuFyhZFcMC7uYsmpbWBAVb2tT9BClJKasFBNyITw64JLHOE5sEcESZVXOE9A_DpwO
+https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783257971~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFenq5bnPCVSN4copurzHcZjNYtlsqOg_uN8IrwLNB2unOJoNTZQjFwwh9cY_N5vdNbzX6zqVoObF9Xb9CLPRoooB
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:10 PM 04-07-2026
+# Last Update: 07:50 PM 04-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17829793141020x576.jpg" group-title="Fancode", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14748" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828112541020x576.jpg" group-title="Fancode", Gentlemen's & Ladies' Singles Third Round | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14822" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830763731020x576.jpg" group-title="Fancode", Valorant Day 3 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14823" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830764271020x576.jpg" group-title="Fancode", Valorant Day 3 - Feed 2 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14848" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17831549321020x576.jpg" group-title="Fancode", Qualifying Race - Le Castellet, France Live | Kumho FIA TCR World Tour Euro Series 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-14797" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17828358071020x576.jpg" group-title="Fancode", England vs India | India Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1783173919~acl=/hls/*~hmac=98b7e9f12f3879b83c5ed3ed12ba4efbefb5f41c3cc30082985d586ed55ed26b
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:00:39 PM 04-07-2026
+# last_update: 07:45:22 PM 04-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090535808" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289927122701_DP_World_Tour_BMW_International_Open_day3_24jun_landscape_thumb.jpg" group-title="Fancode", DP World Tour | BMW International Open - Day 3 - 04 Jul 2026
 https://dai.google.com/ssai/event/4P-rGs2vR-aJ-_6DOl9ldQ/master.m3u8
