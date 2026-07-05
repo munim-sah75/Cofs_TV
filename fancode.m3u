@@ -2,38 +2,42 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 05:30:52 PM 05-07-2026 (BD Time)
+# 🕒 Last Updated: 06:30:51 PM 05-07-2026 (BD Time)
 # 📺 Live Matches (IN): 6
 #=================================
 
-#EXTINF:-1 tvg-name="Mysore Warriors Vs Kalyani Bengaluru Blasters" tvg-logo="https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png" group-title="Fancode",Mysore Warriors Vs Kalyani Bengaluru Blasters
-https://bd-mc-fblive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Mysore Warriors Vs Kalyani Bengaluru Blasters" tvg-logo="https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png" group-title="Fancode",Mysore Warriors Vs Kalyani Bengaluru Blasters
-https://bd-mc-fblive.fancode.com/mumbai/143439_kannada_hls_c50f7ff5d899679_1ta-di_h264/1080p.m3u8
-
 #EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Amo Sharks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg" group-title="Fancode",Speen Ghar Tigers Vs Amo Sharks
 https://bd-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783329542~_GO=Generated~acl=/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/*~Signature=Ac2BFelOgtNjP8f6WcMlHs8uqjw5IoOItYWvsDJXjCoGKmoduH4_-4G3zz9zuUOuEKwMld-B9Pl5qOEWBHF-OE7zHBYI
-
-#EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg" group-title="Fancode",Feature Race
-https://bd-mc-flive.fancode.com/mumbai/139637_english_hls_621e1ad75e48566_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783332307~_GO=Generated~acl=/mumbai/139637_english_hls_621e1ad75e48566_1ta-di_h264/*~Signature=Ac2BFekt_3zy96xLwpTgTt7UFl0CXFxXq2VkQU2MDYgDgKCAU_DdsWxTac98jmBszELU1aOsQ99NYCzfSehjpVMLGjgP
 
 #EXTINF:-1 tvg-name="Dtm Race 2   Norisring" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="Fancode",Dtm Race 2   Norisring
 https://bd-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/1080p5.m3u8
 
 #EXTINF:-1 tvg-name="Day 4   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Fancode",Day 4   Main Feed
 https://bd-mc-fblive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Fancode", Race | F1 PIRELLI BRITISH GRAND PRIX 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d51dfc5f4de4770a888eb6a257ba8fa:108c67f9a787fcfbe36e05487621ccf2
+https://bd-mc-flive.fancode.com/mumbai/139466_english_dash_85733_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Fancode", Race | F1 PIRELLI BRITISH GRAND PRIX 2026 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9658e3a89ebc439c8a8141c6c6ca1769:c9e7441bce5fa4a3ce3643524550d887
+https://bd-mc-flive.fancode.com/mumbai/139466_hindi_dash_39642_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Fancode", Race | F1 PIRELLI BRITISH GRAND PRIX 2026 (TAMIL) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6899f7649544805b080acdbea19cebf:63e53d263f8b763ba01a2719939095ba
+https://bd-mc-flive.fancode.com/mumbai/139466_tamil_dash_5813_1drmta-di_h264/index.mpd
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:50 PM 05-07-2026
+# Last Update: 06:50 PM 05-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14749" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17831576441020x576.jpg" group-title="Fancode", Gentlemen's & Ladies' Singles Fourth Round (Round of 16) | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14854" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17831564291020x576.jpg" group-title="Fancode", Round 6 - Le Castellet (FRA) Live | Kumho FIA TCR World Tour Euro Series 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14824" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830769521020x576.jpg" group-title="Fancode", Valorant Day 4 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14825" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830770201020x576.jpg" group-title="Fancode", Valorant Day 4 - Feed 2 | Esports World Cup 2026 (EWC)
@@ -42,7 +46,7 @@ https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:45:21 PM 05-07-2026
+# last_update: 06:45:22 PM 05-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090535929" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289934988701_DP_World_Tour_BMW_International_Open_day4_24jun_landscape_thumb.jpg" group-title="Fancode", DP World Tour | BMW International Open - Day 4 - 5 Jul 2026
 https://dai.google.com/ssai/event/ga95v7YpR9uILztaMnCF5w/master.m3u8
