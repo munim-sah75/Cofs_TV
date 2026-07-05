@@ -2,18 +2,33 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:30:51 PM 05-07-2026 (BD Time)
-# 📺 Live Matches (IN): 6
+# 🕒 Last Updated: 08:30:57 PM 05-07-2026 (BD Time)
+# 📺 Live Matches (IN): 11
 #=================================
 
-#EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Amo Sharks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg" group-title="Fancode",Speen Ghar Tigers Vs Amo Sharks
-https://bd-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783329542~_GO=Generated~acl=/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/*~Signature=Ac2BFelOgtNjP8f6WcMlHs8uqjw5IoOItYWvsDJXjCoGKmoduH4_-4G3zz9zuUOuEKwMld-B9Pl5qOEWBHF-OE7zHBYI
+#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode",Sri Lanka Vs West Indies
+https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783344602~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFenx8w5eidFF-FOORh9GtSzvQ7IW0e0DW_SvHJJ9yJh-EGFYJ3om2yp_iLIv1hVYPXmbI-boDsIP2zsohAhQYA8P
 
-#EXTINF:-1 tvg-name="Dtm Race 2   Norisring" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="Fancode",Dtm Race 2   Norisring
-https://bd-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/1080p5.m3u8
+#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png" group-title="Fancode",Shivamogga Yodhas Vs Hubli Tigers
+https://bd-mc-fblive.fancode.com/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png" group-title="Fancode",Shivamogga Yodhas Vs Hubli Tigers
+https://bd-mc-fblive.fancode.com/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Day 4   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Fancode",Day 4   Main Feed
 https://bd-mc-fblive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="Fancode",Day 4
+https://bd-mc-fblive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143581_6147_PGA_LOC_fc-web.jpg" group-title="Fancode",Day 4
+https://bd-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Adac Gt Race 2   Norisring" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="Fancode",Adac Gt Race 2   Norisring
+https://bd-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/1080p5.m3u8
+
+#EXTINF:-1 tvg-name="F1 Kids 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="Fancode",F1 Kids 2026
+https://bd-mc-fblive.fancode.com/mumbai/143675_english_hls_363cacff8938439_1ta-di_h264/1080p5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Fancode", Race | F1 PIRELLI BRITISH GRAND PRIX 2026 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -31,22 +46,25 @@ https://bd-mc-flive.fancode.com/mumbai/139466_hindi_dash_39642_1drmta-di_h264/in
 https://bd-mc-flive.fancode.com/mumbai/139466_tamil_dash_5813_1drmta-di_h264/index.mpd
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:50 PM 05-07-2026
+# Last Update: 08:40 PM 05-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-13963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17829793141020x576.jpg" group-title="Fancode", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14749" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17831576441020x576.jpg" group-title="Fancode", Gentlemen's & Ladies' Singles Fourth Round (Round of 16) | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14824" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830769521020x576.jpg" group-title="Fancode", Valorant Day 4 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14825" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830770201020x576.jpg" group-title="Fancode", Valorant Day 4 - Feed 2 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14842" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17831558691020x576.jpg" group-title="Fancode", Race Day - Ramsey - Isle of Man Live | World Downhill Skateboarding Championship (WDSC) 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-14860" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17831570381020x576.jpg" group-title="Fancode", Round 7  Le Castellet (FRA) Live | Kumho FIA TCR World Tour Euro Series 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:45:22 PM 05-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090535929" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289934988701_DP_World_Tour_BMW_International_Open_day4_24jun_landscape_thumb.jpg" group-title="Fancode", DP World Tour | BMW International Open - Day 4 - 5 Jul 2026
-https://dai.google.com/ssai/event/ga95v7YpR9uILztaMnCF5w/master.m3u8
+# last_update: 08:30:37 PM 05-07-2026
