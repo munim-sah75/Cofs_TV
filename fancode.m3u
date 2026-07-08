@@ -2,33 +2,23 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:00:51 PM 08-07-2026 (BD Time)
-# 📺 Live Matches (IN): 5
+# 🕒 Last Updated: 12:01:00 AM 09-07-2026 (BD Time)
+# 📺 Live Matches (IN): 0
 #=================================
 
-#EXTINF:-1 tvg-name="Norway Vs Hungary" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Norway Vs Hungary
-https://bd-mc-flive.fancode.com/mumbai/4246560_english_hls_bd477ef13b64791_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783603565~_GO=Generated~acl=/mumbai/4246560_english_hls_bd477ef13b64791_1ta-di_h264/*~Signature=AfBeBzhI7wzCDCZX6Y6JmgqbwspgkSMJ4Uq-uVGGdSiah2V450EDzmBdjLEsldDFDPxQvXvdo8hlagTxMH48bgmLjHYM
+# No Live Match Available
 
-#EXTINF:-1 tvg-name="Romania Vs Serbia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Romania Vs Serbia
-https://bd-mc-flive.fancode.com/mumbai/4246562_english_hls_291d0bf0f582108_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783603567~_GO=Generated~acl=/mumbai/4246562_english_hls_291d0bf0f582108_1ta-di_h264/*~Signature=AfBeBzhfs49p-JgdWTwE2QTvp_e3y_5M-DXItN1423MVtJrtsOKkatxmLc555RUTm6ckTs4D1xMlJPBzYZKxa9rHpB0J
-
-#EXTINF:-1 tvg-name="Namibia Vs Vidarbha" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143631_6150_NAM_VID_fc-web.jpg" group-title="Fancode",Namibia Vs Vidarbha
-https://bd-mc-flive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783611006~_GO=Generated~acl=/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/*~Signature=AfBeBzgJAk7LEPjO7QO_NxH4WsMDMNG-OhPyAT7CE2RSWpAdzGn6iDxSY2K_lIcX9ZpHBU1UyyIHiwrOC4ZuxxHwXj4D
-
-#EXTINF:-1 tvg-name="Coastal Kings Mangaluru Vs Gulbarga Mystics" tvg-logo="https://images.fancode.com/aig/match/v1781841438710/143444_CASACARDS_SPORTY_APP.png" group-title="Fancode",Coastal Kings Mangaluru Vs Gulbarga Mystics
-https://bd-mc-flive.fancode.com/mumbai/143444_english_hls_7a926fed8277948_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783603568~_GO=Generated~acl=/mumbai/143444_english_hls_7a926fed8277948_1ta-di_h264/*~Signature=AfBeBzilEyIofgWKrkI3nPatHL74MKMfcybr_oau1sF3jYxAD9ybQ4qWrd-MBUKH3EXLlO_6H90caBQEDLNWfsWdaI0D
-
-#EXTINF:-1 tvg-name="Coastal Kings Mangaluru Vs Gulbarga Mystics" tvg-logo="https://images.fancode.com/aig/match/v1781841438710/143444_CASACARDS_SPORTY_APP.png" group-title="Fancode",Coastal Kings Mangaluru Vs Gulbarga Mystics
-https://bd-mc-flive.fancode.com/mumbai/143444_kannada_hls_53cce8409190702_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783603569~_GO=Generated~acl=/mumbai/143444_kannada_hls_53cce8409190702_1ta-di_h264/*~Signature=AfBeBziAMRnoVvzRvFp-vG4S0I9BODQ7dW3I1ZJuZXUzNiGiEnuWJH6DHsYkSJ29gHWeWlWL10CTs38AA77Z4VN2eOoJ
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:40 PM 08-07-2026
+# Last Update: 12:00 AM 09-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14752" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833445391020x576.jpg" group-title="Fancode", Gentlemen's & Ladies' Singles Quarter-Finals | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13461" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833325261020x576.jpg" group-title="Fancode", Surrey vs Warwickshire Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14891" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17834928611020x576.jpg" group-title="Fancode", Dota 2 - Day 2 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14892" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17834929061020x576.jpg" group-title="Fancode", Dota 2 - Day 2 - Feed 2 | Esports World Cup 2026 (EWC)
@@ -39,4 +29,7 @@ https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:30:54 PM 08-07-2026
+# last_update: 12:00:54 AM 09-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090535831" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020392/1783439510941166_VB26_mens_surrey_vs_sussex_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Surrey vs Sussex - 8 Jul 2026
+https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8
