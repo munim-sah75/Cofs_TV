@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:00:51 AM 09-07-2026 (BD Time)
+# 🕒 Last Updated: 02:00:50 AM 09-07-2026 (BD Time)
 # 📺 Live Matches (IN): 0
 #=================================
 
@@ -10,26 +10,17 @@
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:40 AM 09-07-2026
+# Last Update: 02:40 AM 09-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13461" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833325261020x576.jpg" group-title="Fancode", Surrey vs Warwickshire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14891" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17834928611020x576.jpg" group-title="Fancode", Dota 2 - Day 2 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14892" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17834929061020x576.jpg" group-title="Fancode", Dota 2 - Day 2 - Feed 2 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14893" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17834929531020x576.jpg" group-title="Fancode", Dota 2 - Day 2 - Feed 3 | Esports World Cup 2026 (EWC)
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835146931020x576.jpg" group-title="Fancode", Welcome to EWC - Opening Ceremony | Esports World Cup 2026 (EWC)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:45:25 AM 09-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090535831" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020392/1783439510941166_VB26_mens_surrey_vs_sussex_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Surrey vs Sussex - 8 Jul 2026
-https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8
+# last_update: 02:45:23 AM 09-07-2026
