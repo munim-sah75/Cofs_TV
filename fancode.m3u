@@ -2,18 +2,18 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 05:01:02 PM 09-07-2026 (BD Time)
+# 🕒 Last Updated: 08:00:53 PM 09-07-2026 (BD Time)
 # 📺 Live Matches (IN): 2
 #=================================
 
 #EXTINF:-1 tvg-name="Zimbabwe Vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png" group-title="Fancode",Zimbabwe Vs Bangladesh
-https://bd-mc-flive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783667106~_GO=Generated~acl=/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/*~Signature=AfBeBzjkCOopmmE-ON9xqd_cMwSeWwcQNRgATvLTOSXYVOe2bPcZs8dyTZ72wk-nJWyHG0EDhSWtNDCeGZc-29T8wOUC
+https://bd-mc-fblive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Denmark Vs Turkiye" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Denmark Vs Turkiye
-https://bd-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783671546~_GO=Generated~acl=/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/*~Signature=AfBeBzhTjVK599ZtTchqWOgejrwAgdoEwyVuErsPxVhjIyd_GeDndfE7-irK56kmzJ9S40Q_vY7o0Bd3Phh9tpFIq6oP
+#EXTINF:-1 tvg-name="Estonia Vs Norway" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Estonia Vs Norway
+https://bd-mc-flive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783691465~_GO=Generated~acl=/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/*~Signature=AfBeBzj2-Hvjw6c3pxNdPQlwFxEuU8YhYxBZWjU1faeUeQiJQUtOdpIoFGmj_7nHjg-1uO0kFCDJqkCAEYfvgdaj9qoG
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:40 PM 09-07-2026
+# Last Update: 08:00 PM 09-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -22,12 +22,12 @@ https://bd-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-d
 https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14753" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835079871020x576.jpg" group-title="Fancode", Ladies' Singles Semi-Finals & Mixed Doubles Final | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835058111020x576.jpg" group-title="Fancode", Dota 2 - Day 3 - Feed 3 | Esports World Cup 2026 (EWC)
+https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14894" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835056711020x576.jpg" group-title="Fancode", Dota 2 - Day 3 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14895" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835057671020x576.jpg" group-title="Fancode", Dota 2 - Day 3 - Feed 2 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835058111020x576.jpg" group-title="Fancode", Dota 2 - Day 3 - Feed 3 | Esports World Cup 2026 (EWC)
-https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14828" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835060441020x576.jpg" group-title="Fancode", Valorant Day 7 | Esports World Cup 2026 (EWC)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14924" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835052321020x576.jpg" group-title="Fancode", Cycling Day 2 - Bad Kleinkirchheim Live | LIDL Tour of Austria 75 - 2026
@@ -36,7 +36,7 @@ https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:30:51 PM 09-07-2026
+# last_update: 08:00:41 PM 09-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090535930" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290184826701_DP_World_Tour_GENESIS_SCOTTISH_Open_day1_24jun_landscape_thumb.jpg" group-title="Fancode", DP World Tour | Genesis Scottish Open - Day 1 - 9 Jul 2026
 https://dai.google.com/ssai/event/-pNO-1jJQgyC8D0d9nzsxw/master.m3u8
