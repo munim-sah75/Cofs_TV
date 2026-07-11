@@ -2,22 +2,26 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 09:00:33 AM 11-07-2026 (BD Time)
-# 📺 Live Matches (IN): 0
+# 🕒 Last Updated: 11:00:35 AM 11-07-2026 (BD Time)
+# 📺 Live Matches (IN): 2
 #=================================
 
-# No Live Match Available
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="Fancode",Day 4
+https://bd-mc-flive.fancode.com/mumbai/4246602_english_hls_c17432c8e177332_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783826342~_GO=Generated~acl=/mumbai/4246602_english_hls_c17432c8e177332_1ta-di_h264/*~Signature=AfBeBzhu_inkaGbIIsU9ayneqvVINtdO3aHo4yCYzJ4cGgzIJqd3Bt2QR8rLj4dRCMCClLRqBzdGugUxubh66fCsCIQJ
 
+#EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Amo Sharks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143598_6148_SG_AM_fc-web_1782725011587.jpg" group-title="Fancode",Speen Ghar Tigers Vs Amo Sharks
+https://bd-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/1080p.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 AM 11-07-2026
+# Last Update: 11:50 AM 11-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15011" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836853561020x576.jpg" group-title="Fancode", Individual Race - Stage 1 - Xining Circuit Live | Tour of Magnificent Qinghai 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:30:40 AM 11-07-2026
+# last_update: 11:45:23 AM 11-07-2026
