@@ -2,34 +2,25 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 09:00:19 PM 11-07-2026 (BD Time)
-# 📺 Live Matches (IN): 2
+# 🕒 Last Updated: 10:00:20 PM 11-07-2026 (BD Time)
+# 📺 Live Matches (IN): 1
 #=================================
-
-#EXTINF:-1 tvg-name="Zimbabwe Vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png" group-title="Fancode",Zimbabwe Vs Bangladesh
-https://bd-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg" group-title="Fancode",Day 2
 https://bd-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/1080p5.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 PM 11-07-2026
+# Last Update: 10:00 PM 11-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14776" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835852121020x576.jpg" group-title="Fancode", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14800" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835780441020x576.jpg" group-title="Fancode", England vs India | India Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836810641020x576.jpg" group-title="Fancode", Qualifying Race - Vila Real (POR) Live | Kumho FIA TCR World Tour Euro Series 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14755" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836888691020x576.jpg" group-title="Fancode", Ladies' Singles Final & Gentlemen's Doubles Final | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836691081020x576.jpg" group-title="Fancode", Dota 2 - Day 5 - Feed 1 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14901" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836691531020x576.jpg" group-title="Fancode", Dota 2 - Day 5 - Feed 2 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14830" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836685761020x576.jpg" group-title="Fancode", Valorant Day 9 | Esports World Cup 2026 (EWC)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14936" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836735211020x576.jpg" group-title="Fancode", Cycling Day 4 - Steyr Live | LIDL Tour of Austria 75 - 2026
@@ -38,7 +29,7 @@ https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:00:51 PM 11-07-2026
+# last_update: 10:00:52 PM 11-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536424" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630262250637_Eng_W_vs_Ind_W_2026_one_off_test_day2_landscape_thumb.jpg" group-title="Fancode", India Women's Tour of England 2026 | Day 2 - One-Off Test - 11 Jul 2026
 https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
