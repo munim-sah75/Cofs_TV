@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 05:00:21 PM 11-07-2026 (BD Time)
-# 📺 Live Matches (IN): 5
+# 🕒 Last Updated: 06:00:19 PM 11-07-2026 (BD Time)
+# 📺 Live Matches (IN): 6
 #=================================
 
 #EXTINF:-1 tvg-name="Zimbabwe Vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png" group-title="Fancode",Zimbabwe Vs Bangladesh
@@ -20,9 +20,12 @@ https://bd-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-d
 
 #EXTINF:-1 tvg-name="Bost Defenders Vs Mis E Ainak Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143599_6148_BOS_MAK_fc-web_1782725011567.jpg" group-title="Fancode",Bost Defenders Vs Mis E Ainak Knights
 https://bd-mc-flive.fancode.com/mumbai/143599_english_hls_2b072631a123245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783847942~_GO=Generated~acl=/mumbai/143599_english_hls_2b072631a123245_1ta-di_h264/*~Signature=AfBeBzha9pCi8glhR5Kftssy4IIuP4gN5_nuyb-ufjpwtQuEfImh46D1kLjrc17B0yS2OPNmnHF30qDvjXRZHUqix2wI
+
+#EXTINF:-1 tvg-name="Adac Gt Master Race 1   Nurburgring" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png" group-title="Fancode",Adac Gt Master Race 1   Nurburgring
+https://bd-mc-fblive.fancode.com/mumbai/143693_english_hls_a9a9e428fe96137_1ta-di_h264/1080p5.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 PM 11-07-2026
+# Last Update: 06:30 PM 11-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -37,14 +40,16 @@ https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14830" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836685761020x576.jpg" group-title="Fancode", Valorant Day 9 | Esports World Cup 2026 (EWC)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14936" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836735211020x576.jpg" group-title="Fancode", Cycling Day 4 - Steyr Live | LIDL Tour of Austria 75 - 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:30:44 PM 11-07-2026
+# last_update: 06:30:46 PM 11-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536424" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630262250637_Eng_W_vs_Ind_W_2026_one_off_test_day2_landscape_thumb.jpg" group-title="Fancode", India Women's Tour of England 2026 | Day 2 - One-Off Test - 11 Jul 2026
 https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090536420" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688436687820_ArcheryWC26_MADRID_OPEN_stage4_Compound_Team_finals_landscape_thumb.jpg" group-title="Fancode", Hyundai Archery World Cup Stage 4 | Compound Team Finals - 11 Jul 2026
+#EXTINF:-1 tvg-id="sonyliv-1090536420" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688409738820_ArcheryWC26_MADRID_OPEN_stage4_Compound_mixed_Team_landscape_thumb.jpg" group-title="Fancode", Hyundai Archery World Cup Stage 4 | Compound Mixed Team & Individual Finals - 11 Jul 2026
 https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
