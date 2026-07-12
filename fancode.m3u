@@ -2,20 +2,23 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:00:20 AM 12-07-2026 (BD Time)
-# 📺 Live Matches (IN): 1
+# 🕒 Last Updated: 01:00:25 PM 12-07-2026 (BD Time)
+# 📺 Live Matches (IN): 2
 #=================================
 
-#EXTINF:-1 tvg-name="Day 5" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="Fancode",Day 5
-https://bd-mc-flive.fancode.com/mumbai/4246603_english_hls_76760988db10479_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783912743~_GO=Generated~acl=/mumbai/4246603_english_hls_76760988db10479_1ta-di_h264/*~Signature=AfBeBzjJWtJeFgAOpCZgqruP7Qp49p_omCtIk2RKJnVxZxn71WxQenHU3W0IMz4Yed4b_iAznNpTh7LCzqXSsDAa0rMG
+#EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Mis E Ainak Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143600_6148_MAK_SG_fc-web_1782725012164.jpg" group-title="Fancode",Speen Ghar Tigers Vs Mis E Ainak Knights
+https://bd-mc-flive.fancode.com/mumbai/143600_english_hls_73f1f8258776109_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783916342~_GO=Generated~acl=/mumbai/143600_english_hls_73f1f8258776109_1ta-di_h264/*~Signature=AfBeBzjzgrSxuUa2WTUn0Ffz3XZFTCqHE2xifKt_JRyOiUaF0ZWwIUiXklN8k5XsZMlf0l_U2G7LzanetvqDTmUA1gMJ
+
+#EXTINF:-1 tvg-name="Race Day" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg" group-title="Fancode",Race Day
+https://bd-mc-fblive.fancode.com/mumbai/139959_english_hls_ff0bbf362442822_1ta-di_h264/1080p5.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:30 AM 12-07-2026
+# Last Update: 01:00 PM 12-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-14999" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17838084501020x576.jpg" group-title="Fancode", GTWCA Race 2 Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-14993" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836832411020x576.jpg" group-title="Fancode", Japan Cup Race 2 | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15017" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836864841020x576.jpg" group-title="Fancode", Individual Race - Stage 2 - Huangyuan - Menyuan Live | Tour of Magnificent Qinghai 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
@@ -23,4 +26,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:30:43 AM 12-07-2026
+# last_update: 01:00:49 PM 12-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536448" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290170644701_DP_World_Tour_GENESIS_SCOTTISH_Open_day3_24jun_landscape_thumb.jpg" group-title="Fancode", DP World Tour | Genesis Scottish Open - Day 3 - 12 Jul 2026
+https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
