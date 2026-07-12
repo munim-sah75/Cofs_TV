@@ -2,32 +2,24 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 11:00:58 PM 12-07-2026 (BD Time)
-# 📺 Live Matches (IN): 4
+# 🕒 Last Updated: 12:00:57 AM 13-07-2026 (BD Time)
+# 📺 Live Matches (IN): 2
 #=================================
 
-#EXTINF:-1 tvg-name="Gibraltar Vs Serbia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Gibraltar Vs Serbia
-https://bd-mc-fblive.fancode.com/mumbai/4246574_english_hls_b7547ab9e227143_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Hungary Vs Turkiye" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Hungary Vs Turkiye
-https://bd-mc-fblive.fancode.com/mumbai/4246575_english_hls_86789841a782595_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143418_6134_KBB_SY_FC-WEB_1782272593035.jpg" group-title="Fancode",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas
+https://bd-mc-flive.fancode.com/mumbai/143448_english_hls_fd9231845c10462_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783963570~_GO=Generated~acl=/mumbai/143448_english_hls_fd9231845c10462_1ta-di_h264/*~Signature=AfBeBzgFcU1z7rSa_stRGBWvBQ9I18xpNwDm5tlNUYDweMT7SxUoRbG-nPrFt1_DCFmkDCp926bJseG_M-3sV9KD80YN
 
 #EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143418_6134_KBB_SY_FC-WEB_1782272593035.jpg" group-title="Fancode",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas
-https://bd-mc-fblive.fancode.com/mumbai/143448_english_hls_fd9231845c10462_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143418_6134_KBB_SY_FC-WEB_1782272593035.jpg" group-title="Fancode",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas
-https://bd-mc-fblive.fancode.com/mumbai/143448_kannada_hls_ef6cda7e1f9624_1ta-di_h264/1080p.m3u8
+https://bd-mc-flive.fancode.com/mumbai/143448_kannada_hls_ef6cda7e1f9624_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783963571~_GO=Generated~acl=/mumbai/143448_kannada_hls_ef6cda7e1f9624_1ta-di_h264/*~Signature=AfBeBzgFDU2eXJPpuQKUv0k88oypBsaCvKW-tvvQKpYAvIiKceINoez0uo1sX3HDfDSDaqlSlQDqJATlNT_HZrJ7yMwC
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:10 PM 12-07-2026
+# Last Update: 12:00 AM 13-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14756" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836889241020x576.jpg" group-title="Fancode", Gentlemen's Singles Final & Ladies' Doubles Final | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14975" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17838235981020.jpg" group-title="Fancode", Round 9 Race - Vila Real (POR) | Kumho FIA TCR World Tour Euro Series 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13464" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836885041020x576.jpg" group-title="Fancode", Somerset vs Worcestershire Live | Vitality Blast Men 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14831" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836895121020x576.jpg" group-title="Fancode", Valorant Day 10 | Esports World Cup 2026 (EWC)
@@ -36,10 +28,10 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:00:46 PM 12-07-2026
+# last_update: 12:00:48 AM 13-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536447" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630240589637_Eng_W_vs_Ind_W_2026_one_off_test_day3_landscape_thumb.jpg" group-title="Fancode", India Women's Tour of England 2026 | Day 3 - One-Off Test - 12 Jul 2026
-https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090536489" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020475/1783706034559219_VitalityBlast26_Mens_Somerset_vs_Worcestershire_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Somerset vs Worcestershire - 12 Jul 2026
+https://dai.google.com/ssai/event/4P-rGs2vR-aJ-_6DOl9ldQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090536448" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290162466701_DP_World_Tour_GENESIS_SCOTTISH_Open_day4_24jun_landscape_thumb.jpg" group-title="Fancode", DP World Tour | Genesis Scottish Open - Day 4 - 12 Jul 2026
 https://dai.google.com/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8
