@@ -2,31 +2,38 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:00:25 PM 12-07-2026 (BD Time)
-# 📺 Live Matches (IN): 2
+# 🕒 Last Updated: 03:00:24 PM 12-07-2026 (BD Time)
+# 📺 Live Matches (IN): 3
 #=================================
 
-#EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Mis E Ainak Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143600_6148_MAK_SG_fc-web_1782725012164.jpg" group-title="Fancode",Speen Ghar Tigers Vs Mis E Ainak Knights
-https://bd-mc-flive.fancode.com/mumbai/143600_english_hls_73f1f8258776109_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783916342~_GO=Generated~acl=/mumbai/143600_english_hls_73f1f8258776109_1ta-di_h264/*~Signature=AfBeBzjzgrSxuUa2WTUn0Ffz3XZFTCqHE2xifKt_JRyOiUaF0ZWwIUiXklN8k5XsZMlf0l_U2G7LzanetvqDTmUA1gMJ
+#EXTINF:-1 tvg-name="Denmark Vs Norway" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Denmark Vs Norway
+https://bd-mc-fblive.fancode.com/mumbai/4246564_english_hls_f13b9ce7c52853_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Belgium Vs Romania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Belgium Vs Romania
+https://bd-mc-fblive.fancode.com/mumbai/4246572_english_hls_d0e7f1832947483_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Race Day" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg" group-title="Fancode",Race Day
 https://bd-mc-fblive.fancode.com/mumbai/139959_english_hls_ff0bbf362442822_1ta-di_h264/1080p5.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 PM 12-07-2026
+# Last Update: 03:10 PM 12-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14993" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836832411020x576.jpg" group-title="Fancode", Japan Cup Race 2 | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15017" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836864841020x576.jpg" group-title="Fancode", Individual Race - Stage 2 - Huangyuan - Menyuan Live | Tour of Magnificent Qinghai 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14905" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836913431020x576.jpg" group-title="Fancode", Dota 2 - Day 6 - Feed 3 | Esports World Cup 2026 (EWC)
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14904" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836913011020x576.jpg" group-title="Fancode", Dota 2 - Day 6 - Feed 2 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14903" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836912571020x576.jpg" group-title="Fancode", Dota 2 - Day 6 - Feed 1 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:00:49 PM 12-07-2026
+# last_update: 03:00:49 PM 12-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536448" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290170644701_DP_World_Tour_GENESIS_SCOTTISH_Open_day3_24jun_landscape_thumb.jpg" group-title="Fancode", DP World Tour | Genesis Scottish Open - Day 3 - 12 Jul 2026
-https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090536442" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688452604820_ArcheryWC26_MADRID_OPEN_stage4_Recurve_Team_finals_landscape_thumb.jpg" group-title="Fancode", Hyundai Archery World Cup Stage 4 | Recurve Team Finals - 12 Jul 2026
+https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8
