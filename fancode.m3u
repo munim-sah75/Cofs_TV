@@ -2,12 +2,9 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:00:57 PM 12-07-2026 (BD Time)
-# 📺 Live Matches (IN): 5
+# 🕒 Last Updated: 11:00:58 PM 12-07-2026 (BD Time)
+# 📺 Live Matches (IN): 4
 #=================================
-
-#EXTINF:-1 tvg-name="Ireland Women Vs West Indies Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png" group-title="Fancode",Ireland Women Vs West Indies Women
-https://bd-mc-fblive.fancode.com/mumbai/143144_english_hls_51d512ae5181283_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Gibraltar Vs Serbia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Gibraltar Vs Serbia
 https://bd-mc-fblive.fancode.com/mumbai/4246574_english_hls_b7547ab9e227143_1ta-di_h264/1080p.m3u8
@@ -22,7 +19,7 @@ https://bd-mc-fblive.fancode.com/mumbai/143448_english_hls_fd9231845c10462_1ta-d
 https://bd-mc-fblive.fancode.com/mumbai/143448_kannada_hls_ef6cda7e1f9624_1ta-di_h264/1080p.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:10 PM 12-07-2026
+# Last Update: 11:10 PM 12-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -31,17 +28,15 @@ https://bd-mc-fblive.fancode.com/mumbai/143448_kannada_hls_ef6cda7e1f9624_1ta-di
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14975" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17838235981020.jpg" group-title="Fancode", Round 9 Race - Vila Real (POR) | Kumho FIA TCR World Tour Euro Series 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14904" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836913011020x576.jpg" group-title="Fancode", Dota 2 - Day 6 - Feed 2 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14903" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836912571020x576.jpg" group-title="Fancode", Dota 2 - Day 6 - Feed 1 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13464" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836885041020x576.jpg" group-title="Fancode", Somerset vs Worcestershire Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14831" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836895121020x576.jpg" group-title="Fancode", Valorant Day 10 | Esports World Cup 2026 (EWC)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:00:47 PM 12-07-2026
+# last_update: 11:00:46 PM 12-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536447" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630240589637_Eng_W_vs_Ind_W_2026_one_off_test_day3_landscape_thumb.jpg" group-title="Fancode", India Women's Tour of England 2026 | Day 3 - One-Off Test - 12 Jul 2026
 https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8
