@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 03:00:35 PM 14-07-2026 (BD Time)
-# 📺 Live Matches (IN): 4
+# 🕒 Last Updated: 04:00:30 PM 14-07-2026 (BD Time)
+# 📺 Live Matches (IN): 5
 #=================================
 
 #EXTINF:-1 tvg-name="Serbia Vs Estonia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode",Serbia Vs Estonia
@@ -17,16 +17,24 @@ https://bd-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-d
 
 #EXTINF:-1 tvg-name="Day 2   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Fancode",Day 2   World Feed
 https://bd-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Mis E Ainak Knights Vs Band E Amir Dragons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg" group-title="Fancode",Mis E Ainak Knights Vs Band E Amir Dragons
+https://bd-mc-flive.fancode.com/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784107145~_GO=Generated~acl=/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/*~Signature=AfBeBzgZ6AOq1oNTeJgLpG5RJtluz1eWPrMUdGB3hgPq7oc2DxRZvw-_8x7NtRkV7FeX9iojhPWVwEIndjDbLWxljk4I
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:20 PM 14-07-2026
+# Last Update: 04:50 PM 14-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-14801" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839250151020x576.jpg" group-title="Fancode", England vs India | India Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14906" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839260941020x576.jpg" group-title="Fancode", Dota 2 - Day 7 - Feed 1 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14907" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839261461020x576.jpg" group-title="Fancode", Dota 2 - Day 7 - Feed 2 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:15:22 PM 14-07-2026
+# last_update: 04:45:25 PM 14-07-2026
