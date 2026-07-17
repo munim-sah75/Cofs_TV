@@ -2,25 +2,38 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 02:00:41 PM 17-07-2026 (BD Time)
-# 📺 Live Matches (IN): 2
+# 🕒 Last Updated: 04:00:40 PM 17-07-2026 (BD Time)
+# 📺 Live Matches (IN): 3
 #=================================
 
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="Fancode",Day 2
-https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784351945~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cWNEnU8YbbLnhWvqCrACnqJGryB1R2VjtdnI5YZEqPk8OYqwn-AhMAMYsE946SjSeZsAURtELLNPGu-tgWDkyIJ
+https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784366346~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cXuRs-DIewF74Ko9gaKQB9n-59pvUpSRw-oEzsD3eKjcEoop7GbkJcciRK5YyU--FaDuPltp5SI9OvxsqfJftsE
 
-#EXTINF:-1 tvg-name="Practice Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg" group-title="Fancode",Practice Session
-https://bd-mc-flive.fancode.com/mumbai/139729_english_hls_d6eab4e4d762581_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784361065~_GO=Generated~acl=/mumbai/139729_english_hls_d6eab4e4d762581_1ta-di_h264/*~Signature=AeRM5cU-n5oxo37MWvNQ-3EInn9Zn7yXjByJ7-zKKKFEsTioYhEZmfaboBZo9Z9XCeUBKkAiKEWXTDJCcMrRoLGc-TII
+#EXTINF:-1 tvg-name="Day 5   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Fancode",Day 5   World Feed
+https://bd-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N
+
+#EXTINF:-1 tvg-name="Day 5   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Fancode",Day 5   World Feed
+https://bd-mc-flive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784364665~_GO=Generated~acl=/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/*~Signature=AeRM5cXTi72Qth2aaRwY8RidaHBT0ZPCETyKzVAE-vHx4t_KsHW-IcU7DHmxyvgiP1K2sTr40UPTwLcJmoCxl4H_eGwP
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:10 PM 17-07-2026
+# Last Update: 04:10 PM 17-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15094" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841965001020x576.jpg" group-title="Fancode", Session 1 - Q1 - Live | E1 Series 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13469" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17840151291020x576.jpg" group-title="Fancode", Surrey Women vs The Blaze Women Live | Vitality Blast Women 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14778" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841054231020x576.jpg" group-title="Fancode", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15081" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841069611020x576.jpg" group-title="Fancode", FreeFire - Day 3 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:15:23 PM 17-07-2026
+# last_update: 04:00:39 PM 17-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536655" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111308675411_VitalityBlast26_Womens_Surrey_vs_The_Blaze_landscape_thumb.jpg" group-title="Fancode", Vitality Blast Women 2026 | Surrey Women vs The Blaze Women - 17 Jul 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
