@@ -2,37 +2,40 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:00:42 PM 17-07-2026 (BD Time)
-# 📺 Live Matches (IN): 5
+# 🕒 Last Updated: 08:00:40 PM 17-07-2026 (BD Time)
+# 📺 Live Matches (IN): 6
 #=================================
 
 #EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png" group-title="Fancode",Bangladesh Vs Zimbabwe
 https://bd-mc-flive.fancode.com/mumbai/143404_english_hls_1aad62edde47741_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784369105~_GO=Generated~acl=/mumbai/143404_english_hls_1aad62edde47741_1ta-di_h264/*~Signature=AeRM5cXBbdciWEoiExzPHiHJ3pAf7ZN4odWQhWK-XEOxGhD6tAaNNJIxguNuu5Uj3UX7NWzK-opF2TZ361L1WMpa8WgA
 
+#EXTINF:-1 tvg-name="Jaffna Kings Vs Galle Gallants" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246710_CASACARDS_SPORTY_APP.png" group-title="Fancode",Jaffna Kings Vs Galle Gallants
+https://bd-mc-flive.fancode.com/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784379905~_GO=Generated~acl=/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/*~Signature=AeRM5cXJ_SvaEM6WOtwEpDRQY-gzaG1h5nXJPRohqRj1mdXXJf-0NP5J2NzzvaI-UjzFIdIqG8HxBOYX7B9oG3eVmjsP
+
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="Fancode",Day 2
-https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784366346~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cXuRs-DIewF74Ko9gaKQB9n-59pvUpSRw-oEzsD3eKjcEoop7GbkJcciRK5YyU--FaDuPltp5SI9OvxsqfJftsE
+https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784381165~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cVIDSpNBa_ssfnuB0UY_MuvReUZQbc5Y94zFrweHLI7-OF3DoDXc0VaYGDOltWwq-kB-qxe2ni8-aE4Fja_KXcL
 
 #EXTINF:-1 tvg-name="Day 5   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Fancode",Day 5   World Feed
-https://bd-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N
+https://bd-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784377146~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cUns2zsGlo0j4uSoxHyB2BaFchOH-AMQMqh_qnkYj0pwxoOFTchrTJrbbXwMnbLQPjYIQTfxeZX4Y1lwSed0ngE
 
 #EXTINF:-1 tvg-name="Day 5   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Fancode",Day 5   World Feed
-https://bd-mc-flive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784364665~_GO=Generated~acl=/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/*~Signature=AeRM5cXTi72Qth2aaRwY8RidaHBT0ZPCETyKzVAE-vHx4t_KsHW-IcU7DHmxyvgiP1K2sTr40UPTwLcJmoCxl4H_eGwP
+https://bd-mc-flive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784379068~_GO=Generated~acl=/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/*~Signature=AeRM5cXGADoh2a_pyRLRg9PCYgPsc3Bg-qEXendHAUzGzUdobTt7kbHYS_fph3xPyHIrpJOOYzM4_-1wgRaUqGIMVdEH
 
-#EXTINF:-1 tvg-name="Practice 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Fancode",Practice 1
-https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__720p.m3u8
+#EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg" group-title="Fancode",Qualifying Session
+https://bd-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784382665~_GO=Generated~acl=/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/*~Signature=AeRM5cVDJqBAUShMYlZrVFgwZsUYblTjjnYsZMNaIzEdZ0MOYbcIv_DoLZgDfgzv0xnhyT3Svvqp1KN1hzOLwZ_hhxAD
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:40 PM 17-07-2026
+# Last Update: 08:10 PM 17-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13469" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17840151291020x576.jpg" group-title="Fancode", Surrey Women vs The Blaze Women Live | Vitality Blast Women 2026
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14778" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841054231020x576.jpg" group-title="Fancode", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15099" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842030181020x576.jpg" group-title="Fancode", Session 2 - Q2 + Q3 - Live | E1 Series 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13470" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17840152851020x576.jpg" group-title="Fancode", Hampshire Women vs Durham Women Live | Vitality Blast Women 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15081" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841069611020x576.jpg" group-title="Fancode", FreeFire - Day 3 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14911" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841068061020x576.jpg" group-title="Fancode", Dota 2 - Day 10 | Esports World Cup 2026 (EWC)
@@ -41,7 +44,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:45:24 PM 17-07-2026
+# last_update: 08:15:24 PM 17-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536655" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111308675411_VitalityBlast26_Womens_Surrey_vs_The_Blaze_landscape_thumb.jpg" group-title="Fancode", Vitality Blast Women 2026 | Surrey Women vs The Blaze Women - 17 Jul 2026
-https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090536656" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111825021411_VitalityBlast26_Womens_Hampshire_vs_Durham_landscape_thumb.jpg" group-title="Fancode", Vitality Blast Women 2026 | Hampshire Women vs Durham Women - 17 Jul 2026
+https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8
