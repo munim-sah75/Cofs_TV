@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 09:00:44 PM 17-07-2026 (BD Time)
-# 📺 Live Matches (IN): 3
+# 🕒 Last Updated: 10:00:40 PM 17-07-2026 (BD Time)
+# 📺 Live Matches (IN): 4
 #=================================
 
 #EXTINF:-1 tvg-name="Galle Gallants Vs Jaffna Kings" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246710_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Jaffna Kings
@@ -14,9 +14,12 @@ https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-d
 
 #EXTINF:-1 tvg-name="Day 5   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Fancode",Day 5   World Feed
 https://bd-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784377146~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cUns2zsGlo0j4uSoxHyB2BaFchOH-AMQMqh_qnkYj0pwxoOFTchrTJrbbXwMnbLQPjYIQTfxeZX4Y1lwSed0ngE
+
+#EXTINF:-1 tvg-name="Practice 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Fancode",Practice 2
+https://bd-mc-flive.fancode.com/mumbai/139468_english_hls_b0f123ce9b83862_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784387105~_GO=Generated~acl=/mumbai/139468_english_hls_b0f123ce9b83862_1ta-di_h264/*~Signature=AeRM5cXUJAec3T6ZXArw-LL8PryrY4bnFHxJFM9DdL5bu7q3JnlepA77gIfeBENuxuW1VwK3JB-SpSXvuiVtls1hBfEG
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:40 PM 17-07-2026
+# Last Update: 10:40 PM 17-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -29,7 +32,4 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:30:38 PM 17-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090536656" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111825021411_VitalityBlast26_Womens_Hampshire_vs_Durham_landscape_thumb.jpg" group-title="Fancode", Vitality Blast Women 2026 | Hampshire Women vs Durham Women - 17 Jul 2026
-https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8
+# last_update: 10:45:26 PM 17-07-2026
