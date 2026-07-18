@@ -2,15 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 08:00:39 PM 18-07-2026 (BD Time)
-# 📺 Live Matches (IN): 6
+# 🕒 Last Updated: 09:00:41 PM 18-07-2026 (BD Time)
+# 📺 Live Matches (IN): 4
 #=================================
 
 #EXTINF:-1 tvg-name="Colombo Kaps Vs Galle Gallants" tvg-logo="https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png" group-title="Fancode",Colombo Kaps Vs Galle Gallants
 https://bd-mc-flive.fancode.com/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784467805~_GO=Generated~acl=/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-di_h264/*~Signature=AeRM5cXrGc3sTEnfC1UpZ4-qarNMXM5BMRc-US0maRklYMEq1Ou9qkcDrp0biWQaGIN4jOvIzUgq8o3zZduCoTVyZ9kB
-
-#EXTINF:-1 tvg-name="Semi Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Fancode",Semi Finals
-https://bd-mc-flive.fancode.com/mumbai/143495_english_hls_6dc180ef1426625_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784469066~_GO=Generated~acl=/mumbai/143495_english_hls_6dc180ef1426625_1ta-di_h264/*~Signature=AeRM5cWLXOv-WAgJKUaag1IfNtG72kN3I4XGESKF-Ynk0-5hYgfUG5fNB0RzK_sskbvzY1MgiziH516h47eUiywe7CQI
 
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="Fancode",Day 3
 https://bd-mc-flive.fancode.com/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784469485~_GO=Generated~acl=/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/*~Signature=AeRM5cXZ6f8RK6v11zO0hWMSRQD5ylSVDUgMi18XkEKh4XmPcYSmhCT88Xczq0HhiQl4SI7fT4Nz6yDbJUJKi_fwyL8L
@@ -18,35 +15,26 @@ https://bd-mc-flive.fancode.com/mumbai/4246810_english_hls_e89f2284cd25454_1ta-d
 #EXTINF:-1 tvg-name="Semi Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Fancode",Semi Finals
 https://bd-mc-flive.fancode.com/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784457848~_GO=Generated~acl=/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/*~Signature=AeRM5cU397UInk9iM6np2SH4raPRHgpOfaqbaoFZAn345Ua6mURWvF2beGKhJCLy9e611Bgdstr6cHyrO1eGuovucosE
 
-#EXTINF:-1 tvg-name="Europe   Race 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Fancode",Europe   Race 1
-https://bd-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG
-
 #EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Fancode",Qualifying
 https://bd-mc-flive.fancode.com/mumbai/139470_english_hls_d2e8b7c33f30043_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784468645~_GO=Generated~acl=/mumbai/139470_english_hls_d2e8b7c33f30043_1ta-di_h264/*~Signature=AeRM5cXvBLrF1k1FqJ57Visz1CqzxHkgmAKCJGkEQ4uauGjv-5lN_U-1xfvyCfGLlibyI4TmvxI6CjaM7Ni_0m7TKLYE
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 PM 18-07-2026
+# Last Update: 09:30 PM 18-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842041231020x576.jpg" group-title="Fancode", Session 5 - Finals - Live | E1 Series 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13473" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842705161020x576.jpg" group-title="Fancode", Hampshire vs Nottinghamshire Live | Vitality Blast Men 2026
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15279" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842870061020x576.jpg" group-title="Fancode", McLaren Trophy Europe Race Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14912" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841080291020x576.jpg" group-title="Fancode", Dota 2 - Day 11 | Esports World Cup 2026 (EWC)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15082" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841081481020x576.jpg" group-title="Fancode", FreeFire - Day 4 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15273" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842747061020x576.jpg" group-title="Fancode", GT2 European Race  Live | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:10:28 PM 18-07-2026
+# last_update: 09:10:26 PM 18-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536700" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020653/1784221900280186_VB26_SF_mens_Hampshire_vs_Nottinghamshire_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Hampshire vs Nottinghamshire - Semi-final - 18 Jul 2026
 https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8
