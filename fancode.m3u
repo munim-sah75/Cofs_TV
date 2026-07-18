@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 11:00:38 PM 18-07-2026 (BD Time)
-# 📺 Live Matches (IN): 5
+# 🕒 Last Updated: 12:00:45 AM 19-07-2026 (BD Time)
+# 📺 Live Matches (IN): 4
 #=================================
 
 #EXTINF:-1 tvg-name="Colombo Kaps Vs Galle Gallants" tvg-logo="https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png" group-title="Fancode",Colombo Kaps Vs Galle Gallants
@@ -12,9 +12,6 @@ https://bd-mc-flive.fancode.com/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-d
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="Fancode",Day 3
 https://bd-mc-flive.fancode.com/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784469485~_GO=Generated~acl=/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/*~Signature=AeRM5cXZ6f8RK6v11zO0hWMSRQD5ylSVDUgMi18XkEKh4XmPcYSmhCT88Xczq0HhiQl4SI7fT4Nz6yDbJUJKi_fwyL8L
 
-#EXTINF:-1 tvg-name="Semi Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="Fancode",Semi Finals
-https://bd-mc-flive.fancode.com/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784476265~_GO=Generated~acl=/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/*~Signature=AeRM5cXB1_-ddPz8ChVv_BYRncSYX-WukV3WfzhZORQSJ7zzdfjSRcAuT-H42Mo5NhyDkI9ocy7twlJ_jBPfI1JPBDsM
-
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png" group-title="Fancode",Day 3
 https://bd-mc-flive.fancode.com/mumbai/4246625_english_hls_5ad9610a7423159_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784476267~_GO=Generated~acl=/mumbai/4246625_english_hls_5ad9610a7423159_1ta-di_h264/*~Signature=AeRM5cWz2DF4SQf0iFjYY8QlP34w5V3z4KJOpEOm2C_VW25t_L8cvY5mhvMX-G8o3PX5tBayFoMo0EO6LJ5FmIy24xwL
 
@@ -22,20 +19,20 @@ https://bd-mc-flive.fancode.com/mumbai/4246625_english_hls_5ad9610a7423159_1ta-d
 https://bd-mc-flive.fancode.com/mumbai/143502_english_hls_012bc89fe344386_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784479445~_GO=Generated~acl=/mumbai/143502_english_hls_012bc89fe344386_1ta-di_h264/*~Signature=AeRM5cWrDXYe3qBkNZRx-nj6MzzBiiU8lbGHUj_RhPFpAQi8tb_1kfIMMoaAg4tLl94jQsubcYnefI6JQhsbR7hEaUIB
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 18-07-2026
+# Last Update: 12:20 AM 19-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15285" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842875321020x576.jpg" group-title="Fancode", GT4 European Race  Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-13474" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17843953851020.jpg" group-title="Fancode", Northamptonshire vs Hampshire Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15291" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842885241020x576.jpg" group-title="Fancode", GT World Challenge Race  Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14912" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841080291020x576.jpg" group-title="Fancode", Dota 2 - Day 11 | Esports World Cup 2026 (EWC)
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:10:24 PM 18-07-2026
+# last_update: 12:10:27 AM 19-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536700" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020696/1784384900070862_VB26_final_Northamptonshire_vs_Hampshire_18jul_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Northamptonshire vs Hampshire - Final - 18 Jul 2026
 https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8
