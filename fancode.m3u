@@ -2,23 +2,39 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 02:00:44 PM 18-07-2026 (BD Time)
-# 📺 Live Matches (IN): 1
+# 🕒 Last Updated: 04:00:40 PM 18-07-2026 (BD Time)
+# 📺 Live Matches (IN): 4
 #=================================
 
-#EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg" group-title="Fancode",Sprint Race
-https://bd-mc-flive.fancode.com/mumbai/139731_english_hls_a8fdedd78d52655_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784447465~_GO=Generated~acl=/mumbai/139731_english_hls_a8fdedd78d52655_1ta-di_h264/*~Signature=AeRM5cUiGnAJs6oy2vBRoi5PvqPAxIWzfH5Ki_X8s_Z24zPoEeL5-clSrTv4BCQXt60D2NSisVpTnl7YZraYIL0AQUUJ
+#EXTINF:-1 tvg-name="Kandy Royals Vs Dambulla Sixers" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246709_CASACARDS_SPORTY_APP.png" group-title="Fancode",Kandy Royals Vs Dambulla Sixers
+https://bd-mc-flive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784451905~_GO=Generated~acl=/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/*~Signature=AeRM5cU1OSnj_bC1i2gm2msxU1Me3LvnGURD76TnsAARo9VZR8uYuApwkoP8uSEhyAZ3ZDwQxERvw-du-z2cNSiMu0AN
+
+#EXTINF:-1 tvg-name="Semi Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Fancode",Semi Finals
+https://bd-mc-flive.fancode.com/mumbai/143495_english_hls_6dc180ef1426625_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784451065~_GO=Generated~acl=/mumbai/143495_english_hls_6dc180ef1426625_1ta-di_h264/*~Signature=AeRM5cUUz6jtteJuhajm90sb840Nzwtz_-vJho6o2xFKSD1Zxq2j1ERa51HtmR8Gs-jiE4oP00Mlfr98SXI4WgC4-88C
+
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="Fancode",Day 3
+https://bd-mc-flive.fancode.com/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784451067~_GO=Generated~acl=/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/*~Signature=AeRM5cXruRX0UMO1v11k06R_iY5qlKZYzDMU0IMMgVxoHQxnCs0K3jWoVULCuWtkJw_rYu14m34G7EQAdnhgJ6SIIIQE
+
+#EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="Fancode",Qualifying Session
+https://bd-mc-flive.fancode.com/mumbai/143609_english_hls_b26d8348b214225_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784452325~_GO=Generated~acl=/mumbai/143609_english_hls_b26d8348b214225_1ta-di_h264/*~Signature=AeRM5cUb824Sf8M9S1u4RgyryZ3RG45Izbykmfq0vi9TKDxtKSjwR5dstbrJAdmgMRDB9ZEtYpP0SyfgPOlfTCcbb5sN
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:50 PM 18-07-2026
+# Last Update: 04:10 PM 18-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15104" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842034151020x576.jpg" group-title="Fancode", Session 3 - Group Races - Live | E1 Series 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15255" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842724181020x576.jpg" group-title="Fancode", GT4 European Qualifiers Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842703421020x576.jpg" group-title="Fancode", Northamptonshire vs Somerset Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:24 PM 18-07-2026
+# last_update: 04:10:23 PM 18-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536700" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020654/1784224983801454_VB26_SF_mens_Northampton_vs_Somerset_landscape_thumb.jpg" group-title="Fancode", Vitality Blast 2026 | Northamptonshire vs Somerset - Semi-final - 18 Jul 2026
+https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8
