@@ -2,22 +2,26 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 12:01:17 PM 19-07-2026 (BD Time)
-# 📺 Live Matches (IN): 1
+# 🕒 Last Updated: 02:01:14 PM 19-07-2026 (BD Time)
+# 📺 Live Matches (IN): 2
 #=================================
 
-#EXTINF:-1 tvg-name="Final" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="Fancode",Final
-https://bd-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784517546~_GO=Generated~acl=/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/*~Signature=AeRM5cW_UK4RnvQv5cq74agTGPt6JYI9WZBhn-9nzSmqC_F1wWkB8T5k4aBDa5kZeyxs-UlGL8DAGBnxqLv-h3Fe9aYM
+#EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg" group-title="Fancode",Feature Race
+https://bd-mc-flive.fancode.com/mumbai/139641_english_hls_3a854c450553550_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784533865~_GO=Generated~acl=/mumbai/139641_english_hls_3a854c450553550_1ta-di_h264/*~Signature=AeRM5cW1EBcJiGIRl1O9CmOBCvgJDnORzqEyo_RjVo0TKYHXwoSvQ21114kIUFrdrDSiY7kmW3ng1Yl60wowa1vHkGUF
+
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="Fancode",Day 4
+https://bd-mc-flive.fancode.com/mumbai/4246811_english_hls_4492dd440847598_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784533867~_GO=Generated~acl=/mumbai/4246811_english_hls_4492dd440847598_1ta-di_h264/*~Signature=AeRM5cXyB3uvClxFPa_vO2_TWli_-YD2ZmZUcEWSOxE5z-rSM_FpJ5kmObP79aypaGzDHUnJLkwy3u8RgGM9EDMEwPUF
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 PM 19-07-2026
+# Last Update: 02:30 PM 19-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15303" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842921691020x576.jpg" group-title="Fancode", GT World Challenge Qualifiers  Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:10:27 PM 19-07-2026
+# last_update: 02:10:26 PM 19-07-2026
