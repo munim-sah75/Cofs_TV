@@ -2,7 +2,7 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 01:00:44 AM 23-07-2026 (BD Time)
+# Last Updated: 02:00:41 AM 23-07-2026 (BD Time)
 # Live Matches (IN): 1
 #=================================
 
@@ -10,20 +10,17 @@
 https://bd-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:45 AM 23-07-2026
+# Last Update: 02:45 AM 23-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15184" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17846172491020x576men.jpg" group-title="Fancode", Southern Brave vs Welsh Fire | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15381" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845337251020x576.jpg" group-title="Fancode", EA Sports FC 26 - Day 1 | Esports World Cup 2026 (EWC)
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:10:29 AM 23-07-2026
+# last_update: 01:50:25 AM 23-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536938" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020742/1784623923715774_The_Hundred2026_Mens_Southern_Brave_vs_Welsh_Fire_landscape_thumb.jpg" group-title="Fancode", The Hundred 2026 | Southern Brave vs Welsh Fire - 22 Jul 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1784769033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fbe9bedda64f6706fe7796bf5a2ea42cfa952dd24b45fb9e3fe52b4d4e0ba481
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1784771429~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4359d802da4945cb99b8a161e8bd2a0804dc0eaefec5bf1236803cc0e65063ad
