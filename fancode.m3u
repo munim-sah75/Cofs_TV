@@ -2,27 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 09:00:51 PM 22-07-2026 (BD Time)
-# Live Matches (IN): 3
+# Last Updated: 11:00:39 PM 22-07-2026 (BD Time)
+# Live Matches (IN): 2
 #=================================
 
 #EXTINF:-1 tvg-name="Galle Gallants Vs Dambulla Sixers" tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Dambulla Sixers
 https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Day 3
-https://bd-mc-pdlive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="Atp 250   Millenium Estoril Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Atp 250   Millenium Estoril Open 2026
 https://bd-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 PM 22-07-2026
+# Last Update: 11:00 PM 22-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15218" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17846167211020x576women.jpg" group-title="Fancode", Southern Brave vs Welsh Fire - Women | The Hundred Women's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15381" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845337251020x576.jpg" group-title="Fancode", EA Sports FC 26 - Day 1 | Esports World Cup 2026 (EWC)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTM3U
