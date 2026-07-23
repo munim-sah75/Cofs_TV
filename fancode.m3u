@@ -2,27 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 08:00:46 PM 23-07-2026 (BD Time)
-# Live Matches (IN): 8
+# Last Updated: 10:00:43 PM 23-07-2026 (BD Time)
+# Live Matches (IN): 5
 #=================================
 
 #EXTINF:-1 tvg-name="Nepal Vs Netherlands" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246704_52990_NED_NEP_fc-App.png" group-title="Fancode",Nepal Vs Netherlands
 https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Zimbabwe Vs India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",Zimbabwe Vs India
-Unavailable
-
-#EXTINF:-1 tvg-name="Zimbabwe Vs India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",Zimbabwe Vs India
-Unavailable
 
 #EXTINF:-1 tvg-name="Galle Gallants Vs Jaffna Kings" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246716_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Jaffna Kings
 https://bd-mc-pdlive.fancode.com/mumbai/4246716_english_hls_71735fd3b99618_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Lahore Qalandars Vs Perth Scorchers Xi" tvg-logo="https://images.fancode.com/aig/match/v1784653587316/4247434_CASACARDS_SPORTY_APP.png" group-title="Fancode",Lahore Qalandars Vs Perth Scorchers Xi
 https://bd-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Day 4
-https://bd-mc-pdlive.fancode.com/mumbai/143506_english_hls_e9c5d7161439256_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Atp 250   Millenium Estoril Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Atp 250   Millenium Estoril Open 2026
 https://bd-mc-pdlive.fancode.com/mumbai/143512_english_hls_f0a7cbbf8d12306_1ta-di_h264/index.m3u8
@@ -31,26 +22,18 @@ https://bd-mc-pdlive.fancode.com/mumbai/143512_english_hls_f0a7cbbf8d12306_1ta-d
 https://bd-mc-pdlive.fancode.com/mumbai/4246798_english_hls_6a73b2985b60537_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:45 PM 23-07-2026
+# Last Update: 10:15 PM 23-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847105391020x576women.jpg" group-title="Fancode", London Spirit vs Manchester Super Giants - Women | The Hundred Women's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15382" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17846235651020x576.jpg" group-title="Fancode", EA Sports FC 26 - Day 2 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:32 PM 23-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784815688753_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Wales vs Canada - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Pre_2307/ENG/master.m3u8?hdnea=exp=1784839836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a09f8c4e9287679158b08b13c79eea5bb06c66376c7b269eff3e3a0f5ee9cd0b
-
-#EXTINF:-1 tvg-id="sonyliv-1090536973" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784657180817339_The_Hundred2026_womens_London_Spirit_vs_Manchester_Super_Giants_21jul_landscape_thumb.jpg" group-title="Fancode", The Hundred 2026 (Women's) | London Spirit vs Manchester Super Giants - 23 Jul 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784839843~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6d8663b7e00b77237ecca6b443874a97f2f1dfa3d396579e2c0d491af4bf04aa
+# last_update: 10:20:27 PM 23-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536961" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474079699996_LIV_Golf_UK_Day1_landscape_thumb.jpg" group-title="Fancode", LIV Golf | UK - Day 1 - 23 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/master.m3u8?hdnea=exp=1784839852~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=05b2bfd5fef8350412cafa60ab76cbc9545f02dbea0ec07f14c7aea0b062a5a5
+https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/master.m3u8?hdnea=exp=1784845230~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cc65ced0810fba1f066218f773fd4ea06be11bffc2b23abaaa305bbb2b4a3d7d
