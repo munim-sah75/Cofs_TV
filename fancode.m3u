@@ -2,23 +2,25 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 10:00:37 AM 23-07-2026 (BD Time)
-# Live Matches (IN): 0
+# Last Updated: 01:00:37 PM 23-07-2026 (BD Time)
+# Live Matches (IN): 1
 #=================================
 
-# No Live Match Available
-
+#EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Fancode",Sri Lanka Women Vs Pakistan Women
+https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:15 AM 23-07-2026
+# Last Update: 01:00 PM 23-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15471" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847244581020x576.jpg" group-title="Fancode", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15412" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847119541020x576.jpg" group-title="Fancode", Sri Lanka vs Nepal | CAVA Men's Volleyball Championship 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:10:25 AM 23-07-2026
+# last_update: 12:50:31 PM 23-07-2026
