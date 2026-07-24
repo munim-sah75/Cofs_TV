@@ -2,15 +2,21 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 02:00:43 PM 24-07-2026 (BD Time)
-# Live Matches (IN): 1
+# Last Updated: 04:00:45 PM 24-07-2026 (BD Time)
+# Live Matches (IN): 3
 #=================================
 
-#EXTINF:-1 tvg-name="Practice Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg" group-title="Fancode",Practice Session
-https://bd-mc-pdlive.fancode.com/mumbai/139733_english_hls_77c436718e63741_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Day 2   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Fancode",Day 2   World Feed
+https://bd-mc-pdlive.fancode.com/mumbai/4247418_english_hls_91bd793e2f64097_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Free Practice 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Fancode",Free Practice 1
+https://bd-mc-pdlive.fancode.com/mumbai/143796_english_hls_281f4906be4698_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Practice Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg" group-title="Fancode",Practice Session
+https://bd-mc-pdlive.fancode.com/mumbai/139642_english_hls_45e379dbe128076_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:30 PM 24-07-2026
+# Last Update: 04:30 PM 24-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -21,7 +27,13 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:24 PM 24-07-2026
+# last_update: 04:20:26 PM 24-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784878136872_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Gary Kelly vs Shannon McIlroy - Men's Singles - Bowls and Para Bowls - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784902825~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7e8e1924e6e1e7a786d8657b738686b145b556125c8a9d927fc88d8096eabddb
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784883649053_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Men - Gymnastics - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784908231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5c3aedd229a7eb64fd1849190215f8487d84e66fedbe051d58934f7bf26f647d
+
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784887217338_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Scotland vs Jersey - Women's Pairs - Bowls and Para Bowls - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784910046~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=915a58c3c2bdd5065df7946b55461d63480c334857db102b9caffd6985421015
+
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784888182513_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Thomas Teers vs Eriu Temakau - Men's 55kg - Boxing - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784910060~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=99bb17659434a2b18ae55ba3fbc7fa8d472cb307acb3ebbc05933029b1f69781
