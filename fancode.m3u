@@ -2,15 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 08:00:46 PM 24-07-2026 (BD Time)
-# Live Matches (IN): 6
+# Last Updated: 09:00:41 PM 24-07-2026 (BD Time)
+# Live Matches (IN): 4
 #=================================
 
 #EXTINF:-1 tvg-name="Lahore Qalandars Vs Desert Vipers" tvg-logo="https://images.fancode.com/aig/match/v1784653587317/4247438_CASACARDS_SPORTY_APP.png" group-title="Fancode",Lahore Qalandars Vs Desert Vipers
 https://bd-mc-pdlive.fancode.com/mumbai/4247438_english_hls_409d14a5796247_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Day 5" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Day 5
-https://bd-mc-pdlive.fancode.com/mumbai/143507_english_hls_829309fa7559979_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Day 5" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Day 5
 https://bd-mc-pdlive.fancode.com/mumbai/143513_english_hls_3b01c8cfce63305_1ta-di_h264/index.m3u8
@@ -18,37 +15,36 @@ https://bd-mc-pdlive.fancode.com/mumbai/143513_english_hls_3b01c8cfce63305_1ta-d
 #EXTINF:-1 tvg-name="Day 2   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Fancode",Day 2   Main Feed
 https://bd-mc-pdlive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Free Practice 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Fancode",Free Practice 2
-https://bd-mc-pdlive.fancode.com/mumbai/143797_english_hls_3022bf935f79967_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg" group-title="Fancode",Qualifying Session
-https://bd-mc-pdlive.fancode.com/mumbai/139643_english_hls_d8ece2b5df6184_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Practice 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Fancode",Practice 2
+https://bd-mc-pdlive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 PM 24-07-2026
+# Last Update: 09:30 PM 24-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15220" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847941471020x576women.jpg" group-title="Fancode", Birmingham Pheonix vs Trent Rockets - Women | The Hundred Women's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15383" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847962911020x576.jpg" group-title="Fancode", EA Sports FC 26 - Day 3 | Esports World Cup 2026 (EWC)
+https://vodintlv2.in-maa-1.linodeobjects.com/EWC/EASportsFC26/Day1/hls/day1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:27 PM 24-07-2026
+# last_update: 09:20:31 PM 24-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784897453100_1784647176019819_CWG26_Para_Powerlifting_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Men's Lightweight - Para Powerlifting - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784922631~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a7d27f9d21cee12ae005aaa3979950a7ddbd99f0572bce40b122db20c8b4b6ed
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Waylon Wentzel vs Jason Greenslade - Men's Singles - 24 Jul 2026 
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784928035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=df01eb7a509d9d543037a0a0e89e1db6b5415c3f4f5dbefd95f6e3db80a84554
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Scotland vs South Africa - Men's Pairs - Bowls and Para Bowls - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784920846~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=232a0dd00d353ac3bfefa5258a990d13476d20a6fc9d3df7d9794550d02d6839
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020894/1784888457648149_CWG_BOWLS_INDIA_v_SOUTH_AFRICA_live_landscape_thumb.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | India vs South Africa - Women's Pairs - Bowls and Para Bowls - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784928043~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=089cad4f1b96dfad7d18452a9578b9ce687e347ec1b26122a07a24b26efa304e
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784899736406_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Australia vs Jamaica - Women - Basketball - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784922649~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3a810a59272c1836f8d1cb60cebb8f77f630d185ef85b04a4addadb77ed44023
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784905718731_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Canada vs South Africa - Wheelchair Women - Basketball - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784928051~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=242a104c7ad7fd4d8fd8ac74820e1ceddfdf8b15ae1154fe238ac9dd277f24c9
 
 #EXTINF:-1 tvg-id="sonyliv-1090537013" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784658241293339_The_Hundred2026_womens_Birmingham_Phoenix_vs_Trent_Rockets_21jul_landscape_thumb.jpg" group-title="Fancode", The Hundred 2026 (Women's) | Birmingham Phoenix vs Trent Rockets - 24 Jul 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784922660~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=708120269c5f43e02ffcd920a27b1301ae83a3d039e62575ba2cf32a86e023b3
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784928062~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2a89c28171507456d0ff78e9d07d3d89bf369b5335ff0c75cda9402b6d6f2ca9
 
 #EXTINF:-1 tvg-id="sonyliv-1090536997" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073773096_LIV_Golf_UK_Day2_landscape_thumb.jpg" group-title="Fancode", LIV Golf | UK - Day 2 - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/master.m3u8?hdnea=exp=1784922666~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=97e1b442496c7ad79e2fb502ae1b371ca586283ce5d02c2933d5e6ceea3fb685
+https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/master.m3u8?hdnea=exp=1784928069~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6f229486569633b7047b19d565e0d2a99f87f700cd13662149f472bf38d45aee
