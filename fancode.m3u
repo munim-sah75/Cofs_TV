@@ -2,23 +2,26 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 12:00:41 PM 24-07-2026 (BD Time)
+# Last Updated: 02:00:43 PM 24-07-2026 (BD Time)
 # Live Matches (IN): 1
 #=================================
 
-#EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club--ODI-old-.jpg" group-title="Fancode",Malaysia Xi Vs Sea Hawks Cricket Club
-https://bd-mc-pdlive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Practice Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg" group-title="Fancode",Practice Session
+https://bd-mc-pdlive.fancode.com/mumbai/139733_english_hls_77c436718e63741_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 PM 24-07-2026
+# Last Update: 02:30 PM 24-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15409" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847966871020x576.jpg" group-title="Fancode", Uzbekistan vs Sri Lanka | CAVA Men's Volleyball Championship 2026
+#EXTINF:-1 tvg-id="tapmad-15410" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847969781020x576.jpg" group-title="Fancode", Bangladesh vs Kazakhstan | CAVA Men's Volleyball Championship 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:26 AM 24-07-2026
+# last_update: 02:20:24 PM 24-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784878136872_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Glasgow 2026 Commonwealth Games | Gary Kelly vs Shannon McIlroy - Men's Singles - Bowls and Para Bowls - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784902825~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7e8e1924e6e1e7a786d8657b738686b145b556125c8a9d927fc88d8096eabddb
