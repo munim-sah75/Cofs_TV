@@ -2,12 +2,9 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 10:00:27 PM 25-07-2026 (BD Time)
-# Live Matches (IN): 5
+# Last Updated: 11:00:42 PM 25-07-2026 (BD Time)
+# Live Matches (IN): 4
 #=================================
-
-#EXTINF:-1 tvg-name="Netherlands Vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png" group-title="Fancode",Netherlands Vs Namibia
-Unavailable
 
 #EXTINF:-1 tvg-name="Colombo Kaps Vs Dambulla Sixers" tvg-logo="https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png" group-title="Fancode",Colombo Kaps Vs Dambulla Sixers
 https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
@@ -15,31 +12,31 @@ https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Fancode",Day 3   World Feed
-https://bd-mc-pdlive.fancode.com/mumbai/4247419_english_hls_7529753d6233196_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="Day 3   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Fancode",Day 3   Main Feed
 https://bd-mc-pdlive.fancode.com/mumbai/4246803_english_hls_7c0d958ec349342_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Day 6
+https://bd-mc-pdlive.fancode.com/mumbai/143514_english_hls_9205c863a887330_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:00 PM 25-07-2026
+# Last Update: 11:00 PM 25-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15187" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848756971020x576men.jpg" group-title="Fancode", Sunrisers Leeds vs Southern Brave | The Hundred Men's Competition 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Fancode", West indies vs Pakistan | Pakistan Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847974191020x576.jpg" group-title="Fancode", Ankalaev vs Guskov | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15188" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848779031020x576men.jpg" group-title="Fancode", Welsh Fire vs MI London | The Hundred Men's Competition 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848783901020x576.jpg" group-title="Fancode", EA Sports FC 26 - Day 4 | Esports World Cup 2026 (EWC)
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:27 PM 25-07-2026
+# last_update: 10:50:25 PM 25-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090537224" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020945/1784922261862627_UFC_Fight_Night_Ankalaev_vs_Guskov_landscape_thumbnail.jpg" group-title="Fancode", UFC Fight Night - Ankalaev vs Guskov - 25 Jul 2026 | UFC Fight Night - Ankalaev vs Guskov
 https://sonydaimenew.akamaized.net/hls/live/20000378/UFC_Live2507/ENG/master.m3u8?hdnea=exp=1785016233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1fac256861696f197478ec91928272125f11d95c9e8ef2e5795723d484a51996
@@ -50,14 +47,11 @@ https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u
 #EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784993171477_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Ryan Bester vs Shaun James Parnis - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785007232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46c8970355d6690ff9cc3a72b72d9ba5492a22e25f932a945a20b8a21c5ad565
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784993170390_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Scotland vs Falkland Islands - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784997687383_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Australia vs Singapore - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785010826~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=439eaa6fb8f5683c4d1d80015ef68ce9a2ad4ea4e80ee70dad20a65f08262d6b
 
-#EXTINF:-1 tvg-id="sonyliv-1090537158" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020769/1784659361409796_The_Hundred2026_mens_Sunrisers_Leeds_vs_Southern_Brave_21jul_landscape_thumb.jpg" group-title="Fancode", Sunrisers Leeds vs Southern Brave - 25 Jul 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785007248~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6beb82f9f5ac08ca301a738e18d14088ea7306ce34860f9859656248812e3067
-
-#EXTINF:-1 tvg-id="sonyliv-1090537155" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020769/1784659897239796_The_Hundred2026_womens_Welsh_Fire_vs_MI_London_21jul_landscape_thumb.jpg" group-title="Fancode", Welsh Fire vs MI London - 25 Jul 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785007257~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f61a3a7bb910ae68cf45b4da6626fedb5fb5b571b4b2cdfc208fcb12c08a2498
+#EXTINF:-1 tvg-id="sonyliv-1090537160" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020769/1784659746852796_The_Hundred2026_mens_Welsh_Fire_vs_MI_London_21jul_landscape_thumb.jpg" group-title="Fancode", Welsh Fire vs MI London - 25 Jul 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-WFML/master.m3u8?hdnea=exp=1785019832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=27e7e9aedecd417a5669d6bcec741e1870fc911c3d3e559bf8addc18c26a6e7f
 
 #EXTINF:-1 tvg-id="sonyliv-1090537177" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073064996_LIV_Golf_UK_Day3_landscape_thumb.jpg" group-title="Fancode", UK - Day 3 - 25 Jul 2026 | LIV Golf
 https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_LIV2507/ENG/master.m3u8?hdnea=exp=1785016254~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e067f3599f23ff5e697a31b9d11c232989c77c0df3e1590a95c4aaf5c53fdb8a
