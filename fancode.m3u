@@ -2,9 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 05:00:45 PM 25-07-2026 (BD Time)
-# Live Matches (IN): 7
+# Last Updated: 06:00:38 PM 25-07-2026 (BD Time)
+# Live Matches (IN): 8
 #=================================
+
+#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",India Vs Zimbabwe
+Unavailable
+
+#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",India Vs Zimbabwe
+Unavailable
 
 #EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Fancode",Pakistan Women Vs Sri Lanka Women
 https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
@@ -15,20 +21,17 @@ Unavailable
 #EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246722_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Kandy Royals
 https://bd-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",India Vs Zimbabwe
-Unavailable
-
-#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",India Vs Zimbabwe
-Unavailable
-
-#EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Fancode",Practice 3
-https://bd-mc-pdlive.fancode.com/mumbai/139474_english_hls_cb09c4273596597_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="Day 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Day 6
 https://bd-mc-pdlive.fancode.com/mumbai/143508_english_hls_92168a39226791_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Race 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Fancode",Race 1
+https://bd-mc-pdlive.fancode.com/mumbai/143799_english_hls_c362f1d13033774_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Fancode",Day 3   World Feed
+https://bd-mc-pdlive.fancode.com/mumbai/4247419_english_hls_7529753d6233196_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:15 PM 25-07-2026
+# Last Update: 06:00 PM 25-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -45,25 +48,28 @@ https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:22 PM 25-07-2026
+# last_update: 05:50:25 PM 25-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090537148" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020876/1784846575018928_durand_cup26_east_bengal_vs_MBSG_landscape_thumb.jpg" group-title="Fancode",  East Bengal FC vs Mohun Bagan SG - 25 Jul 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000295/Football2507/ENG/master.m3u8?hdnea=exp=1784998228~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0a02c062016ffe414acad729eb0c3760d5c10d7e883edf7e311f8c1d63e491ec
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020977/1784958413954712_CWG_Bowls_India_V_Tonga_live_landscape_thumb.jpg" group-title="Fancode", India vs Tonga - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784998241~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bf46f046106bed7ef01ee56549fe48d46db25a05ef552bec7385d11cc6d0a964
-
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784976317828_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Fancode", Women's 100m Breaststroke - Aquatics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784992891~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=261bef9d57705c206b3d0628dd26bcf9b933707fa625007f5a9256297a38563f
-
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784976430650_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Fancode", Happy Ngwira vs Zalaan Jan - Men's 80kg - Boxing - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784979995057_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Scotland vs Australia - Mixed Pairs B2-B3 - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784991052~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d3917fb6181110975b8fb700ac11c49e1287164f1e0109cf7aee9818cba8f933
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784970221577_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Fancode", Women - Gymnastics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784979730630_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Fancode", Mixed 4 x 100m Freestyle Relay - Aquatics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784992891~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=261bef9d57705c206b3d0628dd26bcf9b933707fa625007f5a9256297a38563f
+
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784979411044_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Fancode", Women - Gymnastics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784992877~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3df9658bddbbe4d5f685465b68818b9ced38ef991018239153bd25ff21d460c9
+
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784979989619_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", South Africa vs Namibia - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784998241~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bf46f046106bed7ef01ee56549fe48d46db25a05ef552bec7385d11cc6d0a964
 
 #EXTINF:-1 tvg-id="sonyliv-1090537152" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020769/1784659215304796_The_Hundred2026_womens_Sunrisers_Leeds_vs_Southern_Brave_21jul_landscape_thumb.jpg" group-title="Fancode", Sunrisers Leeds vs Southern Brave - 25 Jul 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1784994628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=85e4c3f6d4ed17955f24098c1f111b82a413e261ef1c0d7cdaaf8d0fbe7593f9
+
+#EXTINF:-1 tvg-id="sonyliv-1090537177" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073064996_LIV_Golf_UK_Day3_landscape_thumb.jpg" group-title="Fancode", UK - Day 3 - 25 Jul 2026 | LIV Golf
+https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_LIV2507/ENG/master.m3u8?hdnea=exp=1785001829~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cea903dfcd614200ab368ea227248921a71eb7213d5cf669be83d4a1444a30b8
 
 #EXTINF:-1 tvg-id="sonyliv-1090537173" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020959/1784932568263224_ABB_FIA_FormulaE_WC26_RD14_Tokyo_EPrix_final_Race_landscape_thumb.jpg" group-title="Fancode", R14 - Tokyo E-Prix - Final  Race - 25 Jul 2026 | ABB FIA Formula E World Championship
 https://sonydaimenew.akamaized.net/hls/live/20000298/FormulaE2507/ENG/master.m3u8?hdnea=exp=1784994639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f10aebd22cfaec8bdb0342bfb1a9e1dfd5a0357413722b183db103f6f2dd8272
