@@ -2,25 +2,31 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 09:00:36 AM 25-07-2026 (BD Time)
-# Live Matches (IN): 1
+# Last Updated: 12:00:35 PM 25-07-2026 (BD Time)
+# Live Matches (IN): 3
 #=================================
+
+#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Fancode",Pakistan Women Vs Sri Lanka Women
+https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Fancode",Malaysia Xi Vs Sea Hawks Cricket Club
 https://bd-mc-pdlive.fancode.com/mumbai/4247198_english_hls_4e2b6a33c555878_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Japan   Race 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png" group-title="Fancode",Japan   Race 1
+https://bd-mc-pdlive.fancode.com/mumbai/143794_english_hls_fafc6faf7b4112_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 AM 25-07-2026
+# Last Update: 12:00 PM 25-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15521" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849212611020x576.jpg" group-title="Fancode", Territory Tourers Race 1 Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-15536" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849231961020x576.jpg" group-title="Fancode", GT World Challenge Australia powered by AWS Race 1 Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15524" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849218041020x576.jpg" group-title="Fancode", Monochrome GT4 Australia Series Race 1 Live | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847981811020x576.jpg" group-title="Fancode", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:27 AM 25-07-2026
+# last_update: 11:50:24 AM 25-07-2026
