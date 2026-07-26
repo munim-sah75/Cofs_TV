@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 05:00:36 PM 26-07-2026 (BD Time)
-# Live Matches (IN): 6
+# Last Updated: 06:00:33 PM 26-07-2026 (BD Time)
+# Live Matches (IN): 4
 #=================================
 
 #EXTINF:-1 tvg-name="Jaffna Kings Vs Kandy Royals" tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png" group-title="Fancode",Jaffna Kings Vs Kandy Royals
@@ -12,26 +12,18 @@ https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-
 #EXTINF:-1 tvg-name="Day 4   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Fancode",Day 4   World Feed
 https://bd-mc-pdlive.fancode.com/mumbai/4247420_english_hls_e4f538fa6759596_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Fancode",Race
-https://bd-mc-pdlive.fancode.com/mumbai/139476_english_hls_cf562dba5f52319_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Fancode",Race
-https://bd-mc-pdlive.fancode.com/mumbai/139476_hindi_hls_6550f6366226994_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Fancode",Race
-https://bd-mc-pdlive.fancode.com/mumbai/139476_tamil_hls_8675b9f21c93259_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Race 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Fancode",Race 2
+https://bd-mc-pdlive.fancode.com/mumbai/143801_english_hls_0f8f9524c923636_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 PM 26-07-2026
+# Last Update: 06:30 PM 26-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15356" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848952541020x576.jpg" group-title="Fancode", Men's Semi Final A Session - World Championships Kaunas, Lithuania Live | UIPM 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15417" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849001381020x576.jpg" group-title="Fancode", Pakistan vs Uzbekistan | CAVA Men's Volleyball Championship 2026
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15385" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848938841020x576.jpg" group-title="Fancode", EA Sports FC 26 - Day 5 | Esports World Cup 2026 (EWC)
@@ -40,25 +32,22 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:22 PM 26-07-2026
+# last_update: 06:20:23 PM 26-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090537305" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021054/1785022248690874_dc26_Jamshedpur_FC_vs_Defenders_FC_landscape.jpg" group-title="Fancode", Jamshedpur FC vs Defenders FC - 26 Jul 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000388/DC_Jamsh2607/ENG/master.m3u8?hdnea=exp=1785084628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0ff344f86758f1d1074b76a44972289469f734ee0498c4ece3a65c23b03125e4
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021066/1785054555845562_CWG26_GYMNASTICS_FINALS_MENS_ALL_AROUND_TAPAN_MOHANTY_landscape_thumb.jpg" group-title="Fancode", Men's All-Around - Gymnastics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785072035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cd88002622e1af6224b985c8116b7e7a12f5e31c1380f403b6f5aeda42cb4103
-
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785064566972_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Fancode", Women's 100m Backstroke S9 - Aquatics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785067713619_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Fancode", Scotland vs Nigeria - Men - Basketball - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785077428~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=976a6c8e065f42e015ea97cc9ef77fdff145b2825c9ce6aec5d90056c096d3f6
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785064073332_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Fancode", Ellis Trowbridge vs Rukmal Prasanna - Men's 55kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785072028~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=92da98e3ca4f3e6ea56cf7b29eaa1019b63e5b45dd95f50b5c17d70585d86968
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785067884825_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Fancode", Ziggy Agathe vs James Paul - Men's 65kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785088724~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ec02c0a460b528f9682b58661cedd039bde6aa2fdcfc91e3ba657e84e7ffc43e
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785063248742_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Fancode", Australia vs Cayman Islands - Women - Basketball - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785066305952_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Sam Tolchard vs Robert Simpson - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000391/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785086427~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=38c657d9239edcdac06db1c1a5891dea83f9943e5f4f18574b0f089c5ac4d6f5
 
-#EXTINF:-1 tvg-id="sonyliv-1090537307" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784660530614499_The_Hundred2026_womens_Manchester_Super_Giants_vs_Birmingham_Phoenix_21jul_landscape_thumb.jpg" group-title="Fancode", Manchester Super Giants vs Birmingham Phoenix - 26 Jul 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785081032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46cd2812daae63bc1c3eac46531d1035438ef7b8c3cc84061c51ddd9f1820e2a
+#EXTINF:-1 tvg-id="sonyliv-1090537304" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474007257196_LIV_Golf_UK_Day4_landscape_thumb.jpg" group-title="Fancode", UK - Day 4 - 26 Jul 2026 | LIV Golf
+https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_LIV2607/ENG/master.m3u8?hdnea=exp=1785088733~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a368f4d151d5f21e3f6a3c2c6dc2d658b1e49ec78e5566b5cfb98872adae16d3
 
 #EXTINF:-1 tvg-id="sonyliv-1090537303" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020217/1782816764828920_ABB_FIA_FormulaE_WC26_RD15_Tokyo_EPrix_final_Race_landscape_thumb.jpg" group-title="Fancode", R15 - Tokyo E-Prix - Final  Race - 26 Jul 2026 | ABB FIA Formula E World Championship
 https://sonydaimenew.akamaized.net/hls/live/20000293/FIA_Form2607/ENG/master.m3u8?hdnea=exp=1785081042~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=708fa18f01639b67a14cb967dbbdbcc3ae602622c3d1a0c59394eb2a2f0509f5
