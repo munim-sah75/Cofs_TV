@@ -2,28 +2,25 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 06:00:33 AM 26-07-2026 (BD Time)
-# Live Matches (IN): 2
+# Last Updated: 09:00:28 AM 26-07-2026 (BD Time)
+# Live Matches (IN): 0
 #=================================
 
-#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Desert Vipers" tvg-logo="https://images.fancode.com/aig/match/v1784653587318/4247437_CASACARDS_SPORTY_APP.png" group-title="Fancode",Guyana Amazon Warriors Vs Desert Vipers
-https://bd-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8
+# No Live Match Available
 
-#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
-https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 AM 26-07-2026
+# Last Update: 09:45 AM 26-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15464" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848793661020x576.jpg" group-title="Fancode", Jean vs Musaev | PFL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BK-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15548" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849893791020x576.jpg" group-title="Fancode", GT World Challenge Australia powered by AWS Race 2 Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-15560" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849914931020x576.jpg" group-title="Fancode", Motorcraft Mustang Australia Cup Race 2 Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:24 AM 26-07-2026
+# last_update: 09:50:22 AM 26-07-2026
