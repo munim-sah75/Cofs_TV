@@ -2,43 +2,29 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 02:00:29 AM 28-07-2026 (BD Time)
-# Live Matches (IN): 3
+# Last Updated: 03:00:28 AM 28-07-2026 (BD Time)
+# Live Matches (IN): 2
 #=================================
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Namibia Vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246707_52990_NAM_NEP_fc-App.png" group-title="Fancode",Namibia Vs Nepal
-https://bd-mc-pdlive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="World Feed   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed   Day 1
 https://bd-mc-pdlive.fancode.com/mumbai/143640_english_hls_6cd30c2cc670542_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:30 AM 28-07-2026
+# Last Update: 03:45 AM 28-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Fancode", West indies vs Pakistan | Pakistan Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15191" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851368251020x576men.jpg" group-title="Fancode", Southern Brave vs MI London | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:45 AM 28-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021167/1785157904984137_CWG_27th_July_Aquatics_Sajan_Prakash_landscape_thumb.png" group-title="Fancode", Men's 200m Butterfly - Aquatics - Final - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785198031~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=327b6fb3c301256ccd6a0a81297cdfed2d28739d18acee6779622764d89ad526
+# last_update: 03:20:24 AM 28-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021106/1785089517655762_CWG_26th_July_Weightlifting_Ajay_Babu_landscape_thumb.jpg" group-title="Fancode", Men's 79kg - Weightlifting - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785205249~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3ccd10dab52c3d8d22300426859255180c2d76f0a558bb4ce9dcf762552cb94c
-
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785183171507_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Fancode", Men's 1500m T20 - Athletics - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785198049~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3aa0d77206cdb5d5a69d58545b95294630e322c021f203fe8f887ff823913422
-
-#EXTINF:-1 tvg-id="sonyliv-1090537415" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784747387614115_The_Hundred2026_mens_Southern_Brave_vs_MI_London_landscape_thumb.jpg" group-title="Fancode", Southern Brave vs MI London - 27 Jul 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785194433~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=506dfab76b1cf37b6723bcbe635878472e63cf05d1d5f286050b578f2780ade2
