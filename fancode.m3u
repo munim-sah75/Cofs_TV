@@ -2,22 +2,28 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 10:00:17 AM 27-07-2026 (BD Time)
-# Live Matches (IN): 1
+# Last Updated: 02:00:25 PM 27-07-2026 (BD Time)
+# Live Matches (IN): 0
 #=================================
 
-#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Lahore Qalandars" tvg-logo="https://images.fancode.com/aig/match/v1784653587317/4247433_CASACARDS_SPORTY_APP.png" group-title="Fancode",Guyana Amazon Warriors Vs Lahore Qalandars
-https://bd-mc-pdlive.fancode.com/mumbai/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8
+# No Live Match Available
+
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:45 AM 27-07-2026
+# Last Update: 02:15 PM 27-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15368" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851318142.jpg" group-title="Fancode", Women's Final Session - WC Kaunas, Lithuania Live | UIPM 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15419" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849006281020x576.jpg" group-title="Fancode", Bangladesh vs Sri Lanka | CAVA Men's Volleyball Championship 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:22 AM 27-07-2026
+# last_update: 01:50:23 PM 27-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="Fancode", Men's 71kg - Weightlifting - 27 July 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785158433~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=02b5d2ab5adc4f0d441322108abee2dc90f973aa5420bddc208e1a18cba82dd4
