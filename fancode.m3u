@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 04:02:28 AM 29-07-2026 (BD Time)
-# Live Matches (IN): 2
+# Last Updated: 05:00:29 AM 29-07-2026 (BD Time)
+# Live Matches (IN): 3
 #=================================
 
 #EXTINF:-1 tvg-name="World Feed 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed 1
@@ -11,9 +11,12 @@ https://bd-mc-pdlive.fancode.com/mumbai/143641_english_hls_172b098b4923302_1ta-d
 
 #EXTINF:-1 tvg-name="World Feed 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed 2
 https://bd-mc-pdlive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Desert Vipers Vs Perth Scorchers Xi" tvg-logo="https://images.fancode.com/aig/match/v1784653587313/4247435_CASACARDS_SPORTY_APP.png" group-title="Fancode",Desert Vipers Vs Perth Scorchers Xi
+https://bd-mc-pdlive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 AM 29-07-2026
+# Last Update: 05:15 AM 29-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -23,4 +26,4 @@ https://bd-mc-pdlive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:25 AM 29-07-2026
+# last_update: 04:50:26 AM 29-07-2026
