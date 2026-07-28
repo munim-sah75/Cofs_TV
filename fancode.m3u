@@ -2,43 +2,44 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 09:00:33 PM 28-07-2026 (BD Time)
-# Live Matches (IN): 2
+# Last Updated: 11:00:23 PM 28-07-2026 (BD Time)
+# Live Matches (IN): 4
 #=================================
-
-#EXTINF:-1 tvg-name="Colombo Kaps Vs Jaffna Kings" tvg-logo="https://images.fancode.com/aig/match/v1784105762380/4246727_CASACARDS_SPORTY_APP.png" group-title="Fancode",Colombo Kaps Vs Jaffna Kings
-https://bd-mc-pdlive.fancode.com/mumbai/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58378_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Jaffna Kings Vs Colombo Kaps" tvg-logo="https://images.fancode.com/aig/match/v1784105762380/4246727_CASACARDS_SPORTY_APP.png" group-title="Fancode",Jaffna Kings Vs Colombo Kaps
+https://bd-mc-pdlive.fancode.com/mumbai/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="World Feed 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed 1
+https://bd-mc-pdlive.fancode.com/mumbai/143641_english_hls_172b098b4923302_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Mens Doubles Ft. Bhambri" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yuki-Bhambri_Mubadala_Web-match-card.png" group-title="Fancode",Mens Doubles Ft. Bhambri
+https://bd-mc-pdlive.fancode.com/mumbai/143642_english_hls_3595b6713610720_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 PM 28-07-2026
+# Last Update: 11:00 PM 28-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Fancode", West indies vs Pakistan | Pakistan Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15226" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851536201020x576women.jpg" group-title="Fancode", Sunrisers Leeds vs Manchester Super Giants - Women | The Hundred Women's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:26 PM 28-07-2026
+# last_update: 10:50:25 PM 28-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090537561" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020976/1784903883728198_Durand_cup_26_South-United-FC-vs-CISF-Protectors_landscape.jpg" group-title="Fancode", South United FC vs CISF Protectors  - 28 Jul 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000292/South_Un2807/ENG/master.m3u8?hdnea=exp=1785266432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1523895ab94e51ee55b718bf547843742d40aae7d56e38740fd9f5c9886dd37b
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785257116693_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", India vs Cook Islands - Men's Pairs - Bowls and Para Bowls - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785277239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=895598e0a6572d7082de0e9549f626697295ff201a3564167f42f7c4f2ed2f7c
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785251858153_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Tayla Bruce vs Serena Tiong - Women's Singles - Bowls and Para Bowls - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785257113132_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Emma Firyana Saroji vs Caroline Whitehead - Women's Singles - Bowls and Para Bowls - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785264649~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f1ec684d70df6b68391c4b3374863e98898fa7d50a192853a5ab8fc31bd5781b
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785251859843_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Jersey vs Guernsey - Men's Pairs - Bowls and Para Bowls - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785262831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=673ba142c9ebf5184e0f5befbdd7f8a6d31b9729bd0333ba5ef4585c72557f69
-
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785244500928_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="Fancode", Women's 63kg - Weightlifting - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785257114516_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Shauna O'Neill vs Boikhutso Mooketsi - Women's Singles - Bowls and Para Bowls - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785264640~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=938167593dc33c81e0574020594bd2b07892956b950ec5ebbaffd3477853a3c6
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785250814615_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Fancode", Wales vs Trinidad and Tobago - Netball - Netball - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785261038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=68b341c826890236b952ee5e1b0fef597088a632074ba6fe14b0a79e0861c40b
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785256141293_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Fancode", New Zealand vs Singapore - Men - Basketball - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785277248~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ff9bdfbf931115832304a09527ed551f30287bec8322105bd8abb6f1f3459a3
