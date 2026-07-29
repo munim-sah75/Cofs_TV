@@ -2,22 +2,35 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 12:00:20 PM 29-07-2026 (BD Time)
-# Live Matches (IN): 1
+# Last Updated: 03:00:22 PM 29-07-2026 (BD Time)
+# Live Matches (IN): 2
 #=================================
 
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="Fancode",Day 2
-https://bd-mc-pdlive.fancode.com/mumbai/143517_english_hls_026d19806b81456_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Netherlands Vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-App.png" group-title="Fancode",Netherlands Vs Nepal
+https://bd-mc-pdlive.fancode.com/mumbai/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals" tvg-logo="https://images.fancode.com/aig/match/v1784105762381/4246726_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Kandy Royals
+https://bd-mc-pdlive.fancode.com/mumbai/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 PM 29-07-2026
+# Last Update: 03:00 PM 29-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15424" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17852549021020x576.jpg" group-title="Fancode", Uzbekistan vs Sri Lanka | CAVA Men's Volleyball Championship 2026
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:29 AM 29-07-2026
+# last_update: 02:50:33 PM 29-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Fancode", Day 6 - Athletics - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785334838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=24370180406bd4909ec60c6d746fe2efec96e0f9143f0940c44b8ac19b5bb73b
+
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647616274819_CWG26_Aquatics_pictogram_landscape_thumb.jpg" group-title="Fancode", Day 6 - Aquatics - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785336636~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=48d67ea08cd4ced7a1210ded70b3833689fb7c559fe722124aa8a18b6da1ac97
+
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785314628024_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="Fancode", Women's 77kg - Weightlifting - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785333034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=87b9c420b057a3b9ca79a65492be83f95f49ba6b297b1f6cce5c6551206e3295
