@@ -2,18 +2,27 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 11:01:03 PM 31-07-2026 (BD Time)
-# Live Matches (IN): 2
+# Last Updated: 01:01:07 AM 01-08-2026 (BD Time)
+# Live Matches (IN): 5
 #=================================
 
 #EXTINF:-1 tvg-name="Purani Dilli 6 Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png" group-title="Fancode",Purani Dilli 6 Vs Central Delhi Kings
 https://bd-mc-pdlive.fancode.com/mumbai/4247965_english_hls_7a1f83336319019_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-name="Birmingham City F.c. Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barca.png" group-title="Fancode",Birmingham City F.c. Vs Fc Barcelona
+https://bd-mc-pdlive.fancode.com/mumbai/4248218_english_hls_344fd577a419508_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",Main Feed   Day 2
 Unavailable
+
+#EXTINF:-1 tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed
+https://bd-mc-pdlive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="World Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",World Feed   Day 2
+https://bd-mc-pdlive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:45 PM 31-07-2026
+# Last Update: 01:00 AM 01-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -24,18 +33,18 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:31 PM 31-07-2026
+# last_update: 12:50:26 AM 01-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785518734529_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Fancode", Acelya Toprak vs Yamini Mourya - Women -57 kg - Judo - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021470/1785445820996720_CWG_Boxing_SemiFinal_PRIYA_vs_LUCY_landscape_thumb.jpg" group-title="Fancode", Priya vs Lucy Kings-Wheatley - Women's 60kg - Boxing - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785534642~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46e278be42bdc675e6fbb784c8c1c7e950ff331bfca205b692b78fceeaf16b5f
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785510028836_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Fancode", Day 8 - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785521175078_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Fancode", Men's 10,000m Race Walk - Athletics - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785540030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=05efe01303fbde596b2be16819de4c3b2188324851a61bc0b22cd8e45e652e73
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785516903784_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Nayanmoni Saikia vs Mildred Mkandawire - Women's Singles - Bowls and Para Bowls - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785522828461_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Fancode", Men's Elimination Race - Cycling - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785534651~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f77a8673bd73b577048d0424c2727acfe6e8a6578368e6f050e20af20f5584bc
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785519873741_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Fancode", Men's Keirin - Cycling - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785520475971_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Fancode", Men's Decathlon - Javelin Throw - Ahletics - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785540038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7ebc9d19c2c75bde0ed48d554dc47d52e8e5e6c7fcb0e059ffc32a6455af3b50
 
 #EXTINF:-1 tvg-id="sonyliv-1090537985" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784751437198115_The_Hundred2026_mens_Manchester_Super_Giants_vs_Trent_Rockets_landscape_thumb.jpg" group-title="Fancode", Manchester Super Giants vs Trent Rockets - 31 Jul 2026 | The Hundred 2026
