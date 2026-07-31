@@ -2,7 +2,7 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 02:01:00 AM 01-08-2026 (BD Time)
+# Last Updated: 03:01:02 AM 01-08-2026 (BD Time)
 # Live Matches (IN): 5
 #=================================
 
@@ -13,7 +13,7 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247965_english_hls_7a1f83336319019_1ta-
 https://bd-mc-pdlive.fancode.com/mumbai/4248218_english_hls_344fd577a419508_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",Main Feed   Day 2
-Unavailable
+https://bd-mc-pdlive.fancode.com/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed
 https://bd-mc-pdlive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8
@@ -22,32 +22,18 @@ https://bd-mc-pdlive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-d
 https://bd-mc-pdlive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:15 AM 01-08-2026
+# Last Update: 03:30 AM 01-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15196" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854031291020x576men.jpg" group-title="Fancode", Manchester Super Giants vs Trent Rockets | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15582" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854021651020x576.jpg" group-title="Fancode", Nurmagomedov vs Colgan | PFL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:29 AM 01-08-2026
+# last_update: 03:20:27 AM 01-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367845582494_CWG26_generic_day8_landscape_thumb.jpg" group-title="Fancode", Narender Narender vs Nigel Paul - Men's 90+kg - Boxing - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785550833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ddb25d69033e17730c48acba33ae4a1d847a7755c8cc36a53a30c23ba0bc8d0
-
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Fancode", Men's 400m Hurdles - Athletics - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785531049519_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Fancode", Women's 200m - Athletics - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785540030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=05efe01303fbde596b2be16819de4c3b2188324851a61bc0b22cd8e45e652e73
-
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785526805827_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Ali Merrien vs Tayla Bruce - Women's Singles - Bowls and Para Bowls - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785534651~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f77a8673bd73b577048d0424c2727acfe6e8a6578368e6f050e20af20f5584bc
-
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785525016387_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Fancode", Men's Javelin Throw - Athletics - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785540038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7ebc9d19c2c75bde0ed48d554dc47d52e8e5e6c7fcb0e059ffc32a6455af3b50
-
-#EXTINF:-1 tvg-id="sonyliv-1090537985" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784751437198115_The_Hundred2026_mens_Manchester_Super_Giants_vs_Trent_Rockets_landscape_thumb.jpg" group-title="Fancode", Manchester Super Giants vs Trent Rockets - 31 Jul 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785540048~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7bc34ede3775c0b8123ef4356ac2276cb8fdc4fe90c2e95a87efe16c79a6ad06
