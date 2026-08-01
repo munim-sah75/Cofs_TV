@@ -2,15 +2,18 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 04:00:40 AM 02-08-2026 (BD Time)
-# Live Matches (IN): 1
+# Last Updated: 05:00:42 AM 02-08-2026 (BD Time)
+# Live Matches (IN): 2
 #=================================
 
-#EXTINF:-1 tvg-name="World Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",World Feed   Day 3
-https://bd-mc-pdlive.fancode.com/mumbai/4248047_english_hls_84d731038268847_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs San Francisco Unicorns" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guyana-Amazon-Warriors-vs-San-Francisco-Unicorns_fc-web.jpg" group-title="Fancode",Guyana Amazon Warriors Vs San Francisco Unicorns
+https://bd-mc-pdlive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Atp 500   Mubadala Dc Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",Atp 500   Mubadala Dc Open 2026
+https://bd-mc-pdlive.fancode.com/mumbai/143650_english_hls_83b9312ab58473_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 AM 02-08-2026
+# Last Update: 05:00 AM 02-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -20,7 +23,4 @@ https://bd-mc-pdlive.fancode.com/mumbai/4248047_english_hls_84d731038268847_1ta-
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:31 AM 02-08-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785617112555_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Fancode", Women's One Mile - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785628232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9eb2a6e9b008279cf2a735b6f0a7925586d177616540c95ebb7b10eb230b8228
+# last_update: 04:50:27 AM 02-08-2026
