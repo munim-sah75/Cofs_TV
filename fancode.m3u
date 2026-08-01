@@ -2,43 +2,25 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 02:00:47 AM 02-08-2026 (BD Time)
-# Live Matches (IN): 3
+# Last Updated: 03:00:41 AM 02-08-2026 (BD Time)
+# Live Matches (IN): 1
 #=================================
-
-#EXTINF:-1 tvg-name="Girona Fc Vs Arsenal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Girona-vs-Arsenal_fc-web.jpg" group-title="Fancode",Girona Fc Vs Arsenal
-https://bd-mc-pdlive.fancode.com/mumbai/4248015_english_hls_9f3b495b4583793_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Main Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",Main Feed   Day 3
-Unavailable
 
 #EXTINF:-1 tvg-name="World Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",World Feed   Day 3
 https://bd-mc-pdlive.fancode.com/mumbai/4248047_english_hls_84d731038268847_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:15 AM 02-08-2026
+# Last Update: 03:15 AM 02-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15569" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854016681020x576.jpg" group-title="Fancode", Medic vs Rodriguez | UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15646" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856027301020x576.jpg" group-title="Fancode", GT World Challenge - Race 1 Live | GT World Challenge EU & Asia 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:26 AM 02-08-2026
+# last_update: 03:20:26 AM 02-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="Fancode", Scotland vs Australia - Bowls And Para Bowls - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785624645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=01460152bd262616e3989b42ad94b345ba12db39727c17b95b352e77a816d9c5
-
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785614288225_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Fancode", Men's One Mile - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785617112555_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Fancode", Women's One Mile - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785628232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9eb2a6e9b008279cf2a735b6f0a7925586d177616540c95ebb7b10eb230b8228
-
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021585/1785546383720269_CWG26_athletics_MENS_POLE_VAULT_FINAL_KULDEEP_and_DEV_MEENA_landscape_thumb.jpg" group-title="Fancode", Men's Pole Vault - Final - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785628242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ebcfe9080f72ad62482c11a8ea1e8f2aa149650b6245e7395e6c889be260e779
-
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="Fancode", England vs Norfolk Island - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785624654~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f8409a4be3cb2a4fb6375cbd4b56803b094ceabcda6647163f8c7b741ea41014
