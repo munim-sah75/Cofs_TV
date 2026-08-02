@@ -2,15 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 01:00:28 AM 03-08-2026 (BD Time)
+# Last Updated: 02:00:28 AM 03-08-2026 (BD Time)
 # Live Matches (IN): 9
 #=================================
 
-#EXTINF:-1 tvg-name="New Delhi Tigers Vs East Delhi Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Fancode",New Delhi Tigers Vs East Delhi Riders
-https://bd-mc-pdlive.fancode.com/mumbai/4247971_english_hls_4be97458a823730_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Liverpool Vs Leeds United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png" group-title="Fancode",Liverpool Vs Leeds United
+https://bd-mc-pdlive.fancode.com/mumbai/4248017_english_hls_d155ba56d08620_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",Main Feed   Day 4
 https://bd-mc-pdlive.fancode.com/mumbai/4248050_english_hls_7ed30092f658296_1ta-di_h264/index.m3u8
@@ -34,20 +34,18 @@ https://bd-mc-pdlive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-
 https://bd-mc-pdlive.fancode.com/mumbai/143652_english_hls_7a1c598aca21462_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 AM 03-08-2026
+# Last Update: 02:15 AM 03-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853997271020x576.jpg" group-title="Fancode", West indies vs Pakistan | Pakistan Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15200" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856021921020x576men.jpg" group-title="Fancode", MI London vs Manchester Super Giants | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:29 AM 03-08-2026
+# last_update: 02:20:26 AM 03-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090538310" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511117266631_The_Hundred2026_mens_MI_London_vs_Manchester_Super_Giants_landscape_thumb.jpg" group-title="Fancode", MI London vs Manchester Super Giants - 2 Aug 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-WFML/master.m3u8?hdnea=exp=1785711673~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ac72e4e4f870479c67984c8aa62bc387b7038b33f08e6c90649dc74b9ff9bfa7
+#EXTINF:-1 tvg-id="sonyliv-1090538500" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021684/178562438845563_CWG_Closing_Ceremony_Promo_landscape_thumb.jpg" group-title="Fancode", Closing Ceremony - 3 Aug 2026 | Glasgow 2026 Commonwealth Games
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-CWG/master.m3u8?hdnea=exp=1785721838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=88da081728cb5e7e2027d5e44ec0153a43a164f3a80e6398dbb24ad52bcd2cab
