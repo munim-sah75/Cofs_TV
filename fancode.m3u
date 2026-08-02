@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 11:00:31 PM 02-08-2026 (BD Time)
-# Live Matches (IN): 9
+# Last Updated: 12:00:39 AM 03-08-2026 (BD Time)
+# Live Matches (IN): 8
 #=================================
 
 #EXTINF:-1 tvg-name="New Delhi Tigers Vs East Delhi Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Fancode",New Delhi Tigers Vs East Delhi Riders
@@ -11,9 +11,6 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247971_english_hls_4be97458a823730_1ta-
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Dambulla Sixers Vs Jaffna Kings" tvg-logo="https://images.fancode.com/aig/match/v1784105762375/4246719_CASACARDS_SPORTY_APP.png" group-title="Fancode",Dambulla Sixers Vs Jaffna Kings
-https://bd-mc-pdlive.fancode.com/mumbai/4246719_english_hls_21c3a47cef57337_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",Main Feed   Day 4
 https://bd-mc-pdlive.fancode.com/mumbai/4248050_english_hls_7ed30092f658296_1ta-di_h264/index.m3u8
@@ -34,7 +31,7 @@ https://bd-mc-pdlive.fancode.com/mumbai/4248061_english_hls_a92f972f5e40383_1ta-
 https://bd-mc-pdlive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:15 PM 02-08-2026
+# Last Update: 12:00 AM 03-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -47,10 +44,7 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:01:06 PM 02-08-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785686239005_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Fancode", Men's 40km Points Race - Cycling - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785698448~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2cd8867f71be61850363fd6fd9fc3ebf53141a49db1af52f57396c350855c301
+# last_update: 11:50:24 PM 02-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538310" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511117266631_The_Hundred2026_mens_MI_London_vs_Manchester_Super_Giants_landscape_thumb.jpg" group-title="Fancode", MI London vs Manchester Super Giants - 2 Aug 2026 | The Hundred 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-WFML/master.m3u8?hdnea=exp=1785711673~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ac72e4e4f870479c67984c8aa62bc387b7038b33f08e6c90649dc74b9ff9bfa7
