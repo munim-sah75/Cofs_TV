@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 06:00:46 PM 02-08-2026 (BD Time)
-# Live Matches (IN): 2
+# Last Updated: 08:00:39 PM 02-08-2026 (BD Time)
+# Live Matches (IN): 5
 #=================================
 
 #EXTINF:-1 tvg-name="Outer Delhi Warriors Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Fancode",Outer Delhi Warriors Vs Central Delhi Kings
@@ -11,39 +11,44 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247966_english_hls_87e2120e6614913_1ta-
 
 #EXTINF:-1 tvg-name="Indian Royals Vs Pakistan Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248197_53019_INR_PP_fc-web.jpg" group-title="Fancode",Indian Royals Vs Pakistan Panthers
 https://bd-mc-pdlive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="East Delhi Riders Vs New Delhi Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Fancode",East Delhi Riders Vs New Delhi Tigers
+https://bd-mc-pdlive.fancode.com/mumbai/4247971_english_hls_4be97458a823730_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Jaffna Kings Vs Dambulla Sixers" tvg-logo="https://images.fancode.com/aig/match/v1784105762375/4246719_CASACARDS_SPORTY_APP.png" group-title="Fancode",Jaffna Kings Vs Dambulla Sixers
+https://bd-mc-pdlive.fancode.com/mumbai/4246719_english_hls_21c3a47cef57337_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
+https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:30 PM 02-08-2026
+# Last Update: 07:45 PM 02-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15482" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855016111020x576.jpg" group-title="Fancode", Indian Royals vs Pakistan Panthers | Asian Legends League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15664" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856073841020x576.jpg" group-title="Fancode", French Porsche and Elf Cup Live | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15233" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855950071020x576women.jpg" group-title="Fancode", Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
+#EXTINF:-1 tvg-id="tapmad-15199" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856017491020x576men.jpg" group-title="Fancode", Trent Rockets vs Sunrisers Leeds | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15670" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856080001020x576.jpg" group-title="Fancode", GT World Challenge - Race 2 Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853997271020x576.jpg" group-title="Fancode", West indies vs Pakistan | Pakistan Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:28 PM 02-08-2026
+# last_update: 07:20:30 PM 02-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090538314" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021473/1785447790990491_dc26_Mohammedan_SC_vs_Samaleswari_Sporting_landscape.jpg" group-title="Fancode", Mohammedan SC vs Samaleswari Sporting  - 2 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000291/Football0208/ENG/master.m3u8?hdnea=exp=1785685833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fde6ca34197ee230e992a888794a81cacbce9d941cca859f0b1a742c038ed6b1
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785673195475_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Katherine Rednall vs Ali Merrien - Women's Singles - Bowls and Para Bowls - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785696637~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e6d6255088f8925ef9e52e04ecfebee1d0eebd1e2cd6f2fbbc6d99b50c5717c5
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785668095535_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Australia vs New Zealand - Para Men's Pairs B6-B8 - Bowls and Para Bowls - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785676831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f21126a6ce189ee05229846190b61947e8288793a4ac05f5bd410fef91fa37bb
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Fancode", Day 10 - Judo - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785698436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=77bb83d6fc425815dcfda3956db64b3358937ba9cd0fcbae0ff77bd48bdde4cf
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Fancode", Judo - Semi-Final - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785680437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2e57c3297cee025871c40ef989cef5fa18e42671b5ff980fffc61ec7b1b48ad5
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785672020714_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Fancode", Jamaica vs New Zealand - Gold Medal Match - Netball - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785698448~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2cd8867f71be61850363fd6fd9fc3ebf53141a49db1af52f57396c350855c301
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785669393863_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Fancode", Kayhan Ozcicek-Takagi vs John Messe A Bessong - Men +100 kg - Judo - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785676842~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0e55d3b7eb2086018928e2187821812a79cb13ea920f307663ed3f94640bcde1
-
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785669426462_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Fancode", Women's Keirin - Cycling - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785676855~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a1e331effe4b8a2bb1a3420c34230254bc0f68c77fd790649ecc911dedd3dfc2
-
-#EXTINF:-1 tvg-id="sonyliv-1090538304" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511100207431_The_Hundred2026_womens_Trent_Rockets_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Fancode", Trent Rockets vs Sunrisers Leeds - 2 Aug 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785685844~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e033e7dcb4640bf174132c51b67288b419aeef2aebb845dd47d711bfdc387542
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785673201156_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Fancode", Shae Wilson vs Emma Firyana Saroji - Women's Singles - Bowls and Para Bowls - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785698455~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a2ca2bdc43f3e8f99e8e2bdd715e1824f7e452d8b100e08ec938b3bdda70f1fd
