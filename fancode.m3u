@@ -2,7 +2,7 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 10:00:29 AM 03-08-2026 (BD Time)
+# Last Updated: 01:00:30 PM 03-08-2026 (BD Time)
 # Live Matches (IN): 0
 #=================================
 
@@ -10,14 +10,15 @@
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:30 AM 03-08-2026
+# Last Update: 01:46 PM 03-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856899481020x576.jpg" group-title="Fancode", Afghanistan Pathans vs Bangladesh Tigers | Asian Legends League 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:26 AM 03-08-2026
+# last_update: 01:51:27 PM 03-08-2026
