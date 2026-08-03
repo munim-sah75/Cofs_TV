@@ -2,21 +2,36 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 07:00:30 PM 03-08-2026 (BD Time)
-# Live Matches (IN): 3
+# Last Updated: 10:00:32 PM 03-08-2026 (BD Time)
+# Live Matches (IN): 8
 #=================================
-
-#EXTINF:-1 tvg-name="Scotland Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248212_53013_SCO_UAE_fc-Web-.png" group-title="Fancode",Scotland Vs United Arab Emirates
-https://bd-mc-pdlive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Indian Royals Vs Sri Lankan Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248195_53019_INR_SLO_fc-web.jpg" group-title="Fancode",Indian Royals Vs Sri Lankan Lions
 https://bd-mc-pdlive.fancode.com/mumbai/4248195_english_hls_cb68ac446465541_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="North Delhi Strikers Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Fancode",North Delhi Strikers Vs Central Delhi Kings
+https://bd-mc-pdlive.fancode.com/mumbai/4247974_english_hls_4cd1944cee90089_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Center Court
+https://bd-mc-pdlive.fancode.com/mumbai/4248062_english_hls_3d9cae3bf277024_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",World Feed
+https://bd-mc-pdlive.fancode.com/mumbai/4248063_english_hls_1effecd64e43748_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Court 5" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Court 5
+https://bd-mc-pdlive.fancode.com/mumbai/4248064_english_hls_9c9081b60732638_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Court 9" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Court 9
+https://bd-mc-pdlive.fancode.com/mumbai/4248065_english_hls_f97aa26d5748943_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Rogers Court" tvg-logo="https://images.fancode.com/aig/match/v1785743069832/4248249_CASACARDS_SPORTY_APP.png" group-title="Fancode",Rogers Court
+https://bd-mc-pdlive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:45 PM 03-08-2026
+# Last Update: 10:15 PM 03-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -29,10 +44,7 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:36 PM 03-08-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090538486" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021699/1785655952244561_DURAND_CUP_2026_Langsning-FC-vs-Mumbay-FC_landscape_thumb.jpg" group-title="Fancode", Langsning FC vs Mumbay FC - 3 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/master.m3u8?hdnea=exp=1785783035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=50923eb22856bb5630680bebd9d9d411016f6e52eea7c4176d00bd101b90053e
+# last_update: 09:50:28 PM 03-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538507" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511134464531_The_Hundred2026_womens_Welsh_Fire_vs_Southern_Brave_landscape_thumb.jpg" group-title="Fancode", Welsh Fire vs Southern Brave - 3 Aug 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785786641~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=711c048e122274ac23c3ffb39a3b0766085ec4be25684362bb23825053d4b4b2
