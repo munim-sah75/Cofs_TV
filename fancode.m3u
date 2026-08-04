@@ -2,15 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 12:00:49 AM 05-08-2026 (BD Time)
-# Live Matches (IN): 6
+# Last Updated: 02:01:39 AM 05-08-2026 (BD Time)
+# Live Matches (IN): 5
 #=================================
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="South Delhi Superstarz Vs West Delhi Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247978_53005_SDS_WDL_fc-Web_1785835769253.png" group-title="Fancode",South Delhi Superstarz Vs West Delhi Lions
-https://bd-mc-pdlive.fancode.com/mumbai/4247978_english_hls_6c7295b1e677335_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",World Feed
 https://bd-mc-pdlive.fancode.com/mumbai/4248066_english_hls_f60cf3662559481_1ta-di_h264/index.m3u8
@@ -25,7 +22,7 @@ https://bd-mc-pdlive.fancode.com/mumbai/4248068_english_hls_469771a15198481_1ta-
 https://bd-mc-pdlive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:45 AM 05-08-2026
+# Last Update: 02:15 AM 05-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -38,7 +35,7 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:50:32 AM 05-08-2026
+# last_update: 02:20:31 AM 05-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538583" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511158453631_The_Hundred2026_mens_Sunrisers_Leeds_vs_London_Spirit_landscape_thumb.jpg" group-title="Fancode", Sunrisers Leeds vs London Spirit - 4 Aug 2026 | The Hundred 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785887436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=31dcefe30b2adb78147d3af9fcecd08225869fdb1aa7ffe0ed70a58ecd12de70
