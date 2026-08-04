@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 09:00:44 PM 04-08-2026 (BD Time)
-# Live Matches (IN): 5
+# Last Updated: 11:00:34 PM 04-08-2026 (BD Time)
+# Live Matches (IN): 6
 #=================================
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
@@ -20,9 +20,12 @@ https://bd-mc-pdlive.fancode.com/mumbai/4248067_english_hls_9d75ed2e2276858_1ta-
 
 #EXTINF:-1 tvg-name="Court 5" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Court 5
 https://bd-mc-pdlive.fancode.com/mumbai/4248068_english_hls_469771a15198481_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Center Court
+https://bd-mc-pdlive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 PM 04-08-2026
+# Last Update: 11:15 PM 04-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -35,10 +38,7 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:28 PM 04-08-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090538581" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785706212319385_DC26_Mohun_Bagan_SG_vs_South_United_FC_landscape_thumb.jpg" group-title="Fancode", Mohun Bagan Super Giant vs South United FC - 4 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/master.m3u8?hdnea=exp=1785873038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7cbfe32382ce8922ca1180094bb1f11229f3bf50064e5cf357ab421dbd32c06f
+# last_update: 10:50:28 PM 04-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538582" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511159209631_The_Hundred2026_womens_Sunrisers_Leeds_vs_London_Spirit_landscape_thumb.jpg" group-title="Fancode", Sunrisers Leeds vs London Spirit - 4 Aug 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785873047~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=55d04982c4e5201688218f9b7c26b1540df19a25e187d3004a8a214aed750d79
