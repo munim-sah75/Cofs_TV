@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 05:00:28 PM 05-08-2026 (BD Time)
-# Live Matches (IN): 4
+# Last Updated: 07:00:24 PM 05-08-2026 (BD Time)
+# Live Matches (IN): 5
 #=================================
 
 #EXTINF:-1 tvg-name="Purani Dilli 6 Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247969_53005_PD_CDK_fc-Web.png" group-title="Fancode",Purani Dilli 6 Vs Central Delhi Kings
@@ -12,14 +12,17 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247969_english_hls_530117550a4719_1ta-d
 #EXTINF:-1 tvg-name="Jaffna Kings Vs Galle Gallants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg" group-title="Fancode",Jaffna Kings Vs Galle Gallants
 https://bd-mc-pdlive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Ireland Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png" group-title="Fancode",Ireland Vs Afghanistan
-https://bd-mc-pdlive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="United Arab Emirates Vs Canada" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248213_53013_UAE_CAN_fc-Web.png" group-title="Fancode",United Arab Emirates Vs Canada
 https://bd-mc-pdlive.fancode.com/mumbai/4248213_english_hls_8b9cbf1c6252001_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Chelsea Vs Juventus" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png" group-title="Fancode",Chelsea Vs Juventus
+https://bd-mc-pdlive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
+https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838648530_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 PM 05-08-2026
+# Last Update: 07:00 PM 05-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -32,7 +35,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:31 PM 05-08-2026
+# last_update: 06:20:27 PM 05-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538623" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785706334820385_DC26_Neroca_FC_vs_Indian_Navy_FT_landscape_thumb.jpg" group-title="Fancode", Neroca FC vs Indian Navy FT  - 5 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000291/Football0508/ENG/master.m3u8?hdnea=exp=1785945032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a233729c3ca21ad3132478cf8754d1866ab2819a2fa3c61c7ed5c6945e0f1288
