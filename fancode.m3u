@@ -2,12 +2,9 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 05:00:31 AM 05-08-2026 (BD Time)
+# Last Updated: 07:00:37 AM 05-08-2026 (BD Time)
 # Live Matches (IN): 5
 #=================================
-
-#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
-https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",World Feed
 https://bd-mc-pdlive.fancode.com/mumbai/4248066_english_hls_f60cf3662559481_1ta-di_h264/index.m3u8
@@ -20,9 +17,12 @@ https://bd-mc-pdlive.fancode.com/mumbai/4248068_english_hls_469771a15198481_1ta-
 
 #EXTINF:-1 tvg-name="Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Center Court
 https://bd-mc-pdlive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
+https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 AM 05-08-2026
+# Last Update: 06:30 AM 05-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -32,4 +32,4 @@ https://bd-mc-pdlive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:31 AM 05-08-2026
+# last_update: 06:50:32 AM 05-08-2026
