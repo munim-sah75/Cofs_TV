@@ -2,22 +2,29 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 03:00:26 PM 06-08-2026 (BD Time)
-# Live Matches (IN): 1
+# Last Updated: 05:00:25 PM 06-08-2026 (BD Time)
+# Live Matches (IN): 2
 #=================================
 
 #EXTINF:-1 tvg-name="South Delhi Superstarz Vs Outer Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png" group-title="Fancode",South Delhi Superstarz Vs Outer Delhi Warriors
 https://bd-mc-pdlive.fancode.com/mumbai/4247975_english_hls_75a4fe130f92250_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 1   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png" group-title="Fancode",Day 1   Main Feed
+https://bd-mc-pdlive.fancode.com/mumbai/4248185_english_hls_5dab612fcd71433_1ta-di_h264/index.m3u8
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:00 PM 06-08-2026
+# Last Update: 05:30 PM 06-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857609431020x576.jpg" group-title="Fancode", PUBG Mobile - Day 1 | Esports World Cup 2026 (EWC)
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:26 PM 06-08-2026
+# last_update: 05:20:31 PM 06-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090538663" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707368420385_DC26_Bodoland_FC_vs_FC1_landscape_thumb.jpg" group-title="Fancode", Bodoland FC vs FC 1 - 6 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000291/football0608/ENG/master.m3u8?hdnea=exp=1786031434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=865f5fd23581a0501c9c3ff7b5a4c20414d075fcc1bd83e23e4b8d55b3a975e1
