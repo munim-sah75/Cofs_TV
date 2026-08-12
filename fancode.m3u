@@ -1,23 +1,18 @@
 404: Not Found
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:15 AM 13-08-2026
+# Last Update: 03:00 AM 13-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15866" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865167591020x576.jpg" group-title="Fancode", PSG vs Aston Villa | UEFA Super Cup 2026
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15214" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864514161020x576men.jpg" group-title="Fancode", Birmingham Pheonix vs MI London | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:25 AM 13-08-2026
+# last_update: 02:50:29 AM 13-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539087" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022040/1786442722992390_UEFA_Super_CUP_26_PSG_vs_Aston_Villa_live_landscape_thumb.jpg" group-title="Fancode", PSG vs Aston Villa - 13 Aug 2026 | UEFA Super Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000291/football1208/ENG/master.m3u8?hdnea=exp=1786582235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=00f3f13455a5332eb32aa1b308d79c89c4b83299fa6934a132713980d139591d
-
-#EXTINF:-1 tvg-id="sonyliv-1090539026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631791014131_The_Hundred2026_mens_Birmingham_Phoenix_vs_MI_London_landscape_thumb.jpg" group-title="Fancode", Birmingham Phoenix vs MI London - 12 Aug 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-MBPMI/master.m3u8?hdnea=exp=1786576830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4bff79225e0826114970e0d137b1ab76a488cea976f287317e1ed52fe21e878a
