@@ -1,15 +1,17 @@
 404: Not Found
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:15 PM 13-08-2026
+# Last Update: 12:15 AM 14-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15961" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865301471020x576.jpg" group-title="Fancode", Preview Show Live | FA Community Shield 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866168841020x576.jpg" group-title="Fancode", Al-Shabab vs Al Qadsiah | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866169701020x576.jpg" group-title="Fancode", Diriyah vs Al-Ahli | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:28 PM 13-08-2026
+# last_update: 12:20:26 AM 14-08-2026
