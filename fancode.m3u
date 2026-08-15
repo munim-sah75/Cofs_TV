@@ -2,11 +2,9 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:45:04 AM 16-08-2026 (BD Time)
-# Live Match : 11
+# Last Updated: 02:20:20 AM 16-08-2026 (BD Time)
+# Live Match : 10
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web_1786702852057.png" group-title="Fancode",Lucknow Falcons vs Gaur Gorakhpur Lions
-https://fancode-bd.sm-monirul.top/4248336/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png" group-title="Fancode",Deportivo Alaves vs Getafe CF
 https://fancode-bd.sm-monirul.top/4247576/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248268_53025_ITT_ALK_FC-Web.png" group-title="Fancode",Al-Ittihad vs Al-Kholood Club
@@ -30,17 +28,14 @@ https://fancode-bd.sm-monirul.top/4248117/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:15 AM 16-08-2026
+# Last Update: 02:30 AM 16-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15971" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868094961020x576.jpg" group-title="Fancode", Al-Ittihad vs Al Kholood | Saudi Pro League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15972" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868095801020x576.jpg" group-title="Fancode", Al-Nassr vs Al Fateh | Saudi Pro League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:27 AM 16-08-2026
+# last_update: 02:20:25 AM 16-08-2026
