@@ -21,23 +21,23 @@ jobs:
       - name: Download, modify, and merge playlists
         run: |
           # Download files
-          curl -s -L "https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/refs/heads/main/fancode_in.m3u" -o fancode.m3u
+          curl -s -L "https://raw.githubusercontent.com/sm-monirulislam/Fancode_Auto_Update_Playlist/refs/heads/main/fancode_bd.m3u" -o fancode.m3u
           curl -s -L "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u" -o tapmad_bd.m3u
           curl -s -L "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u" -o sonyliv_playlist.m3u
 
-          # Process all files
-          for file in fancode.m3u tapmad_bd.m3u sonyliv_playlist.m3u; do
+          # # Process all files
+          # for file in fancode.m3u tapmad_bd.m3u sonyliv_playlist.m3u; do
 
-            # Replace https://in- with https://bd-
-            sed -i 's|https://in-|https://bd-|g' "$file"
+          #   # Replace https://in- with https://bd-
+          #   sed -i 's|https://in-|https://bd-|g' "$file"
 
-            # Change all group-title values to Fancode
-            sed -i 's|group-title="[^"]*"|group-title="Fancode"|g' "$file"
+          #   # Change all group-title values to Fancode
+          #   sed -i 's|group-title="[^"]*"|group-title="Fancode"|g' "$file"
 
-          done
+          # done
 
-          # Remove comma after #EXTINF:-1 in fancode.m3u
-          sed -i 's|#EXTINF:-1,|#EXTINF:-1|g' fancode.m3u
+          # # Remove comma after #EXTINF:-1 in fancode.m3u
+          # sed -i 's|#EXTINF:-1,|#EXTINF:-1|g' fancode.m3u
 
           # Merge into final file
           cat fancode.m3u > merged.m3u
