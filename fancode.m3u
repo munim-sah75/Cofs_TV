@@ -2,11 +2,13 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:44:44 PM 16-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 06:36:01 PM 16-08-2026 (BD Time)
+# Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248340_53029_KAS_KAN_FC-Web_1786702852064.png" group-title="Fancode",Kanpur Superstars vs Kashi Rudras
 https://fancode-bd.sm-monirul.top/4248340/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247470_52993_WAT_SOU_fc-web_1786657253801.jpg" group-title="Fancode",Watford F.C. vs Southampton F.C.
+https://fancode-bd.sm-monirul.top/4247470/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="Fancode",DTM 2026
 https://fancode-bd.sm-monirul.top/143817/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg" group-title="Fancode",Main Feed - Day 4
@@ -14,14 +16,14 @@ https://fancode-bd.sm-monirul.top/4248409/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:45 PM 16-08-2026
+# Last Update: 06:30 PM 16-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="Fancode", Sri Lanka vs India | India Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15955" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868704411020x576.jpg" group-title="Fancode", Game Changer Lions vs Vedanta Leopards | World Padel League 2026
+#EXTINF:-1 tvg-id="tapmad-15956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868707321020x576.jpg" group-title="Fancode", Aussie Mavericks Jaguars vs VB Realty Cheetahs | World Padel League 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15721" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868384181020x576.jpg" group-title="Fancode", PUBG Mobile - Day 9 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
@@ -29,7 +31,7 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:25 PM 16-08-2026
+# last_update: 06:20:26 PM 16-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539349" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022272/1786814971335229_SL_vs_IND_1stTest_Day2_clean_landscape_thumb.jpg" group-title="Fancode", Day 2 - 1st Test - 16 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786890029~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a26f359b47a9ebd43ae7ad2721d44fa0a30796e31b7a25524d9b63fdad6e6a7f
