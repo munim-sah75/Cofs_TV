@@ -2,17 +2,13 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:17:40 PM 16-08-2026 (BD Time)
-# Live Match : 14
+# Last Updated: 11:44:18 PM 16-08-2026 (BD Time)
+# Live Match : 12
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png" group-title="Fancode",Outer Delhi Warriors vs Purani Dilli-6
 https://fancode-bd.sm-monirul.top/4247998/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png" group-title="Fancode",Meerut Mavericks vs Gaur Gorakhpur Lions
 https://fancode-bd.sm-monirul.top/4248337/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247471_52993_BUR_WHU_fc-web_1786657253038.jpg" group-title="Fancode",Burnley vs West Ham United
-https://fancode-bd.sm-monirul.top/4247471/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247575_53004_RAC_VIL_FC-Web.png" group-title="Fancode",Racing Club de Santander vs Villarreal CF
-https://fancode-bd.sm-monirul.top/4247575/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248026_53006_SCH_RM_FC-WEB.png" group-title="Fancode",FC Schalke 04 vs Real Madrid
 https://fancode-bd.sm-monirul.top/4248026/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png" group-title="Fancode",RCD Espanyol vs Levante
@@ -36,7 +32,7 @@ https://fancode-bd.sm-monirul.top/4248121/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 16-08-2026
+# Last Update: 11:45 PM 16-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -49,7 +45,7 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:26 PM 16-08-2026
+# last_update: 11:50:30 PM 16-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022270/1786812589660953_THE_HUNDRED_2026_Mens_Final_Trent_Rockets_vs_Manchester_Super_Giant_landscape_thumb.jpg" group-title="Fancode", Trent Rockets vs Manchester Super Giant - Final - 16 Aug 2026 | The Hundred 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786920632~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a28413a98951d13fea2a8f9c9658d43423d73443533531419a468c48c94299ef
