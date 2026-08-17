@@ -2,27 +2,30 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:40:38 AM 17-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 09:48:58 AM 17-08-2026 (BD Time)
+# Live Match : 2
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",World Feed
 https://fancode-bd.sm-monirul.top/4248120/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",Grandstand
-https://fancode-bd.sm-monirul.top/4248121/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png" group-title="Fancode",Barbados Tridents vs Saint Lucia Kings
 https://fancode-bd.sm-monirul.top/4248284/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:15 AM 17-08-2026
+# Last Update: 10:00 AM 17-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="Fancode", Sri Lanka vs India | India Tour of Sri Lanka 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15784" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868713991020x576.jpg" group-title="Fancode", St Lucia Kings vs Barbados Tridents | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:25 AM 17-08-2026
+# last_update: 09:50:23 AM 17-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090539434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022291/1786875259795377_SL_vs_IND_1st_Test_Day3_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 3 - 1st Test - 17 Aug 2026 | India Tour of Sri Lanka 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786960229~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b874baf580b9d6d8fd409fb239cd91729b93e6154d771e12e1fbc5f54dc0c159
