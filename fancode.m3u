@@ -2,28 +2,32 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:40:34 PM 17-08-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 07:38:02 PM 17-08-2026 (BD Time)
+# Live Match : 4
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png" group-title="Fancode",West Delhi Lions vs South Delhi Superstarz
+https://fancode-bd.sm-monirul.top/4247993/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248383_53031_LUX_ESP_fc-web.jpg" group-title="Fancode",Spain vs Luxembourg
+https://fancode-bd.sm-monirul.top/4248383/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248385_53031_GRE_POR_fc-web.jpg" group-title="Fancode",Greece vs Portugal
+https://fancode-bd.sm-monirul.top/4248385/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png" group-title="Fancode",Oman vs Goa
 https://fancode-bd.sm-monirul.top/4248366/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:00 PM 17-08-2026
+# Last Update: 07:45 PM 17-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-16136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869711821020x576.jpg" group-title="Fancode", India vs England | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:26 PM 17-08-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090539441" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022296/1786877925170364_DurandCup_QF_Mohun_Bagan_vs_Jamshedpur_FC_landscape_thumb.jpg" group-title="Fancode", Mohun Bagan Super Giant vs Jamshedpur FC - Quarter Final 3 - 17 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football1708/ENG/master.m3u8?hdnea=exp=1786981832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=55335f4da0c4273e4e5dff90ff44e26349b0c7b471ac26cc4e59c2a66b65bbef
+# last_update: 07:20:28 PM 17-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539452" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022301/1786879171557753_DurandCup_QF_Shillong_Lajong_FC_vs_NorthEast_United_FC_landscape_thumb.jpg" group-title="Fancode", Shillong Lajong FC vs NorthEast United FC - Quarter Final 4 - 17 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000291/Football1708/ENG/master.m3u8?hdnea=exp=1786992633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=40e26a5f55fe4d4b40946b1e1d8674f60a4809b0e40e31127de54bcd8511bfef
