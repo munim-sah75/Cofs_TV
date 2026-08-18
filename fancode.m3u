@@ -2,19 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:35:32 AM 18-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 09:42:32 AM 18-08-2026 (BD Time)
+# Live Match : 1
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",World Feed
 https://fancode-bd.sm-monirul.top/4248123/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",Court 4
-https://fancode-bd.sm-monirul.top/4248124/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",Tony Trabert Stadium 3
-https://fancode-bd.sm-monirul.top/4248122/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:15 AM 18-08-2026
+# Last Update: 09:45 AM 18-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -24,4 +20,7 @@ https://fancode-bd.sm-monirul.top/4248122/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:26 AM 18-08-2026
+# last_update: 09:50:28 AM 18-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090539532" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022354/1786963820927151_SL_vs_IND_1st_Test_Day4_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 4 - 1st Test - 18 Aug 2026 | India Tour of Sri Lanka 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787046632~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2ff818b086332c1b109ae92f58973319a1141f6e99cae4253469fb1402fd525b
