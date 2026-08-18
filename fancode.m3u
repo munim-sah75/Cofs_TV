@@ -2,34 +2,30 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 04:56:57 PM 18-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 05:28:34 PM 18-08-2026 (BD Time)
+# Live Match : 2
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png" group-title="Fancode",Purani Dilli-6 vs North Delhi Strikers
 https://fancode-bd.sm-monirul.top/4247994/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" group-title="Fancode",Uganda vs Bahrain
 https://fancode-bd.sm-monirul.top/4248262/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248379_53031_FIN_LUX_fc-web.jpg" group-title="Fancode",Finland vs Luxembourg
-https://fancode-bd.sm-monirul.top/4248379/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:00 PM 18-08-2026
+# Last Update: 05:30 PM 18-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="Fancode", Sri Lanka vs India | India Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16141" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870375671020x576WOMEN.jpg" group-title="Fancode", New Zealand vs Ireland - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16142" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870376421020x576WOMEN.jpg" group-title="Fancode", England vs China - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:26 PM 18-08-2026
+# last_update: 05:20:25 PM 18-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539532" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022354/1786963820927151_SL_vs_IND_1st_Test_Day4_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 4 - 1st Test - 18 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787062833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d46c0772fd6469b5c26e67ad1a117c056374a6ea73215cc9b0a344cc1575d118
