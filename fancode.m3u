@@ -2,17 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:38:13 AM 19-08-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 09:44:49 AM 19-08-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",World Feed
-https://fancode-bd.sm-monirul.top/4248127/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248281_53026_JK_SKN_FC-Web.png" group-title="Fancode",Jamaica Kingsmen vs St Kitts and Nevis Patriots
 https://fancode-bd.sm-monirul.top/4248281/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 AM 19-08-2026
+# Last Update: 10:00 AM 19-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -23,4 +21,7 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:25 AM 19-08-2026
+# last_update: 09:50:24 AM 19-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090539696" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964161981306_SL_vs_IND_1st_Test_Day5_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 5 - 1st Test - 19 Aug 2026 | India Tour of Sri Lanka 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787133030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=95cf299be462b6b3958a0c8f4ad70312326d77c9e6d33d816d4ba66d613eccc3
