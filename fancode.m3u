@@ -2,9 +2,11 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:36:11 PM 20-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 03:32:52 PM 20-08-2026 (BD Time)
+# Live Match : 4
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png" group-title="Fancode",Gaur Gorakhpur Lions vs Noida Kings
+https://fancode-bd.sm-monirul.top/4248331/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248378_53031_CZE_POR_fc-web.jpg" group-title="Fancode",Portugal vs Czechia
 https://fancode-bd.sm-monirul.top/4248378/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248381_53031_BUL_LUX_fc-web.jpg" group-title="Fancode",Bulgaria vs Luxembourg
@@ -14,11 +16,13 @@ https://fancode-bd.sm-monirul.top/4248495/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:00 PM 20-08-2026
+# Last Update: 03:30 PM 20-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
+#EXTINF:-1 tvg-id="tapmad-15933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16156" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871386601020x576WOMEN.jpg" group-title="Fancode", China vs South Africa - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16157" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871364481020x576MEN.jpg" group-title="Fancode", Australia vs South Africa | FIH Hockey World Cup 2026
@@ -27,4 +31,4 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:27 PM 20-08-2026
+# last_update: 03:20:31 PM 20-08-2026
