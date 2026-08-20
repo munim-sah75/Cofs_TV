@@ -2,34 +2,37 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:35:36 PM 20-08-2026 (BD Time)
+# Last Updated: 06:46:12 PM 20-08-2026 (BD Time)
 # Live Match : 3
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png" group-title="Fancode",Gaur Gorakhpur Lions vs Noida Kings
 https://fancode-bd.sm-monirul.top/4248331/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248378_53031_CZE_POR_fc-web.jpg" group-title="Fancode",Portugal vs Czechia
-https://fancode-bd.sm-monirul.top/4248378/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248381_53031_BUL_LUX_fc-web.jpg" group-title="Fancode",Bulgaria vs Luxembourg
-https://fancode-bd.sm-monirul.top/4248381/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248373_53031_FIN_IOM_fc-web.jpg" group-title="Fancode",Finland vs Isle of Man
+https://fancode-bd.sm-monirul.top/4248373/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247559_53003_SDS-W_CDQ_FC-Web_1787120909809.png" group-title="Fancode",South Delhi Superstarz Women vs Central Delhi Queens
+https://fancode-bd.sm-monirul.top/4247559/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:15 PM 20-08-2026
+# Last Update: 07:15 PM 20-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16158" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871370921020x576MEN.jpg" group-title="Fancode", New Zealand vs Argentina | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16159" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871388661020x576WOMEN.jpg" group-title="Fancode", New Zealand vs Spain - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16160" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871390181020x576WOMEN.jpg" group-title="Fancode", India vs England - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:30 PM 20-08-2026
+# last_update: 07:20:27 PM 20-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090539811" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022424/178704685129153_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_live_landscape_thumb.jpg" group-title="Fancode", Mohun Bagan SG vs NorthEast United FC - Semi-Final - 20 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000292/DC_Mohun2008/ENG/master.m3u8?hdnea=exp=1787251828~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=57906ab1902271092aae7b2b8af3919575eac2f281e9f3553ee4d69ba7862dde
 
 #EXTINF:-1 tvg-id="sonyliv-1090539798" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg" group-title="Fancode", Day 2 - 1st Test - 20 Aug 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/master.m3u8?hdnea=exp=1787241033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6b12c6df7b9fae5d69b2e459f828b415061da689369ace3a8381cf367b805710
