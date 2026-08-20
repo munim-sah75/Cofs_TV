@@ -2,23 +2,19 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:26:20 AM 21-08-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 03:54:24 AM 21-08-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248158_53014_SHFF_BC_fc-web.png" group-title="Fancode",Sheffield Wednesday F.C. vs Bradford City
-https://fancode.sm-monirul-islam-rs.workers.dev/4248158/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Fancode",Main Feed - Day 1
 https://fancode.sm-monirul-islam-rs.workers.dev/4248414/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Fancode",World Feed - Day 1
 https://fancode.sm-monirul-islam-rs.workers.dev/4248410/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",World Feed 1
 https://fancode.sm-monirul-islam-rs.workers.dev/4248134/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247586_53004_RVL_ALA_FC-Web.png" group-title="Fancode",Rayo Vallecano vs Deportivo Alaves
-https://fancode.sm-monirul-islam-rs.workers.dev/4247586/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:30 AM 21-08-2026
+# Last Update: 03:45 AM 21-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -28,7 +24,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4247586/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:26 AM 21-08-2026
+# last_update: 03:50:25 AM 21-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539824" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702519612697_LIV_Golf_Indianapolis_day1_landscape_thumb.jpg" group-title="Fancode", Indianapolis - Day 1 - 20 Aug 2026 | LIV Golf
 https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/master.m3u8?hdnea=exp=1787275230~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=10fb76a4497adc8129e069dae4284e5fc533d1249a150f47068db52642e0938d
