@@ -2,13 +2,11 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:33:23 PM 20-08-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 11:26:57 PM 20-08-2026 (BD Time)
+# Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248339_53029_KAN_KAS_FC-Web_1786702851312.png" group-title="Fancode",Kashi Rudras vs Kanpur Superstars
 https://fancode-bd.sm-monirul.top/4248339/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248388_53031_GRE_ISR_fc-web.jpg" group-title="Fancode",Israel vs Greece
-https://fancode-bd.sm-monirul.top/4248388/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247559_53003_SDS-W_CDQ_FC-Web_1787120909809.png" group-title="Fancode",South Delhi Superstarz Women vs Central Delhi Queens
 https://fancode-bd.sm-monirul.top/4247559/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Fancode",Main Feed - Day 1
@@ -18,25 +16,22 @@ https://fancode-bd.sm-monirul.top/4248135/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:00 PM 20-08-2026
+# Last Update: 11:30 PM 20-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16161" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871375521020x576MEN.jpg" group-title="Fancode", Ireland vs Spain | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16162" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871380941020x576MEN.jpg" group-title="Fancode", Netherlands vs Japan | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15973" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872289441020x576.jpg" group-title="Fancode", Al-Fayha vs Al-Hilal | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:31 PM 20-08-2026
+# last_update: 11:20:26 PM 20-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539798" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg" group-title="Fancode", Day 2 - 1st Test - 20 Aug 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/master.m3u8?hdnea=exp=1787257235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=58ead12328a8ec50a7ff7b2755df5f318665bbdd506c5a7ed71fcec2516c365f
-
-#EXTINF:-1 tvg-id="sonyliv-1090539821" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703763082390_DP_World_Tour_Nexo_Championship_day1_landscape_thumb.jpg" group-title="Fancode", Nexo Championship - Day 1 - 20 Aug 2026 | DP World Tour
-https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787246430~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7e1de71447c57d81b6fc2f7aca0eeb6db5ef4747094226e9c584477d7b71d818
