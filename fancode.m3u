@@ -16,19 +16,20 @@ https://fancode-bd.sm-monirul.top/4248495/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:30 PM 20-08-2026
+# Last Update: 04:00 PM 20-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16156" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871386601020x576WOMEN.jpg" group-title="Fancode", China vs South Africa - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16157" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871364481020x576MEN.jpg" group-title="Fancode", Australia vs South Africa | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:31 PM 20-08-2026
+# last_update: 03:50:27 PM 20-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090539798" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg" group-title="Fancode", Day 2 - 1st Test - 20 Aug 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/master.m3u8?hdnea=exp=1787241033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6b12c6df7b9fae5d69b2e459f828b415061da689369ace3a8381cf367b805710
