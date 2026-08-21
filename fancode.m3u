@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:33:24 PM 21-08-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 09:31:21 PM 21-08-2026 (BD Time)
+# Live Match : 7
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png" group-title="Fancode",Outer Delhi Warriors vs East Delhi Riders
 https://fancode.sm-monirul-islam-rs.workers.dev/4247999/index.m3u8
@@ -15,30 +15,29 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248389/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4248390/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Fancode",Main Feed - Day 2
 https://fancode.sm-monirul-islam-rs.workers.dev/4248415/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg" group-title="Fancode",Sprint Qualifying
-https://fancode.sm-monirul-islam-rs.workers.dev/139478/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",Tony Trabert Stadium 3
+https://fancode.sm-monirul-islam-rs.workers.dev/4248138/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",Grandstand
+https://fancode.sm-monirul-islam-rs.workers.dev/4248140/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 PM 21-08-2026
+# Last Update: 09:45 PM 21-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16168" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873097391020x576WOMEN.jpg" group-title="Fancode", China vs Australia - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16169" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872940921020x576MEN.jpg" group-title="Fancode", Germany vs Spain | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15974" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872290901020x576.jpg" group-title="Fancode", Al-Riyadh vs Al-Nassr | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16170" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873098451020x576WOMEN.jpg" group-title="Fancode", Netherlands vs India - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:25 PM 21-08-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090539891" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714233084718_eng_vs_pak_live_1Test_day3_live_landscape_thumb.jpg" group-title="Fancode", Day 3 - 1st Test - 21 Aug 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/master.m3u8?hdnea=exp=1787341836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bf0dbab097e676133bb680dbf009c5d2d313aba1e36f729273ae04c39cd936e8
+# last_update: 09:20:27 PM 21-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539908" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg" group-title="Fancode", Nexo Championship - Day 2 - 21 Aug 2026 | DP World Tour
 https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787332832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=def40b948d1cd551527f57adc09d0fcb11ac77da152a7b6c1adfb67441d97673
