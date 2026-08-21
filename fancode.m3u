@@ -2,7 +2,7 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:43:03 PM 21-08-2026 (BD Time)
+# Last Updated: 01:40:59 PM 21-08-2026 (BD Time)
 # Live Match : 1
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248428_53036_ACT_HYK_fc-web.jpg" group-title="Fancode",Australian Capital Territory vs Hyderabad Kingsmen
@@ -10,14 +10,15 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248428/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:45 PM 21-08-2026
+# Last Update: 02:15 PM 21-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-16164" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872947541020x576WOMEN.jpg" group-title="Fancode", Japan vs South Africa - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:50:25 PM 21-08-2026
+# last_update: 02:20:25 PM 21-08-2026
