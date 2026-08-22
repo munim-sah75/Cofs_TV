@@ -2,26 +2,28 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:35:08 PM 22-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 04:21:30 PM 22-08-2026 (BD Time)
+# Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png" group-title="Fancode",Kashi Rudras vs Gaur Gorakhpur Lions
 https://fancode.sm-monirul-islam-rs.workers.dev/4248330/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247555_53003_SDS-W_NDS-W_FC-Web_1787120909812.png" group-title="Fancode",North Delhi Strikers Women vs South Delhi Superstarz Women
 https://fancode.sm-monirul-islam-rs.workers.dev/4247555/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg" group-title="Fancode",Bangladesh HP-XI vs Nepal
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248432_53036_BAN-HP_NEP_fc-web_1787393618574.jpg" group-title="Fancode",Bangladesh HP-XI vs Nepal
 https://fancode.sm-monirul-islam-rs.workers.dev/4248432/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg" group-title="Fancode",Sprint
+https://fancode.sm-monirul-islam-rs.workers.dev/139479/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="Fancode",F1 Kids - Sprint
+https://fancode.sm-monirul-islam-rs.workers.dev/4248533/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:45 PM 22-08-2026
+# Last Update: 04:15 PM 22-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16172" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873425781020x576MEN.jpg" group-title="Fancode", New Zealand vs Wales | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16235" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873060801020x576.jpg" group-title="Fancode", Poland vs England - W | Euro Beach Kabaddi Championship 2026
+#EXTINF:-1 tvg-id="tapmad-16236" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872972151020x576.jpg" group-title="Fancode", Hungary vs England | Euro Beach Kabaddi Championship 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16173" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873436421020x576WOMEN.jpg" group-title="Fancode", Ireland vs Scotland - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
@@ -29,4 +31,4 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:27 PM 22-08-2026
+# last_update: 04:20:26 PM 22-08-2026
