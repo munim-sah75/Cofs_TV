@@ -2,11 +2,9 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:08:38 AM 22-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 08:34:36 AM 22-08-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",World Feed
-https://fancode.sm-monirul-islam-rs.workers.dev/4248141/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png" group-title="Fancode",Jamaica Kingsmen vs Saint Lucia Kings
 https://fancode.sm-monirul-islam-rs.workers.dev/4248291/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1787120232579/4248435_CASACARDS_APP.png" group-title="Fancode",Adelaide Strikers Academy vs New Zealand A
@@ -14,13 +12,11 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248435/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:15 AM 22-08-2026
+# Last Update: 09:15 AM 22-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15788" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872128311020x576.jpg" group-title="Fancode", St Lucia Kings vs Jamaica Kingsmen | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15959" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870481021020x576.jpg" group-title="Fancode", Australia vs Bangladesh | Bangladesh Tour of Australia 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15918" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873567261020x576.jpg" group-title="Fancode", Watch Free - Australia vs Bangladesh | Bangladesh Tour of Australia 2026
@@ -29,4 +25,4 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-5tap347/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:23 AM 22-08-2026
+# last_update: 09:20:30 AM 22-08-2026
