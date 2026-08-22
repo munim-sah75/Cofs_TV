@@ -2,25 +2,31 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:30:27 PM 22-08-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 02:27:45 PM 22-08-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg" group-title="Fancode",Hyderabad Kingsmen vs Victoria Academy
-https://fancode.sm-monirul-islam-rs.workers.dev/4248437/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg" group-title="Fancode",Qualifying Session
-https://fancode.sm-monirul-islam-rs.workers.dev/139693/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248509_53041_RR_SW_FC-Web.jpg" group-title="Fancode",Rawain Royals vs Someshwar Warriors
+https://fancode.sm-monirul-islam-rs.workers.dev/4248509/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247555_53003_SDS-W_NDS-W_FC-Web_1787120909812.png" group-title="Fancode",North Delhi Strikers Women vs South Delhi Superstarz Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4247555/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg" group-title="Fancode",Qualifying Session
+https://fancode.sm-monirul-islam-rs.workers.dev/143615/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg" group-title="Fancode",Bangladesh HP-XI vs Nepal
+https://fancode.sm-monirul-islam-rs.workers.dev/4248432/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:15 PM 22-08-2026
+# Last Update: 02:45 PM 22-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-16172" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873425781020x576MEN.jpg" group-title="Fancode", New Zealand vs Wales | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16234" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872965611020x576.jpg" group-title="Fancode", Poland vs Hungary | Euro Beach Kabaddi Championship 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:28 PM 22-08-2026
+# last_update: 02:50:28 PM 22-08-2026
