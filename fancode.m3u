@@ -2,17 +2,17 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:59:29 AM 23-08-2026 (BD Time)
+# Last Updated: 01:29:09 AM 23-08-2026 (BD Time)
 # Live Match : 7
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247585_53004_VAL_CEV_FC-Web.png" group-title="Fancode",Valencia CF vs RC Celta
 https://fancode.sm-monirul-islam-rs.workers.dev/4247585/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248274_53025_AAS_ABC_FC-Web.png" group-title="Fancode",Al-Ahli Saudi FC vs Abha
 https://fancode.sm-monirul-islam-rs.workers.dev/4248274/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247582_53004_ESL_RM_FC-Web.png" group-title="Fancode",RCD Espanyol vs Real Madrid
+https://fancode.sm-monirul-islam-rs.workers.dev/4247582/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Fancode",Main Feed - Day 3
 https://fancode.sm-monirul-islam-rs.workers.dev/4248416/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",Grandstand
-https://fancode.sm-monirul-islam-rs.workers.dev/4248144/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png" group-title="Fancode",Day 1
 https://fancode.sm-monirul-islam-rs.workers.dev/4248527/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="Fancode",World Feed - Day 3
@@ -22,24 +22,24 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248142/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 AM 23-08-2026
+# Last Update: 01:30 AM 23-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16178" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874125691020x576MEN.jpg" group-title="Fancode", England vs Argentina | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16099" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873105091020x576.jpg" group-title="Fancode", Valencia vs Celta | Laliga 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15980" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874160741020x576.jpg" group-title="Fancode", Al-Ahli vs Abha | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16179" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874174051020x576WOMEN.jpg" group-title="Fancode", Argentina vs Spain - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16100" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874169871020x576.jpg" group-title="Fancode", Espanyol vs Real Madrid | Laliga 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:50:25 AM 23-08-2026
+# last_update: 01:20:27 AM 23-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539974" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702505513697_LIV_Golf_Indianapolis_day3_landscape_thumb.jpg" group-title="Fancode", Indianapolis - Day 3 - 22 Aug 2026 | LIV Golf
-https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/master.m3u8?hdnea=exp=1787431830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6528a334f8d977a7b97b3861eee06c87de510f3a27923057fa537602d871a7fa
+https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/master.m3u8?hdnea=exp=1787448031~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=81c62d90f2a6d138e86f18915bfdecf70617e4de9ba4ec6f902ff49ea3a26df2
