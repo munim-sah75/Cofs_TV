@@ -2,19 +2,17 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:19:19 AM 24-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 05:45:24 AM 24-08-2026 (BD Time)
+# Live Match : 2
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Fancode",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248150_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode",Men's Finals [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248149_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png" group-title="Fancode",Antigua & Barbuda Falcons vs Guyana Amazon Warriors [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248299_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 AM 24-08-2026
+# Last Update: 05:45 AM 24-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -25,7 +23,4 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:28 AM 24-08-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090540054" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702497412697_LIV_Golf_Indianapolis_day4_landscape_thumb.jpg" group-title="Fancode", Indianapolis - Day 4 - 23 Aug 2026 | LIV Golf
-https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/master.m3u8?hdnea=exp=1787545234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3f6f05cee2ef3ac8e4502f7de41bd5f5a1fdd8ad963c22b9196525b6266716d3
+# last_update: 05:50:25 AM 24-08-2026
