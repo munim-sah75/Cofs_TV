@@ -2,28 +2,28 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:49:06 AM 23-08-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 10:34:51 AM 23-08-2026 (BD Time)
+# Live Match : 0
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png" group-title="Fancode",Trinbago Knight Riders vs Antigua & Barbuda Falcons
-https://fancode.sm-monirul-islam-rs.workers.dev/4248293/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:15 AM 23-08-2026
+# Last Update: 10:45 AM 23-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-15959" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870481021020x576.jpg" group-title="Fancode", Australia vs Bangladesh | Bangladesh Tour of Australia 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg" group-title="Fancode", Sri Lanka vs India | India Tour of Sri Lanka 2026
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15918" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873567261020x576.jpg" group-title="Fancode", Watch Free - Australia vs Bangladesh | Bangladesh Tour of Australia 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-2tap253/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:23 AM 23-08-2026
+# last_update: 10:50:26 AM 23-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090540040" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326364907960_SL_vs_IND_2nd_Test_Day1_clean_landscape_thumb.jpg" group-title="Fancode", Day 1 - 2nd Test - 23 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787478633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dee7524cba25c12dc78a84c0c4cbf756cc81181334bdc9ca9c07d0b3ee3d34e2
