@@ -2,14 +2,14 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:22:54 PM 23-08-2026 (BD Time)
+# Last Updated: 10:51:41 PM 23-08-2026 (BD Time)
 # Live Match : 8
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png" group-title="Fancode",North Delhi Strikers vs Outer Delhi Warriors [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248002_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Fancode",Meerut Mavericks vs Gaur Gorakhpur Lions [Hindi]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Fancode",Gaur Gorakhpur Lions vs Meerut Mavericks [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248348_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Fancode",Meerut Mavericks vs Gaur Gorakhpur Lions [Bhojpuri]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="Fancode",Gaur Gorakhpur Lions vs Meerut Mavericks [Bhojpuri]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248348_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg" group-title="Fancode",Baragaddi Kings vs Bhagirathi Giants [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248511_ENG/index.m3u8
@@ -24,7 +24,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248413_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:30 PM 23-08-2026
+# Last Update: 10:45 PM 23-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -33,8 +33,10 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248413_ENG/index.m3u8
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16185" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874531741020x576MEN.jpg" group-title="Fancode", Germany vs Australia | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16186" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874179941020x576WOMEN.jpg" group-title="Fancode", Australia vs India - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:30 PM 23-08-2026
+# last_update: 10:50:29 PM 23-08-2026
