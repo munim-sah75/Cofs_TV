@@ -2,15 +2,17 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:45:40 PM 23-08-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 06:36:32 PM 23-08-2026 (BD Time)
+# Live Match : 6
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png" group-title="Fancode",Noida Kings vs Lucknow Falcons
 https://fancode.sm-monirul-islam-rs.workers.dev/4248342/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg" group-title="Fancode",Taknor Tigers vs Baukh Night Riders
-https://fancode.sm-monirul-islam-rs.workers.dev/4248510/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg" group-title="Fancode",Baragaddi Kings vs Bhagirathi Giants
+https://fancode.sm-monirul-islam-rs.workers.dev/4248511/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247475_52993_WBA_BUR_fc-web_1786657253104.jpg" group-title="Fancode",West Bromwich Albion F.C. vs Burnley
 https://fancode.sm-monirul-islam-rs.workers.dev/4247475/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248496_53040_EBWC_SFA-W_FC-WEB.png" group-title="Fancode",East Bengal FC Women vs Sabah FA Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4248496/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247552_53003_CDQ_EDR-W_FC-Web_1787120909822.png" group-title="Fancode",East Delhi Riders Women vs Central Delhi Queens
 https://fancode.sm-monirul-islam-rs.workers.dev/4247552/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg" group-title="Fancode",Race
@@ -18,25 +20,20 @@ https://fancode.sm-monirul-islam-rs.workers.dev/139481/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:45 PM 23-08-2026
+# Last Update: 06:45 PM 23-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg" group-title="Fancode", Sri Lanka vs India | India Tour of Sri Lanka 2026
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16181" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874526501020x576MEN.jpg" group-title="Fancode", Malaysia vs South Africa | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16182" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874177621020x576WOMEN.jpg" group-title="Fancode", Japan vs England - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16183" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874529101020x576MEN.jpg" group-title="Fancode", France vs Ireland | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:30 PM 23-08-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090540040" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326364907960_SL_vs_IND_2nd_Test_Day1_clean_landscape_thumb.jpg" group-title="Fancode", Day 1 - 2nd Test - 23 Aug 2026 | India Tour of Sri Lanka 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787494834~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f4c9f844be2d9361e7f2008f5f14eb542a91e55087f9d853bab2cccb05be7587
+# last_update: 06:20:27 PM 23-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090540056" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022648/1787301855188130_Durand_Cup_26_Final_East-Bengal-vs-Mohun-Bagan-Super-Giant_live_landscape_thumb.jpg" group-title="Fancode", East Bengal FC vs Mohun Bagan SG - Final - 23 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/East_Ben2308/BEN/master.m3u8?hdnea=exp=1787503831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6e1d53be93b17b2f6dd3892766f1933b604621d0abdab938e5e189dc2503d205
