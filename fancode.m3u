@@ -2,7 +2,7 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:26:48 PM 24-08-2026 (BD Time)
+# Last Updated: 05:55:54 PM 24-08-2026 (BD Time)
 # Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png" group-title="Fancode",Lucknow Falcons vs Kashi Rudras [Hindi]
@@ -18,7 +18,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248444_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 PM 24-08-2026
+# Last Update: 06:00 PM 24-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -27,11 +27,13 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248444_ENG/index.m3u8
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16190" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875535461020x576MEN.jpg" group-title="Fancode", New Zealand vs Pakistan | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16191" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875567391020x576WOMEN.jpg" group-title="Fancode", Ireland vs USA - W | FIH Hockey World Cup 2026
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:29 PM 24-08-2026
+# last_update: 05:50:29 PM 24-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090540152" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326357844960_SL_vs_IND_2nd_Test_Day2_clean_landscape_thumb.jpg" group-title="Fancode", 2nd Test - Day 2 - 24 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787581236~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=279d33a4154ce9f4e92ad9820c42505b588e658a6e0c9f85c01e3ee4bdc117a3
