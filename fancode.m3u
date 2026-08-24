@@ -2,7 +2,7 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:50:32 PM 24-08-2026 (BD Time)
+# Last Updated: 08:40:00 PM 24-08-2026 (BD Time)
 # Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png" group-title="Fancode",South Delhi Superstarz vs New Delhi Tigers [English]
@@ -18,17 +18,17 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4247553_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 PM 24-08-2026
+# Last Update: 08:45 PM 24-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16191" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875567391020x576WOMEN.jpg" group-title="Fancode", Ireland vs USA - W | FIH Hockey World Cup 2026
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16192" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875538911020x576MEN.jpg" group-title="Fancode", Argentina vs India | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16193" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875568081020x576WOMEN.jpg" group-title="Fancode", Spain vs Germany - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:30 PM 24-08-2026
+# last_update: 08:20:26 PM 24-08-2026
