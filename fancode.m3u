@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:35:33 PM 24-08-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 11:29:12 PM 24-08-2026 (BD Time)
+# Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png" group-title="Fancode",New Delhi Tigers vs South Delhi Superstarz [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248003_ENG/index.m3u8
@@ -13,24 +13,26 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248353_HIN/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4248353_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png" group-title="Fancode",Neom SC vs Al Qadisiyah [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248275_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png" group-title="Fancode",CA Osasuna vs Levante [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247579_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:00 PM 24-08-2026
+# Last Update: 11:45 PM 24-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16193" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875568081020x576WOMEN.jpg" group-title="Fancode", Spain vs Germany - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16286" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873140601020x576.jpg" group-title="Fancode", Men's & Women's Singles Qualifying | US Open 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16194" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875543391020x576MEN.jpg" group-title="Fancode", Netherlands vs England | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15982" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875581851020x576.jpg" group-title="Fancode", Neom vs Al Qadsiah | Saudi Pro League 2026/27
-https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16104" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875577421020x576.jpg" group-title="Fancode", Osasuna vs Levante | Laliga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:32 PM 24-08-2026
+# last_update: 11:20:26 PM 24-08-2026
