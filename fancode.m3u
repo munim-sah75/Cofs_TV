@@ -2,17 +2,13 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:26:56 AM 26-08-2026 (BD Time)
-# Live Match : 10
+# Last Updated: 02:56:21 AM 26-08-2026 (BD Time)
+# Live Match : 7
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248497_53016_IPT_LEI_fc-web.jpg" group-title="Fancode",Ipswich Town F.C. vs Leicester City F.C. [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248497_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248498_53016_PLY_CVC_fc-web.jpg" group-title="Fancode",Plymouth Argyle vs Coventry City F.C. [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248498_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248499_53016_SHFF_WOL_fc-web.jpg" group-title="Fancode",Sheffield Wednesday F.C. vs Wolverhampton Wanderers F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248499_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248500_53016_SOU_WHU_fc-web.jpg" group-title="Fancode",Southampton F.C. vs West Ham United [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248500_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248501_53016_STK_HUL_fc-web.jpg" group-title="Fancode",Stoke City F.C. vs Hull City [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248501_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247572_53004_VAL_RB_FC-Web.png" group-title="Fancode",Valencia CF vs Real Betis [English]
@@ -23,12 +19,10 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248502_ENG/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4248503_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Fancode",World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248152_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248278_53025_ETT_ANF_FC-Web.png" group-title="Fancode",Al-Ettifaq vs Al-Nassr FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248278_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:30 AM 26-08-2026
+# Last Update: 02:45 AM 26-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -45,7 +39,7 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:25 AM 26-08-2026
+# last_update: 02:50:30 AM 26-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090540291" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022595/1787037914304926_UCL_26_Play-offs-Leg2_Lask-vs-Celtic_live_landscape_thumb.jpg" group-title="Fancode", LASK vs Celtic- Play-offs - Leg 2 - 26 Aug 2026 | UEFA Champions League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/master.m3u8?hdnea=exp=1787705439~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=71850a94e329966b830143b62686b0c4093898a247534e2b9c69e1db11d3a632
