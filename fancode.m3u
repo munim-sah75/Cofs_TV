@@ -18,17 +18,18 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248439_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:45 PM 26-08-2026
+# Last Update: 06:45 PM 26-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-16688" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876649911020x576.jpg" group-title="Fancode", Rotterdam Dockers vs Amsterdam Flames | European T20 Premier League 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:26 PM 26-08-2026
+# last_update: 06:50:33 PM 26-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090540376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787647798662385_JPL_26_Bengal-Indians-vs-Indore-Hawks_live_landscape_thumb.jpg" group-title="Fancode", Bengal Indians vs Indore Hawks - 26 Aug 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787754040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7b9dc4d2aeffc169baa74cc55b2ddcf0abae9375df8055a0f4a40e69298652cc
+#EXTINF:-1 tvg-id="sonyliv-1090540376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787648037924385_JPL_26_Bangalore-Blasters-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg" group-title="Fancode", Bangalore Blasters vs Golden Eagles Delhi - 26 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787770237~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=466bd0097acfff7a4b53b3c8df685c2d33ad5e62ffb3e8c2c6197eda59ade4e2
