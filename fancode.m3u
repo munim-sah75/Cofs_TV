@@ -2,19 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:46:35 AM 26-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 09:52:55 AM 26-08-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg" group-title="Fancode",New Zealand A vs Victoria Academy [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248441_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Fancode",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248152_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png" group-title="Fancode",Antigua & Barbuda Falcons vs Barbados Tridents [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248295_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg" group-title="Fancode",New Zealand A vs Victoria Academy
+https://fancode.sm-monirul-islam-rs.workers.dev/4248441/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 AM 26-08-2026
+# Last Update: 10:00 AM 26-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -24,4 +20,10 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248295_ENG/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:25 AM 26-08-2026
+# last_update: 09:50:31 AM 26-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090540360" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022839/178758435102279_SL_vs_IND_2nd_Test_Day4_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 4 - 2nd Test - 26 Aug 2026 | India Tour of Sri Lanka 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787737838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aad72506c74223f61cc6a84d986844479ab876cbd45ad7938c309c7d457cb71c
+
+#EXTINF:-1 tvg-id="sonyliv-1090540376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022927/1787680519633550_JPL_Pagaria_Strikers_Maharashtra_vs_Rajasthan_Rajvansh_live_landscape_thumb.jpg" group-title="Fancode", Pagariya Strikers vs Rajasthan Rajvansh - 26 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787737846~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1fb555fe250415a8c01d7d16d9fbec57c2ed3fcd3f1f18581a5426f7b7bac7c3
