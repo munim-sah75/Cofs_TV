@@ -2,15 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:32:43 AM 26-08-2026 (BD Time)
+# Last Updated: 12:45:50 PM 26-08-2026 (BD Time)
 # Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg" group-title="Fancode",Adelaide Strikers Academy vs Hobart Hurricanes Academy
-https://fancode.sm-monirul-islam-rs.workers.dev/4248442/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg" group-title="Fancode",Adelaide Strikers Academy vs Hobart Hurricanes Academy [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248442_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:15 PM 26-08-2026
+# Last Update: 01:00 PM 26-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -21,7 +21,7 @@ https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:32 PM 26-08-2026
+# last_update: 12:50:32 PM 26-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090540360" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022839/178758435102279_SL_vs_IND_2nd_Test_Day4_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 4 - 2nd Test - 26 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787737838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aad72506c74223f61cc6a84d986844479ab876cbd45ad7938c309c7d457cb71c
