@@ -2,29 +2,50 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:37:01 AM 28-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 03:40:32 PM 28-08-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Fancode",World Feed - Day 1 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248418_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Fancode",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248154_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png" group-title="Fancode",Jamaica Kingsmen vs St Kitts and Nevis Patriots [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248292_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248445_53036_NTS_BAN-HP_fc-web_1787393618584.jpg" group-title="Fancode",Northern Territory Strike vs Bangladesh HP-XI [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248445_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248520_53041_RR_BNR_FC-Web.jpg" group-title="Fancode",Rawain Royals vs Baukh Night Riders [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248520_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" group-title="Fancode",Germany Women vs Sweden Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248579_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" group-title="Fancode",Aragon GP [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139963_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247556_53003_SDS-W_EDR-W_FC-Web_1787555684559.png" group-title="Fancode",South Delhi Superstarz Women vs East Delhi Riders Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247556_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:45 AM 28-08-2026
+# Last Update: 07:15 PM 28-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16291" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876425141020x576.jpg" group-title="Fancode", Stars of the Open | US Open 2026
+#EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16781" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878304861020x576.jpg" group-title="Fancode", Maheshate vs Flowers | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15793" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878161841020x576.jpg" group-title="Fancode", St Kitts and Nevis Patriots vs Jamaica Kingsmen | Caribbean Premier League 2026
+#EXTINF:-1 tvg-id="tapmad-16207" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878181421020x576MEN.jpg" group-title="Fancode", New Zealand vs Ireland | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16208" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878183761020x576MEN.jpg" group-title="Fancode", England vs Australia | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878244781020x576.jpg" group-title="Fancode", Belgium vs Turkiye Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16691" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878268761020x576.jpg" group-title="Fancode", Amsterdam Flames vs Edinburgh Castle Rockers | European T20 Premier League 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:26 AM 28-08-2026
+# last_update: 07:20:31 PM 28-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090540725" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023057/1787840589436647_ENGvsPAK_2nd_test_day2_landscape_thumb.jpg" group-title="Fancode", Day 2 - 2nd Test - 28 Aug 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/master.m3u8?hdnea=exp=1787932234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1bbc8e08c1065117412844bd2ea89aa1e31f4df44db4099e3749701c3d7bc9c0
+
+#EXTINF:-1 tvg-id="sonyliv-1090540652" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809885352573_JPL_26_Royals-Hyderabad-vs-Bangalore-Blasters_landscape_thumb.jpg" group-title="Fancode", Royals Hyderabad vs Bangalore Blasters - 28 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/master.m3u8?hdnea=exp=1787941242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=29060802f6cf67dc4c1dad43dfa730a5c5acdbde9ccc99be6b28659bea7a58fe
+
+#EXTINF:-1 tvg-id="sonyliv-1090540708" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808406069204_DP_World_Tour_Husqvarna_British_Masters_day2_landscape_thumb.jpg" group-title="Fancode", Husqvarna British Masters - Day 2 - 28 Aug 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/master.m3u8?hdnea=exp=1787937631~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=971d880bfbbfbe79678b1dc3ed39963093dc6c484679b9d3bc71395ef3b51d23
