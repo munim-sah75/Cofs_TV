@@ -2,25 +2,17 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:06:06 AM 29-08-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 09:14:26 AM 29-08-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247476_52993_WRX_BIR_fc-web_1786657253804.jpg" group-title="Fancode",Wrexham A.F.C. vs Birmingham City F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247476_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247596_53004_ALA_VIL_FC-Web.png" group-title="Fancode",Deportivo Alaves vs Villarreal CF [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247596_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248400_53017_TFE_SG_FC-Web.png" group-title="Fancode",Tenerife vs Sporting de Gijón [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248400_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Fancode",Main Feed - Day 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248423_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Fancode",World Feed - Day 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248419_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Fancode",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248155_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248455_53036_HHA_NZ-A_fc-web_1787393618773.jpg" group-title="Fancode",Hobart Hurricanes Academy vs New Zealand A [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248455_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248301_53026_TKR_BT_FC-Web.png" group-title="Fancode",Barbados Tridents vs Trinbago Knight Riders [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248301_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:00 AM 29-08-2026
+# Last Update: 10:00 AM 29-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -30,4 +22,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248155_ENG/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:27 AM 29-08-2026
+# last_update: 09:50:27 AM 29-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090540806" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815121565770_JPL_26_Chennai-Striker-Kings-vs-Bengal-Indians_live_landscape_thumb.jpg" group-title="Fancode", Chennai Striker Kings vs Bengal Indians - 29 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/master.m3u8?hdnea=exp=1787997032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c639b192712c7af1a5e1bdf7188276109b64a7616835c72c33dfe33c3ec28232
