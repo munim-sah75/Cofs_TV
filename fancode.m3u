@@ -2,27 +2,53 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:14:26 AM 29-08-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 04:18:41 PM 29-08-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248455_53036_HHA_NZ-A_fc-web_1787393618773.jpg" group-title="Fancode",Hobart Hurricanes Academy vs New Zealand A [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248455_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248301_53026_TKR_BT_FC-Web.png" group-title="Fancode",Barbados Tridents vs Trinbago Knight Riders [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248301_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248347_53029_MER_LCK_FC-Web_1786702851715.png" group-title="Fancode",Meerut Mavericks vs Lucknow Falcons [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248347_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248347_53029_MER_LCK_FC-Web_1786702851715.png" group-title="Fancode",Meerut Mavericks vs Lucknow Falcons [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248347_BHO/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248454_53036_NEP_VA_fc-web_1787393619334.jpg" group-title="Fancode",Nepal A vs Victoria Academy [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248454_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248522_53041_SW_BG_FC-Web.jpg" group-title="Fancode",Someshwar Warriors vs Bhagirathi Giants [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248522_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" group-title="Fancode",Germany Women vs Denmark Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248581_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" group-title="Fancode",Aragon GP [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139964_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:00 AM 29-08-2026
+# Last Update: 04:45 PM 29-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16692" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879082101020x576.jpg" group-title="Fancode", Glasgow Cosmic vs Dublin Guardians | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15577" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875729211020x576.jpg" group-title="Fancode", Nurmagomedov vs Song | UFC 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16414" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879152081020x576.jpg" group-title="Fancode", Colombia vs Syria Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16798" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879510551020-23andlast.jpg" group-title="Fancode", Mazda MX-5 Cup Benelux - Race 1 | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:27 AM 29-08-2026
+# last_update: 04:50:26 PM 29-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090540806" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815121565770_JPL_26_Chennai-Striker-Kings-vs-Bengal-Indians_live_landscape_thumb.jpg" group-title="Fancode", Chennai Striker Kings vs Bengal Indians - 29 Aug 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/master.m3u8?hdnea=exp=1787997032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c639b192712c7af1a5e1bdf7188276109b64a7616835c72c33dfe33c3ec28232
+#EXTINF:-1 tvg-id="sonyliv-1090540809" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023111/1787918548169954_ENGvsPAK_2nd_test_day3_live_landscape_thumb.jpg" group-title="Fancode", Day 3 - 2nd Test - 29 Aug 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/master.m3u8?hdnea=exp=1788018633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a585848212674e945b36b7f66883937c81e0ce8644a259e24b17188d9bb2eb6e
+
+#EXTINF:-1 tvg-id="sonyliv-1090540822" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg" group-title="Fancode", UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 | UFC Fight Night - Nurmagomedov vs Song
+https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/master.m3u8?hdnea=exp=1788018640~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ae049b6fcaf1b5ff7e2b9840da6a0a640567cb460cfce4730036efd5de95ed7a
+
+#EXTINF:-1 tvg-id="sonyliv-1090540806" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815808989770_JPL_26_Gujarat-Gladiators-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="Fancode", Gujarat Gladiators vs Pune Peshwas - 29 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/master.m3u8?hdnea=exp=1788013238~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=55c8a0b5c288d41ef6c4475a0de0223d097116036b4b351fd1b7a611600b55e4
+
+#EXTINF:-1 tvg-id="sonyliv-1090540811" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808412785204_DP_World_Tour_Husqvarna_British_Masters_day3_landscape_thumb.jpg" group-title="Fancode", Husqvarna British Masters - Day 3 - 29 Aug 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/master.m3u8?hdnea=exp=1788013244~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=18c7b6ac861a4fb4c7edd2cef01b615839af24a455d3b96d00281fadbb5dc0ca
