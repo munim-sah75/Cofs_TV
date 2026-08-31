@@ -2,25 +2,27 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:21:58 AM 31-08-2026 (BD Time)
+# Last Updated: 05:41:34 AM 31-08-2026 (BD Time)
 # Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247589_53004_CEV_ATH_FC-Web.png" group-title="Fancode",RC Celta vs Athletic Club [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247589_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Fancode",World Feed - Day 4 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248421_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248303_53026_SKN_ABF_FC-Web.png" group-title="Fancode",St Kitts and Nevis Patriots vs Antigua & Barbuda Falcons [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248303_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:45 AM 31-08-2026
+# Last Update: 06:00 AM 31-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16292" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880183251020x576.jpg" group-title="Fancode", Men's & Women's Singles 1st Round | US Open 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15796" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879128381020x576.jpg" group-title="Fancode", St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880187141020x576.jpg" group-title="Fancode", Men's & Women's Singles 1st Round | US Open 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:29 AM 31-08-2026
+# last_update: 05:51:07 AM 31-08-2026
