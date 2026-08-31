@@ -2,34 +2,25 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:53:34 PM 31-08-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 04:29:20 AM 01-09-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png" group-title="Fancode",Lucknow Falcons vs Kanpur Superstars [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248346_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png" group-title="Fancode",Lucknow Falcons vs Kanpur Superstars [Bhojpuri]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248346_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247597_53004_OSN_GEF_FC-Web.png" group-title="Fancode",CA Osasuna vs Getafe CF [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247597_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248307_53026_TKR_GUY_FC-Web.png" group-title="Fancode",Guyana Amazon Warriors vs Trinbago Knight Riders [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248307_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247590_53004_BAR_RVL_FC-Web.png" group-title="Fancode",FC Barcelona vs Rayo Vallecano [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247590_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:45 PM 31-08-2026
+# Last Update: 04:30 AM 01-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-5693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881642271020x576.jpg" group-title="Fancode", Men's & Women's Singles 1st Round | US Open 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16501" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881568751020x576.jpg" group-title="Fancode", Costa Rica vs India Live | Socca World Cup 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16118" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879273841020x576.jpg" group-title="Fancode", Osasuna vs Getafe | Laliga 2026/27
+#EXTINF:-1 tvg-id="tapmad-15797" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881728971020x576.jpg" group-title="Fancode", Trinbago Knight Riders vs Guyana Amazon Warriors | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:29 PM 31-08-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090540967" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg" group-title="Fancode", Mohali Kings vs Bathinda Royals - 31 Aug 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/master.m3u8?hdnea=exp=1788216635~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ef9930379e25cc2be1d8de0c29eeee82e2077213d91119329e33134d4f3a683
+# last_update: 03:50:32 AM 01-09-2026
