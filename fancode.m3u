@@ -2,28 +2,30 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:22:09 AM 01-09-2026 (BD Time)
+# Last Updated: 12:33:33 PM 01-09-2026 (BD Time)
 # Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248307_53026_TKR_GUY_FC-Web.png" group-title="Fancode",Guyana Amazon Warriors vs Trinbago Knight Riders [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248307_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Fancode",Malaysia vs Saudi Arabia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248613_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Fancode",Kuwait vs Singapore [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248614_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 PM 01-09-2026
+# Last Update: 05:45 PM 01-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16295" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881655651020x576.jpg" group-title="Fancode", Men's & Women's Singles 1st Round | US Open 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:24 AM 01-09-2026
+# last_update: 05:20:27 PM 01-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541057" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023158/1787991155507882_JPL_26_Chennai-Strikers-vs-Indore-Hawks_live_landscape_thumb.jpg" group-title="Fancode", Chennai Strikers vs Indore Hawks - 1 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/master.m3u8?hdnea=exp=1788258033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ea6236b54caa6f288ace3bfbbffb089005194e11b1b52362ba474660568056fb
+#EXTINF:-1 tvg-id="sonyliv-1090541059" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172141615658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_landscape_thumb.jpg" group-title="Fancode", Bathinda Royals vs Ludhiana Lions - 1 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/master.m3u8?hdnea=exp=1788283231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9f61e27994e5fbd5b38a8c4994e4402ab15480cd9cc16a94181370c1a473e9cf
+
+#EXTINF:-1 tvg-id="sonyliv-1090541057" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023295/1788246025224942_JPL_26_Pagariya-Strikers-vs-Bangalore-Blasters_live_landscape_thumb.jpg" group-title="Fancode", Pagariya Strikers vs Bangalore Blasters - 1 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/master.m3u8?hdnea=exp=1788274234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd2fb83570dc20c4b38a9a97affa5bc0b7cebf9f88d40771c87926f10ff40f64
