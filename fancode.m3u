@@ -2,42 +2,36 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:21:50 PM 01-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 10:49:18 PM 01-09-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png" group-title="Fancode",Kashi Rudras vs Meerut Mavericks [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248359_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png" group-title="Fancode",Kashi Rudras vs Meerut Mavericks [Bhojpuri]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248359_BHO/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png" group-title="Fancode",Kanpur Superstars vs Gaur Gorakhpur Lions [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248360_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png" group-title="Fancode",Kanpur Superstars vs Gaur Gorakhpur Lions [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248360_BHO/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amritsar-Soormas-vs-Jalandhar-Warriors_fc-web1.jpg" group-title="Fancode",Amritsar Soormas vs Jalandhar Warriors [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249130_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg" group-title="Fancode",IAS Invincibles vs Yalla Shabab Giants [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248668_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248460_53037_ZIM_SA_FC-WEB.jpg" group-title="Fancode",South Africa vs Zimbabwe [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248460_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247564_53003_EDR-W_CDQ_FC-Web_1787555684582.png" group-title="Fancode",Central Delhi Queens vs East Delhi Riders Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247564_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:15 PM 01-09-2026
+# Last Update: 12:30 AM 02-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16696" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881712711020x576.jpg" group-title="Fancode", Glasgow Cosmic vs Rotterdam Dockers | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16296" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881656251020x576.jpg" group-title="Fancode", Men's & Women's Singles 1st Round | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16534" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882440661020x576.jpg" group-title="Fancode", Germany vs Indonesia Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16540" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882444851020x576.jpg" group-title="Fancode", Turkiye vs Iraq Live | Socca World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16894" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881709641020x576.jpg" group-title="Fancode", Al-Hilal vs Al-Ahli | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:34 PM 01-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541059" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023324/1788272546407821_PT20_Jalandhar_Warriors_vs_Amritsar_Soormas_live_landscape_thumb.jpg" group-title="Fancode", Jalandhar Warriors vs Amritsar Soormas - 1 Sep 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/master.m3u8?hdnea=exp=1788297638~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8d106517a9345b57f82b045c7d96876a95e5f90fcaff5d6f1d838be128e63229
+# last_update: 12:20:30 AM 02-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541157" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023294/1788245104544595_ENGW_vs_IREW_1odi_landscape.jpg" group-title="Fancode", 1st ODI - 1 Sep 2026 | Ireland Women's Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/master.m3u8?hdnea=exp=1788285037~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a8a9012da629d24855c87285586f13b5d031fbd293bd4ae89301a37be66891a6
-
-#EXTINF:-1 tvg-id="sonyliv-1090541057" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022847/1787590096868696_JPL_Mumbai_SoBo_Stars_vs_Rajasthan_Rajvansh_live_landscape_thumb.jpg" group-title="Fancode", Mumbai Sobo Stars vs Rajasthan Rajvansh - 1 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/master.m3u8?hdnea=exp=1788290439~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=468e48e3357ea20a61b0379d545110284ac6c1d5c854e35190a0311d6229a779
+https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/master.m3u8?hdnea=exp=1788301235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=09075f9a828251179e26551038793d4febcf04dec108449ef0297c580cf3462b
