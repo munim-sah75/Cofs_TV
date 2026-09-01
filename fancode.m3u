@@ -2,36 +2,26 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:49:18 PM 01-09-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 01:44:52 AM 02-09-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png" group-title="Fancode",Kanpur Superstars vs Gaur Gorakhpur Lions [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248360_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png" group-title="Fancode",Kanpur Superstars vs Gaur Gorakhpur Lions [Bhojpuri]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248360_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amritsar-Soormas-vs-Jalandhar-Warriors_fc-web1.jpg" group-title="Fancode",Amritsar Soormas vs Jalandhar Warriors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249130_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg" group-title="Fancode",IAS Invincibles vs Yalla Shabab Giants [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248668_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247564_53003_EDR-W_CDQ_FC-Web_1787555684582.png" group-title="Fancode",Central Delhi Queens vs East Delhi Riders Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247564_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248653_53025_AHS_AAS_FC-Web_1788155166471.png" group-title="Fancode",Al Hilal SFC vs Al-Ahli Saudi FC
+https://fancode.sm-monirul-islam-rs.workers.dev/4248653/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1787136554687/4248531_CASACARDS_APP.png" group-title="Fancode",HEBC Hamburg vs Borussia Dortmund
+https://fancode.sm-monirul-islam-rs.workers.dev/4248531/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247479_52993_STK_NOR_fc-web_1786657253828.jpg" group-title="Fancode",Stoke City F.C. vs Norwich City F.C.
+https://fancode.sm-monirul-islam-rs.workers.dev/4247479/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:30 AM 02-09-2026
+# Last Update: 03:15 AM 02-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16540" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882444851020x576.jpg" group-title="Fancode", Turkiye vs Iraq Live | Socca World Cup 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16894" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881709641020x576.jpg" group-title="Fancode", Al-Hilal vs Al-Ahli | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:30 AM 02-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541157" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023294/1788245104544595_ENGW_vs_IREW_1odi_landscape.jpg" group-title="Fancode", 1st ODI - 1 Sep 2026 | Ireland Women's Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/master.m3u8?hdnea=exp=1788301235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=09075f9a828251179e26551038793d4febcf04dec108449ef0297c580cf3462b
+# last_update: 03:20:30 AM 02-09-2026
