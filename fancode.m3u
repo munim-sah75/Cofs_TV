@@ -2,25 +2,28 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:24:09 AM 02-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 10:54:04 AM 02-09-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248294_53026_SKN_BT_FC-Web.png" group-title="Fancode",Barbados Tridents vs St Kitts and Nevis Patriots
-https://fancode.sm-monirul-islam-rs.workers.dev/4248294/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248615_53050_OMA_QAT_FC-Web.png" group-title="Fancode",Oman vs Qatar
+https://fancode.sm-monirul-islam-rs.workers.dev/4248615/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248616_53050_HK_BRN_FC-Web.png" group-title="Fancode",Hong Kong, China vs Bahrain
+https://fancode.sm-monirul-islam-rs.workers.dev/4248616/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:00 AM 02-09-2026
+# Last Update: 11:30 AM 02-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15798" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882460711020x576.jpg" group-title="Fancode", St Kitts and Nevis Patriots vs Barbados Tridents | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16297" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882464341020x576.jpg" group-title="Fancode", Men's & Women's Singles 1st Round | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:26 AM 02-09-2026
+# last_update: 11:20:28 AM 02-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541190" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023158/1787992407824882_JPL_26_Bengal-Indians-vs-Gujarat-Gladiators_live_landscape_thumb.jpg" group-title="Fancode", Bengal Indians vs Gujarat Gladiators - 2 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/master.m3u8?hdnea=exp=1788344437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=43d7ad37a5aba719c291d8dab2f9d6c1c1057b167d81c15559d0e683612ee70c
