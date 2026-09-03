@@ -2,7 +2,7 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 04:59:01 AM 03-09-2026 (BD Time)
+# Last Updated: 07:03:14 AM 03-09-2026 (BD Time)
 # Live Match : 1
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248305_53026_TKR_ABF_FC-Web.png" group-title="Fancode",Antigua & Barbuda Falcons vs Trinbago Knight Riders [English]
@@ -10,17 +10,17 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248305_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:15 AM 03-09-2026
+# Last Update: 10:45 AM 03-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15799" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882574311020x576.jpg" group-title="Fancode", Trinbago Knight Riders vs Antigua and Barbuda Falcons | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16299" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882633841020x576.jpg" group-title="Fancode", Men's & Women's Singles 2nd Round | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:28 AM 03-09-2026
+# last_update: 10:50:28 AM 03-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541267" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Fancode", Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788429034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2d45b8c1d70307107551221020fcac50079d38a7f45c828407daa07faec3e044
