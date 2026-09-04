@@ -2,30 +2,31 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:01:46 AM 04-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 02:08:22 PM 04-09-2026 (BD Time)
+# Live Match : 4
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249123_53065_BHT_AMS_fc-web_1788345784092.jpg" group-title="Fancode",Amritsar Soormas vs Bathinda Royals [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249123_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249123_53065_BHT_AMS_fc-web_1788345784092.jpg" group-title="Fancode",Amritsar Soormas vs Bathinda Royals [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249123_PUN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248619_53050_SDA_BRN_FC-Web.png" group-title="Fancode",Saudi Arabia vs Bahrain [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248619_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248620_53050_SIN_QAT_FC-Web.png" group-title="Fancode",Singapore vs Qatar [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248620_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png" group-title="Fancode",St Kitts and Nevis Patriots vs Saint Lucia Kings [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248297_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg" group-title="Fancode",Practice Session [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139646_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 AM 04-09-2026
+# Last Update: 04:45 PM 04-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16301" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884403161020x576.jpg" group-title="Fancode", Men's & Women's Singles 2nd Round | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:32 AM 04-09-2026
+# last_update: 04:50:28 PM 04-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541354" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023468/1788465934799679_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb.jpg" group-title="Fancode", Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/master.m3u8?hdnea=exp=1788517232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a41fd65e130b717ba1013332ef4128b2337f9a3ff79d37f6feb297908d19df29
+#EXTINF:-1 tvg-id="sonyliv-1090541355" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="Fancode", Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/master.m3u8?hdnea=exp=1788528040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3257c21b0a4aa86bbabf3d1e5687237b84113f28e89a4ea00f32f57aa1d0d110
