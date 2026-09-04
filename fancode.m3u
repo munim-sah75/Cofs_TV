@@ -2,37 +2,39 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:44:08 PM 04-09-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 01:17:52 AM 05-09-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249125_53065_LLN_JLD_fc-web_1788345783978.jpg" group-title="Fancode",Ludhiana Lions vs Jalandhar Warriors [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249125_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249125_53065_LLN_JLD_fc-web_1788345783978.jpg" group-title="Fancode",Ludhiana Lions vs Jalandhar Warriors [Punjabi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249125_PUN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" group-title="Fancode",Noida Kings vs Meerut Mavericks [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248344_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" group-title="Fancode",Noida Kings vs Meerut Mavericks [Bhojpuri]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248344_BHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248671_53052_YSG_MAT_fc-Web.jpg" group-title="Fancode",Yalla Shabab Giants vs Majees Titans [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248671_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249069_53058_RD_SS_fc-Web_fc-webtvbg.jpg" group-title="Fancode",Rishikesh Dragons vs Selaqui Strikers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249069_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248655_53025_ASF_AHS_FC-Web_1788155166474.png" group-title="Fancode",Al-Shabab FC vs Al Hilal SFC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248655_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248656_53025_AAS_ALR_FC-Web.png" group-title="Fancode",Al-Ahli Saudi FC vs Al-Riyadh SC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248656_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247599_53004_RB_RM_FC-Web.png" group-title="Fancode",Real Betis vs Real Madrid [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247599_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248463_53038_LCL_MUN-W_fc-web.jpg" group-title="Fancode",London City Lionesses vs Manchester United Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248463_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248644_53017_LAP_LEG_FC-Web.png" group-title="Fancode",Las Palmas vs Leganes
+https://fancode.sm-monirul-islam-rs.workers.dev/4248644/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 04-09-2026
+# Last Update: 01:45 AM 05-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883534141020x576.jpg" group-title="Fancode", Glasgow Cosmic vs Belfast Wolves | European T20 Premier League 2026
-https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-16302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884404471020x576.jpg" group-title="Fancode", Men's & Women's Singles 3rd Round | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16622" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885125251020x576.jpg" group-title="Fancode", Denmark vs Germany Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296761020x576.jpg" group-title="Fancode", Al-Shabab vs Al-Hilal | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296021020x576.jpg" group-title="Fancode", Al-Ahli vs Al-Riyadh | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885130561020x576.jpg" group-title="Fancode", Ukraine vs Australia Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16938" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885300491020x576.jpg" group-title="Fancode", Betis vs Real Madrid | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:27 PM 04-09-2026
+# last_update: 01:50:29 AM 05-09-2026
