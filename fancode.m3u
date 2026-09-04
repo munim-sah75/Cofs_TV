@@ -2,25 +2,30 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:47:27 AM 04-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 09:01:46 AM 04-09-2026 (BD Time)
+# Live Match : 3
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248619_53050_SDA_BRN_FC-Web.png" group-title="Fancode",Saudi Arabia vs Bahrain [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248619_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248620_53050_SIN_QAT_FC-Web.png" group-title="Fancode",Singapore vs Qatar [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248620_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png" group-title="Fancode",St Kitts and Nevis Patriots vs Saint Lucia Kings [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248297_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:15 AM 04-09-2026
+# Last Update: 11:30 AM 04-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15800" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884394801020x576.jpg" group-title="Fancode", St Kitts and Nevis Patriots vs St Lucia Kings | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16301" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884403161020x576.jpg" group-title="Fancode", Men's & Women's Singles 2nd Round | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:22 AM 04-09-2026
+# last_update: 11:50:32 AM 04-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541354" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023468/1788465934799679_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb.jpg" group-title="Fancode", Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/master.m3u8?hdnea=exp=1788517232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a41fd65e130b717ba1013332ef4128b2337f9a3ff79d37f6feb297908d19df29
