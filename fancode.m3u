@@ -2,40 +2,37 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:50:16 PM 04-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 10:44:08 PM 04-09-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249068_53058_DK_MT_fc-Web_fc-webtvbg.jpg" group-title="Fancode",Doiwala Kings vs Mussoorie Thunder [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249068_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249125_53065_LLN_JLD_fc-web_1788345783978.jpg" group-title="Fancode",Ludhiana Lions vs Jalandhar Warriors [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249125_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249125_53065_LLN_JLD_fc-web_1788345783978.jpg" group-title="Fancode",Ludhiana Lions vs Jalandhar Warriors [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249125_PUN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" group-title="Fancode",Noida Kings vs Meerut Mavericks [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248344_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" group-title="Fancode",Noida Kings vs Meerut Mavericks [Bhojpuri]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248344_BHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248671_53052_YSG_MAT_fc-Web.jpg" group-title="Fancode",Yalla Shabab Giants vs Majees Titans [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248671_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248461_53037_NAM_SA_FC-WEB.jpg" group-title="Fancode",South Africa vs Namibia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248461_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg" group-title="Fancode",Qualifying Session [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139647_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249069_53058_RD_SS_fc-Web_fc-webtvbg.jpg" group-title="Fancode",Rishikesh Dragons vs Selaqui Strikers [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249069_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 PM 04-09-2026
+# Last Update: 11:30 PM 04-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-16700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883534141020x576.jpg" group-title="Fancode", Glasgow Cosmic vs Belfast Wolves | European T20 Premier League 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16616" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885121001020x576.jpg" group-title="Fancode", Greece vs Oman Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884404471020x576.jpg" group-title="Fancode", Men's & Women's Singles 3rd Round | US Open 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16622" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885125251020x576.jpg" group-title="Fancode", Denmark vs Germany Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:31 PM 04-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541355" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Fancode", Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/master.m3u8?hdnea=exp=1788544232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0d6cda8a698d413584ff2127c0929be39f37c97f0147c95e3e4abec667ee24b5
-
-#EXTINF:-1 tvg-id="sonyliv-1090541517" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023469/1788466451709385_JPL_Eliminator_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg" group-title="Fancode", Rajasthan Rajvansh vs Mumbai Kings - Eliminator - 4 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/master.m3u8?hdnea=exp=1788547832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f3d63236e7477042a4a8017b2a78b52e048e1668ac4ab32d86332a9c249a0d29
-
-#EXTINF:-1 tvg-id="sonyliv-1090541356" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg" group-title="Fancode", Omega European Masters - Day 2 - 4 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/master.m3u8?hdnea=exp=1788542448~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ac74639a5b393a24583ad68acb8735208dd7dafc8ab595310e897657786ba27
+# last_update: 11:20:27 PM 04-09-2026
