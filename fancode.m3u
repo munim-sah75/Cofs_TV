@@ -2,47 +2,44 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:09:22 PM 05-09-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 01:15:28 AM 06-09-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249110_53065_JLD_MOK_fc-web_1788345783971.jpg" group-title="Fancode",Jalandhar Warriors vs Mohali Kings [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249110_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249110_53065_JLD_MOK_fc-web_1788345783971.jpg" group-title="Fancode",Jalandhar Warriors vs Mohali Kings [Punjabi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249110_PUN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248672_53052_MUT_IAI_fc-Web.jpg" group-title="Fancode",Muscat Thunders vs IAS Invincibles [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248672_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249072_53058_VD_MT_fc-Web_fc-webtvbg.jpg" group-title="Fancode",Vikasnagar Dhamaka vs Mussoorie Thunder [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249072_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248657_53025_ALTW_AFF_FC-Web.png" group-title="Fancode",Al-Taawoun FC vs Al-Fateh SC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248657_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249088_53061_BT-W_TKR-W_FC-Web_1788430037592.png" group-title="Fancode",Trinbago Knight Riders Women vs Barbados Tridents Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249088_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248658_53025_ITT_ANF_FC-Web.png" group-title="Fancode",Al-Ittihad vs Al-Nassr FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248658_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247484_52993_SWA_WRX_fc-web_1786657253848.jpg" group-title="Fancode",Swansea City A.F.C. vs Wrexham A.F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247484_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247603_53004_VIL_COR_FC-Web.png" group-title="Fancode",Villarreal CF vs Deportivo de La Coruna [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247603_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247605_53004_RVL_RAC_FC-Web.png" group-title="Fancode",Rayo Vallecano vs Racing Club de Santander [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4247605_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 05-09-2026
+# Last Update: 01:15 AM 06-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-16304" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885023421020x576.jpg" group-title="Fancode", Men's & Women's Singles 3rd Round | US Open 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16898" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885297511020x576.jpg" group-title="Fancode", Al-Taawoun vs Al Fateh | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16940" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885302081020x576.jpg" group-title="Fancode", Rayo Vallecano vs Racing Santander | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16645" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886203451020x576.jpg" group-title="Fancode", Germany vs Poland | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16899" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885298191020x576.jpg" group-title="Fancode", Al-Ittihad vs Al-Nassr | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16648" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886212801020x576.jpg" group-title="Fancode", Brazil vs Croatia | Socca World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17077" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885281241020x576.jpg" group-title="Fancode", Scootering Men Final - Street Plaza Live | Extreme Barcelona 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16930" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885199191020x576.jpg" group-title="Fancode", Hooker vs Parnasse | UFC 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16941" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885304231020x576.jpg" group-title="Fancode", Villarreal vs Deportivo | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17051" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885709911020x576.jpg" group-title="Fancode", Barbados Tridents Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:31 PM 05-09-2026
+# last_update: 01:20:35 AM 06-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541487" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418830046255_PT20_Jalandhar-Warriors-vs-Mohali-Kings_live_landscape_thumb.jpg" group-title="Fancode", Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/master.m3u8?hdnea=exp=1788643237~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=53510d19bc5669ea8a25475c60fc54fac5dc689ab50a4c04f5d1048e2db47b37
-
-#EXTINF:-1 tvg-id="sonyliv-1090541528" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023522/1788600066961184_JPL_Final_Pune-Peshwas-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Fancode", Pune Peshwas vs Rajasthan Rajvansh - Final - 5 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022319/Criclive0509/ENG/master.m3u8?hdnea=exp=1788643246~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9d9c8bf7398c2dfbce157b6b4ba64e517dce3f9c51b262ed7f8b018fb113ae28
+#EXTINF:-1 tvg-id="sonyliv-1090541574" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Fancode", UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 | UFC Fight Night - Hooker vs Parnasse
+https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/master.m3u8?hdnea=exp=1788655835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=899e20239b11f6a3251ecc6ba1a5481a71b42331a81cbb725eb93b265d10b2b3
