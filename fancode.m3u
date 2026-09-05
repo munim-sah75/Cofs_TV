@@ -2,30 +2,43 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:03:33 AM 05-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 01:48:15 PM 05-09-2026 (BD Time)
+# Live Match : 6
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg" group-title="Fancode",Fazilka Falcons vs Bathinda Royals [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249117_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg" group-title="Fancode",Fazilka Falcons vs Bathinda Royals [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249117_PUN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248621_53050_KUW_OMA_FC-Web.png" group-title="Fancode",Kuwait vs Oman [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248621_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248622_53050_MAS_HK_FC-Web.png" group-title="Fancode",Malaysia vs Hong Kong, China [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248622_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png" group-title="Fancode",Jamaica Kingsmen vs Guyana Amazon Warriors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248309_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249070_53058_HKR_MT_fc-Web_fc-webtvbg.jpg" group-title="Fancode",Herbertpur Knight Riders vs Mussoorie Thunder [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249070_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg" group-title="Fancode",Sprint Race [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139739_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 AM 05-09-2026
+# Last Update: 03:00 PM 05-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16303" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885022631020x576.jpg" group-title="Fancode", Men's & Women's Singles 3rd Round | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16634" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885626481020-23last.jpg" group-title="Fancode", Greece vs Croatia | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16637" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885633131020x576.jpg" group-title="Fancode", France vs Germany | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16701" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885050981020x576.jpg" group-title="Fancode", Rotterdam Dockers vs Edinburgh Castle Rockers | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:25 AM 05-09-2026
+# last_update: 02:50:28 PM 05-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541487" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg" group-title="Fancode", Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/master.m3u8?hdnea=exp=1788612628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=613f4b92f95c136e0390a25c3f26ecc8f073eb78ac2b1a79d60dbd84d872554f
 
 #EXTINF:-1 tvg-id="sonyliv-1090541486" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023514/1788552191862987_JPL_Qualifier2_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg" group-title="Fancode", Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/master.m3u8?hdnea=exp=1788603644~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2b023e7a157cdc0abac0436f52e3875b9c72c439d1c4e284c1150027745d8a2b
+https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/master.m3u8?hdnea=exp=1788619832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f90e50b802657ac06ec09be4c7474768bf14bc58cf5caf6277e354a22364bed7
