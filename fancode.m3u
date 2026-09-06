@@ -2,33 +2,29 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:24:11 AM 07-09-2026 (BD Time)
+# Last Updated: 03:33:20 AM 07-09-2026 (BD Time)
 # Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247604_53004_ESL_SEV_FC-Web.png" group-title="Fancode",RCD Espanyol vs Sevilla FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247604_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248647_53017_ALM_CDZ_FC-Web.png" group-title="Fancode",Almería vs Cádiz [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248647_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CPL_Web-match-card.png" group-title="Fancode",St Kitts and Nevis Patriots vs Guyana Amazon Warriors [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248302_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247604_53004_ESL_SEV_FC-Web.png" group-title="Fancode",RCD Espanyol vs Sevilla FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247604_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 AM 07-09-2026
+# Last Update: 03:30 AM 07-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-16306" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885725131020x576.jpg" group-title="Fancode", Men's & Women's Singles | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16654" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886464861020x576.jpg" group-title="Fancode", Brazil vs Germany | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15803" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885697191020x576.jpg" group-title="Fancode", Guyana Amazon Warriors vs St Kitts and Nevis Patriots | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16945" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885307861020x576.jpg" group-title="Fancode", Espanyol vs Sevilla | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:27 AM 07-09-2026
+# last_update: 03:20:31 AM 07-09-2026
