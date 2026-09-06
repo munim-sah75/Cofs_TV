@@ -2,8 +2,8 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:19:59 PM 06-09-2026 (BD Time)
-# Live Match : 14
+# Last Updated: 11:14:33 PM 06-09-2026 (BD Time)
+# Live Match : 8
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249109_53065_LLN_FAF_fc-web_1788345783974.jpg" group-title="Fancode",Fazilka Falcons vs Ludhiana Lions [Hindi]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249109_HIN/index.m3u8
@@ -17,37 +17,25 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248361_BHO/index.m3u8
 https://fancode.sm-monirul-islam-rs.workers.dev/4249075_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249089_53061_JE-W_GUY-W_FC-Web.png" group-title="Fancode",Guyana Amazon Warriors Women vs Jamaica Empress Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249089_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247601_53004_VAL_BAR_FC-Web.png" group-title="Fancode",Valencia CF vs FC Barcelona [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247601_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248467_53038_CHL-W_LIV-W_fc-web.jpg" group-title="Fancode",Charlton Athletic F.C Women vs Liverpool Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248467_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248468_53038_CP-W_EVE-W_fc-web.jpg" group-title="Fancode",Crystal Palace Women vs Everton Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248468_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248469_53038_MCI-W_BIR-W_fc-web.jpg" group-title="Fancode",Manchester City Women vs Birmingham City F.C. Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248469_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" group-title="Fancode",South Africa vs Zimbabwe [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248462_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Fancode",Race [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139486_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Fancode",Race [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/139486_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Fancode",Race [Tamil]
-https://fancode.sm-monirul-islam-rs.workers.dev/139486_TAM/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247598_53004_ALA_OSN_FC-Web.png" group-title="Fancode",Deportivo Alaves vs CA Osasuna [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247598_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247607_53004_MAG_LET_FC-Web.png" group-title="Fancode",Malaga vs Levante [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247607_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:45 PM 06-09-2026
+# Last Update: 11:45 PM 06-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16704" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885679831020x576.jpg" group-title="Fancode", Amsterdam Flames vs Rotterdam Dockers | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16942" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885305061020x576.jpg" group-title="Fancode", Valencia vs Barcelona | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16306" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885725131020x576.jpg" group-title="Fancode", Men's & Women's Singles | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17083" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885286621020x576.jpg" group-title="Fancode", BMX Men UCI HC Final - Central Plaza Live | Extreme Barcelona 2026
+#EXTINF:-1 tvg-id="tapmad-16943" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885305871020x576.jpg" group-title="Fancode", Alaves vs Osasuna | LaLiga 2026/27
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16944" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885306571020x576.jpg" group-title="Fancode", Malaga vs Levante | LaLiga 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17086" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885288331020x576.jpg" group-title="Fancode", Scootering Men Final - Central Plaza Live | Extreme Barcelona 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17052" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885712691020x576.jpg" group-title="Fancode", Guyana Amazon Warriors Women vs Jamaica Empress Women | Women's Caribbean Premier League 2026
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
@@ -55,13 +43,7 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:27 PM 06-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541545" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023357/1788333199816860_ENGW_vs_IREW_3odi_landscape.jpg" group-title="Fancode", 3rd ODI - 6 Sep 2026 | Ireland Women's Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/master.m3u8?hdnea=exp=1788724233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6630829b15727ec134b76a32aa5e0dca05002760c45de8ea3a09e9ffa9fbb01a
+# last_update: 11:20:28 PM 06-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541579" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023580/1788703938951144_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_landscape_thumb.jpg" group-title="Fancode",  Ludhiana Lions vs Fazilka Falcons - 6 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/master.m3u8?hdnea=exp=1788731432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aa722577fca2f96750636f0e4f4a35e6703cd46fa7a8c3e384cb47b2ed0724e5
-
-#EXTINF:-1 tvg-id="sonyliv-1090541532" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341923917287_DP-World-2026-Omega-European-Masters_Day4_landscape_thumb.jpg" group-title="Fancode", Omega European Masters - Day 4 - 6 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/master.m3u8?hdnea=exp=1788724240~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=59d6d9330ea99187df18e7c272fda72e55c3798f3f0dfbbc208154142a2906c6
