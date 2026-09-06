@@ -2,23 +2,35 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:12:40 AM 06-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 12:18:41 PM 06-09-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248308_53026_BT_TKR_FC-Web.png" group-title="Fancode",Trinbago Knight Riders vs Barbados Tridents
-https://fancode.sm-monirul-islam-rs.workers.dev/4248308/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248623_53050_NEP_SDA_FC-Web.png" group-title="Fancode",Nepal vs Saudi Arabia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248623_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248624_53050_UAE_SIN_FC-Web.png" group-title="Fancode",United Arab Emirates vs Singapore [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248624_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249073_53058_DK_RD_fc-Web_fc-webtvbg.jpg" group-title="Fancode",Doiwala Kings vs Rishikesh Dragons [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249073_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg" group-title="Fancode",Race [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139740_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:00 AM 06-09-2026
+# Last Update: 03:15 PM 06-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16305" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885717061020x576.jpg" group-title="Fancode", Men's & Women's Singles 3rd Round | US Open 2026
-https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16703" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885673371020x576.jpg" group-title="Fancode", Glasgow Cosmic vs Edinburgh Castle Rockers | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:25 AM 06-09-2026
+# last_update: 02:50:25 PM 06-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541651" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023497/1788536600255108_VCL26_Auction_live_landscape_thumb.jpg" group-title="Fancode", Auction - 6 Sep 2026 | Volleyball Championship League 2026 
+https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/master.m3u8?hdnea=exp=1788704434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=174116ed2683345d0b90d685d7984f25f967fca2164f1aa3432be445d527a3f1
+
+#EXTINF:-1 tvg-id="sonyliv-1090541579" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="Fancode", Bathinda Royals vs Jalandhar Warriors - 6 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/master.m3u8?hdnea=exp=1788699037~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9080fbc525f11e6b0cf6b3a08787b4846d36582e855ae07aac6ac5fce2f0c8a0
