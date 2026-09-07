@@ -2,19 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:33:20 AM 07-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 05:29:37 AM 07-09-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248647_53017_ALM_CDZ_FC-Web.png" group-title="Fancode",Almería vs Cádiz [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248647_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CPL_Web-match-card.png" group-title="Fancode",St Kitts and Nevis Patriots vs Guyana Amazon Warriors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248302_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247604_53004_ESL_SEV_FC-Web.png" group-title="Fancode",RCD Espanyol vs Sevilla FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247604_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248311_53026_BT_SLK_FC-Web.png" group-title="Fancode",Saint Lucia Kings vs Barbados Tridents [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248311_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:00 AM 07-09-2026
+# Last Update: 06:45 AM 07-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -27,4 +23,7 @@ https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:29 AM 07-09-2026
+# last_update: 06:50:24 AM 07-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541680" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="Fancode", Sunday Night Main Event - 7 Sep 2026 | WWE
+https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/master.m3u8?hdnea=exp=1788760227~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0cdb86bb17f713d5b10a3fc2edffc9384429d935eea2ccc5cc006f70765393bb
