@@ -2,15 +2,17 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:16:01 AM 07-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 12:26:59 PM 07-09-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248311_53026_BT_SLK_FC-Web.png" group-title="Fancode",Saint Lucia Kings vs Barbados Tridents [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248311_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248625_53050_KUW_QAT_FC-Web.png" group-title="Fancode",Kuwait vs Qatar [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248625_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248626_53050_MAS_BRN_FC-Web.png" group-title="Fancode",Malaysia vs Bahrain [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248626_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 AM 07-09-2026
+# Last Update: 04:30 PM 07-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -20,4 +22,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4248311_ENG/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:26 AM 07-09-2026
+# last_update: 04:20:25 PM 07-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541606" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023528/1788610858749325_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg" group-title="Fancode", Mohali Kings vs Ludhiana Lions - 7 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/master.m3u8?hdnea=exp=1788785475~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=80857f19e7d38d201bda187d52eab5e70067e8b044071e95f643a8f8d394beb9
