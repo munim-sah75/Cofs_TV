@@ -2,32 +2,39 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:23:45 PM 08-09-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 02:05:28 AM 09-09-2026 (BD Time)
+# Live Match : 7
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Fancode",Jalandhar Warriors vs Ludhiana Lions [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249121_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Fancode",Jalandhar Warriors vs Ludhiana Lions [Punjabi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249121_PUN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248674_53052_IAI_MAT_fc-Web.jpg" group-title="Fancode",IAS Invincibles vs Majees Titans [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248674_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249075_53058_SS_DK_fc-Web_fc-webtvbg.jpg" group-title="Fancode",Doiwala Kings vs Selaqui Strikers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249079_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248660_53025_ETT_ALF_FC-Web.png" group-title="Fancode",Al-Ettifaq vs Al Faisaly Saudi [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248660_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248661_53025_ALQ_AAS_FC-Web.png" group-title="Fancode",Al-Qadsiah FC vs Al-Ahli Saudi FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248661_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248662_53025_ITT_ALF_FC-Web.png" group-title="Fancode",Al-Ittihad vs Al-Fayha FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248662_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249049_53016_CRY_MIDD_fc-web.jpg" group-title="Fancode",Crystal Palace vs Middlesbrough F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249049_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249050_53016_SUN_HUL_fc-web.jpg" group-title="Fancode",Sunderland vs Hull City [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249050_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249051_53016_BOU_LNC_fc-web.jpg" group-title="Fancode",Bournemouth vs Lincoln City F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249051_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247487_52993_BOL_WHU_fc-web_1786657253825.jpg" group-title="Fancode",Bolton Wanderers vs West Ham United [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247487_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249052_53016_MLW_NEW_fc-web.jpg" group-title="Fancode",Millwall F.C. vs Newcastle United [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249052_ENG/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:33 PM 08-09-2026
+# last_update: 01:50:28 AM 09-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541696" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788511646779822_UCL_26_MD1_Club-Brugge-vs-Aston-Villa_live_landscape_thumb.jpg" group-title="Fancode", Club Brugge vs Aston Villa - MD 1 - 8 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/master.m3u8?hdnea=exp=1788906034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ea95b0dbadc66a82ace3a4fd13cd20fe1c357bc6117b921c7999d9926a28ba93
+#EXTINF:-1 tvg-id="sonyliv-1090541700" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788515051391822_UCL_26_MD1_Porto-vs-Manchester-City_live_landscape_thumb.jpg" group-title="Fancode", Porto vs Man City - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
 
-#EXTINF:-1 tvg-id="sonyliv-1090541702" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023665/1788875797577152_punjabt20_ludhiana_vs_bhatinda_landscape_thumb.jpg" group-title="Fancode", Jalandhar Warriors vs Ludhiana Lions - 8 Sep 2026 | Sher-E-Punjab T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/master.m3u8?hdnea=exp=1788904238~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=19cc15d7b5524e8c51222c9c5383807dfd50ffa0b5a9bc41aeeddad3b3df48b4
+#EXTINF:-1 tvg-id="sonyliv-1090541798" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg" group-title="Fancode", Real Madrid vs Inter - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
 
-#EXTINF:-1 tvg-id="sonyliv-1090541697" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513038876822_UCL_26_MD1_AEK-Athens-vs-LASK_live_landscape_thumb.jpg" group-title="Fancode", AEK Athens vs LASK - MD 1 - 8 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/master.m3u8?hdnea=exp=1788906043~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cb5b703d0d8f935b6cfc6fc9f14a26e850743497c2ffa2e1a2579b5a7cb014db
+#EXTINF:-1 tvg-id="sonyliv-1090541701" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788516657640822_UCL_26_MD1_Dortmund-vs-Villarreal_live_landscape_thumb.jpg" group-title="Fancode", Dortmund vs Villarreal - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
+
+#EXTINF:-1 tvg-id="sonyliv-1090541699" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788514202693822_UCL_26_MD1_Lille-vs-Real-Betis_live_landscape_thumb.jpg" group-title="Fancode", Lille vs Real Betis - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
