@@ -2,35 +2,27 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:58:37 PM 08-09-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 07:29:16 PM 08-09-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="Fancode",Amritsar Soormas vs Mohali Kings [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249120_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="Fancode",Amritsar Soormas vs Mohali Kings [Punjabi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249120_PUN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248627_53050_NEP_HK_FC-Web_1788765687310.png" group-title="Fancode",Nepal vs Hong Kong, China [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248627_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248628_53050_UAE_OMA_FC-Web_1788765687290.png" group-title="Fancode",United Arab Emirates vs Oman [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248628_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Fancode",Ludhiana Lions vs Jalandhar Warriors [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249121_HIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Fancode",Ludhiana Lions vs Jalandhar Warriors [Punjabi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249121_PUN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248674_53052_IAI_MAT_fc-Web.jpg" group-title="Fancode",IAS Invincibles vs Majees Titans [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248674_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249153_53067_KEN_SRL_FC-Web_1788856688301.jpg" group-title="Fancode",Kenya vs Sierra Leone [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249153_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249072_53058_VD_MT_fc-Web_fc-webtvbg.jpg" group-title="Fancode",Mussoorie Thunder vs Vikasnagar Dhamaka [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249078_ENG/index.m3u8
+https://fancode.sm-monirul-islam-rs.workers.dev/4249154_ENG/index.m3u8
 
-#EXTM3U
-# Playlist Name: Tapmad bd
-# Last Update: 03:15 PM 08-09-2026
-# Telegram: https://t.me/livesportsplay
-# Owner: Md Sohanur Rahman Hady
-# Special thanks to Shuvo vai for contributing his premium Tapmad account.
-
-
+404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:30 PM 08-09-2026
+# last_update: 07:20:28 PM 08-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541702" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" group-title="Fancode", Amritsar Soormas vs Mohali Kings - 8 Sep 2026 | Sher-E-Punjab T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/master.m3u8?hdnea=exp=1788871835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=10cf5d3a15309f5b89c1066280050907f473c4aecc63e954b43bfc40331b85ab
+#EXTINF:-1 tvg-id="sonyliv-1090541702" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772125862263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Fancode", Ludhiana Lions vs Bathinda Royals - 8 Sep 2026 | Sher-E-Punjab T20 League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/master.m3u8?hdnea=exp=1788888035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d14ada67badfaa85eb975bd42abbeccedcee276480bc5b24d8530829de0fa876
+
+#EXTINF:-1 tvg-id="sonyliv-1090541752" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023587/1788715411067657_UYL26_Club_Brugge_vs_Aston_Villa_live_landscape_thumb.jpg" group-title="Fancode", Club Brugge vs Aston Villa - 8 Sep 2026 | UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/master.m3u8?hdnea=exp=1788889835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c76a8dbf7366c66fd385d2aa3c857a4832814feeee68440da5c66f374c6c09cd
