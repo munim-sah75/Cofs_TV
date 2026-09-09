@@ -2,49 +2,53 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:57:34 PM 09-09-2026 (BD Time)
+# Last Updated: 01:10:23 AM 10-09-2026 (BD Time)
 # Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg" group-title="Fancode",Bathinda Royals vs Mohali Kings [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249122_HIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg" group-title="Fancode",Bathinda Royals vs Mohali Kings [Punjabi]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249122_PUN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248675_53052_MUT_YSG_fc-Web.jpg" group-title="Fancode",Muscat Thunders vs Yalla Shabab Giants [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248675_ENG/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg" group-title="Fancode",Mussoorie Thunder vs Selaqui Strikers [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249080_ENG/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg" group-title="Fancode",South Africa vs Namibia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248635_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248663_53025_ANF_ABC_FC-Web.png" group-title="Fancode",Al-Nassr FC vs Abha Club [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248663_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247488_52993_CHL_QPR_fc-web_1786657253161.jpg" group-title="Fancode",Charlton Athletic F.C vs Queens Park Rangers F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247488_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249054_53016_CHE_LU_fc-web.jpg" group-title="Fancode",Chelsea vs Leeds United [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249054_ENG/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:15 PM 09-09-2026
+# Last Update: 01:45 AM 10-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17888818291020x576.jpg" group-title="Fancode", Men's & Women's Singles Quarterfinals | US Open 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17019" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg" group-title="Fancode", Barcelona vs Feyenoord | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17020" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg" group-title="Fancode", VFB Stuttgart vs Viking | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16904" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg" group-title="Fancode", Al-Nassr vs Abha | Saudi Pro League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17021" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889412761020x576.jpg" group-title="Fancode", Napoli vs Arsenal | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17022" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889421321020x576.jpg" group-title="Fancode", Liverpool vs Atletico Madrid | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17023" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889424421020x576.jpg" group-title="Fancode", PSG vs Slovan Bratislava | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17024" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889426231020x576.jpg" group-title="Fancode", SCP vs Galatasaray | UEFA Champions League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:36 PM 09-09-2026
+# last_update: 01:20:38 AM 10-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541735" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788517024534822_UCL_26_MD1_Barcelona-vs-Feyenoord_live_landscape_thumb.jpg" group-title="Fancode", Barcelona vs Feyenoord - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
+#EXTINF:-1 tvg-id="sonyliv-1090541848" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518397151822_UCL_26_MD1_Liverpool-vs-Atletico-Madrid_live_landscape_thumb.jpg" group-title="Fancode", Liverpool vs Atletico Madrid - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
 
-#EXTINF:-1 tvg-id="sonyliv-1090541741" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" group-title="Fancode", Day 1 - 3rd Test - 9 Sep 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
+#EXTINF:-1 tvg-id="sonyliv-1090541856" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="Fancode", Napoli vs Arsenal - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
 
-#EXTINF:-1 tvg-id="sonyliv-1090541733" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Fancode", Mohali Kings vs Bathinda Royals - 9 Sep 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
+#EXTINF:-1 tvg-id="sonyliv-1090541839" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788517907001822_UCL_26_MD1_Paris-vs-Slavia-Bratislava_live_landscape_thumb.jpg" group-title="Fancode", PSG vs Slavia Bratislava - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
 
-#EXTINF:-1 tvg-id="sonyliv-1090541736" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788517427732822_UCL_26_MD1_Stuttgart-vs-Viking_live_landscape_thumb.jpg" group-title="Fancode", Stuttgart vs Viking - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
+#EXTINF:-1 tvg-id="sonyliv-1090541851" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518938569822_UCL_26_MD1_Sporting-CP-vs-Galatasaray_live_landscape_thumb.jpg" group-title="Fancode", Sporting CP vs Galatasaray - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
