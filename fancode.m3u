@@ -2,34 +2,28 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:01:17 AM 11-09-2026 (BD Time)
+# Last Updated: 05:01:14 AM 11-09-2026 (BD Time)
 # Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248160_53014_STG_LUT_fc-web.png" group-title="Fancode",League One 2026-27
-https://fancode.sm-monirul-islam-rs.workers.dev/4248160/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png" group-title="Fancode",2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4248306/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:45 AM 11-09-2026
+# Last Update: 05:00 AM 11-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-17030" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890222621020x576.jpg" group-title="Fancode", Man United vs Sabah | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16314" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg" group-title="Fancode", Junior & Wheelchair Semifinals | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17027" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890217791020x576.jpg" group-title="Fancode", Bayern vs Bodo/Glimt | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17028" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890219421020x576.jpg" group-title="Fancode", Slavia Praha vs Lens | UEFA Champions League 2026/27
+#EXTINF:-1 tvg-id="tapmad-15807" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890184071020x576.jpg" group-title="Fancode", Barbados Tridents vs St Kitts and Nevis Patriots | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17029" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890220801020x576.jpg" group-title="Fancode", Como vs RB Leipzig | UEFA Champions League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16315" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890189821020x576.jpg" group-title="Fancode", Women's Singles Semifinals | US Open 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:28 AM 11-09-2026
+# last_update: 04:50:34 AM 11-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090542011" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788527714323822_UCL_26_MD1_Manchester-United-vs-Sabah_live_landscape_thumb.jpg" group-title="Fancode", Manchester United vs Sabah - MD 1 - 11 Sep 2026 | UEFA Champions League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1009/ENG/master.m3u8?hdnea=exp=1789113036~acl=/*~id=30801735672264146727205511552387~hmac=16b843a32b1c062b8d907f519dea4afad5e76b7a3d50c329619d71ab2f693b7e
