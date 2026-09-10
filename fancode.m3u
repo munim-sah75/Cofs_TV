@@ -2,22 +2,33 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:00:46 PM 10-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 05:01:04 PM 10-09-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Fancode",ACC Men’s Premier Cup 2026
-https://fancode.sm-monirul-islam-rs.workers.dev/4248629/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg" group-title="Fancode",Amritsar Soormas vs Jalandhar Warriors [Hindi]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249128/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248676_53052_MF_IAI_fc-Web.jpg" group-title="Fancode",Mustafa Fragrance House Strikers vs IAS Invincibles [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248676/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:15 PM 10-09-2026
+# Last Update: 05:30 PM 10-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16706" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889407001020x576.jpg" group-title="Fancode", Rotterdam Dockers vs Glasgow Cosmic | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:35 PM 10-09-2026
+# last_update: 05:20:30 PM 10-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541867" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg" group-title="Fancode", Day 2 - 3rd Test - 10 Sep 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/master.m3u8?hdnea=exp=1789069831~acl=/*~id=19927657169765548910464109461033~hmac=77d66150a6c4232949488650dcc1c86557054f4f8843c69f7deca967b4b1aa7f
+
+#EXTINF:-1 tvg-id="sonyliv-1090541928" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg" group-title="Fancode", Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/master.m3u8?hdnea=exp=1789069831~acl=/*~id=19927657169765548910464109461033~hmac=77d66150a6c4232949488650dcc1c86557054f4f8843c69f7deca967b4b1aa7f
