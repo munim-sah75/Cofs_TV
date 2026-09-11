@@ -2,20 +2,39 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:01:25 AM 11-09-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 03:32:42 PM 11-09-2026 (BD Time)
+# Live Match : 6
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png" group-title="Fancode",The Solheim Cup 2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4249081/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png" group-title="Fancode",RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA
+https://fancode.sm-monirul-islam-rs.workers.dev/139966/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg" group-title="Fancode",F2 MADRID 2026
+https://fancode.sm-monirul-islam-rs.workers.dev/139650/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="Fancode",DTM 2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4248638/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249159_53067_UGA_RWA_FC-Web.png" group-title="Fancode",Uganda vs Rwanda [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249159/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg" group-title="Fancode",South Africa vs Namibia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248633/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:15 AM 11-09-2026
+# Last Update: 03:45 PM 11-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:28 AM 11-09-2026
+# last_update: 03:50:30 PM 11-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090542071" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434963836794_eng_vs_pak_3test_D3_live_landscape_thumb.jpg" group-title="Fancode", Day 3 - 3rd Test - 11 Sep 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/master.m3u8?hdnea=exp=1789158035~acl=/*~id=39650614294299932470293454825952~hmac=80c26a809d3b97b25e161a83c33031d0fb64de8957bb6261f54e04270bac8e71
+
+#EXTINF:-1 tvg-id="sonyliv-1090542075" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023761/1789035247082649_DP_World_Tour_Amgen_Irish_Open_Day2_Session1_landscape_thumb.jpg" group-title="Fancode", Amgen Irish Open - Day 2 - Session 1 - 11 Sep 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/master.m3u8?hdnea=exp=1789158035~acl=/*~id=39650614294299932470293454825952~hmac=80c26a809d3b97b25e161a83c33031d0fb64de8957bb6261f54e04270bac8e71
