@@ -2,31 +2,36 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:01:26 AM 12-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 02:01:57 PM 12-09-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Fancode",ACC Men’s Premier Cup 2026
-https://fancode.sm-monirul-islam-rs.workers.dev/4248631/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="Fancode",2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4249127/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Fancode",ACC Men’s Premier Cup 2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4248632/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png" group-title="Fancode",Trinbago Knight Riders vs Guyana Amazon Warriors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248310/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png" group-title="Fancode",ILT20 Africa Continent Cup 2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4249161/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png" group-title="Fancode",The Solheim Cup 2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4249082/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png" group-title="Fancode",RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA
+https://fancode.sm-monirul-islam-rs.workers.dev/4248535/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="Fancode",DTM 2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4248640/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:15 AM 12-09-2026
+# Last Update: 02:00 PM 12-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15808" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890233181020x576.jpg" group-title="Fancode", Guyana Amazon Warriors vs Trinbago Knight Riders | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890276661020x576.jpg" group-title="Fancode", Men's Singles Semifinal | US Open 2026
-https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17173" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891106381020x576.jpg" group-title="Fancode", Suzuka 1000 Pre-Qualifying Round Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-17185" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891120641020x576.jpg" group-title="Fancode", Porsche Carrera Cup Japan Race 1 Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:30 AM 12-09-2026
+# last_update: 01:50:31 PM 12-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090542233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg" group-title="Fancode", Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 | Sher-E-Punjab T20 League 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/master.m3u8?hdnea=exp=1789239039~acl=/*~id=18312086984706396017268295097690~hmac=22fb0394e786e3f760f5fd6e568036a9ff0247f42844b7c03b01348854b4d046
