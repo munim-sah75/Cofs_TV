@@ -2,53 +2,57 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:01:55 PM 12-09-2026 (BD Time)
-# Live Match : 10
+# Last Updated: 09:01:22 PM 12-09-2026 (BD Time)
+# Live Match : 11
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="Fancode",2026
-https://fancode.sm-monirul-islam-rs.workers.dev/4249127/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Fancode",2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4249111/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249162_53067_BOT_SRL_FC-Web.png" group-title="Fancode",ILT20 Africa Continent Cup 2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249162/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247490_52993_DER_BIR_fc-web_1786657253171.jpg" group-title="Fancode",EFL Championship 2026-27
-https://fancode.sm-monirul-islam-rs.workers.dev/4247490/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png" group-title="Fancode",LALIGA 2026-27
-https://fancode.sm-monirul-islam-rs.workers.dev/4247616/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg" group-title="Fancode",Barclays Women's Super League 2026-27
-https://fancode.sm-monirul-islam-rs.workers.dev/4248470/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249091_53061_TKR-W_GUY-W_FC-Web.png" group-title="Fancode",2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4249091/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247491_52993_WAT_STK_fc-web_1786657253197.jpg" group-title="Fancode",EFL Championship 2026-27
+https://fancode.sm-monirul-islam-rs.workers.dev/4247491/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247617_53004_OSN_ESL_FC-Web.png" group-title="Fancode",LALIGA 2026-27
+https://fancode.sm-monirul-islam-rs.workers.dev/4247617/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249145_53017_CDZ_LAP_FC-Web_1789220877838.png" group-title="Fancode",LALIGA Hypermotion 2026-27
+https://fancode.sm-monirul-islam-rs.workers.dev/4249145/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png" group-title="Fancode",The Solheim Cup 2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249082/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png" group-title="Fancode",RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA
 https://fancode.sm-monirul-islam-rs.workers.dev/4248535/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png" group-title="Fancode",Ferrari Challenge Series 2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4249177/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg" group-title="Fancode",F1 TAG HEUER GRAN PREMIO DE ESPANA 2026
-https://fancode.sm-monirul-islam-rs.workers.dev/139489/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="Fancode",DTM 2026
-https://fancode.sm-monirul-islam-rs.workers.dev/4249174/index.m3u8
+https://fancode.sm-monirul-islam-rs.workers.dev/139490/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248678_53052_MAT_MF_fc-Web.jpg" group-title="Fancode",Majees Titans vs Mustafa Fragrance House Strikers [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248678/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 PM 12-09-2026
+# Last Update: 09:15 PM 12-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Fancode", England vs Pakistan | Pakistan Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16709" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890282571020x576.jpg" group-title="Fancode", Belfast Wolves vs Rotterdam Dockers | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17142" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890313571020x576.jpg" group-title="Fancode", Session 1 - Q1 Live | E1 Series 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16949" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891563251020x576.jpg" group-title="Fancode", Racing Santander vs Alaves | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16710" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890283711020x576.jpg" group-title="Fancode", Dublin Guardians vs Glasgow Cosmic | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17054" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890235561020x576.jpg" group-title="Fancode", Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16950" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891565901020x576.jpg" group-title="Fancode", Osasuna vs Espanyol | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16319" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890277841020x576.jpg" group-title="Fancode", Junior & Wheelchair Championships | US Open 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:29 PM 12-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090542240" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434990750794_eng_vs_pak_3test_D4_live_landscape_thumb.jpg" group-title="Fancode", Day 4 - 3rd Test - 12 Sep 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive1209/ENG/master.m3u8?hdnea=exp=1789249833~acl=/*~id=02908444677400515923681973450610~hmac=a5ddce227586c4e0836883c67a9afafb219b5af4599046ad9ec67683a1f121c4
+# last_update: 09:20:27 PM 12-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090542233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="Fancode", Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 | Sher-E-Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/master.m3u8?hdnea=exp=1789239039~acl=/*~id=18312086984706396017268295097690~hmac=22fb0394e786e3f760f5fd6e568036a9ff0247f42844b7c03b01348854b4d046
+
+#EXTINF:-1 tvg-id="sonyliv-1090542235" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg" group-title="Fancode", Amgen Irish Open - Day 3 - 12 Sep 2026 | DP World Tour
+https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpchea26/golf_amg1209-eng-1-ts-hls/master.m3u8?hdnea=exp=1789262439~acl=/*~id=90824958551661361923210940554021~hmac=4e125f44fe6d5943d1e8dabdf7f0cfed4212cf73cbadcc16670a18f98c94ec05
