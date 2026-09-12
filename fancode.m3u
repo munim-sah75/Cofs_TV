@@ -2,40 +2,37 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:01:54 AM 13-09-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 03:13:16 AM 13-09-2026 (BD Time)
+# Live Match : 3
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249092_53061_BT-W_JE-W_FC-Web_1788430029026.png" group-title="Fancode",2026
 https://fancode.sm-monirul-islam-rs.workers.dev/4249092/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249135_53025_AKH_ANF_FC-Web.png" group-title="Fancode",Roshn Saudi League 2026-2027
-https://fancode.sm-monirul-islam-rs.workers.dev/4249135/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247611_53004_RM_RVL_FC-Web.png" group-title="Fancode",LALIGA 2026-27
-https://fancode.sm-monirul-islam-rs.workers.dev/4247611/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249146_53017_CDB_ALM_FC-Web.png" group-title="Fancode",LALIGA Hypermotion 2026-27
 https://fancode.sm-monirul-islam-rs.workers.dev/4249146/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png" group-title="Fancode",LALIGA 2026-27
-https://fancode.sm-monirul-islam-rs.workers.dev/4247612/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247611_53004_RM_RVL_FC-Web.png" group-title="Fancode",LALIGA 2026-27
+https://fancode.sm-monirul-islam-rs.workers.dev/4247611/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 AM 13-09-2026
+# Last Update: 03:30 AM 13-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16952" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892134401020x576.jpg" group-title="Fancode", Real Madrid vs Rayo Vallecano | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16320" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890279041020x576.jpg" group-title="Fancode", Men's Doubles Final | US Open 2026
-https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17091" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892131551020x576.jpg" group-title="Fancode", Al-Khaleej vs Al-Nassr | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17055" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891293781020x576.jpg" group-title="Fancode", Barbados Tridents Women vs Jamaica Empress Women | Women's Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16321" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891307111020x576.jpg" group-title="Fancode", Women's Singles Finals | US Open 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16932" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890337031020x576.jpg" group-title="Fancode", Silva vs Delgado | UFC 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:25:43 AM 13-09-2026
+# last_update: 03:20:49 AM 13-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090542394" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg" group-title="Fancode", NOCHE UFC - Silva vs Delgado - 13 Sep 2026 | NOCHE UFC - Silva vs Delgado
+https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/master.m3u8?hdnea=exp=1789289435~acl=/*~id=14000844105226145059963114022606~hmac=c04ecf2b99e36d62264ecd22abe7904e92677878dfbaf2191c52a5dd2f55e814
 
 #EXTINF:-1 tvg-id="sonyliv-1090542276" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789770953248_Hyundai-Archery-World-Cup-Final_Compound-Women-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Fancode",  Compound Women Elite QFs to Finals - 13 Sep 2026 | Hyundai Archery World Cup Final
 https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/master.m3u8?hdnea=exp=1789271441~acl=/*~id=44860182479368830262310321006075~hmac=149868152feedd73fa3d82e6f48ac6faf99e94f764a294adfc8f5023e32f16d4
