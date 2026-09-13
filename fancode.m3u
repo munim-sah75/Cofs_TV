@@ -2,24 +2,27 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:09:24 AM 13-09-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 07:01:34 AM 13-09-2026 (BD Time)
+# Live Match : 1
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png" group-title="Fancode",2026
+https://fancode.sm-monirul-islam-rs.workers.dev/4248312/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:15 AM 13-09-2026
+# Last Update: 06:45 AM 13-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-16932" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890337031020x576.jpg" group-title="Fancode", Silva vs Delgado | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15809" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891290981020x576.jpg" group-title="Fancode", Barbados Tridents vs Jamaica Kingsmen | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17197" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892415571020x576.jpg" group-title="Fancode", Japan Cup Race 2 Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:28 AM 13-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090542394" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg" group-title="Fancode", NOCHE UFC - Silva vs Delgado - 13 Sep 2026 | NOCHE UFC - Silva vs Delgado
-https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/master.m3u8?hdnea=exp=1789289435~acl=/*~id=14000844105226145059963114022606~hmac=c04ecf2b99e36d62264ecd22abe7904e92677878dfbaf2191c52a5dd2f55e814
+# last_update: 06:50:25 AM 13-09-2026
