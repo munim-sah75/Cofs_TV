@@ -2,21 +2,19 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:11:56 AM 14-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 03:34:04 AM 14-09-2026 (BD Time)
+# Live Match : 3
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png" group-title="Fancode",Barbados Tridents Women vs Guyana Amazon Warriors Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249093/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png" group-title="Fancode",Real Sociedad vs Atletico de Madrid [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247614/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248476_53038_AST-W_MCI-W_fc-web.jpg" group-title="Fancode",Aston Villa Women vs Manchester City Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248476/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png" group-title="Fancode",Tenerife vs Leganes [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249148/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png" group-title="Fancode",Real Sociedad vs Atletico de Madrid [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247614/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:45 AM 14-09-2026
+# Last Update: 03:45 AM 14-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -25,10 +23,11 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4249148/index.m3u8
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-17056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891294991020x576.jpg" group-title="Fancode", Barbados Tridents Women vs Guyana Amazon Warriors Women | Women's Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893212971020.jpg" group-title="Fancode", Real Sociedad vs Atletico Madrid | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:27 AM 14-09-2026
+# last_update: 03:20:26 AM 14-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090542287" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789825896248_Hyundai-Archery-World-Cup-Final_Recurve-Women-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Fancode", Recurve Women Elite QFs to Finals - 14 Sep 2026 | Hyundai Archery World Cup Final
+https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/master.m3u8?hdnea=exp=1789374037~acl=/*~id=40398816963422880294947269231338~hmac=a92fe639e48231b21c5bd44bf95286b3f47298c76a787a2522c026f10d06a358
