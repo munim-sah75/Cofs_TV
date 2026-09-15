@@ -2,38 +2,33 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:00:26 AM 16-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 03:00:23 AM 16-09-2026 (BD Time)
+# Live Match : 6
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249244_53070_ADK_MED_FC-Web.png" group-title="Fancode",Abu Dhabi Knight Riders Development vs MI Emirates Development [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249244/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ain-vs-Al-Nassr-Old-card.jpg" group-title="Fancode",Al Ain vs Al-Nassr FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248686/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247625_53004_RVL_ESL_FC-Web.png" group-title="Fancode",Rayo Vallecano vs RCD Espanyol [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247625/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247619_53004_ALA_VAL_FC-Web.png" group-title="Fancode",Deportivo Alaves vs Valencia CF [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247619/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249055_53016_WHU_FUL_fc-web.jpg" group-title="Fancode",West Ham United vs Fulham [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249055/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249056_53016_RED_BRE_fc-web.jpg" group-title="Fancode",Reading vs Brentford [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249056/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249057_53016_IPT_ARS_fc-web.jpg" group-title="Fancode",Ipswich Town F.C. vs Arsenal [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249057/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249061_53016_LIV_TOT_fc-web.jpg" group-title="Fancode",Liverpool vs Tottenham Hotspur [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249061/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247622_53004_ELC_RM_FC-Web.png" group-title="Fancode",Elche CF vs Real Madrid [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247622/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:30 AM 16-09-2026
+# Last Update: 03:30 AM 16-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-16958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893766701020x576.jpg" group-title="Fancode", Rayo Vallecano vs Espanyol | LaLiga 2026/27
+#EXTINF:-1 tvg-id="tapmad-16960" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894708691020x576.jpg" group-title="Fancode", Elche vs Real Madrid | LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17383" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893786531020x576.jpg" group-title="Fancode", England vs Sri Lanka | Sri Lanka Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16959" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894707701020x576.jpg" group-title="Fancode", Alaves vs Valencia | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17362" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894571471020x576.jpg" group-title="Fancode", Al Hilal SFC vs Al Gharafa SC Live | AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:26 AM 16-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090542511" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg" group-title="Fancode", 1st T20I - 15 Sep 2026 | Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/master.m3u8?hdnea=exp=1789536042~acl=/*~id=85735137634254503680806142406061~hmac=85d55024d9ab721d2ec98d41647686dea24fc2911dfa181d125d04762451af4c
+# last_update: 03:20:33 AM 16-09-2026
