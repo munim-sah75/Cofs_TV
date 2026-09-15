@@ -2,20 +2,41 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:00:27 AM 15-09-2026 (BD Time)
-# Live Match : 0
+# Last Updated: 04:00:28 PM 15-09-2026 (BD Time)
+# Live Match : 6
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png" group-title="Fancode",Australia vs Zimbabwe [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249098/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249165_53067_SRL_UGA_FC-Web.png" group-title="Fancode",Sierra Leone vs Uganda [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249165/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248688_53053_ANL_NJ_fc-web.jpg" group-title="Fancode",Kashima Antlers vs Newcastle Jets [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248688/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248689_53053_DAC_KYS_fc-web.jpg" group-title="Fancode",Daejeon Hana Citizen FC vs Kyoto Sanga [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248689/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248690_53053_OSK_CAH_fc-web.jpg" group-title="Fancode",Gamba Osaka vs Cong An Ha Noi [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248690/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248691_53053_RAT_SHG_fc-web.jpg" group-title="Fancode",Ratchaburi vs Shanghai Port [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248691/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:00 AM 15-09-2026
+# Last Update: 04:00 PM 15-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-17374" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg" group-title="Fancode", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg" group-title="Fancode", Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17327" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894526861020x576.jpg" group-title="Fancode", Kashima Antlers vs Newcastle Jets FC Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17332" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894533151020x576.jpg" group-title="Fancode", Daejeon Hana Citizen vs Kyota Sanga F.C Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894538321020x576.jpg" group-title="Fancode", Gamba Osaka vs Cong An Ha Noi Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:26 AM 15-09-2026
+# last_update: 03:50:28 PM 15-09-2026
