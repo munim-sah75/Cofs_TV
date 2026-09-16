@@ -2,80 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:00:24 AM 17-09-2026 (BD Time)
-# Live Match : 9
+# Last Updated: 04:00:26 AM 17-09-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249246_53070_DVD_SWD_FC-Web.png" group-title="Fancode",Desert Vipers Development vs Sharjah Warriorz Development [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249246/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247618_53004_ATM_OSN_FC-Web.png" group-title="Fancode",Atletico de Madrid vs CA Osasuna [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247618/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247621_53004_COR_SEV_FC-Web.png" group-title="Fancode",Deportivo de La Coruna vs Sevilla FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247621/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248958_53057_RAY_ALF_fc-web_1789025066010.jpg" group-title="Fancode",Al Rayyan vs Al Faisaly [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248958/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248960_53057_SHR_ALS_fc-web_1789025065273.jpg" group-title="Fancode",Al Shorta vs Al Seeb Club [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248960/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249053_53016_EVE_WOL_fc-web.jpg" group-title="Fancode",Everton vs Wolverhampton Wanderers F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249053/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249058_53016_FLW_SHF_fc-web.jpg" group-title="Fancode",Fleetwood Town vs Sheffield United F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249058/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249059_53016_MUN_BHA_fc-web.jpg" group-title="Fancode",Manchester United vs Brighton and Hove Albion [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249059/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249060_53016_CVC_AVL_fc-web.jpg" group-title="Fancode",Coventry City F.C. vs Aston Villa [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249060/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247626_53004_BAR_RAC_FC-Web.png" group-title="Fancode",FC Barcelona vs Racing Club de Santander [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247626/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 AM 17-09-2026
+# Last Update: 04:15 AM 17-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-17432" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895452021020x576.jpg" group-title="Fancode", Al Rayyan SC vs Al Faisaly Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17437" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895456521020x576.jpg" group-title="Fancode", Al Shorta vs Al Seeb Club Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17278" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895523271020x576.jpg" group-title="Fancode", Olympiacos vs Jagiellonia Bialystok | UEFA Europa League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17279" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895524531020x576.jpg" group-title="Fancode", Anderlecht vs OL | UEFA Europa League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17280" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895525901020x576.jpg" group-title="Fancode", Leverkusen vs Celje | UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17281" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895527081020x576.jpg" group-title="Fancode", Sunderland vs AZ Alkmaar | UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17282" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895528871020x576.jpg" group-title="Fancode", Milan vs Benfica | UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17283" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895530171020x576.jpg" group-title="Fancode", Sturm Graz vs Rennes | UEFA Europa League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17284" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895531701020x576.jpg" group-title="Fancode", H. Beer-Sheva vs Dinamo Zagreb | UEFA Europa League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895589261020x576.jpg" group-title="Fancode", Levante vs Athletic | LaLiga 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16964" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895590251020x576.jpg" group-title="Fancode", Barcelona vs Racing Santander | LaLiga 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:30 AM 17-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090542644" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788526543076688_UEL2627_MD1_AC_Milan_vs_Benfica_4sep_landscape_thumb.jpg" group-title="Fancode", AC Milan vs Benfica - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627843~acl=/*~id=60236452795685033898291710105836~hmac=256fa8c3c778179a87c7763d56d0f3b4c134260257903dcf8a7c813a0ef672c7
-
-#EXTINF:-1 tvg-id="sonyliv-1090542642" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788518827896688_UEL2627_MD1_Anderlecht_vs_Lyon_4sep_landscape_thumb.jpg" group-title="Fancode", Anderlecht vs Lyon - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627856~acl=/*~id=86385226256246188496191115833016~hmac=8d864cc113fea04b527ef62bdb8dc7688b01edc33bc0e1e4c9224efbfb4f9770
-
-#EXTINF:-1 tvg-id="sonyliv-1090542646" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788527113511688_UEL2627_MD1_Sunderland_vs_AZ_Alkmaar_4sep_landscape_thumb.jpg" group-title="Fancode", Sunderland vs AZ Alkmaar - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627843~acl=/*~id=60236452795685033898291710105836~hmac=256fa8c3c778179a87c7763d56d0f3b4c134260257903dcf8a7c813a0ef672c7
-
-#EXTINF:-1 tvg-id="sonyliv-1090542537" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788518056087688_UEL2627_MD1_Leverkusen_vs_Celje_4sep_landscape_thumb.jpg" group-title="Fancode", Bayer Leverkusen vs Celje - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627886~acl=/*~id=31922153699972651055016999411803~hmac=5b17e957bf1618488262894ae7915709b27b13d265d6bb2aa5159d1014a94079
-
-#EXTINF:-1 tvg-id="sonyliv-1090542645" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788526820187688_UEL2627_MD1_Sturm_Graz_vs_Rennes_4sep_landscape_thumb.jpg" group-title="Fancode", Sturm Graz vs Rennes -  MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627843~acl=/*~id=60236452795685033898291710105836~hmac=256fa8c3c778179a87c7763d56d0f3b4c134260257903dcf8a7c813a0ef672c7
-
-#EXTINF:-1 tvg-id="sonyliv-1090542647" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788529929683688_UEL2627_MD1_Hapoel_Beer_Sheva_vs_GNK_Dinamo_4sep_landscape_thumb.jpg" group-title="Fancode", Hapoel Beer-Sheva vs GNK Dinamo - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627856~acl=/*~id=86385226256246188496191115833016~hmac=8d864cc113fea04b527ef62bdb8dc7688b01edc33bc0e1e4c9224efbfb4f9770
-
-#EXTINF:-1 tvg-id="sonyliv-1090542643" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788524299653688_UEL2627_MD1_Olympiacos_vs_Jagiellonia_4sep_landscape_thumb.jpg" group-title="Fancode", Olympiacos vs Jagiellonia - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627843~acl=/*~id=60236452795685033898291710105836~hmac=256fa8c3c778179a87c7763d56d0f3b4c134260257903dcf8a7c813a0ef672c7
+# last_update: 03:50:28 AM 17-09-2026
