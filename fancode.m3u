@@ -2,29 +2,45 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:00:35 PM 16-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 10:00:26 PM 16-09-2026 (BD Time)
+# Live Match : 2
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249168_53067_SRL_RWA_FC-Web.png" group-title="Fancode",Sierra Leone vs Rwanda [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249168/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248694_53053_JNB_REY_fc-web.jpg" group-title="Fancode",Jeonbuk Motors vs Kashiwa Reysol [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248694/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248961_53057_SE_PER_fc-web_1789025066490.jpg" group-title="Fancode",Seoul vs Persib Bandung [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248961/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249245_53070_ADK_GGD_FC-Web.png" group-title="Fancode",Abu Dhabi Knight Riders Development vs Gulf Giants Development [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249245/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png" group-title="Fancode",Barbados Tridents Women vs Guyana Amazon Warriors Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249094/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 PM 16-09-2026
+# Last Update: 10:30 PM 16-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-17367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895385631020x576.jpg" group-title="Fancode", Jeonbuk Hyundai Motors FC vs Kashiwa Reysol Live | AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17402" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895379421020x576.jpg" group-title="Fancode", FC Seoul vs Persib Bandung Live | AFC Champions League Two 2026/27
+#EXTINF:-1 tvg-id="tapmad-16715" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894622951020x576.jpg" group-title="Fancode", Glasgow Cosmic vs Amsterdam Flames | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17057" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894619701020x576.jpg" group-title="Fancode", Barbados Tridents Women vs Guyana Amazon Warriors Women | Women's Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17412" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895422821020x576.jpg" group-title="Fancode", Al Hussein vs East Bengal FC Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17417" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895435431020x576.jpg" group-title="Fancode", Al Wahda FC vs Kuwait SC Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17422" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895444071020x576.jpg" group-title="Fancode", Al Khaldiya SC vs PFC Nasaf Live | AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17427" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895448061020x576.jpg" group-title="Fancode", Al Nahda Club vs Al Taawoun FC Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17276" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894729601020x576.jpg" group-title="Fancode", Omonoia vs Celta | UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17277" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894731451020x576.jpg" group-title="Fancode", Ararat-Armenia vs Sparta Praha | UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:27 PM 16-09-2026
+# last_update: 10:21:04 PM 16-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090542525" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023482/1788516374836313_UEL2627_Omonia_vs_Celta_landscape_thumb.jpg" group-title="Fancode", Omonia vs Celta - MD1 - 16 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1609/ENG/master.m3u8?hdnea=exp=1789618884~acl=/*~id=03764085512986928323239988617910~hmac=b271836b0a6569e1a9583cfae95bd897d00b3888008be724328d5c7f3ece36ab
+
+#EXTINF:-1 tvg-id="sonyliv-1090542536" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788525626109688_UEL2627_MD1_Ararat_Armenia_vs_Sparta_Praha_4sep_landscape_thumb.jpg" group-title="Fancode", Ararat-Armenia vs Sparta Praha - MD1 - 16 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1609/ENG/master.m3u8?hdnea=exp=1789618897~acl=/*~id=47003091793905151113717434688629~hmac=65524cd70132cdfd915fff8a03d07b5eeb7a9b20d3c007f1cc62b7572663776d
