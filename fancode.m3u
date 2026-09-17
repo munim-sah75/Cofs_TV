@@ -2,31 +2,21 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:00:22 AM 18-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 05:22:04 AM 18-09-2026 (BD Time)
+# Live Match : 0
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249091_53061_TKR-W_GUY-W_FC-Web.png" group-title="Fancode",Trinbago Knight Riders Women vs Guyana Amazon Warriors Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249095/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247627_53004_MAG_VIL_FC-Web.png" group-title="Fancode",Malaga vs Villarreal CF [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247627/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png" group-title="Fancode",AFC Wimbledon vs MK Dons [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248161/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png" group-title="Fancode",Day 1 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249100/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:30 AM 18-09-2026
+# Last Update: 05:30 AM 18-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-17058" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896376971020x576.jpg" group-title="Fancode", Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896460151020x576.jpg" group-title="Fancode", Malaga vs Villarreal | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15812" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895576171020x576.jpg" group-title="Fancode", Anitgua and Barbuda Falcons vs Guyana Amazon Warriors | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:28 AM 18-09-2026
+# last_update: 05:20:26 AM 18-09-2026
