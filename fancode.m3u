@@ -2,25 +2,35 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:00:23 AM 17-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 04:00:23 PM 17-09-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png" group-title="Fancode",United Arab Emirates vs Malaysia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249260/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249169_53067_RWA_UGA_FC-Web.png" group-title="Fancode",Rwanda vs Uganda [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249169/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248963_53057_LIO_PNU_fc-web_1789025066501.jpg" group-title="Fancode",Lion City Sailors vs BG Pathum United [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248963/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248964_53057_ADL_WTP_fc-web_1789025066327.jpg" group-title="Fancode",Adelaide United vs Tai Po FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248964/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248965_53057_MZ_PRK_fc-web_1789025065378.jpg" group-title="Fancode",Machida Zelvia vs Preah Khan Reach Svay Rieng FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248965/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:15 AM 17-09-2026
+# Last Update: 04:00 PM 17-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-16716" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895490801020x576.jpg" group-title="Fancode", Edinburgh Castle Rockers vs Belfast Wolves | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17442" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896278231020x576.jpg" group-title="Fancode", Lion City Sailors FC (SGP) vs BG Pathum United (THA) Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17447" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896282781020x576.jpg" group-title="Fancode", Adelaide United FC (AUS) vs Tai Po FC (HKG) Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896286361020x576.jpg" group-title="Fancode", FC Machida Zelvia (JPN) vs Preah Khan Reach Svay Rieng FC (CAM) Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:25 AM 17-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582327474840_AG26_QF_Pakistan_vs_Thailand_landscape_thumb.jpg" group-title="Fancode", Pakistan Women vs Thailand Women - QF 2 - 17 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/master.m3u8?hdnea=exp=1789663835~acl=/*~id=57644709122269056211325315276836~hmac=03f983ea8ba4ad89d2dff23705512d10efefb57435ba8e4a672e34833f256677
+# last_update: 03:50:26 PM 17-09-2026
