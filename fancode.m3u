@@ -2,22 +2,26 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 04:00:26 AM 17-09-2026 (BD Time)
+# Last Updated: 06:00:22 AM 17-09-2026 (BD Time)
 # Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247626_53004_BAR_RAC_FC-Web.png" group-title="Fancode",FC Barcelona vs Racing Club de Santander [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247626/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png" group-title="Fancode",Barbados Tridents vs Jamaica Kingsmen [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248314/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:15 AM 17-09-2026
+# Last Update: 06:30 AM 17-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-15811" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895486181020x576.jpg" group-title="Fancode", Barbados Tridents vs Jamaica Kingsmen | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:28 AM 17-09-2026
+# last_update: 06:20:28 AM 17-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582375033840_AG26_QF_bangladesh_vs_china_landscape_thumb.jpg" group-title="Fancode", Bangladesh Women vs People’s Republic of China Women - QF 1 - 17 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/master.m3u8?hdnea=exp=1789645836~acl=/*~id=98800373718164198429198911273257~hmac=e70544f95dd7b3b4d17b00f85b048ccfb403113c4a4e564ee93b3b5350aa7b94
