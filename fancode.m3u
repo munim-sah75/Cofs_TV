@@ -2,46 +2,31 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:00:26 AM 18-09-2026 (BD Time)
+# Last Updated: 03:00:22 AM 18-09-2026 (BD Time)
 # Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg" group-title="Fancode",India vs Afghanistan [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248492/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249248_53070_GGD_DVD_FC-Web.png" group-title="Fancode",Gulf Giants Development vs Desert Vipers Development [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249248/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249091_53061_TKR-W_GUY-W_FC-Web.png" group-title="Fancode",Trinbago Knight Riders Women vs Guyana Amazon Warriors Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249095/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247620_53004_RB_GEF_FC-Web.png" group-title="Fancode",Real Betis vs Getafe CF [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247620/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247627_53004_MAG_VIL_FC-Web.png" group-title="Fancode",Malaga vs Villarreal CF [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247627/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png" group-title="Fancode",AFC Wimbledon vs MK Dons [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248161/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png" group-title="Fancode",Day 1 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249100/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:30 AM 18-09-2026
+# Last Update: 03:30 AM 18-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-17285" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895534131020x576.jpg" group-title="Fancode", Levski Sofia vs RB Salzburg | UEFA Europa League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17286" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895566631020x576.jpg" group-title="Fancode", OFI vs Hoffenheim | UEFA Europa League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895591411020x576.jpg" group-title="Fancode", Betis vs Getafe | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894714901020x576.jpg" group-title="Fancode", England vs Sri Lanka | Sri Lanka Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17058" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896376971020x576.jpg" group-title="Fancode", Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896460151020x576.jpg" group-title="Fancode", Malaga vs Villarreal | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:29 AM 18-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090542669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg" group-title="Fancode", 2nd T20I - 17 Sep 2026 | Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/master.m3u8?hdnea=exp=1789708840~acl=/*~id=98958507771675793209147512988664~hmac=fab4acfe06e1cc55763ac686890ae62f73aaeae9db31d23b89d3843a28641a77
-
-#EXTINF:-1 tvg-id="sonyliv-1090542648" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531414631688_UEL2627_MD1_OFI_Crete_vs_Hoffenheim_4sep_landscape_thumb.jpg" group-title="Fancode", OFI Crete vs Hoffenheim -  MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/master.m3u8?hdnea=exp=1789705239~acl=/*~id=47698494843227088780874092583453~hmac=ac3b563669ba48f4726a28da27ad38bfb3571f5d7c8de65bfa0486531298ba53
-
-#EXTINF:-1 tvg-id="sonyliv-1090542649" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532203409688_UEL2627_MD1_Levski_Sofia_vs_Salzburg_4sep_landscape_thumb.jpg" group-title="Fancode", Levski Sofia vs Salzburg - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/master.m3u8?hdnea=exp=1789705247~acl=/*~id=91054233544504039833976652336648~hmac=c272dfe731cbdd8c5ebb01329ff015682d96a631ac3dedef4e7c79935aefdd10
+# last_update: 03:20:28 AM 18-09-2026
