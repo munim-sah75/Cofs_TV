@@ -2,30 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:00:46 PM 18-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 12:00:40 AM 19-09-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png" group-title="Fancode",Australia vs Zimbabwe [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249099/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png" group-title="Fancode",Sierra Leone vs Botswana [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249172/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png" group-title="Fancode",Day 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249085/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg" group-title="Fancode",Manchester City Women vs Liverpool Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248477/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 PM 18-09-2026
+# Last Update: 12:15 AM 19-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-17375" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895630001020x576.jpg" group-title="Fancode", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:29 PM 18-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090542757" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419421651492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day2_landscape_thumb.jpg" group-title="Fancode", BMW PGA Championship - Day 2 - 18 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/master.m3u8?hdnea=exp=1789777244~acl=/*~id=56315968008852151158507270920697~hmac=338fb2294f13626ead9b76349a002a02ef72f9ee369490d0ee10a32f68fa7726
+# last_update: 11:50:30 PM 18-09-2026
