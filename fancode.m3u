@@ -2,26 +2,23 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:22:32 AM 18-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 12:19:14 PM 18-09-2026 (BD Time)
+# Live Match : 0
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png" group-title="Fancode",Guyana Amazon Warriors vs Antigua & Barbuda Falcons [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248316/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:15 AM 18-09-2026
+# Last Update: 12:15 PM 18-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-15812" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895576171020x576.jpg" group-title="Fancode", Anitgua and Barbuda Falcons vs Guyana Amazon Warriors | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:28 AM 18-09-2026
+# last_update: 12:20:28 PM 18-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024067/178961947665553_Asain_games_26_QF_Sri-Lanka-vs-Malaysia_live_landscape_thumb.jpg" group-title="Fancode", Sri Lanka vs Malaysia - Quarter-Final - 18 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120306/Criclive1709/ENG/master.m3u8?hdnea=exp=1789732238~acl=/*~id=67994694147398636397816820999205~hmac=847bdf39a769029a696e758504ff7b788af3d22f2c869ec5302558d5ae551488
+#EXTINF:-1 tvg-id="sonyliv-1090541371" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024066/1789618725032669_Asain_games_26_QF_IND_vs_JPN_live_landscape_thumb.jpg" group-title="Fancode", India Women vs Japan Women - Quarter-Final - 18 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/master.m3u8?hdnea=exp=1789746633~acl=/*~id=99124452301996973151426864728567~hmac=af40513c86134359697890e268a93a6b64ef36388e080848f92e85ae440e1e5b
