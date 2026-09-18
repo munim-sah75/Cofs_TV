@@ -2,22 +2,33 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:00:40 AM 19-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 02:00:41 AM 19-09-2026 (BD Time)
+# Live Match : 5
 #=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247493_52993_BRI_WAT_fc-web_1786657253841.jpg" group-title="Fancode",Bristol City F.C. vs Watford F.C. [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247493/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247634_53004_ESL_ELC_FC-Web.png" group-title="Fancode",RCD Espanyol vs Elche CF [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247634/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg" group-title="Fancode",Manchester City Women vs Liverpool Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248477/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249149_53017_ALB_CDB_FC-Web.png" group-title="Fancode",Albacete vs Córdoba
+https://fancode.sm-monirul-islam-rs.workers.dev/4249149/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png" group-title="Fancode",Day 2 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249101/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:15 AM 19-09-2026
+# Last Update: 02:45 AM 19-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-16975" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897166931020x576.jpg" group-title="Fancode", Espanyol vs Elche | LaLiga 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17682" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897589461020.jpeg" group-title="Fancode", Monaco vs Lens | French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:30 PM 18-09-2026
+# last_update: 02:50:32 AM 19-09-2026
