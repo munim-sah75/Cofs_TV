@@ -2,22 +2,32 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:00:42 AM 19-09-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 03:00:39 PM 19-09-2026 (BD Time)
+# Live Match : 3
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249276_53072_QUN_VCT_FC-Web.jpg" group-title="Fancode",Queensland vs Victoria [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249276/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg" group-title="Fancode",Day 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139970/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png" group-title="Fancode",Race 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249215/index.m3u8
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 AM 19-09-2026
+# Last Update: 03:30 PM 19-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-
+#EXTINF:-1 tvg-id="tapmad-17646" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897163791020x576.jpg" group-title="Fancode", Arambagh Krira Shangha vs Bashundhara Kings | Bangladesh Football League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17533" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897663241020-23andlast.jpg" group-title="Fancode", GT4 European Series - Qualifying 1 & 2 (Group A & B) | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:26 AM 19-09-2026
+# last_update: 03:20:26 PM 19-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg" group-title="Fancode", Opening Ceremony - 19 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/master.m3u8?hdnea=exp=1789847479~acl=/*~id=65194787733168758066173947899973~hmac=be268cae8be128171c60a38e1b8149a36b0de5384205c6ca48e8a30cac143608
