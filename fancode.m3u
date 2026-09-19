@@ -2,35 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:00:45 AM 20-09-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 04:23:46 AM 20-09-2026 (BD Time)
+# Live Match : 0
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249250_53070_ADK_DCD_FC-Web.png" group-title="Fancode",Abu Dhabi Knight Riders Development vs Dubai Capitals Development [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249250/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247630_53004_CEV_RAC_FC-Web.png" group-title="Fancode",RC Celta vs Racing Club de Santander [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247630/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248480_53038_ARS-W_MUN-W_fc-web.jpg" group-title="Fancode",Arsenal Women vs Manchester United Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png" group-title="Fancode",Day 3 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249102/index.m3u8
 
-#EXTM3U
-# Playlist Name: Tapmad bd
-# Last Update: 12:45 AM 20-09-2026
-# Telegram: https://t.me/livesportsplay
-# Owner: Md Sohanur Rahman Hady
-# Special thanks to Shuvo vai for contributing his premium Tapmad account.
-
-#EXTINF:-1 tvg-id="tapmad-17684" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898299031020x576.jpg" group-title="Fancode", Le Mans vs Lorient | French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17685" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898303781020x576.jpg" group-title="Fancode", OL vs Rennes | French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17686" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898310121020x576.jpg" group-title="Fancode", Toulouse vs Le Havre | French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17687" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898313201020x576.jpg" group-title="Fancode", Angers vs Troyes | French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:30 AM 20-09-2026
+# last_update: 04:50:27 AM 20-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090542963" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg" group-title="Fancode", UFC 331 - Van vs Pantoja 2 - 20 Sep 2026 | UFC 331 - Van vs Pantoja 2
+https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/master.m3u8?hdnea=exp=1789901435~acl=/*~id=87535589550131472873531038309462~hmac=44c1dd5bebd3241ebf3a230cc7fea3b84561956c77389f9b69374791928a8fb3
