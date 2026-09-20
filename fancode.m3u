@@ -2,25 +2,17 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:00:44 PM 20-09-2026 (BD Time)
-# Live Match : 9
+# Last Updated: 10:00:50 PM 20-09-2026 (BD Time)
+# Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png" group-title="Fancode",Zimbabwe vs Australia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249097/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg" group-title="Fancode",Sambalpur Warriors vs Kataka Panthers [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249571/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249251_53070_DVD_ADK_FC-Web.png" group-title="Fancode",Desert Vipers Development vs Abu Dhabi Knight Riders Development [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249251/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247498_52993_WOL_WBA_fc-web_1786657253863.jpg" group-title="Fancode",Wolverhampton Wanderers F.C. vs West Bromwich Albion F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247498/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247629_53004_GEF_MAG_FC-Web.png" group-title="Fancode",Getafe CF vs Malaga [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247629/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248481_53038_BHA-W_AST-W_fc-web.jpg" group-title="Fancode",Brighton and Hove Albion Women vs Aston Villa Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248481/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248482_53038_CP-W_TOT-W_fc-web.jpg" group-title="Fancode",Crystal Palace Women vs Tottenham Hotspur Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248482/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248483_53038_WHU-W_EVE-W_fc-web.jpg" group-title="Fancode",West Ham United Women vs Everton Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248483/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg" group-title="Fancode",Race [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139971/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247637_53004_ATM_RM_FC-Web.png" group-title="Fancode",Atletico de Madrid vs Real Madrid [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247637/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png" group-title="Fancode",Day 4 [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249087/index.m3u8
 
@@ -29,19 +21,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4249087/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:29 PM 20-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Fancode", Day 2 - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/master.m3u8?hdnea=exp=1789950037~acl=/*~id=50635070774098997971855851794689~hmac=1145d1300127fb2f17f3115ae5405bc9625dce09b3057e6981c8f5606acbd7b4
+# last_update: 10:50:30 PM 20-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090543049" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024187/1789803954768990_MetroBankOneDayCup25_final_landscape_thumb.jpg" group-title="Fancode", Leicestershire vs Middlesex - Final - 20 Sep 2026 | Metro Bank One Day Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/master.m3u8?hdnea=exp=1789941041~acl=/*~id=74876793339433776273922557818461~hmac=24b3d4090f2ba0c1a1490997083f4eb373863b070354541cb9a396f49fcb8573
-
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541855/thumbnail/1789887634129_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Fancode", Women's Volleyball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_AGMDS1909/ENG/master.m3u8?hdnea=exp=1789951833~acl=/*~id=05762039286292513251283953398008~hmac=4eb87bf72186df286b670c179524ad97a3d2b039508b75b7344c66f977c2b3c9
-
-#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541369/thumbnail/1789900806143_1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg" group-title="Fancode", Japan vs Republic of Korea - Men - Basketball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/AG_AGMDS1909/ENG/master.m3u8?hdnea=exp=1789951838~acl=/*~id=15683809101267361236115814382370~hmac=d39e843d3798bc30b92c79ec73b2904697dc9fb12c8dc1595d7028a9b63a1697
-
-#EXTINF:-1 tvg-id="sonyliv-1090542905" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788437884723492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day4_landscape_thumb.jpg" group-title="Fancode", BMW PGA Championship - Day 4 - 20 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW2009/ENG/master.m3u8?hdnea=exp=1789944643~acl=/*~id=80627067174324304977361495417199~hmac=2b35e6f7d93fdeef0edbbffebaff3a13ed8b2128eb32c9a25686f7b5e6cbc3f5
