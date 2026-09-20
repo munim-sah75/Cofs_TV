@@ -2,26 +2,25 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:00:50 PM 20-09-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 01:00:38 AM 21-09-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png" group-title="Fancode",Zimbabwe vs Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249097/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg" group-title="Fancode",Sambalpur Warriors vs Kataka Panthers [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249571/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249251_53070_DVD_ADK_FC-Web.png" group-title="Fancode",Desert Vipers Development vs Abu Dhabi Knight Riders Development [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249251/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247637_53004_ATM_RM_FC-Web.png" group-title="Fancode",Atletico de Madrid vs Real Madrid [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4247637/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png" group-title="Fancode",Day 4 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249087/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png" group-title="Fancode",Sharjah Warriorz Development vs MI Emirates Development [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249252/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247633_53004_VAL_RS_FC-Web.png" group-title="Fancode",Valencia CF vs Real Sociedad [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247633/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png" group-title="Fancode",Day 4 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249103/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247631_53004_COR_RB_FC-Web.png" group-title="Fancode",Deportivo de La Coruna vs Real Betis [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247631/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247632_53004_VIL_LET_FC-Web.png" group-title="Fancode",Villarreal CF vs Levante [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4247632/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:30 PM 20-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090543049" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024187/1789803954768990_MetroBankOneDayCup25_final_landscape_thumb.jpg" group-title="Fancode", Leicestershire vs Middlesex - Final - 20 Sep 2026 | Metro Bank One Day Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/master.m3u8?hdnea=exp=1789941041~acl=/*~id=74876793339433776273922557818461~hmac=24b3d4090f2ba0c1a1490997083f4eb373863b070354541cb9a396f49fcb8573
+# last_update: 12:50:27 AM 21-09-2026
