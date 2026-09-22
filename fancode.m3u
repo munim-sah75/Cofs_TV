@@ -2,20 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:01:15 PM 22-09-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 12:02:44 AM 23-09-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1789983233587.jpg" group-title="Fancode",Sambalpur Warriors vs Bhubaneshwar Tigers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249575/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249254_53070_MED_GGD_FC-Web.png" group-title="Fancode",MI Emirates Development vs Gulf Giants Development [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249254/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png" group-title="Fancode",Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249255/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249468_53078_BAY-W_MCI-W_fc-web_1790067155235.jpg" group-title="Fancode",Bayern Munich Women vs Manchester City Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249468/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249469_53078_INT-W_BKH-W_fc-web_1790067154438.jpg" group-title="Fancode",Inter Women vs BK Häcken Women
+https://fancode.sm-monirul-islam-rs.workers.dev/4249469/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:32 PM 22-09-2026
+# last_update: 12:20:29 AM 23-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090543392" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg" group-title="Fancode", 1st ODI - 22 Sep 2026 | Sri Lanka Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/master.m3u8?hdnea=exp=1790119241~acl=/*~id=50654049683125740759741101629018~hmac=19152f9dbf5f48537d33fcf4b6c3441109e1b44f6c2ee5aed2b2f2809f223c0a
