@@ -2,17 +2,17 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:00:23 PM 26-09-2026 (BD Time)
+# Last Updated: 11:00:19 PM 26-09-2026 (BD Time)
 # Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1790170352097.jpg" group-title="Fancode",Keonjhar Miners vs Kataka Panthers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249583/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg" group-title="Fancode",Yamuna Warriors vs Aravali Avengers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249305/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248484_53038_CHL-W_MCI-W_fc-web.jpg" group-title="Fancode",Charlton Athletic F.C Women vs Manchester City Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248484/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg" group-title="Fancode",Day 4 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248547/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249582_53080_ROR_BBT_fc-web_1790170352075.jpg" group-title="Fancode",Rourkela Superstars vs Bhubaneshwar Tigers [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249582/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248485_53038_LCL_BHA-W_fc-web.jpg" group-title="Fancode",London City Lionesses vs Brighton and Hove Albion Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248485/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png" group-title="Fancode",Oldham Athletic vs Salford City
+https://fancode.sm-monirul-islam-rs.workers.dev/4248164/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png" group-title="Fancode",Tenerife vs Cádiz [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249270/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg" group-title="Fancode",Day 3 - World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249106/index.m3u8
 
@@ -21,16 +21,19 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4249106/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:31 PM 26-09-2026
+# last_update: 11:20:31 PM 26-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090544604" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024853/1790380072911843_Laver_cup26_Cobolli_vs_Tien_day2_session1_landscape_thumb.jpg" group-title="Fancode", Day 2 - Session 1 - 26 Sep 2026 | Laver Cup 2026
+#EXTINF:-1 tvg-id="sonyliv-1090544604" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024857/1790382017179945_Laver_cup26_Alcaraz_vs_Fritz_day2_session2_landscape_thumb.jpg" group-title="Fancode", Alcaraz vs Fritz - Day 2 - Session 2 - 26 Sep 2026 | Laver Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/master.m3u8?hdnea=exp=1790466635~acl=/*~id=76855608038276546667725630120860~hmac=736658a05c5b7a54da89bfaa910829ba7dcec3a34486df67ee1de65229bbe139
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Fancode", India In Action - Athletics - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/ENG/master.m3u8?hdnea=exp=1790454035~acl=/*~id=14650064533054131876670478826788~hmac=a9fc7efd45a9cb7223c59dc48fa5f617057264d4bef851417211c76be94ce819
+#EXTINF:-1 tvg-id="sonyliv-1090544607" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789124317583736_UNL_26_Iceland-vs-Estonia_live_landscape_thumb.jpg" group-title="Fancode", Iceland vs Estonia - 26 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022316/unl_esto2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb
 
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Fancode", Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX8_22509/ENG/master.m3u8?hdnea=exp=1790466638~acl=/*~id=94005504795699855713018885071829~hmac=d280ab63fa8b683402c7388a93033a61a8c6cdb2e1b6f113882b2adabf3f22ec
+#EXTINF:-1 tvg-id="sonyliv-1090544609" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789193081403736_UNL_26_Faroe-Islands-vs-Kazakhstan_live_landscape_thumb.jpg" group-title="Fancode", Faroe Islands vs Kazakhstan - 26 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022317/unl_faro2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb
 
-#EXTINF:-1 tvg-id="sonyliv-1090544605" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123985444737_UNL_26_Slovenia-vs-Scotland_live_landscape_thumb.jpg" group-title="Fancode", Slovenia vs Scotland - 26 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/UNL_slov2609/ENG/master.m3u8?hdnea=exp=1790470236~acl=/*~id=89319618041301092717973094644792~hmac=5961596bc241598e295dda9ab887300022ff2f534a32b995af5fd4152f67cd71
+#EXTINF:-1 tvg-id="sonyliv-1090544610" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789193761981998_UNL_26_San-Marino-vs-Finland_live_landscape_thumb.jpg" group-title="Fancode", San Marino vs Finland - 26 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022320/unl_sanm2609/ENG/master.m3u8?hdnea=exp=1790479273~acl=/*~id=32565364222749902648191732712964~hmac=aaad7356cf62bcf708da13d0e4f9e3df9013fd09d420ecc121ab65bb8a6d3adc
+
+#EXTINF:-1 tvg-id="sonyliv-1090544611" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790030329142628_UNL2627_Bulgaria_vs_Luxembourg_landscape_thumb.jpg" group-title="Fancode", Bulgaria vs Luxembourg - 26 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037139/unl_Bulg2609/ENG/master.m3u8?hdnea=exp=1790479284~acl=/*~id=48595213654201266712189403134792~hmac=40734f0a044bafd0e34c0a42509305b7b3b30607574d0833bc305c55f229b91b
