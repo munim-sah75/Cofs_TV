@@ -2,13 +2,9 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:00:38 AM 28-09-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 04:00:40 AM 28-09-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg" group-title="Fancode",Puri Titans vs Sambalpur Warriors [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249584/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg" group-title="Fancode",Chelsea F.C. Women vs Arsenal Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248490/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg" group-title="Fancode",Day 4 - World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249107/index.m3u8
 
@@ -16,27 +12,13 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4249107/index.m3u8
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-28 01:00:42 (BD Time)
-#  Channels Count: 3
+#  Last Updated: 2026-09-28 04:00:42 (BD Time)
+#  Channels Count: 0
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-17854" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904445191020x576.jpg" group-title="Fancode", Norway vs Portugal - MATCHDAY 2 - UEFA Nations League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17855" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904447101020x576.jpg" group-title="Fancode", Israel vs Ireland - MATCHDAY 2 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17856" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904449471020x576.jpg" group-title="Fancode", Germany vs Greece - MATCHDAY 2 - UEFA Nations League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:50:31 AM 28-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090544916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790033649993813_UNL2627_Norway_vs_Portugal_landscape_thumb.jpg" group-title="Fancode", Norway vs Portugal - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2
-
-#EXTINF:-1 tvg-id="sonyliv-1090544915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033530496628_UNL2627_Germany_vs_Greece_landscape_thumb.jpg" group-title="Fancode", Germany vs Greece - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781
-
-#EXTINF:-1 tvg-id="sonyliv-1090544917" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033790885628_UNL2627_Israel_vs_Republic_of_Ireland_landscape_thumb.jpg" group-title="Fancode", Israel vs Republic of Ireland - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03
+# last_update: 03:50:36 AM 28-09-2026
