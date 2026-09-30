@@ -2,15 +2,36 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:01:41 AM 30-09-2026 (BD Time)
+# Last Updated: 06:01:31 AM 30-09-2026 (BD Time)
 # Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249829_53100_TSW_VWW_fc-web.jpg" group-title="Fancode",Toronto Sixers Women vs Vancouver Warriors Women
-https://fancode.sm-monirul-islam-rs.workers.dev/4249829/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249811_53099_WRW_BBZ_FC-Web.png" group-title="Fancode",White Rock Warriors vs Brampton Blitz
+https://fancode.sm-monirul-islam-rs.workers.dev/4249811/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:27 AM 30-09-2026
+# last_update: 06:20:30 AM 30-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025329/179071446275070_AG26_Archery_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="Fancode", Republic of Korea vs India - Archery - Compound Women's Team Semifinal - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025329/179071390912970_AG26_Archery_Womens_Semi_Final_live_landscape_thumb_HTTK.jpg" group-title="Fancode", Archery - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/HIN/master.m3u8?hdnea=exp=1790770837~acl=/*~id=18556418162688324692849439423751~hmac=89bdff25413e6c9adb72017c37739b0a48877f7e73f9977331bcbfd7c4ded984
+
+#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Fancode", Esports - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx3_32909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+
+#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789293295442741_AG26_Softball_pictogram_landscape_thumb.jpg" group-title="Fancode", Chinese Taipei vs People's Republic of China - Women's Softball - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/ag_mds3_2909/ENG/master.m3u8?hdnea=exp=1790769079~acl=/*~id=56769000876767830180256141455703~hmac=97f74e2f537963af709a5a51ddf6037e86663410fedc2c8a28de0a28e81acba8
+
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Fancode", Men's & Women's Quarterfinals - Beach Volleyball - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_2909/ENG/master.m3u8?hdnea=exp=1790769088~acl=/*~id=86894233202059025580570457759464~hmac=14e26c4bfab9fa6092a251be500916a817ef61ea25c4c3c2083c05fb004ac2d9
+
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Fancode", Women's Hockey - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Fancode", Archery  - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds2_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
