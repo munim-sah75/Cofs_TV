@@ -1,0 +1,63 @@
+name: Update IPTV playlist
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build playlist from JSON
+        run: |
+          python3 - <<'EOF'
+          import json, urllib.request, urllib.parse
+
+          SRC = "http://198.195.239.50/tv_channels.json"
+          BASE = "http://198.195.239.50/"
+
+          req = urllib.request.Request(SRC, headers={"User-Agent": "Mozilla/5.0"})
+          with urllib.request.urlopen(req, timeout=30) as r:
+              data = json.load(r)
+
+          channels = [c for c in data.get("channels", [])
+                      if c.get("status", "visible") == "visible" and c.get("url")]
+
+          if not channels:
+              raise SystemExit("No channels found - keeping the old playlist.")
+
+          lines = ["#EXTM3U"]
+          for c in channels:
+              name = c.get("name", "Unknown").replace(",", " ").strip()
+              group = c.get("category", "Other")
+              logo = c.get("logo", "")
+              logo_url = BASE + urllib.parse.quote(logo) if logo else ""
+              lines.append(
+                  f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo_url}" '
+                  f'group-title="{group}",{name}'
+              )
+              lines.append(c["url"])
+
+          with open("playlist.m3u", "w", encoding="utf-8") as f:
+              f.write("\n".join(lines) + "\n")
+
+          print(f"Wrote {len(channels)} channels")
+          EOF
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- playlist.m3u 2>/dev/null && [ -f playlist.m3u ] && git ls-files --error-unmatch playlist.m3u >/dev/null 2>&1; then
+            echo "No changes."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add playlist.m3u
+            git commit -m "Update playlist ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
