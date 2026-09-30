@@ -16,7 +16,7 @@ for c in data.get("channels", []):
     if not INCLUDE_HIDDEN and c.get("status", "visible") != "visible":
         continue
 
-    name = c.get("name", "Unknown").replace(",", " ").strip()
+    name = " ".join(c.get("name", "Unknown").replace(",", " ").replace(".", " ").split())
     group = c.get("category", "Other")
     logo = c.get("logo", "")
     logo_url = BASE + urllib.parse.quote(logo) if logo and not logo.startswith("http") else logo
