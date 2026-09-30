@@ -2,44 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:01:21 PM 30-09-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 10:39:50 PM 30-09-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg" group-title="Fancode",Faridabad Firebirds vs Delhi Dynamos [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249300/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" group-title="Fancode",Kolhan King vs Manoharpur Lions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250042/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250064_53103_EMB_FUJ_FC-WEB.jpg" group-title="Fancode",Emirates Blues vs Fujairah [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250064/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MM.png" group-title="Fancode",Punjab FC vs East Bengal FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249524/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="Fancode",Kinoshita Group Show Court [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248565/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="Fancode",Day 1 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248572/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="Fancode",Day 1 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248551/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="Fancode",Lotus Court [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248558/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png" group-title="Fancode",Australia vs South Africa [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249780/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/53080_KNM_SAW_fc-web.jpg" group-title="Fancode",Keonjhar Miners vs Sambalpur Warriors [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249587/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250066_53103_SHA_EMB_FC-WEB.jpg" group-title="Fancode",Sharjah vs Emirates Blues [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250066/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:28 PM 30-09-2026
+# last_update: 10:50:29 PM 30-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790810431~acl=/*~id=72485697055333046493379522301852~hmac=de2821fff1944acfc233eb24642c465c6923cbf8876a5feaaafb4e8a8bfcabb4
-
-#EXTINF:-1 tvg-id="sonyliv-1090545783" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="Fancode", India vs Republic Of Korea - Hockey - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/ENG/master.m3u8?hdnea=exp=1790806836~acl=/*~id=73148747730190275531665805062616~hmac=7bc37dcaf1d10831a50c52861c120b5fcace11511ce4a7796bcf07c033c8e2d6
-
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030
-
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Fancode", Football - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8?hdnea=exp=1790810435~acl=/*~id=44053454469900853481837600857341~hmac=92d83959b7f3eb66dfe3f608dbe0a0d20bbdb1af5752119f04f644e112c5a606
-
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Fancode", Wrestling - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_2909/ENG/master.m3u8?hdnea=exp=1790810438~acl=/*~id=07133388173134721976015256997432~hmac=6bc61c9e0db99fa7373b971d557de48a39d20e8cd6e9644dc75fcf4bc4032c61
+#EXTINF:-1 tvg-id="sonyliv-1090545705" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790029127566502_UEFA_INT_friendly_MD2_Lithuania_vs_Andorra_landscape_thumb.jpg" group-title="Fancode", Lithuania vs Andorra - 30 Sep 2026 | UEFA International Friendlies
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/master.m3u8?hdnea=exp=1790824847~acl=/*~id=86411463764682491393386580722232~hmac=c4bee9a02355ec6e8f5640ce8b340c602b9b94f194c174ed928750608e2b4666
