@@ -2,65 +2,27 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:01:21 PM 01-10-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 07:10:20 PM 01-10-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249531_53075_NSW-W_QUN-W_fc-web.jpg" group-title="Fancode",Queensland Fire vs New South Wales Breakers [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249531/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249532_53075_VCT-W_SAU-W_fc-web.jpg" group-title="Fancode",Victoria Women vs South Australian Scorpions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249532/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249533_53075_WA-W_TAS-W_fc-web.jpg" group-title="Fancode",Western Australia Women vs Tasmania Women [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249533_53075_WA-W_TAS-W_fc-web.jpg" group-title="Fancode",Tasmania Women vs Western Australia Women [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249533/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" group-title="Fancode",Jagannathpur Tigers vs Manoharpur Lions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250043/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249830_53100_VAW_TSW_fc-web.jpg" group-title="Fancode",Vancouver Anchors Women vs Toronto Sixers Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249830/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="Fancode",Colosseum Court [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248566/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="Fancode",Day 2 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248573/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="Fancode",A. de Minaur vs M. Navone [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248552/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249307_53073_AAV_CRU_fc-web.jpg" group-title="Fancode",Capital Cruisers vs Aravali Avengers [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249307/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250069_53103_EMB_DUB_FC-WEB.jpg" group-title="Fancode",Emirates Blues vs Dubai [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250069/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="Fancode",Day 2 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248559/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:29 PM 01-10-2026
+# last_update: 07:20:31 PM 01-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 13 - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/master.m3u8?hdnea=exp=1790855434~acl=/*~id=85920699754924198705640911730828~hmac=faebb41a5244429060e64c5b5e27e9bb755ca1e38da6eef5b8a31611d1148dfc
+#EXTINF:-1 tvg-id="sonyliv-1090546010" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 13 - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790880634~acl=/*~id=04688349102589832231584920972393~hmac=4b321ffdb3d9a04d442e7da4ab283e78f248aaa61e964fb23358808a4eca7c13
 
-#EXTINF:-1 tvg-id="sonyliv-1090541371" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Fancode", India vs Sri Lanka - Semifinal - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/master.m3u8?hdnea=exp=1790871639~acl=/*~id=16063157075646356756283926938030~hmac=84887ca2b740c77cfd061dac57d450c3df0e34d66aad8500e2c63b7700b0cffc
-
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Fancode", Day 13 - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
-
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="Fancode", Judo - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/ag_mds4_3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
-
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790835225665_1789300066350741_AG26_Rugby_pictogram_landscape_thumb.jpg" group-title="Fancode", People's Republic of China vs Uzbekistan - Men - Rugby Sevens - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx7_03009/ENG/master.m3u8?hdnea=exp=1790857236~acl=/*~id=47923604069966017783007303785662~hmac=de0914e66ecd701c97a684630f6095acc1b5aa258e0d011fdcd4a71e19c98e75
-
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Fancode", Sepaktakraw - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds1_3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
-
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Fancode", Hockey - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/ag_dx2_03009/ENG/master.m3u8?hdnea=exp=1790862633~acl=/*~id=52469549066928850239267539656950~hmac=81b439d89ccc08ea6b357a9c5d63b2547a14bf13f4d42add06f60ac73bc84cf6
-
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg" group-title="Fancode", Squash - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120306/ag_edx1_3009/ENG/master.m3u8?hdnea=exp=1790860848~acl=/*~id=53239537297521591387912619401960~hmac=83cfc7e72ded3e9f6a06d9db1308b46decee22e0315947ae590be14559a3097a
-
-#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Fancode", Volleyball - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds3_0110/ENG/master.m3u8?hdnea=exp=1790878836~acl=/*~id=54999867828510547510832008843772~hmac=798571e2f8bcbc71c8402ccb9c2291669130404b88b98f7f4b770664b2129765
-
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Fancode", Archery - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/ag_mds2_3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
-
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Fancode", Men's & Women's Finals - Archery - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_dx4_00110/ENG/master.m3u8?hdnea=exp=1790871648~acl=/*~id=25844689994461484402075426127658~hmac=5ee865efca16f1b369702e24bb8c4d53ec514b2dcf471ab8581ad10e556c72f3
-
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790834417192_1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Fancode", Indonesia vs Japan - Men - Beach Volleyball - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_dx8_00110/ENG/master.m3u8?hdnea=exp=1790871671~acl=/*~id=10087233319163503923055706777241~hmac=c83802562907147ddf3d6b60f8ce373e60b2a4dc51e1b64a6bf20f83a6e506fd
+#EXTINF:-1 tvg-id="sonyliv-1090545726" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561740000673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day1_landscape_thumb.jpg" group-title="Fancode", Alfred Dunhill Links Championship - Day 1 - 1 Oct 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2005445/Golf_Alf0110/ENG/master.m3u8?hdnea=exp=1790900442~acl=/*~id=12310054921308077528541891910238~hmac=2b5a339e526524c7c3e2785aef1c414f4e2dc3c871105833c4db8836a76e7d47
