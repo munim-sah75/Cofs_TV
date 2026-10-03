@@ -2,62 +2,55 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:00:58 PM 03-10-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 10:01:02 PM 03-10-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249221_53069_IAC_AAC_FC-Web_1790764440663.png" group-title="Fancode",India Champions vs Australia Champions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249221/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FaridabadFirebirdsvsGhaziabadGiants_fc-web.jpg" group-title="Fancode",Faridabad Firebirds vs Ghaziabad Giants [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FaridabadFirebirdsvsGhaziabadGiants_fc-web.jpg" group-title="Fancode",Ghaziabad Giants vs Faridabad Firebirds [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249309/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250076_53103_EMB_EMR_FC-WEB.jpg" group-title="Fancode",Emirates Blues vs Emirates Red [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250076/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png" group-title="Fancode",Chesterfield vs Tranmere Rovers
-https://fancode.sm-monirul-islam-rs.workers.dev/4248165/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="Fancode",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248554/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249656_53086_NAM_UAE_fc-web.png" group-title="Fancode",Namibia vs United Arab Emirates [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249656/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250078_53103_AJM_EMR_FC-WEB.jpg" group-title="Fancode",Emirates Red vs Ajman [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250078/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:30 PM 03-10-2026
+# last_update: 10:20:29 PM 03-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090546707" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Fancode", India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/master.m3u8ENG/master.m3u8?hdnea=exp=1791062437~acl=/*~id=88304891389122297769710143860964~hmac=c5994d88937c4f79db007fe6a8a4f5695f62f837d9f98bf6981bd0bf44451aeb
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Fancode", India vs Brazil - India's International Friendlies 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
 
-#EXTINF:-1 tvg-id="sonyliv-1090546707" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Fancode", India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/master.m3u8HIN/master.m3u8?hdnea=exp=1791062437~acl=/*~id=88304891389122297769710143860964~hmac=c5994d88937c4f79db007fe6a8a4f5695f62f837d9f98bf6981bd0bf44451aeb
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Fancode", India vs Brazil - India's International Friendlies 2026 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/HIN/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
 
-#EXTINF:-1 tvg-id="sonyliv-1090546707" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Fancode", India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [Tamil]
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/master.m3u8TAM/master.m3u8?hdnea=exp=1791062437~acl=/*~id=88304891389122297769710143860964~hmac=c5994d88937c4f79db007fe6a8a4f5695f62f837d9f98bf6981bd0bf44451aeb
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Fancode", India vs Brazil - India's International Friendlies 2026 [Tamil]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TAM/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
 
-#EXTINF:-1 tvg-id="sonyliv-1090546707" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Fancode", India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [Telugu]
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/master.m3u8TEL/master.m3u8?hdnea=exp=1791062437~acl=/*~id=88304891389122297769710143860964~hmac=c5994d88937c4f79db007fe6a8a4f5695f62f837d9f98bf6981bd0bf44451aeb
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Fancode", India vs Brazil - India's International Friendlies 2026 [Telugu]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TEL/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
 
-#EXTINF:-1 tvg-id="sonyliv-1090546707" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Fancode", India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [Kannada]
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/master.m3u8KAN/master.m3u8?hdnea=exp=1791062437~acl=/*~id=88304891389122297769710143860964~hmac=c5994d88937c4f79db007fe6a8a4f5695f62f837d9f98bf6981bd0bf44451aeb
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Fancode", India vs Brazil - India's International Friendlies 2026 [Kannada]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/KAN/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
 
-#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Fancode", Wrestling - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120306/ag_strea0310/ENG/master.m3u8ENG/master.m3u8?hdnea=exp=1791060635~acl=/*~id=24919849605430259593738012037900~hmac=d616d61699481ac01191751216be97564fabf85d13c7f02d8f51cccc5f4b9681
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Fancode", India vs Brazil - India's International Friendlies 2026 [Malayalam]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/MAL/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
 
-#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Fancode", Wrestling - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2120306/ag_strea0310/ENG/master.m3u8HIN/master.m3u8?hdnea=exp=1791060635~acl=/*~id=24919849605430259593738012037900~hmac=d616d61699481ac01191751216be97564fabf85d13c7f02d8f51cccc5f4b9681
+#EXTINF:-1 tvg-id="sonyliv-1090546628" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747906736683_UNL2627_Croatia_vs_England_landscape_thumb.jpg" group-title="Fancode", Croatia vs England - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084037~acl=/*~id=55593780702326351750085828860730~hmac=37ed3ca771e3e8a73db761ea85cef811c1da57bb1b6989e98ec7e90ea1111100
 
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Fancode", Football - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8ENG/master.m3u8?hdnea=exp=1791058832~acl=/*~id=08429568719682706116188112177312~hmac=f1a238c14faf47a068e4b0e3b9f16c457f62fc6a6a0a447e1a3c62548290508d
+#EXTINF:-1 tvg-id="sonyliv-1090546669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032955786967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb_bengali.jpg" group-title="Fancode", India vs Brazil (Bengali) - India's International Friendlies 2026 [Bengali]
+https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/BEN/master.m3u8?hdnea=exp=1791076113~acl=/*~id=23300786148273193556789446748749~hmac=064397d208ce4425cadc5d64bacb96b8277556f502cb675825bc731fe9f680e6
 
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Fancode", Volleyball - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2022316/ag_dx5_00310/ENG/master.m3u8ENG/master.m3u8?hdnea=exp=1791042635~acl=/*~id=16654853601436551659895089208426~hmac=4bfb75f021ce40a83675b13bbd15e063d42715a9532c6febbd8a08c606a47451
+#EXTINF:-1 tvg-id="sonyliv-1090546637" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748023774683_UNL2627_Iceland_vs_Bulgaria_landscape_thumb.jpg" group-title="Fancode", Iceland vs Bulgaria - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084048~acl=/*~id=11421288747896566546231094062447~hmac=e502e4edca80037663e0b7e400adbab922881f00bede2797ee64defcc7dc1437
 
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789298767394741_AG26_Rhythmic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Fancode", Rhythmic Gymnastics - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9
+#EXTINF:-1 tvg-id="sonyliv-1090546671" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748351517683_UNL2627_Estonia_vs_Luxembourg_landscape_thumb.jpg" group-title="Fancode", Estonia vs Luxembourg - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084060~acl=/*~id=64890104261540344446004052037941~hmac=2c23b7986b8831a105b1f3955311386be562d428293855f41cf2e8f0325b2d1a
 
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Fancode", Hockey - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9
+#EXTINF:-1 tvg-id="sonyliv-1090546635" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748179104683_UNL2627_Belarus_vs_San_Marino_landscape_thumb.jpg" group-title="Fancode", Belarus vs San Marino - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084072~acl=/*~id=64279375501500974893339703948345~hmac=6d31d5b216a9438417d4fc45584844ec58dc528a53f3ecf6b4ab1fde5b893fcc
 
-#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Fancode", Wrestling - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9
-
-#EXTINF:-1 tvg-id="sonyliv-1090546606" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561622197673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day3_landscape_thumb.jpg" group-title="Fancode", Alfred Dunhill Links Championship - Day 3 - 3 Oct 2026 - DP World Tour [English]
-https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/ENG/master.m3u8ENG/master.m3u8?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60
+#EXTINF:-1 tvg-id="sonyliv-1090546606" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561622197673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day3_landscape_thumb.jpg" group-title="Fancode", Alfred Dunhill Links Championship - Day 3 - DP World Tour [English]
+https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/ENG/master.m3u8?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60
