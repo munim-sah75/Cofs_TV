@@ -2,27 +2,27 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:00:58 PM 04-10-2026 (BD Time)
+# Last Updated: 10:00:53 PM 04-10-2026 (BD Time)
 # Live Match : 4
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249219_53069_SAC_WIC_FC-Web_1790764440934.png" group-title="Fancode",South Africa Champions vs West Indies Champions [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249219/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1791113067088/4249308_CASACARDS_APP.png" group-title="Fancode",Yamuna Warriors vs Faridabad Firebirds [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249308_53073_FFI_YAW_fc-web.jpg" group-title="Fancode",Yamuna Warriors vs Faridabad Firebirds [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249308/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MM.png" group-title="Fancode",Mohun Bagan Super Giant vs Punjab FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249603/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATPChinaZverevvsDjokovic_FC-Web.jpg" group-title="Fancode",Zverev vs Djokovic [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248555/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249223_53069_IAC_EDC_FC-Web_1790764441407.png" group-title="Fancode",India Champions vs England Champions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249223/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249192_53038_MCI-W_ARS-W_fc-web_1791063400709.jpg" group-title="Fancode",Manchester City Women vs Arsenal Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249192/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:32 PM 04-10-2026
+# last_update: 10:50:32 PM 04-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090546998" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794655063993_UNL2627_MD4_Azerbaijan_vs_Lithuania_landscape_thumb.jpg" group-title="Fancode", Azerbaijan vs Lithuania - UEFA Nations League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0410/ENG/master.m3u8?hdnea=exp=1791159645~acl=/*~id=92910531809185250033124669951355~hmac=3c59e45c28dfdf9f9c4e6e8022ff5ebbf3c21a39bbc81f5eb39e06bb72b4c0b7
+#EXTINF:-1 tvg-id="sonyliv-1090547001" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795255287993_UNL2627_MD4_Kosovo_vs_Austria_landscape_thumb.jpg" group-title="Fancode", Kosovo vs Austria - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0410/ENG/master.m3u8?hdnea=exp=1791170438~acl=/*~id=08922464962888233002080627803239~hmac=f47b2b14697e97819a2e0088a3a3e0a267f1aff6d21e671deaa9bbb128f8fbbb
 
-#EXTINF:-1 tvg-id="sonyliv-1090546993" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561630121673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day4_landscape_thumb.jpg" group-title="Fancode", Alfred Dunhill Links Championship - Day 4 - DP World Tour [English]
-https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/master.m3u8?hdnea=exp=1791152440~acl=/*~id=96695579875630881645621748058433~hmac=1b33b96a4c678e6ede1df62edb1d9216a593ec5a217d0974f8d2026f9ddc22e4
+#EXTINF:-1 tvg-id="sonyliv-1090547002" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795407473993_UNL2627_MD4_Malta_vs_Andorra_landscape_thumb.jpg" group-title="Fancode", Malta vs Andorra - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/master.m3u8?hdnea=exp=1791170451~acl=/*~id=49942054377503995884123288737081~hmac=5e44a13982713fc689270f1eb6dea66addaaf5bf1560fa51c98b5337111b5278
