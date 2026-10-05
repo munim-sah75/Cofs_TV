@@ -2,22 +2,17 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:01:01 PM 05-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 02:02:04 AM 06-10-2026 (BD Time)
+# Live Match : 2
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png" group-title="Fancode",United Arab Emirates vs USA [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249657/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png" group-title="Fancode",Bangladesh Champions vs England Champions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249217/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250081_53103_AJM_EMB_FC-WEB.jpg" group-title="Fancode",Emirates Blues vs Ajman [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250081/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250083_53103_AJM_FUJ_FC-WEB.jpg" group-title="Fancode",Ajman vs Fujairah [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250083/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:33 PM 05-10-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090547070" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826911383953_UNL2627_MD4_Cyprus_vs_Latvia_landscape_thumb.jpg" group-title="Fancode", Cyprus vs Latvia - UEFA Nations League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/master.m3u8?hdnea=exp=1791256841~acl=/*~id=36871665722074013850628360155464~hmac=fdef97d5ac34695225e113fde93e3d2be920a043f5b8cc67adecc3b088dbfe73
+# last_update: 03:50:35 AM 06-10-2026
