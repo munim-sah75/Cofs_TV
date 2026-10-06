@@ -2,21 +2,42 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:12:08 PM 06-10-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 08:23:08 PM 06-10-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" group-title="Fancode",Kolhan King vs Jagannathpur Tigers
-https://fancode.sm-monirul-islam-rs.workers.dev/4250053/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Bahrain vs Bhutan [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249722/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Mongolia vs Kuwait [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249723/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="Fancode",Doubles Final [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248571/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250085_53103_ABD_EMR_FC-WEB.jpg" group-title="Fancode",Emirates Red vs Abu Dhabi [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250085/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:30 PM 06-10-2026
+# last_update: 09:20:37 PM 06-10-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090547205" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="Fancode", India vs Uruguay - India's International Friendlies 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0
+
+#EXTINF:-1 tvg-id="sonyliv-1090547205" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="Fancode", India vs Uruguay - India's International Friendlies 2026 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0
+
+#EXTINF:-1 tvg-id="sonyliv-1090547205" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="Fancode", India vs Uruguay - India's International Friendlies 2026 [Tamil]
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0
+
+#EXTINF:-1 tvg-id="sonyliv-1090547205" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="Fancode", India vs Uruguay - India's International Friendlies 2026 [Telugu]
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0
+
+#EXTINF:-1 tvg-id="sonyliv-1090547205" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="Fancode", India vs Uruguay - India's International Friendlies 2026 [Kannada]
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0
+
+#EXTINF:-1 tvg-id="sonyliv-1090547202" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791198095738540_VCL_Haryana-Hurricanes-vs-Tamil-Titans_live_landscape_thumb.jpg" group-title="Fancode", Haryana Hurricanes vs Tamil Titans - Volleyball Championship League 2026  [English]
+https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32
+
+#EXTINF:-1 tvg-id="sonyliv-1090547202" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791198095738540_VCL_Haryana-Hurricanes-vs-Tamil-Titans_live_landscape_thumb.jpg" group-title="Fancode", Haryana Hurricanes vs Tamil Titans - Volleyball Championship League 2026  [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/HIN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32
+
+#EXTINF:-1 tvg-id="sonyliv-1090547296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196784948723_IND_vs_URU_live_landscape_thumb_benagli.jpg" group-title="Fancode", India vs Uruguay (Bengali) - India's International Friendlies 2026 [Bengali]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32
+
+#EXTINF:-1 tvg-id="sonyliv-1090547220" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790880464463804_UNL2627_MD4_Kazakhstan_vs_Faroe_Islands_landscape_thumb.jpg" group-title="Fancode", Kazakhstan vs Faroe Islands - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/ENG/master.m3u8?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec
