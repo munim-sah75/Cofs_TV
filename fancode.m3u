@@ -2,23 +2,34 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:32:35 AM 08-10-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 04:02:08 PM 08-10-2026 (BD Time)
+# Live Match : 6
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg" group-title="Fancode",Tasmania vs New South Wales [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249663/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg" group-title="Fancode",Queensland vs Western Australia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249664/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Thailand vs Kuwait [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249724/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Bhutan vs Mongolia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249725/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Myanmar vs Bahrain [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249726/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248813/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Show Court 3 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248815/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Grandstand 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248816/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Stadium Court [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248814/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" group-title="Fancode",Round 16 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250124/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:35 PM 08-10-2026
+# last_update: 10:20:28 PM 08-10-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090547521" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791372668784475_VCL_Haryana-Hurricanes-vs-Delhi-Dynamites_live_landscape_thumb.jpg" group-title="Fancode", Haryana Hurricanes vs Delhi Dynamites - Volleyball Champions League 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/master.m3u8?hdnea=exp=1791508837~acl=/*~id=15902991259242377136229779935244~hmac=0fb08f7fc8ba4e5e16ff6e2a0043665d23026597577848b21ee381508a99861a
+
+#EXTINF:-1 tvg-id="sonyliv-1090547521" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791372668784475_VCL_Haryana-Hurricanes-vs-Delhi-Dynamites_live_landscape_thumb.jpg" group-title="Fancode", Haryana Hurricanes vs Delhi Dynamites - Volleyball Champions League 2026 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/HIN/master.m3u8?hdnea=exp=1791508837~acl=/*~id=15902991259242377136229779935244~hmac=0fb08f7fc8ba4e5e16ff6e2a0043665d23026597577848b21ee381508a99861a
+
+#EXTINF:-1 tvg-id="sonyliv-1090547326" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg" group-title="Fancode", Open de Espana Presented By Madrid - Day 1 - DP World Tour [English]
+https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/master.m3u8?hdnea=exp=1791503434~acl=/*~id=55403735727410719754647001102191~hmac=d773b4b48c3518b6d301fd1f4029b0add59f1cef83cad6fd66875339786f3f94
