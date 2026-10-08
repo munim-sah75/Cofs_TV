@@ -2,15 +2,23 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 04:45:12 AM 08-10-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 08:32:35 AM 08-10-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png" group-title="Fancode",Namibia vs USA [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249658/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg" group-title="Fancode",Tasmania vs New South Wales [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249663/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg" group-title="Fancode",Queensland vs Western Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249664/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Thailand vs Kuwait [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249724/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Bhutan vs Mongolia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249725/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Myanmar vs Bahrain [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249726/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:32 AM 08-10-2026
+# last_update: 08:20:28 AM 08-10-2026
