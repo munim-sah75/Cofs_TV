@@ -2,29 +2,21 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:26:36 PM 09-10-2026 (BD Time)
-# Live Match : 2
+# Last Updated: 10:27:37 PM 09-10-2026 (BD Time)
+# Live Match : 4
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Court 7
-https://fancode.sm-monirul-islam-rs.workers.dev/4250187/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Court 4
-https://fancode.sm-monirul-islam-rs.workers.dev/4250188/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png" group-title="Fancode",United Arab Emirates vs Namibia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249659/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" group-title="Fancode",Bangladesh Champions vs West Indies Champions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249227/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250096_53103_SHA_AJM_FC-WEB.jpg" group-title="Fancode",Ajman vs Sharjah [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250096/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249137_53025_AFF_AAS_FC-Web.png" group-title="Fancode",Al-Fateh SC vs Al-Ahli Saudi FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249137/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:27 PM 09-10-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090547531" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg" group-title="Fancode", Punjab Aerostrikers vs Garvi Gujjus - Volleyball Championship League 2026  [English]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/ENG/master.m3u8?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec
-
-#EXTINF:-1 tvg-id="sonyliv-1090547531" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg" group-title="Fancode", Punjab Aerostrikers vs Garvi Gujjus - Volleyball Championship League 2026  [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/HIN/master.m3u8?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec
-
-#EXTINF:-1 tvg-id="sonyliv-1090547533" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026047/1791527609190776_APL26_Kakatiya-Knights-vs-Chola-Chiefs_live_landscape_thumb.jpg" group-title="Fancode", Kakatiya Knights vs Chola Chiefs - Archery Premier League 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/ENG/master.m3u8?hdnea=exp=1791597035~acl=/*~id=65162814384091371522518530136566~hmac=099b7e416b5667a824f7f8d64ae52e3fccd50cc779fc0c9ecf29d7f55e662fae
-
-#EXTINF:-1 tvg-id="sonyliv-1090547530" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649382069310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day2_landscape_thumb.jpg" group-title="Fancode", Open de Espana Presented By Madrid - Day 2 - DP World Tour [English]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/master.m3u8?hdnea=exp=1791589835~acl=/*~id=46049840398994324245206794874766~hmac=dc8568a8d56f4996d0a1e27a75def6957d68fe3d634052d178843d385259b82b
+# last_update: 01:20:26 AM 10-10-2026
