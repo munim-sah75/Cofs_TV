@@ -2,48 +2,19 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:14:38 PM 10-10-2026 (BD Time)
-# Live Match : 7
+# Last Updated: 12:46:03 AM 11-10-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode",Australia vs South Africa [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249781/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg" group-title="Fancode",Emirates Blues vs Abu Dhabi [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250099/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249590_52993_BOL_STK_fc-web.jpg" group-title="Fancode",Bolton Wanderers vs Stoke City F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249590/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248821/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Stadium Court [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250196/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" group-title="Fancode",Semi-Final [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250126/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Fancode",ADAC GT Masters - Race 1 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250136/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png" group-title="Fancode",India Champions vs South Africa Champions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249220/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250069_53103_EMB_DUB_FC-WEB.jpg" group-title="Fancode",Dubai vs Emirates Blues [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250100/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png" group-title="Fancode",Al Hilal SFC vs Al-Ittihad [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249139/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:27 PM 10-10-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090547647" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg" group-title="Fancode", FC Goa vs Chennaiyin FC - MG Indian Super League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/ENG/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf
-
-#EXTINF:-1 tvg-id="sonyliv-1090547647" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg" group-title="Fancode", FC Goa vs Chennaiyin FC - MG Indian Super League 2026-27 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/HIN/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf
-
-#EXTINF:-1 tvg-id="sonyliv-1090547647" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg" group-title="Fancode", FC Goa vs Chennaiyin FC - MG Indian Super League 2026-27 [Tamil]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/TAM/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf
-
-#EXTINF:-1 tvg-id="sonyliv-1090547535" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373944150475_VCL_Rajasthan-Spikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg" group-title="Fancode", Rajasthan Spikers vs Ayodhya Garjan - Volleyball Championship League 2026  [English]
-https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf
-
-#EXTINF:-1 tvg-id="sonyliv-1090547535" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373944150475_VCL_Rajasthan-Spikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg" group-title="Fancode", Rajasthan Spikers vs Ayodhya Garjan - Volleyball Championship League 2026  [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/HIN/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf
-
-#EXTINF:-1 tvg-id="sonyliv-1090547537" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026049/1791528748692353_APL26_Mighty-Marathas-vs-Chola-Chiefs_live_landscape_thumb.jpg" group-title="Fancode", Mighty Marathas vs Chola Chiefs - Archery Premier League 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1010/ENG/master.m3u8?hdnea=exp=1791683460~acl=/*~id=98138470456180511501118299521004~hmac=f541f91ca64678e5e3f0531631ec5a8de6d94c8d81d213b578644fe8a75b7629
-
-#EXTINF:-1 tvg-id="sonyliv-1090547534" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649388803310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day3_landscape_thumb.jpg" group-title="Fancode", Open de Espana Presented By Madrid - Day 3 - DP World Tour [English]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/master.m3u8?hdnea=exp=1791674435~acl=/*~id=18423025070604368853146253552318~hmac=c733fe8020f2098016f432363ceab06a50931d15e6dece2a7593d8b2965771de
+# last_update: 12:50:25 AM 11-10-2026
