@@ -2,19 +2,28 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:46:03 AM 11-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 04:13:29 AM 11-10-2026 (BD Time)
+# Live Match : 0
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png" group-title="Fancode",India Champions vs South Africa Champions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249220/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250069_53103_EMB_DUB_FC-WEB.jpg" group-title="Fancode",Dubai vs Emirates Blues [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250100/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png" group-title="Fancode",Al Hilal SFC vs Al-Ittihad [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249139/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:24 AM 11-10-2026
+# last_update: 06:50:26 AM 11-10-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fancode", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [English]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
+
+#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fancode", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/HIN/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
+
+#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fancode", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Tamil]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/TAM/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
+
+#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fancode", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Telugu]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/TEL/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
+
+#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fancode", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Kannada]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/KAN/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
