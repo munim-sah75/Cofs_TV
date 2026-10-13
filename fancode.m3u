@@ -2,29 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:50:44 PM 13-10-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 03:43:41 AM 14-10-2026 (BD Time)
+# Live Match : 1
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249661_53086_USA_NAM_fc-web.png" group-title="Fancode",USA vs Namibia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249661/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249231_53069_IAC_WIC_FC-Web_1790764441502.png" group-title="Fancode",India Champions vs West Indies Champions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249231/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248975_53057_EBFC_SHR_fc-web_1789025066366.jpg" group-title="Fancode",East Bengal FC vs Al Shorta [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248975/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248702_53053_SDD_AHS_FC-WEB.jpg" group-title="Fancode",Al Sadd vs Al Hilal SFC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248702/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248976_53057_ALS_HUS_fc-web_1789025065281.jpg" group-title="Fancode",Al Seeb Club vs Al Hussein [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248976/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:25 PM 13-10-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090547842" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg" group-title="Fancode", Lens vs Sporting CP - MD2 - 13 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a
-
-#EXTINF:-1 tvg-id="sonyliv-1090547843" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Fancode", Sabah vs Slavia Praha - 13 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951652~acl=/*~id=37612463050887949662377689323105~hmac=4a3bc6d49fdf11857769a0e9a05ed9009dd4e12ad7cbbd8eeaf51ae96a80666c
+# last_update: 03:50:25 AM 14-10-2026
