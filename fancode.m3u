@@ -2,19 +2,39 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:50:11 AM 14-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 05:14:33 PM 14-10-2026 (BD Time)
+# Live Match : 7
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" group-title="Fancode",Bangladesh Women vs Australia Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250151/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249791_53097_MR-W_MS-W_FC-Web_1791883787885.png" group-title="Fancode",Melbourne Renegades Women vs Melbourne Stars Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249791/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",World Feed [English]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249239_53069_EDC_AAC_FC-Web.png" group-title="Fancode",England Champions vs Australia Champions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249239/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249792_53097_AS-W_HB-W_FC-Web_1791883787882.png" group-title="Fancode",Adelaide Strikers Women vs Hobart Hurricanes Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249792/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248710_53053_VIS_JNB_fc-web.jpg" group-title="Fancode",Vissel Kobe vs Jeonbuk Motors [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248710/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248711_53053_REY_PFC_fc-web.jpg" group-title="Fancode",Kashiwa Reysol vs Port FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248711/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Medvedev-vs-Stefanos_web.png" group-title="Fancode",D. Medvedev vs S. Tsitsipas [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4248839/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Show Court 3 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248840/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Fancode",Round 32 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250142/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:20:25 PM 14-10-2026
+# last_update: 09:20:29 PM 14-10-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090547989" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026292/179196198898858_ISL_Punjab_FC_vs_Odisha_FC_live_landscape_thumb.jpg" group-title="Fancode", Punjab FC vs Odisha FC - 14 Oct 2026 | MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792027242~acl=/*~id=47832958779743490850823996883334~hmac=59906442bef5413eb2ddb4ccac00ccc5910099ba629b5ea6ba9fba207b895c2f
+
+#EXTINF:-1 tvg-id="sonyliv-1090547987" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166659556718_VCL_Hooghly_Hitters_vs_Haryana_Hurricanes_live_landscape_thumb.jpg" group-title="Fancode", Hooghly Hitters vs Haryana Hurricanes - 14 Oct 2026 | Volleyball Championship League 2026 
+https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792025440~acl=/*~id=72904856064578713871307045840459~hmac=cd2a3e0f19f9709db5d40cd063f28e236f2ec6f20b633d55e8fcb57ca8296a56
+
+#EXTINF:-1 tvg-id="sonyliv-1090547997" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791663428342929_APL26_Chola_Chiefs_vs_Mighty_Marathas_live_landscape_thumb.jpg" group-title="Fancode", Chola Chiefs vs Mighty Marathas - 14 Oct 2026 | Archery Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029034~acl=/*~id=80797106669150376393090532978879~hmac=2f4c22512279b0fc352df9378904865bc382ad364a1d8f17cec59b5dc929b6f3
+
+#EXTINF:-1 tvg-id="sonyliv-1090547983" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025830/179109334636999_UYL26_Manchester_City_vs_PSG_live_landscape_thumb.jpg" group-title="Fancode", Manchester City vs PSG - MD 2 - 14 Oct 2026 | UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792030842~acl=/*~id=89373671144174086242000849075955~hmac=173cf5ea6565b93a4b63d7e3302f9a240e624a77d88533524411b68dd37236e0
