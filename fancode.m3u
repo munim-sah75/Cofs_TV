@@ -2,40 +2,19 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:54:05 PM 14-10-2026 (BD Time)
+# Last Updated: 01:58:42 AM 15-10-2026 (BD Time)
 # Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249239_53069_EDC_AAC_FC-Web.png" group-title="Fancode",Australia Champions vs England Champions [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249239/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248969_53057_NAS_ALW_fc-web_1789029296959.jpg" group-title="Fancode",PFC Nasaf vs Al Wahda [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248969/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791979650321.png" group-title="Fancode",Round 32 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250142/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249240_53069_BGC_SAC_FC-Web_1790764441547.png" group-title="Fancode",South Africa Champions vs Bangladesh Champions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249240/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248974_53057_ALF_ALN_fc-web_1789025066416.jpg" group-title="Fancode",Al Faisaly vs Al-Nahda Club [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248974/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249593_52993_LNC_WHU_fc-web.jpg" group-title="Fancode",Lincoln City F.C. vs West Ham United [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249593/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:24 AM 15-10-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090548030" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791174791870329_UCL2627_MD2_Man_City_vs_PSG_landscape_thumb.jpg" group-title="Fancode", Man City vs PSG - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047035~acl=/*~id=19957819045871406253677790351832~hmac=b3526ac29c9d7ca18622be7a7f4a547ba2bea905acc9891896881ec369e6a251
-
-#EXTINF:-1 tvg-id="sonyliv-1090548031" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175023698329_UCL2627_MD2_Roma_vs_Real_Madrid_landscape_thumb.jpg" group-title="Fancode", Roma vs Real Madrid - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047044~acl=/*~id=92236486969063497840172052138138~hmac=557d1da9c76fc27f8ee02ddc6ab883cfc2c2aafe2e58383303d3b5cb28a16722
-
-#EXTINF:-1 tvg-id="sonyliv-1090548036" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175309408329_UCL2627_MD2_Aston_Villa_vs_Fenerbahce_landscape_thumb.jpg" group-title="Fancode", Aston Villa vs Fenerbahçe - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047053~acl=/*~id=99231794015211555033160185734133~hmac=714369fec9da4c1a183f508e2e5f68fd49fa0668b57681f32b037185be31fb4c
-
-#EXTINF:-1 tvg-id="sonyliv-1090548038" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175843132329_UCL2627_MD2_Bodo_vs_Dortmund_landscape_thumb.jpg" group-title="Fancode", Bodo/Glimt vs Dortmund - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047062~acl=/*~id=05090167965211744914574074031529~hmac=32e065c35584a6b5e8a8d6aca6fd572c03726570bd5ccc4835ff2bd9b947051d
-
-#EXTINF:-1 tvg-id="sonyliv-1090548037" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175659916329_UCL2627_MD2_Real_Betis_vs_Porto_landscape_thumb.jpg" group-title="Fancode", Real Betis vs Porto - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047062~acl=/*~id=05090167965211744914574074031529~hmac=32e065c35584a6b5e8a8d6aca6fd572c03726570bd5ccc4835ff2bd9b947051d
-
-#EXTINF:-1 tvg-id="sonyliv-1090548040" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791176288267329_UCL2627_MD2_Bratislava_vs_Stuttgart_landscape_thumb.jpg" group-title="Fancode", S. Bratislava vs Stuttgart - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047084~acl=/*~id=54817573247275177882406077304988~hmac=70d1a09b136c7e331f16b54ed93bef999cb70a4ef9f86fcd8e34aa4b8599e664
-
-#EXTINF:-1 tvg-id="sonyliv-1090548039" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791176078689329_UCL2627_MD2_Shakhtar_vs_AEK_Athens_landscape_thumb.jpg" group-title="Fancode", Shakhtar vs AEK Athens - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047035~acl=/*~id=19957819045871406253677790351832~hmac=b3526ac29c9d7ca18622be7a7f4a547ba2bea905acc9891896881ec369e6a251
+# last_update: 04:20:27 AM 15-10-2026
