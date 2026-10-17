@@ -2,19 +2,26 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:24:38 AM 17-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 11:54:09 AM 17-10-2026 (BD Time)
+# Live Match : 5
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249283_53072_SAU_QUN_FC-Web.jpg" group-title="Fancode",South Australia vs Queensland [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249283/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249794_53097_HB-W_PS-W_FC-Web_1791883788804.png" group-title="Fancode",Perth Scorchers Women vs Hobart Hurricanes Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249794/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249795_53097_ST-W_MR-W_FC-Web_1791883788801.png" group-title="Fancode",Melbourne Renegades Women vs Sydney Thunder Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249795/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png" group-title="Fancode",Canada vs Nepal [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250117/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249796_53097_AM-W_MS-W_FC-Web_1791883788082.png" group-title="Fancode",ACT Meteors vs Melbourne Stars Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249796/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249797_53097_SS-W_AS-W_FC-Web_1791883788114.png" group-title="Fancode",Adelaide Strikers Women vs Sydney Sixers Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249797/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg" group-title="Fancode",Auckland vs Melbourne City [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249835/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:24 AM 17-10-2026
+# last_update: 01:20:26 PM 17-10-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090548709" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045218534492_Asian_TOur_SJM_Macao_Open_Day3_live_landscape_thumb.jpg" group-title="Fancode", SJM Macao Open - Day 3 - 17 Oct 2026 | Asian Tour 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792252235~acl=/*~id=68871586804028336988491382304600~hmac=22c988887a661424286b03706e17ba698f91f84e3e133bc3b74ffa317d203e2d
