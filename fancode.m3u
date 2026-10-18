@@ -2,19 +2,17 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:42:56 PM 18-10-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 10:21:42 PM 18-10-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode",South Africa vs Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249782/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" group-title="Fancode",Uganda A vs Jersey [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250212/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250225_53117_KCC_ICAB_fc-web.jpg" group-title="Fancode",ICA Berlin vs Koln CC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250232/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249196_53038_CHE-W_TOT-W_fc-web.jpg" group-title="Fancode",Chelsea F.C. Women vs Tottenham Hotspur Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249196/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249197_53038_CP-W_WHU-W_fc-web.jpg" group-title="Fancode",Crystal Palace Women vs West Ham United Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249197/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WCL_web-match-card.png" group-title="Fancode",England Champions vs West Indies Champions [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249230/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg" group-title="Fancode",THCC Rot-Gelb Hamburg vs Darmstadt CC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250233/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249199_53038_MCI-W_BHA-W_fc-web.jpg" group-title="Fancode",Manchester City Women vs Brighton and Hove Albion Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249199/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249997_53017_GRD_CDZ_FC-Web.png" group-title="Fancode",Granada vs Cadiz [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249997/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Fancode",Finals [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250148/index.m3u8
 
@@ -23,13 +21,7 @@ https://fancode.sm-monirul-islam-rs.workers.dev/4250148/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:25 PM 18-10-2026
+# last_update: 10:50:27 PM 18-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090548742" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg" group-title="Fancode", NorthEast United FC vs Kerala Blasters FC - 18 Oct 2026 | MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792374633~acl=/*~id=12259453420649222715806060036280~hmac=9f4b3710168483a7f62cbe1e26492d7b240a47c39925b6ad1e5774833ecbbd78
-
-#EXTINF:-1 tvg-id="sonyliv-1090548741" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg" group-title="Fancode", Emperia Marathas vs Tamil Titans - Super 6 - 18 Oct 2026  | Volleyball Championship League 2026 
-https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792371036~acl=/*~id=59082873898045085632344253057951~hmac=b08bbbb9edc85d3508233d422cbdb1452c1dcecb548b1c4d025de512f5b06f5e
-
-#EXTINF:-1 tvg-id="sonyliv-1090548750" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026606/1792261592107816_APL26_SF_Mighty_Marathas_vs_Kakatiya_Knights_landscape_thumb.jpg" group-title="Fancode", Mighty Marathas vs Kakatiya Knights - Semi Final - 18 Oct 2026 | Archery Premier League 2026
+#EXTINF:-1 tvg-id="sonyliv-1090548750" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026656/1792337143148231_APL26_final_Kakatiya_Knights_vs_Mighty_Marathas_landscape_thumb.jpg" group-title="Fancode", Kakatiya Knights vs Mighty Marathas - Final - 18 Oct 2026 | Archery Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792374642~acl=/*~id=14995686125995684999920299278963~hmac=b7a28308e2c3417889e07cbe3bfb807ff648bc07ad7a70958f989cfdab73bf38
