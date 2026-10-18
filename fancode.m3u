@@ -2,21 +2,26 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:08:25 AM 18-10-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 02:14:10 PM 18-10-2026 (BD Time)
+# Live Match : 5
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249838_53101_WEL_MLV_fc-Web_1792223292037.jpg" group-title="Fancode",Wellington Phoenix vs Melbourne Victory [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249838/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode",South Africa vs Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249782/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-New-Zealand-T20I-Series-old-match-card.png" group-title="Fancode",New Zealand Women vs Australia Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250161/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" group-title="Fancode",Uganda A vs Jersey [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250212/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250222_53117_ICAB_DCC_fc-web.jpg" group-title="Fancode",Darmstadt CC vs ICA Berlin [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250230/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249801_53097_SS-W_MS-W_FC-Web_1791883788158.png" group-title="Fancode",Sydney Sixers Women vs Melbourne Stars Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249801/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:24 AM 18-10-2026
+# last_update: 03:50:27 PM 18-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090548740" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Fancode", DP World India Championship - Day 4 - 18 Oct 2026 | DP World Tour
 https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301
-
-#EXTINF:-1 tvg-id="sonyliv-1090548739" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="Fancode", SJM Macao Open - Day 4 - 18 Oct 2026 | Asian Tour 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9
