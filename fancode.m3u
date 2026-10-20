@@ -2,26 +2,30 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:08:07 PM 20-10-2026 (BD Time)
-# Live Match : 5
+# Last Updated: 08:25:05 PM 20-10-2026 (BD Time)
+# Live Match : 7
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode",South Africa vs Australia [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249782/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg" group-title="Fancode",New South Wales vs Western Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249667/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-New-ZealandT20I-Series-old-match-card.png" group-title="Fancode",Australia Women vs New Zealand Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250162/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792403588984.png" group-title="Fancode",Uganda vs Zambia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249754/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250476_53130_AJM_EMB_fc-web_1792412929325.jpg" group-title="Fancode",Emirates Blues vs Ajman [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250476/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249755_53093_LES_MOZ_FC-Web_1792493252639.png" group-title="Fancode",Lesotho vs Mozambique [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249755/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249756_53093_NGR_GAM_FC-Web_1792493253295.png" group-title="Fancode",Nigeria vs Gambia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249756/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Fancode",Day 2 - World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249608/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Fancode",Day 2 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249622/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Fancode",Day 2 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249615/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:25 PM 20-10-2026
+# last_update: 10:20:33 PM 20-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090549194" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg" group-title="Fancode", PSG vs Barcelona - 20 Oct 2026 | UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038
+#EXTINF:-1 tvg-id="sonyliv-1090549199" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Fancode", Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792556450~acl=/*~id=51500422014432988568325545666100~hmac=91b290986f50e9a37bc7a6f0ebb65321bc95fac57dd14926e4115acf9dcadf9a
