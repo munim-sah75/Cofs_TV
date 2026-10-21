@@ -2,19 +2,32 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:44:02 AM 21-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 05:12:41 PM 21-10-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg" group-title="Fancode",Tasmania vs Victoria [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249665/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg" group-title="Fancode",New South Wales vs Western Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249667/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249804_53097_SS-W_PS-W_FC-Web.png" group-title="Fancode",Sydney Sixers Women vs Perth Scorchers Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249804/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode",South Africa vs Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249782/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Fancode",Kenya vs Denmark [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250336/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249696_53089_AFG_BAN_FC-WEB_1792056448070.jpg" group-title="Fancode",Afghanistan vs Bangladesh [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249696/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249757_53093_MOZ_GAM_FC-Web_1792493253316.png" group-title="Fancode",Mozambique vs Gambia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249757/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249758_53093_LES_UGA_FC-Web_1792493252675.png" group-title="Fancode",Lesotho vs Uganda [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249758/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Fancode",Day 3 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249609/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Katethong-vs-PV-Sindhu_FC-App-V2_FC-WEB.jpg" group-title="Fancode",S Katethong vs PV Sindhu [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250153/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Fancode",Day 3 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249623/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:25 PM 21-10-2026
+# last_update: 05:50:33 PM 21-10-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090549320" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg" group-title="Fancode", Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026
+https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792615850~acl=/*~id=83172242931311624649830689450973~hmac=d004e8522cfc0f4b21e4166bacb413bb492659098dae9702ed9ba711bac3aecc
