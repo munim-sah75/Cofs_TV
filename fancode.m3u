@@ -2,66 +2,15 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:42:22 AM 23-10-2026 (BD Time)
-# Live Match : 4
+# Last Updated: 04:06:38 AM 23-10-2026 (BD Time)
+# Live Match : 1
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250481_53130_SHA_ABD_fc-web_1792412929288.jpg" group-title="Fancode",Abu Dhabi vs Sharjah [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250481/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Fancode",Court 1 - Round 16 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250154/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Fancode",Day 4 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249617/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" group-title="Fancode",Day 1 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250351/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="Fancode",Day 1 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139978/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:35 AM 23-10-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090549712" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244113649235_UEL2627_MD3_Bournemouth_vs_Milan_landscape_thumb.jpg" group-title="Fancode", Bournemouth vs Milan - 23 Oct 2026 | UEFA Europa League 2026-27 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120302/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549735" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245711395235_UEL2627_MD3_Besiktas_vs_Crystal_Palace_landscape_thumb.jpg" group-title="Fancode", Beşiktaş vs Crystal Palace - 23 Oct 2026 | UEFA Europa League 2026-27 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018458/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549910" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026498/1792147436477574_UECL_26_MD2_Ajax-vs-Atalanta_live_landscape_thumb.jpg" group-title="Fancode", Ajax vs Atalanta - 23 Oct 2026 | UEFA Conference League 2026-27 | UEFA Conference League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118669/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549732" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245455944235_UEL2627_MD3_Hoffenheim_vs_Lyon_landscape_thumb.jpg" group-title="Fancode", Hoffenheim vs Lyon - 23 Oct 2026 | UEFA Europa League 2026-27 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094587/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549726" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244999801235_UEL2627_MD3_Omonoia_vs_Benfica_landscape_thumb.jpg" group-title="Fancode", Omonia vs Benfica - 23 Oct 2026 | UEFA Europa League 2026-27 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018457/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549740" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791246009830235_UEL2627_MD3_Lillestrom_vs_Real_Sociedad_landscape_thumb.jpg" group-title="Fancode", Lillestrøm vs Real Sociedad - 23 Oct 2026 | UEFA Europa League 2026-27 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022316/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549693" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791242328734235_UEL2627_MD3_Celtic_vs_Celta_landscape_thumb.jpg" group-title="Fancode", Celtic vs Celta - 23 Oct 2026 | UEFA Europa League 2026-27 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120308/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549688" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791241701105235_UEL2627_MD3_Olympiacos_vs_Sparta_Praha_landscape_thumb.jpg" group-title="Fancode", Olympiacos vs Sparta Praha - 23 Oct 2026 | UEFA Europa League 2026-27 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120307/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549716" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244460029235_UEL2627_MD3_Celje_vs_Salzburg_landscape_thumb.jpg" group-title="Fancode", Celje vs Salzburg - 23 Oct 2026 | UEFA Europa League 2026-27 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549690" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791242066444235_UEL2627_MD3_Viktoria_Plzen_vs_Levski_Sofia_landscape_thumb.jpg" group-title="Fancode", Viktoria Plzeň vs Levs.ki Sofia - 23 Oct 2026 | UEFA Europa League 2026-27 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120300/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549721" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244725318235_UEL2627_MD3_Jagiellonia_vs_Anderlecht_landscape_thumb.jpg" group-title="Fancode", Jagiellonia vs Anderlecht - 23 Oct 2026 | UEFA Europa League 2026-27 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026579/1792147880069704_UECL_26_MD2_AMonaco-vs-Freiburg_live_landscape_thumb.jpg" group-title="Fancode", AS Monaco vs SC Freiburg - 23 Oct 2026 | UEFA Conference League 2026-27 | UEFA Conference League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118670/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549909" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026499/1792144452477451_UECL_26_MD2_Braga-vs-Gent_live_landscape_thumb.jpg" group-title="Fancode", Braga vs KAA Gent - 23 Oct 2026 | UEFA Conference League 2026-27 | UEFA Conference League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118672/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549912" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026578/1792235941546100_UECL26_MD2_Midtjylland-vs-Sint-Truidense_live_landscape_thumb.jpg" group-title="Fancode", FC Midtjylland vs K. Sint-Truidense VV - 23 Oct 2026 | UEFA Conference League 2026-27 | UEFA Conference League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118668/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0
-
-#EXTINF:-1 tvg-id="sonyliv-1090549913" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026578/1792236554065100_UECL26_MD2_L-Red-Imps-vs-Twente_live_landscape_thumb.jpg" group-title="Fancode", L. Red Imps FC vs Twente - 23 Oct 2026 | UEFA Conference League 2026-27 | UEFA Conference League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118676/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0
+# last_update: 05:20:29 AM 23-10-2026
