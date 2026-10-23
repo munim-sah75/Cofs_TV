@@ -2,29 +2,22 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:47:25 AM 24-10-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 04:54:10 AM 24-10-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg" group-title="Fancode",Abu Dhabi vs Emirates Blues [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250483/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250219_53025_AAS_AKH_FC-Web.png" group-title="Fancode",Al-Ahli Saudi FC vs Al Khaleej FC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250219/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250268_53025_ALQ_AHS_FC-Web.png" group-title="Fancode",Al-Qadsiah FC vs Al Hilal SFC [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250268/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249597_52993_BOL_MIDD_fc-web.jpg" group-title="Fancode",Bolton Wanderers vs Middlesbrough F.C. [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249597/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250107_53017_GRD_VLD_FC-Web.png" group-title="Fancode",Granada vs Real Valladolid [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250107/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Fancode",Day 5 - World Feed [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4249618/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Fancode",Day 5 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249625/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" group-title="Fancode",Day 2 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250352/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="Fancode",Day 2 [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/139979/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg" group-title="Fancode",Opening Race [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250507/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:28 AM 24-10-2026
+# last_update: 04:50:29 AM 24-10-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090550213" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Fancode", 1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand
+https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2
