@@ -2,28 +2,38 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:42:20 AM 25-10-2026 (BD Time)
-# Live Match : 3
+# Last Updated: 04:46:45 PM 25-10-2026 (BD Time)
+# Live Match : 8
 #=================================
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Fancode",United Arab Emirates vs Netherlands [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250516/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg" group-title="Fancode",Sydney FC vs Adelaide United [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249845/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Fancode",Jersey vs Kenya [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250341/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Fancode",Denmark vs Papua New Guinea [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250342/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249766_53093_GAM_LES_FC-Web_1792493253302.png" group-title="Fancode",Gambia vs Lesotho [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249766/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249767_53093_MOZ_ZAM_FC-Web_1792493252681.png" group-title="Fancode",Zambia vs Mozambique [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249767/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png" group-title="Fancode",Race Day [English]
 https://fancode.sm-monirul-islam-rs.workers.dev/4250528/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Fancode",Day 7 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249613/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/An_Se_Young_PV_Sindhu_FC-App-V2_FC-WEB.jpg" group-title="Fancode",Young vs PV Sindhu [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250159/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:50:27 PM 25-10-2026
+# last_update: 05:50:29 PM 25-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090550567" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg" group-title="Fancode", Delhi Leaders vs Mumbai Mavericks | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
+#EXTINF:-1 tvg-id="sonyliv-1090550558" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg" group-title="Fancode", Churchill Brothers SC vs Punjab FC | MG Indian Super League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2120304/footlive2510/ENG/master.m3u8?hdnea=exp=1792968649~acl=/*~id=26944527904544337003888714978225~hmac=d9f6be48e4c7019e062c0410684b5fbc7611c8dddbd630173ef920d5cb354b66
+
+#EXTINF:-1 tvg-id="sonyliv-1090550558" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg" group-title="Fancode", Churchill Brothers SC vs Punjab FC | MG Indian Super League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2120305/footlive2510/HIN/master.m3u8?hdnea=exp=1792968649~acl=/*~id=26944527904544337003888714978225~hmac=d9f6be48e4c7019e062c0410684b5fbc7611c8dddbd630173ef920d5cb354b66
+
+#EXTINF:-1 tvg-id="sonyliv-1090550567" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026766/1792484827162767_Tamilnadu_Thunders_vs_Gujarat_royals_landscape_thumb.jpg" group-title="Fancode", Tamilnadu Thunders vs Gujarat royals | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120306/criclive2510/HIN/master.m3u8?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96
-
-#EXTINF:-1 tvg-id="sonyliv-1090550568" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="Fancode", LINK Hong Kong Open - Day 4 | Asian Tour 2026 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2120307/Golf_LIN2510/ENG/master.m3u8?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96
-
-#EXTINF:-1 tvg-id="sonyliv-1090550570" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg" group-title="Fancode", Genesis Championship - Day 4 | DP World Tour [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4cbfprod-PlaybackConfig/2094588/Golf_Gen2510/ENG/master.m3u8?hdnea=exp=1792939850~acl=/*~id=34172469536166767754594096891530~hmac=297be220e9a1696b16991dbde8ba347182d36ddb8d0b2ea6249ba4a77143f7d6
