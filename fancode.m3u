@@ -2,41 +2,19 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:49:16 PM 25-10-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 12:08:53 AM 26-10-2026 (BD Time)
+# Live Match : 3
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250486_53130_EMR_EMB_fc-web_1792412929389.jpg" group-title="Fancode",Emirates Blues vs Emirates Red [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250486/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249768_53093_NGR_UGA_FC-Web_1792493252642.png" group-title="Fancode",Nigeria vs Uganda [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249768/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250110_53017_CES_TFE_FC-Web.png" group-title="Fancode",CE Sabadell vs Tenerife [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250110/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249203_53038_BIR-W_CHL-W_fc-web.jpg" group-title="Fancode",Birmingham City F.C. Women vs Charlton Athletic F.C Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249203/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249204_53038_EVE-W_AST-W_fc-web.jpg" group-title="Fancode",Everton Women vs Aston Villa Women [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249204/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249205_53038_LIV-W_LCL_fc-web.jpg" group-title="Fancode",Liverpool Women vs London City Lionesses [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249205/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Fancode",Finals [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250159/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Fancode",Day 7 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249620/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg" group-title="Fancode",Dubai vs Ajman [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250487/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Fancode",Day 7 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249627/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" group-title="Fancode",Day 4 - World Feed [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250354/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:36 PM 25-10-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090550560" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Fancode", Kerala Blasters FC vs Mumbai City FC | MG Indian Super League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120300/footlive2510/ENG/master.m3u8?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2
-
-#EXTINF:-1 tvg-id="sonyliv-1090550560" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Fancode", Kerala Blasters FC vs Mumbai City FC | MG Indian Super League 2026-27 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120302/footlive2510/HIN/master.m3u8?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2
-
-#EXTINF:-1 tvg-id="sonyliv-1090550560" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Fancode", Kerala Blasters FC vs Mumbai City FC | MG Indian Super League 2026-27 [Malayalam]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120303/footlive2510/MAL/master.m3u8?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2
-
-#EXTINF:-1 tvg-id="sonyliv-1090550567" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026765/1792485497377887_Rajasthan_Frontiers_vs_UP_landscape_thumb.jpg" group-title="Fancode", Rajasthan Frontiers vs UP Dhurandhar | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120306/criclive2510/HIN/master.m3u8?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96
+# last_update: 12:50:44 AM 26-10-2026
