@@ -2,18 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:04:45 AM 26-10-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 05:26:50 AM 26-10-2026 (BD Time)
+# Live Match : 0
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png" group-title="Fancode",Race [Hindi]
-https://fancode.sm-monirul-islam-rs.workers.dev/139506/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:31 AM 26-10-2026
+# last_update: 06:50:29 AM 26-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090550644" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg" group-title="Fancode", 1st Unofficial Test - Day 3 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/criclive2510/ENG/master.m3u8?hdnea=exp=1793008246~acl=/*~id=54009841981951384097284120477470~hmac=7014272ac6a303bb57126aa9f43c645745283e52a1d9b8bc08dd921fdeaaaad5
