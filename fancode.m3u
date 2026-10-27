@@ -2,32 +2,16 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:05:01 AM 27-10-2026 (BD Time)
-# Live Match : 8
+# Last Updated: 05:58:44 AM 27-10-2026 (BD Time)
+# Live Match : 0
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250489_53130_EMB_SHA_fc-web_1792412930086.jpg" group-title="Fancode",Emirates Blues vs Sharjah [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250489/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248715_53053_AFSC_PT_fc-web.jpg" group-title="Fancode",Air Force SC vs Pakhtakor Tashkent [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248715/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248717_53053_ALQ_SDD_fc-web_1792670735783.jpg" group-title="Fancode",Al Qadisiyah vs Al Sadd [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4248717/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png" group-title="Fancode",Walsall vs Salford City
-https://fancode.sm-monirul-islam-rs.workers.dev/4250000/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Fancode",Day 1 - World Feed [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249628/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Fancode",Glaubandich Court [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249635/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Fancode",Centre Court [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250545/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Fancode",World Feed 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250546/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:28 AM 27-10-2026
+# last_update: 07:50:29 AM 27-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090550766" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg" group-title="Fancode", 1st Unofficial Test - Day 4 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTaf23prod-PlaybackConfig/2120299/criclive2610/ENG/master.m3u8?hdnea=exp=1793094665~acl=/*~id=33578001970725760259722790433657~hmac=b4570ecf0f0c79373633116b1fe4b505d13b3b0d416b3e7411370b66c1366e74
