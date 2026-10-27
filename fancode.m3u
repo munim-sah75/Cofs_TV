@@ -2,33 +2,38 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:48:05 AM 27-10-2026 (BD Time)
-# Live Match : 1
+# Last Updated: 04:12:31 PM 27-10-2026 (BD Time)
+# Live Match : 11
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250532_53137_DLD_UTS_FC-Web.png" group-title="Fancode",Delhi Dynamites vs Uttrakhand Stars [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250532/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Fancode",Netherlands vs Oman [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250517/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Fancode",Papua New Guinea vs Qatar [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250343/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Fancode",Jersey vs Kuwait [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250344/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250356_53124_BK_CWR_fc-Web.jpg" group-title="Fancode",Chitwan Rhinos vs Biratnagar Kings [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250356/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Fancode",Namibia vs Ireland [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250333/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode",South Africa vs Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249783/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250533_53137_HH_CC_FC-Web.png" group-title="Fancode",Haryana Hustlers vs Chandigarh Chargers [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250533/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248720_53053_SHG_CAH_fc-web.jpg" group-title="Fancode",Shanghai Port vs Cong An Ha Noi [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248721_53053_JDT_PFC_fc-web.jpg" group-title="Fancode",Johor Darul Ta'zim vs Port FC [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248721/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248722_53053_DAC_VIS_fc-web.jpg" group-title="Fancode",Daejeon Hana Citizen FC vs Vissel Kobe [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248722/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248723_53053_KYS_NJ_fc-web.jpg" group-title="Fancode",Kyoto Sanga vs Newcastle Jets [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4248723/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:30 PM 27-10-2026
+# last_update: 07:20:28 PM 27-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Fancode", 3rd T20I | India Tour of New Zealand 2026 [English]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
-
-#EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Fancode", 3rd T20I | India Tour of New Zealand 2026 [Hindi]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2119921/cricodi_2710/HIN/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
-
-#EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Fancode", 3rd T20I | India Tour of New Zealand 2026 [Telugu]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2119941/cricodi_2710/TEL/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
-
-#EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Fancode", 3rd T20I | India Tour of New Zealand 2026 [Tamil]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2119951/cricodi_2710/TAM/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
-
-#EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Fancode", 3rd T20I | India Tour of New Zealand 2026 [Kannada]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT40a1prod-PlaybackConfig/2119782/cricodi_2710/KAN/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
-
-#EXTINF:-1 tvg-id="sonyliv-1090550773" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Fancode", 3rd T20I | India Tour of New Zealand 2026 [English]
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793125251~acl=/*~id=08133072583082121495450677842310~hmac=544813feaf3b1e69ee08116a6880a4a859438726bbcd513c79247327e9d43c32
+#EXTINF:-1 tvg-id="sonyliv-1090550786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027434/1793041312495594_STCL26_delhi_vs_haryana_landscape_thumb.jpg" group-title="Fancode", Delhi Leaders vs Haryana Lions - Semi Final 1 | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa083prod-PlaybackConfig/2120305/criclive2710/HIN/master.m3u8?hdnea=exp=1793146849~acl=/*~id=23934922890663764224271584022865~hmac=0c1c711a8009f6c568eae2b6ef3917e56d30cb3ef91f457895b5b441fd0b601d
