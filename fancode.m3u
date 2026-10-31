@@ -2,25 +2,41 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:39:36 AM 31-10-2026 (BD Time)
-# Live Match : 6
+# Last Updated: 03:18:06 PM 31-10-2026 (BD Time)
+# Live Match : 8
 #=================================
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" group-title="Fancode",Western Australia vs South Australia [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249668/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Fancode",Tasmania vs New South Wales [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249669/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Fancode",Victoria vs Queensland [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4249670/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250317_53120_SCO_SL_fc-web.jpg" group-title="Fancode",Scotland vs Sri Lanka [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250317/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg" group-title="Fancode",United Arab Emirates vs India [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/4250318/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="Fancode",Day 2 [English]
-https://fancode.sm-monirul-islam-rs.workers.dev/139982/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode",South Africa vs Australia [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249783/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" group-title="Fancode",Bangladesh vs West Indies [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250526/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Fancode",Netherlands vs United Arab Emirates [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250519/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Fancode",Kenya vs Papua New Guinea [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250349/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Fancode",Qatar vs Jersey [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250350/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SCO-vs-AFG_fc-web.jpg" group-title="Fancode",Afghanistan vs Scotland [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250324/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250391_53125_PS-W_MR-W_fc-web_1793352701283.jpg" group-title="Fancode",Melbourne Renegades Women vs Perth Scorchers Women [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4250391/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249849_53101_MAC_SYW_fc-Web_1792223293101.jpg" group-title="Fancode",Macarthur vs Western Sydney Wanderers [English]
+https://fancode.sm-monirul-islam-rs.workers.dev/4249849/index.m3u8
 
 404: Not Found
 #EXTM3U
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:32 PM 31-10-2026
+# last_update: 06:50:30 PM 31-10-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Fancode", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120307/footlive3110/ENG/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
+
+#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Fancode", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120300/footlive3110/HIN/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
+
+#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Fancode", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Malayalam]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120306/footlive3110/MAL/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
+
+#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Fancode", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Tamil]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120304/footlive3110/TAM/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
